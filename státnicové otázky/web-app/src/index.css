@@ -463,3 +463,64 @@ body {
     color: #333 !important;
   }
 }
+
+/* Premium Markdown Table Styles */
+.markdown-container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  font-size: 0.95rem;
+  background: rgba(26, 29, 45, 0.3);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+}
+
+.markdown-container th,
+.markdown-container td {
+  padding: 14px 18px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+  vertical-align: top;
+}
+
+.markdown-container th {
+  background-color: rgba(99, 102, 241, 0.12);
+  color: var(--text-primary);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 2px solid rgba(99, 102, 241, 0.3);
+}
+
+.markdown-container td {
+  color: var(--text-secondary);
+}
+
+.markdown-container tr:last-child td {
+  border-bottom: none;
+}
+
+.markdown-container tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text-primary);
+}
+
+@media print {
+  .markdown-container table {
+    border: 1px solid #000;
+    background: transparent;
+    page-break-inside: avoid;
+  }
+  .markdown-container th {
+    background-color: #f0f0f0 !important;
+    color: black !important;
+    border-bottom: 2px solid #000;
+  }
+  .markdown-container td {
+    color: black !important;
+    border-bottom: 1px solid #000;
+  }
+}

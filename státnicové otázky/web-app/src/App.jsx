@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { HashRouter as Router, Routes, Route, Link, useLocation, useNavigate } from 'react-router-dom';
 import { BookOpen, Headphones, Download, Menu, X, FileText, CheckCircle } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import './App.css';
 
 const getSavedProgress = () => {
@@ -302,7 +303,7 @@ function MarkdownViewer() {
         </div>
       </div>
       <div className="markdown-container glass-panel printable-content">
-        <ReactMarkdown>{content}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
       </div>
     </div>
   );
@@ -356,7 +357,7 @@ function TahakViewer() {
         </div>
       </div>
       <div className="markdown-container glass-panel printable-content">
-        <ReactMarkdown>{content}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
       </div>
     </div>
   );
