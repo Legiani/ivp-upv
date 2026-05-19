@@ -144,5 +144,5 @@ set_bullets(prs.slides[10], 15, [
     "Zde je prostor pro otázky oponenta a vážené komise."
 ])
 
-prs.save("BP_Prezentace_Final_Sablona_OK.pptx")
+prs.save("CZU_IVP_prezentace_sablona_vzor_final.pptx")
 print("Hotovo")
