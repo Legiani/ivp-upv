@@ -1,0 +1,1155 @@
+Jihočeská univerzita v Českých Budějovicích
+Teologická fakulta
+Katedra etiky, psychologie a charitativní práce
+Bakalářská práce
+Role sociálního pracovníka při práci s transgender 
+komunitou
+Vedoucí práce: Mgr. Markéta Elich, Ph.D.
+Autor práce: Veronika Bílková
+Studijní obor: Sociální a charitativní práce (prezenční studium)
+Ročník: 3. ročník 
+2018
+Prohlášení:
+Prohlašuji, že svoji bakalářskou práci jsem vypracovala samostatně pouze 
+s použitím pramenů a literatury uvedených v seznamu citované literatury. Prohlašuji, že 
+v souladu s § 47b zákona č. 111/1998 Sb. v platném znění, souhlasím se zveřejněním 
+své bakalářské práce, a to v nezkrácené podobě elektronickou cestou ve veřejně 
+přístupné části databáze STAG provozované Jihočeskou univerzitou v Českých 
+Budějovicích na jejích internetových stránkách, a to se zachováním mého autorského 
+práva k odevzdanému textu této kvalifikační práce. Souhlasím dále s tím, aby toutéž 
+elektronickou cestou byly v souladu s uvedeným ustanovením zákona č. 111/1998 Sb. 
+zveřejněny posudky školitele a oponentů práce i záznam o průběhu a výsledku obhajoby 
+kvalifikační práce. Rovněž souhlasím s porovnáním textu mé kvalifikační práce 
+s databází kvalifikačních prací Theses.cz provozovanou Národním registrem 
+vysokoškolských kvalifikačních prací a systémem na odhalování plagiátů.
+V Českých Budějovicích 15. 03. 2018
+Podpis studenta
+Poděkování:
+Ráda bych poděkovala všem, kteří mi pomohli při psaní této bakalářské práce. 
+Obzvláště vedoucí mé práce Mgr. Markétě Elich, Ph.D. za její cenné rady, připomínky, 
+vedení práce a vstřícný přístup při psaní mé bakalářské práce. Dále děkuji 
+respondentovi, který mi odpověděl na všechny moje otázky s ochotou a trpělivostí. 
+Obsah
+Úvod ...................................................................................................................... 4
+1 Transsexualita a sociální práce ....................................................................... 6
+1.1 Sociální práce s menšinami..................................................................... 6
+1.2 Příbuzné disciplíny sociální práce spolupracující v multidisciplinárním 
+týmu při práci s transsexualitou ................................................................ 8
+2 Náročné životní situace spojené s transgender identitou.............................. 10
+2.1 Příčiny transsexuality a postavení transgender jedinců ve společnosti. 10
+2.2 Životní etapy ......................................................................................... 11
+2.3 Coming out a diagnostika...................................................................... 14
+2.4 Real life test........................................................................................... 17
+2.5 Hormonální terapie................................................................................ 18
+2.6 Operativní zákrok.................................................................................. 19
+3 Legislativní zakotvení transsexuality v českém zákoně............................... 22
+3.1 Změna jména na neutrální..................................................................... 22
+3.2 Legislativní vyjádření k operaci............................................................ 23
+3.3 Změna rodného čísla ............................................................................. 23
+3.4 Vydávání nových diplomů a vysvědčení .............................................. 23
+4 Role sociálního pracovníka při práci s transgender komunitou ................... 25
+4.1 Schopnosti a předpoklady sociálního pracovníka ................................. 25
+4.2 Transsexualita není záležitost jen jednoho člověka .............................. 27
+4.3 Transsexualita je záležitost jednoho člověka ........................................ 28
+5 Výzkumné šetření......................................................................................... 29
+Závěr.................................................................................................................... 35
+Seznam použité literatury .................................................................................... 37
+Abstrakt................................................................................................................ 42
+Abstract................................................................................................................ 43
+4
+Úvod
+Při výběru námětu pro mou bakalářskou práci jsem měla jasno. O transgender 
+komunitu jsem se začala zajímat přibližně před pěti lety. A začala jsem v té době hledat 
+literaturu a číst si o tom, co to vlastně obnáší. Vždycky mě fascinoval celý proces 
+přeměny pohlaví a byla jsem tenkrát překvapená, z kolika lidí se skládá 
+multidisciplinární tým. Až později, při studiu mě napadlo, proč vlastně v tomto týmu 
+nefiguruje sociální pracovník? A jak by v tomto týmu mohl být transgender jedincům 
+nápomocen? Jinak řečeno, jakou roli by mohl v multidisciplinárním týmu hrát sociální 
+pracovník? Vzhledem k tomu, jak je sociální práce rozmanitým oborem, sociální 
+pracovník může mít hned několik rolí. Může být například poradcem, terapeutem, 
+anebo někým, kdo může doprovázet na úřady. Cílem bakalářské práce je zjistit 
+odpovědi na výše položené otázky. 
+Bakalářská práce vychází z teoretických východisek, které se zabývají
+transsexualitou a sociální prací, náročnými životními situacemi, které souvisí 
+s transgender identitou. Dále se pak zajímám o legislativní zakotvení transsexuality 
+v českém zákoně a o role sociálního pracovníka. Teoretická východiska vycházejí 
+z odborné české, ale i cizojazyčné literatury, ale také z internetových zdrojů, které jsou 
+především transgender jedinci nejvíce navštěvované, ale pochopitelně i jinými 
+internetovými zdroji. Práce je obohacena výpovědí transgender jedince, který si 
+prochází přeměnou pohlaví. Tato výpověď byla získána pomocí rozhovoru. Díky 
+použité literatuře a uskutečněnému rozhovoru dojdu k odpovědím na otázky, týkající se 
+role sociálního pracovníka při práci s transgender komunitou.
+Celkově pro mě osobně je velkou výzvou už to, že v České republice o tomto 
+tématu není moc velké povědomí a tím pádem není ani moc literatury. 
+Vím, že si hodně lidí transsexualitu plete s transvestitismem a hodně lidí to bere 
+jako něco nepřirozeného a jako něco vymyšleného, na co si jednotlivci jen hrají. Což, 
+jak se můžeme dočíst o něco níže, není tak úplně pravda. 
+Připouštím si, že zpracovat bakalářskou práci na toto téma není lehký úkol. 
+A otázky v rozhovoru, které budu podávat, mohou být pro respondenta nové. Třeba se 
+nad těmito otázkami sám nemusel nikdy zamyslet, proto se těším na jeho reakce 
+a odpovědi. Občas budu otevírat i osobnější a citlivá témata, ale myslím si, že i zde je 
+5
+důležitým faktorem, jestli dostanu od respondenta dostatečnou důvěru. Jen tak, mohou 
+být odpovědi na moje otázky upřímné a skutečné. 
+6
+1 Transsexualita a sociální práce
+1.1 Sociální práce s menšinami
+Sociální práce s menšinami je u nás poměrně známá a rozšířená. S pojmem 
+„menšina“ je možné se setkat relativně často, a to ať už v médiích, knihách, nebo 
+můžeme slyšet někoho na ulici, jak o menšinách mluví. Ale jaké různé menšiny zde 
+máme? A jak je definovat? O tom už takový přehled ve společnosti nemáme. Lord říká, 
+že všechny společnosti se z menšin skládají a každý z nás k nějaké menšině patří, 
+dokonce že patříme k více menšinám najednou. Podle Lorda každá menšina potřebuje 
+„zvláštní zacházení“. A jako příklad zde uvádí menšinu osob s tělesně, nebo duševně 
+postižených. (srov. GABAL, 1999, str. 25) Mezi menšiny ale patří i LGBT komunita. 
+Jdi do klubu (2015), se zabývají tím, co vůbec Zkratka LGBT obsahuje? Skládá se 
+ze slov lesbický, gay, bisexuální a transsexuální. Lesba je žena, která má homosexuální 
+orientaci. Myslíme tím tedy ženu, co se zamilovává do stejného biologického pohlaví, 
+jakým sama disponuje. O muži, který vyhledává milostný vztah se stejným pohlavím,
+hovoříme jako o gayi. Třetí písmeno ve zkratce LGBT je písmeno „B“, které skrývá 
+pojem bisexualita. Zde jsou muži i ženy, kteří se zamilovávají do pohlaví svého, ale 
+i pohlaví opačného. Celá tahle práce se ale bude týkat posledního písmena ve zkratce 
+LGBT. A tím je písmeno „T“. Písmeno „T“, které představuje transsexualitu. Nývltová 
+(2008, str. 175) říká, že „Při této poruše se jedinec psychicky cítí být příslušníkem 
+opačného pohlaví. Jedinec silně touží po tom, aby se stal příslušníkem opačného 
+pohlaví. Je nespokojen s vlastním pohlavím, touží po jeho změně, dožaduje se 
+hormonální léčby a chirurgického zákroku.“
+Pokud jde o práci s menšinami, u nás v České republice je to poměrně rozšířená 
+problematika, můžeme na toto téma najít spoustu odborných zdrojů, ale většina z nich je 
+o práci s osobami zdravotně znevýhodněnými, o lidech s mentálním postižením, o práci 
+s lidmi, kteří trpí duševním onemocněním, o práci se seniory, nebo o práci s lidmi 
+umírajícími v hospici. Dále se v knihách hodně zmiňuje práce s uživateli drog, práce 
+s obětmi domácího násilí, o sociální práci s rizikovou mládeží, nezaměstnanými, o práci 
+s bezdomovci, dokonce o práci s uprchlíky. (MATOUŠEK, 2010) Ale o práci 
+s transsexualitou mnoho knih nenajdeme. Například v knize od O. Matouška a spol., 
+můžeme najít kapitolu od L. Musila a P. Navrátila. Zmiňují se zde přístupy sociálního 
+pracovníka k účastníkům situací. (srov. MATOUŠEK a kol., 2001 str. 267-293) Některé 
+7
+přístupy, které autoři uvádějí, by se použít bezpochyby daly, ale nejsou primárně 
+zaměřeny na transgender jednotlivce či skupiny. Šišková (2001) se o menšinách 
+žijících v České republice také zmiňuje, ale o transgender menšině nikoliv. Šišková 
+(2001) v knize píše především o menšinách, které tvoří migranti, jako jsou například 
+Afgánci, Albánci, Bosňáci, Ruská komunita v České republice, Ukrajinci v České 
+republice, Vietnamci v České republice a speciální část Šišková věnuje Romské 
+komunitě a soužití Romů s českými občany. 
+Pokud hledáme transgender mezi menšinami, nebo v oblasti komunitní práce, 
+popřípadě v oblasti sociální práce se skupinou, hledání stále zůstává neúspěšné. Podle 
+Mašáta (2012), který popisuje sociální práci se skupinou lze vytáhnout několik 
+informací o práci se skupinou, ale lze usoudit, že transgender lidé nejsou vhodnou 
+skupinou, pro sociální práci. Mašát zde uvádí dva typy skupinové práce. První typ 
+skupiny nabízí informace o fungování skupiny a fungování a lze ovlivňovat dynamiku 
+a dosahování cílů. A druhý typ skupiny se většinou orientuje na týmy a managment. 
+Tudíž ani jeden z přístupů, není nijak zvlášť vhodný pro práci s transgender skupinami. 
+Navíc Mašát uvádí seznam klientů, kteří jsou „zpravidla nevhodní pro sociální práci se 
+skupinou“ a jednou z uvedených skupin jsou „klienti v akutní krizi“, což většina 
+transgender jedinců v přeměně je. (srov. MAŠÁT, 2012, str. 58) 
+Fafejta (2004) se zmiňuje o transgenderu v sociologii. Je to jeden z mála autorů, 
+který se věnuje pohlaví a sexualitě. Další z autorů, kteří se transsexualitě věnují, je
+Beňová (2007), zmiňuje se o transgenderu a poprvé je zde zmíněno, že transgender je 
+menšina a zároveň komunita, kterou v České republice tvoří přibližně tisíc osob. Na
+stránkách Českého statistického úřadu, údaje o počtu transgender jedinců nejsou 
+aktualizovány. 
+Zatímco v České republice tomuto tématu lidé nevěnují mnoho pozornosti a času, 
+v USA se dokonce v současné době pořádají kurzy pro transsexuály. Tam je učí, jak 
+vystupovat ve své roli, jak se tvářit, gestikulovat a mluvit. 
+Fifková (2002) i Fifková (2008) popisuje multidisciplinární tým, který se zabývá 
+prací s transgender jedinci. Ani jeden z popsaných týmů nemá sociálního pracovníka.
+Tak kdo se tedy zajímá o transsexuály, podporuje je a pomáhá jim? V Čechách 
+jsou dvě známé organizace, první se jmenuje STUD, z. s. „Spolek se primárně orientuje 
+na práci s mládeží, aby usnadnil proces vyrovnání se s vlastní sexuální orientací, a tak 
+8
+preventivě zmenšil riziko rozvinutí sociálně patologických jevů jako je například 
+sebevražda, drogová závislost nebo alkoholismus u mladých lidí.“ (STUD, 2018)
+A další organizací je Trans*parent. „Organizace TRANS*PARENT usiluje o 
+dosažení sociální spravedlnosti, prosazování práv a pozitivních společenských změn ve 
+prospěch trans žen, trans mužů a genderqueer osob. Sdružení bylo založeno v Praze na 
+jaře 2015 skupinou trans aktivistů, reagujících na naléhavou potřebu změny politik v 
+oblasti rovnosti transgender osob. TRANS*PARENT se tak snaží prosazovat pochopení 
+a přijetí trans* osob jak na společenské, tak na legislativní úrovni.“
+(TRANS*PARENT, 2018)
+V těchto organizacích ale žádný sociální pracovník nefiguruje. (srov. 
+TRANS*PARENT, 2018) Je zde především svépomoc. V týmu Trans*parentu dělají 
+především lidé se zkušenostmi s trans-proměnou. Ti nabízejí spoustu akcí, kterých se 
+mohou zúčastnit, jak samotní transgender lidé, tak jejich blízcí. Nabízejí zde například 
+už zmíněnou „Podpůrnou skupinu pro trans* lidi“, ale dělají i „Qeer Teens 
+Workshopy“, jako jednu z dalších akcí pořádají „Rodiny v tranzici“, kam TRANS* 
+PARENT zve odborníky, kteří pracují např. s malými dětmi, a věnují se trans aktivismu, 
+či vztahové poradce a psychoterapeuty. (srov. TRANS*PARENT, 2018)
+1.2 Příbuzné disciplíny sociální práce spolupracující
+v multidisciplinárním týmu při práci s transsexualitou
+Hana Fifková (2008, str. 81), popisuje tento multidisciplinární nebo též
+terapeutický tým specialistů, kteří se současně podílejí na změně jednoho člověka.
+V první řadě je důležitý klinický psycholog, ten diagnostikuje transsexualitu, 
+popř. jinou diagnózu, kterou by mohl klient mít. Internista hodnotí zdravotní stav 
+člověka, jestli je v pořádku a může se předepsat hormonální terapie a později, jestli se 
+může provést operativní zákrok. Dále je třeba odborník na endokrinologii, ten také 
+vyloučí možné problémy, které by mohly vzniknout při hormonální terapii a kontroluje 
+průběh před operačním zákrokem i po něm. 
+Gynekologické vyšetření by měla podstoupit každá FtM (Female to Male). Toto 
+vyšetření je preventivní a až po něm se mohou provádět chirurgické zákroky. Lékař 
+plastické chirurgie je důležitou součástí multidisciplinárního týmu, provádí složité 
+chirurgické zákroky, které znamenají největší fyzickou proměnu trans-gender člověka. 
+Chirurgické zákroky provádí i urolog. 
+9
+Důležitá je rovněž duševní pohoda trans-gender jedince. Proto je 
+v multidisciplinárním týmu také psychoterapeut. Ten se zaměřuje především na rodiče 
+trans-gender dětí. Psychoterapeut s rodiči spolupracuje především v pooperačním 
+období trans-gender jedince. Pochopitelně někteří trans-gender jedinci mají své 
+biologické děti, pro které je to taky velice psychicky náročné, takovým dětem se věnuje 
+dětský psycholog. (srov. FIFKOVÁ, 2008, str. 81) 
+Pokud jde o práva, problematiku rodičovství, anebo jakékoliv legislativní 
+zakotvení, je tu na pomoc právník. 
+Pro MtF (Male to Female) je velice důležitý vzhled a dojem, který dělají na své 
+okolí. Proto je zde laserový odborník, který dělá epilaci vousů a chloupků po těle, 
+a korekci jizev, které zůstávají po operacích. Další kosmetické úpravy dělá kosmetička. 
+Ta figuruje také především u MtF. Také radí s make-upem a pomáhá s depilací částí 
+těla. Jednou z posledních důležitých osob je foniatr, který pomáhá MtF s úpravou hlasu, 
+popřípadě provádí operativní zákrok hlasivek nebo ohryzku. (srov. FIFKOVÁ, 2008, 
+str. 81)
+Lze tedy vyvodit, že po stránce biologické a psychické je o transgender jedince 
+postaráno. Ale sociální práce klade důraz na člověka jako celek. Aby byl v pohodě jak 
+psychické, biologické, sociální, což je jedním z hlavních úkolů, dostat jedince do úplné 
+sociální pohody. (srov. MATOUŠEK, 2001) Tak je zde i rovina spirituální, která také 
+k sociální práci patří. (srov. TŮMA, 2011, str. 11) Vrátíme-li se tedy 
+k multidisciplinárnímu týmu, který je v současné době takto postavený, lze usoudit, že 
+péče o transgender jedince není kompletní. 
+10
+2 Náročné životní situace spojené s transgender identitou
+2.1 Příčiny transsexuality a postavení transgender jedinců ve 
+společnosti
+Příčiny vzniku transsexuality nejsou doposud známy. Zkoumání této poruchy 
+pohlavní identity začalo v padesátých, a především šedesátých letech minulého století. 
+V té době převažovaly teorie psychoanalytické a behaviorální. (srov. FIFKOVÁ, 2008, 
+str. 31-43) 
+K termínu transsexuál jsme se dostali až v roce 1923 díky panu Hirschfeldovi, ale 
+poprvé jej použil Cauldwell v roce 1949. Za první případ kompletní přeměny byla 
+považována Hamburgerova kasuistika z roku 1953. Autor popisoval případ Christine 
+Jorgensenové, ale v celém případě nebyl zmíněn pojem transsexualita. Po této 
+medializaci autor dostal 465 žádostí o provedení dalších přeměn pohlaví. (srov. 
+FIFKOVÁ a kol. 2002, str. 15-16) Za „otce transsexuality“ je ale považován Harry 
+Benjamin, který zpopularizoval tento pojem v 50. a 60. letech 20. století. Této identitě 
+se pečlivě věnoval celých 30let svého profesionálního života. Na základě jeho výzkumů 
+byl transsexualismus oddělen od transvestitismu a tím byl vymezen jako samostatná 
+porucha. (srov. FIFKOVÁ a kol. 2002, str. 15-16) 
+Na základě historických faktů můžeme považovat různé změny a poruchy 
+pohlavní identity za všudypřítomný a dlouhodobě trvající fenomén.
+Psychoanalytická teorie je přesvědčená o tom, že chování jedince závisí na tom, 
+jaký má dítě vzor. Jde tedy o to, jak je v raných fázích ovlivněno rodiči a jaká je 
+identifikace s rodičem stejného pohlaví, jako má ono samo. 
+Behaviorální teorie říká, že má velký vliv výchova a vztahy v rodině. Dříve se 
+transsexualita brala jako důsledek špatné výchovy a špatného prostředí. (srov. 
+FIFKOVÁ, 2008, str. 31-43) A to především proto, že se sociální a genderová role 
+člověka se utváří třemi hlavními aspekty. A to „posilováním“ Tresty a odměny. 
+Odměna je pozitivní reakce na nějaký čin, co dítě udělalo, je to odměna ať už ústní 
+pochvala, nebo materiální odměna. Trest je opak odměny. Je to jakási „sankce“ za něco, 
+co dítě vykonalo špatně. Tak si osvojuje normy společnosti. (srov. KRAMULOVÁ,
+2015), „pozorováním“ a „napodobováním“. (srov. JANOŠOVÁ, 2008, str. 114-115)
+11
+Ale tyto psychoanalytické a behaviorální teorie byly postupem času vyvráceny
+a v současné době se odborníci přiklání spíš k teorii biologické. 
+Biologická teorie předpokládá, že jádrová identita jedince, a to i jeho sexuální 
+orientace se utváří již během prenatálního období. Je utvářena vlivem genetických 
+dispozic, ale také hormonálním zásobením centra v mozku. Jak píše Janošová (2008, 
+str. 70), „Jedná se o poměrně krátké časové okénko, trvající přibližně jeden týden mezi
+4.-6. měsícem prenatálního období. Pokud v těchto rozhodujících několika dnech dojde 
+k nadměrnému (u dívek) nebo k nedostatečnému (v případě chlapců) působení 
+androgenizujících hormonů na příslušná mozková centra, může zřejmě dojít 
+k přesměrování dispozic pro sexuální orientaci či pro příslušnou pohlavní identitu.“ 
+Jaké je postavení transgender jedinců ve společnosti? Rozhodně to není lehké. 
+Celá nedůvěra sama v sebe začíná u nich. A když je někdo slabší, ostatní lidé to vycítí 
+a dokáží zaútočit na jeho slabinu. Transgender jedinci jsou ve svém okolí častokrát 
+šikanováni, je jim ubližováno a jsou ponižováni. (srov. TRANSLIDÉ, 2018) Také se 
+mohou setkat s tím, že se je okolí snaží přetvořit podle svého a tlačí na ně, aby plnily 
+klasické, genderové stereotypy, které jsou jednotlivým pohlavím přisuzovány. (srov. 
+TRANSLIDÉ, 2003) Dokonce se může stát, že kvůli své identitě je transgender jedinec 
+vyhnán z domova a zůstane na ulici. (srov. TRANSLIDÉ, 2003) 
+2.2 Životní etapy 
+2.2.1. Dětství 
+V této podkapitole dětství se můžeme bavit o dítěti, které navštěvuje mateřskou 
+školu, tzn. o dítěti od 3 let. Dítě si už ve třetím roce svého života uvědomuje samo sebe 
+a svou identitu. (srov. ŘÍČAN, 2006) Už dítě v tomto věku si je tedy schopno uvědomit 
+i to, že něco není v pořádku. Třeba že se dívka v šatech necítí úplně dobře a chlapec by 
+se třeba těm šatům nebránil. Pochopitelně ne každá dívka, která nemá ráda šaty,
+projevuje známky transsexuality. Diagnostika je velmi zdlouhavý a náročný proces. 
+Transsexuální děti upřednostňují spíše hračky typické pro opačné pohlaví. Stejně tak si 
+s opačným pohlavím více rozumí. U MtF (Male to Female – muž, či chlapec v ženském 
+těle) existuje lepší adaptace na své biologické pohlaví, než u FtM (Female to Male –
+žena, či dívka v mužském těle). (srov. FIFKOVÁ, 2002, str. 91)
+Česká novinářka a překladatelka knih Tereza Spencerová se na webu translidé ke 
+svému trans dětství vyjadřuje takto: „Já si vybavuju jak ty panenky s kamarádkou, tak i 
+12
+fotbal s klukama. Uznávám, že nějaké převlékání do šatiček bylo už v první třídě, ale 
+nebylo motivované nějakou touhou změnit pohlaví. To vědomí přišlo až mnohem 
+později.“ (TRANSLIDÉ, 2003)
+V jakém prostředí se může sociální pracovník potkat s dětmi, které teoreticky mohou 
+přemýšlet o své transsexualitě? Ve škole. Sociální pracovník sice ve škole nemá přesně 
+stanovené kompetence, alespoň ne v České ani Slovenské republice, ale figurovat ve 
+škole by měl. Není to totiž po vystudování jen sociální pracovník, ale má přehled 
+i o psychologii, která mu při práci s dětmi může velice pomoci. Ale má přehled i to 
+psychoterapii, sociologii, o právu, ať už rodinném, občanském, či sociálním 
+zabezpečení a zná oblasti rizikových fenoménů. (srov. KOSCUROVÁ, 2013, str. 36-39)
+Jaké jsou tedy náročné životní situace, které transgender jedinec zažívá? 
+Děti zažívají nepříjemné pocity, které souvisí s konfliktem mezi vlastní pohlavní 
+identitou a tím, jaké pohlaví je jedinci přiřazováno okolím. U chlapců se může jednat 
+o nechuť ke škádlení a rvačkám, které jsou přisuzovány mužskému pohlaví. Dítě se 
+může dostat do odmítnutí mezi vrstevníky a k jiným nepříjemnostem. Může chtít také
+nosit oblečení, typické pro opačné pohlaví a má odpor vůči tělesným rysům, které se
+začínají objevovat. Některé dívky dokonce odmítají močit v sedě, a právě díky tomu se 
+můžeme znovu dostat k nepochopení a až k výsměchu od okolí a vrstevníků. (srov. 
+FIFKOVÁ, 2008, str. 49-55) 
+Co potřebují transgender děti?
+Na základě rozhovoru s transaktivistkou J. K. lze usoudit, že, stejně jako všechny 
+děti a dospívající, potřebují být respektovány i se svou odlišností. Další jejich potřebou 
+je adekvátní individuální přístup. (srov. DVTV, 2017)
+2.2.2. Pubertální věk 
+„Puberta se obvykle dříve projevuje u dívek, a to mezi jejich 11. až 13. rokem věku. 
+U chlapců většinou nastává o něco později, nejčastěji mezi 13. a 15. rokem.“ 
+(LABUSOVÁ, 2018)
+Žaloudíková udává, že „Dospívání je, podle Eriksona, obdobím, kdy člověk hledá 
+svou vlastní osobní i sociální identitu. Klade si otázky typu „Kdo jsem a kam patřím?“. 
+13
+Hledá na ně odpovědi, je často emočně labilní, což je způsobeno činností hormonálního 
+systému pohlavních žláz. Puberta je důležitým biologickým mezníkem. Je to období nové 
+kvality sebeuvědomování, kdy si jedinec všímá více toho, jak myslí, jak prožívá, 
+komunikuje. Důležité události, pocity a zkušenosti z tohoto období obvykle již nikdy 
+nezapomene a nese si je v mysli a pocitech po celý život.“ (DUHA, 2018)
+Myslím si, že z toho je možné vyvodit fakt, že pubertální věk je pro každého člověka 
+bez rozdílu věkem kritickým. A když si k tomu připočteme transsexualitu, musí být toto 
+období ještě mnohem těžší. Jak si totiž transsexuální jedinec může reálně odpovědět na 
+nejzákladnější otázky tohoto období a to „Kdo jsem a kam patřím?“ 
+Pubescenti zažívají nepříjemné pocity, které souvisí s konfliktem mezi vlastní 
+pohlavní identitou a tím, jaké pohlaví je jedinci přiřazováno okolím, tyto pocity jsou už 
+mnohem intenzivnější, a to především pro to, že se u nich začínají projevovat tělesné 
+znaky, patřící jejich biologickému pohlaví. Transgender pubescent se dostává častěji do 
+odmítnutí od vrstevníků a také se zde může objevit šikana. (srov. FIFKOVÁ, 2008, str. 
+49-59) 
+2.2.3. Adolescentní věk
+Adolescence je kolem 15-20. roku života jedince. Počátek je určován od doby, kdy 
+už je po výraznější biologické změně, kterou jsme zažili v pubertálním věku. V tomto 
+věku hrají větší roli, než biologická kritéria hrají kritéria psychologická. Průběh 
+dospívání je vždy závislý na kultuře, tradicích a na normách a hodnotách společnosti, ve 
+které jedinec žije. Jak naše tradiční hodnoty a normy pohlížejí na transsexualitu, 
+zmíníme později. (srov. MACEK, 1999, str. 11-19) 
+V období adolescence je odcizení se od svého těla v podstatě „klasickou fází“ 
+jakéhokoliv člověka. Ale pro trans-gender jedince je to o dost těžší, ten pocit odcizení 
+se a nespokojenosti se svým tělem stále graduje. A to může být především 
+u přirozených součástí života, které se s dospíváním pojí, jako může být první 
+menstruace, nebo u chlapců noční poluce. Právě v tomto období trans-gender jedinec 
+nejvíce odporuje svým tělesným znakům a snaží se je před světem, ale možná i před 
+sebou samým, skrýt. U FtM se mohou objevit tendence stahovat si hrudník a tím 
+maskovat prsa, zatímco MtF se snaží odstranit ochlupení, které je na určitých místech 
+nežádoucí a snaží se oblečením zakrýt penis a varlata. (srov. DEVOR, 1997, s. 197)
+14
+Právě v tomto období také dochází, k prvnímu zamilování, což nás přivádí k další 
+náročné životní situaci. Zamilování, které je ve většině případů pouze platonické. Další 
+přirozenou součástí adolescence je objevování své vlastní sexuality. Transgender jedinci 
+většinou navazují sexuální vztahy s lidmi stejného pohlaví. V tomto období také 
+transgender jedinci nejčastěji přicházejí k sexuologům a chtějí hormonální léčbu. (srov.
+FIFKOVÁ, 2008, str. 55-73)
+2.3 Coming out a diagnostika
+2.3.1. Coming out
+Člověka v období coming outu čeká několik změn. Ale tyhle změny se netýkají 
+jenom jednoho člověka. Týkají se více lidí, a to především lidí, které jsou mu nejblíž. 
+Ať už je to rodina, přátelé, anebo kolegové v práci. Možná že právě to je na coming 
+outu to nejtěžší. Seznámit své okolí se změnami trans-gender člověka. (srov.
+TRANSLIDÉ, 2018)
+Hned po narození je často první větou, kterou naši rodiče slyší, „Gratulujeme, máte 
+syna.“, anebo „Narodila se Vám holčička.“. Právě touto větou každého člověka zařadí 
+do jakési „škatulky“, která určuje jeho budoucí život. Určuje to, jak bude vychováván, 
+jaké hračky mu budou kupovány a jaké oblečení by měl nosit. Zkrátka jaké normy 
+a role ve společnosti by měl splňovat. Jenomže občas se stane, že vnitřně se člověk 
+nemusí ztotožňovat se svým tělem. A když už chce změnu, je potřeba to říct okolí. A to 
+je právě coming out, pro transgender lidi. Coming out vypadá jinak v případě 
+homosexuality. Může se při něm změnit spousta věcí. Konečně fyzicky muž, uvnitř 
+žena (MtF) bude oslovován v ženském rodě, na který se cítí. A přichází velká psychická 
+zátěž, kterou způsobuje v mnoha případech ztráta blízkých a přátel, ale zároveň přichází 
+velká úleva, protože odhalení sebe sama, tzv, coming out, je posunutí k další fázi 
+přeměny a je dalším krokem k sobě samému. (srov. TRANSLIDÉ, 2018)
+Mike Perry coming out popisuje takto „Trvalo mi několik měsíců, než jsem našla 
+odvahu to „něco“ udělat a ujasnit si, jaké soukolí tím roztočím. Nekonečně dlouho jsem 
+se smiřovala s vědomím, že po téměř pětatřiceti letech poruším své přísně střežené 
+tajemství, ale hlavně slib, který jsem kdysi dávno dala sama sobě. Vydala jsem se na 
+milost a nemilost svému rozhodnutí pustit se do křížku s osudem (…).“ (PERRY, 2011, 
+str. 22-23)
+15
+2.3.2. Psychologická diagnostika
+Psychologickým charakteristikám transsexuality je věnováno poměrně málo 
+pozornosti. Ani v odborné literatuře se o nich mnoho nedozvíme. Transsexualita je 
+v MKN-10 (MKN – mezinárodní klasifikace nemocí) vedena pod označením F. 64.0. 
+V té samé kategorii můžeme najít i Transvestitismus dvojí role a Pouchu pohlavní 
+identity v dětství. (MKN, 2018)
+V literatuře celkem jasně poukazují na stránku endokrinologickou a také 
+problematiku chirurgickou. Jak píše Hana Fifková „Je přitom nutno konstatovat, že 
+neexistují ani psychodiagnostické metody zaměřené speciálně na zjištění přítomnosti 
+tohoto syndromu. Psychologické vyšetření transsexuálních klientů se soustřeďuje spíše 
+na zjištění jejich odlišností v jiných oblastech, a to srovnáním s populační normou. 
+Tradičně se vyšetřují anomálie osobnostní, motivační, či charakterové. 
+U transsexuálních jedinců se přitom zjišťují spíše důsledky než specifické projevy 
+odlišného psychosexuálního vývoje.“ (FIFKOVÁ, 2002, str. 27) 
+Je pravdou, že transsexualita může být pro dotyčného handicapem. V určité míře 
+ovlivňuje vývoj osobnosti postiženého a jeho vztahy k sociálnímu okolí. Transsexuální 
+jedinec má problém většinou i s adaptací ve společnosti. (srov. FIFKOVÁ, 2002) 
+Odlišení transsexuality od jiných poruch pohlavní identity se řídí podle kritérií, která 
+uvádí Smolík.
+Kritéria znějí následovně: 
+ „Transsexuální jedinec touží žít a být akceptován i ostatními, jako jedinec 
+opačného biologického pohlaví. Toto přání klienta provází většinou operativní 
+přeměna pohlaví.
+ Transsexuální diagnóza trvá alespoň dva roky. 
+ Transsexualita není příznakem jiné duševní poruchy.“ (SMOLÍK, 2002. str. 403)
+Nejspolehlivější metodou, kterou lze určit nějakou odchylku od všeobecně 
+přijímané normy, je metoda anamnestického rozhovoru. Anamnestický rozhovor se 
+skládá z těchto okruhů:
+16
+ Preference hraček a her v předškolním věku 
+ Preference oděvu – Transsexuální jedinci už od raného dětství většinou 
+preferují oděv, který je typický pro opačné pohlaví. Když se transgender jedinec
+převlékne do oblečení, které přísluší opačnému pohlaví, cítí psychickou úlevu. 
+ Odpor k primárním i sekundárním pohlavním znakům a jiným 
+biologickým projevům dospívání
+ Neerotické sny a denní fantazie – Právě zde se vedoucí rozhovoru vyptává na 
+sny a denní fantazie jedince. Někdy to může být nepříjemné, ale právě ve snech
+má transgender jedinec takové pohlaví, jaké mu v současnosti fyzicky nenáleží. 
+FtM si například představují, jak jdou se svou rodinkou na procházku, v tomto 
+snu však mají roli otce rodiny. (srov. FIFKOVÁ, 2002, str. 27–36)
+ Masturbační fantazie a erotické sny – Sexuální vzrušení je spojené, jak bylo 
+uvedeno v předchozím bodě, s představou sebe sama v opačném pohlaví. A při 
+sexuálním styku mají všechny atributy, které k opačnému pohlaví patří. (Např. 
+u snů, které náleží FtM můžeme mluvit o snění o penisu) 
+ Zamilovanost a partnerské vztahy – Stejně jako u lidí, kteří netrpí poruchou 
+pohlavní identity, přichází kolem pubertálního věku k prvnímu zamilování. 
+Pokud nejde o transsexuální jedince homosexuálně orientované, zamilovávají se 
+lidé s poruchou pohlavní identity do osob se stejným biologickým pohlavím. 
+Pokud si ještě člověk není jistý, jaká je jeho diagnóza, myslí si o sobě, že je 
+homosexuál, ale právě díky představám se může ukázat, že to tak není. Při 
+prvních diagnostických rozhovorech můžeme zjistit, že existuje pět variant 
+sexuální adaptace klientů. Jde o varianty vztahové, či erotické preference:
+ Dle svého biologického pohlaví se ženou – u FtM jde 
+o lesbickou orientaci
+ Dle svého biologického pohlaví s mužem – u MtF se jedná 
+o gay orientaci
+17
+ Dle svého psychického pohlaví se ženou-FtM navazují 
+erotické heterosexuální vztahy s dívkami a vystupují v jasně 
+mužské roli. 
+ Dle svého psychického pohlaví s mužem-MtF navazují 
+erotické heterosexuální vztahy s muži, ale vystupování 
+v ženské roli je velmi obtížné. Jisté ženské znaky tam však 
+najít můžeme.
+ Varianta bez partnerského vztahu-asexualita
+ Sexuální aktivity – Vzhledem k tomu, že transsexuální jedinci nejsou spokojeni 
+se svou biologickou stránkou, většinou se stává, že sami sebe vůbec 
+neuspokojují. Pokud jde o partnerský vztah například ve vztahu FtM, při aktu si 
+nechávají boxerky a triko. Rozhodně si nechtějí nechat sahat na prsa a ani mezi 
+nohy. Je jim to nepříjemné, raději partnera či partnerku, uspokojují sami. Velký 
+rozdíl nenajdeme ani u MtF, ti také raději uspokojují partnera, preferují spíše 
+nekoitální formy sexuálního styku. 
+ Charakteristiky pohlavní role – Posledním okruhem v anamnestickém 
+rozhovoru je charakteristika pohlavní role. Krom toho, že se jedinci vidí v jiné
+sexuální roli, tak i v jiné roli pohlavní. Například při výběru povolání, FtM si 
+vybírají povolání, které náleží spíše mužskému pohlaví, např. policie, vojenská 
+služba, zatímco MtF si můžou vybírat obory, které mohou být spíše ženského 
+rázu, mluvíme například o cukráři, ale i o maskérovi, kosmetikovi, anebo 
+kadeřníkovi. Je ale důležité získat data o dalších sedmi oblastech života 
+transsexuálních klientů: sociální adaptaci, psychické problémy, kognitivní 
+charakteristiky, osobnost, abúzy a somatické problémy pacienta i charakteristiky
+týkajících se jeho další prognózy. (srov. FIFKOVÁ, 2002, str. 27–36)
+2.4 Real life test 
+Tato fáze je pro transgender jedince velice náročným obdobím. Dochází k řešením 
+jednotlivých vztahů, a také k řešení dlouhodobých konfliktů. Právě zjištění, že jeden 
+18
+člen z rodiny je transsexuální vysvětluje spoustu problémů, které mohly v dřívější době 
+nastat. Toto období může být problematické a to především ve vztahu k rodičům, 
+známým, přátelům, ale i vrstevníkům. Dochází zde většinou k nepochopení a k pocitu 
+samoty a odcizení od okolí. (srov. TRANSLIDÉ, 2002) 
+V tomto období probíhá úřední změna jména na neutrální a zároveň je toto velice 
+těžké období podmínkou pro hormonální terapii. (srov. FIFKOVÁ, 2008, str. 78)
+2.5 Hormonální terapie
+Každý transgender jedinec musí chodit po 2-3 měsících na kontroly, kde tým 
+lékařů sleduje změny tělesné váhy, ale také rozvoj druhotných pohlavních znaků, 
+kterým může být například zvětšení prsou. Dále se provádí laboratorní vyšetření, která 
+zkoumají, a především kontrolují například játra, moč atd. (srov. FIFKOVÁ, 2008, str. 
+79-80) 
+Pokud se bavíme o tom, co je na hormonální terapii, pro transgender jedince 
+kritického, můžeme se bavit o ceně hormonů, která neustále roste. Určitou část 
+hormonální terapie sice hradí pojišťovna, ale není to žádná velká částka. Hormony, ale 
+víceméně zapříčiňují pozitivní změny v životě jedince. (srov. TRANSSEXUALITA, 
+2011) 
+Ale při nezávazném rozhovoru s matkou transgender jedince jsem se dozvěděla, 
+že její dcera (MtF), po začátku hormonální léčby začala mít sklony k sebevraždě a měla 
+veliké psychické problémy. (ROZHOVOR S PANÍ J.) 
+Transsexualita u MtF, neboli proces feminizace
+Fyzicky muži, který vstupuje do hormonální terapie, se podává estrogen 
+a antiandrogen. Důsledkem působení těchto hormonů dochází ke zvýšení citlivosti 
+prsních bradavek, zlepšení pleti a její zjemnění, snížení libida a celkové snížení 
+erektility. Již po prvních 2-4 týdnech od začátků užívání estrogenů je utlumena 
+spermiogeneze. Tuk se MtF začíná ukládat především do ženských partií, jako je 
+například pánevní oblast. (srov. TRANSLIDÉ, 2018)
+19
+Transsexualita u FtM, neboli proces maskulinizace
+Případů FtM je podstatně méně než MtF, ale přeměna FtM je mnohem 
+stabilnější. Také ale klientela FtM mnohem více naléhá na změnu pohlaví, většina FtM 
+má už před samotnou hormonální terapií problémy s menstruačním cyklem, anebo ho 
+nemá vůbec. (TRANSSEXUALITA, 2011) Proto musí každá žena podstoupit vyšetření, 
+jestli je vhodné hormonální léčbu zahájit. Hormonální terapie u FtM vypadá odlišně od 
+MtF. Obvykle FtM klientela dochází jednou za 2-3 týdny na injekce esteru testosteronu. 
+Ovšem ideální jsou týdny dva, protože tuzemský preparát, který se zde užívá, má dobu 
+trvání přibližně 14dní. 
+U FtM se již po prvních týdnech zvyšuje libido a hlas transgender klientky se 
+stává hlubším. Může se zde objevit akné, ale i celková změna pokožky, může být 
+například mastnější. Často se stává, že se zvyšuje váha klientky, může se objevovat 
+zvýšené pocení a mnohem intenzivnější pach potu. Může přibývat i svalová hmota 
+a zmenšují se prsa. (srov. TRANSLIDÉ, 2001) 
+Po chirurgických zákrocích (hysterektomie, později chirurgická úprava zevního 
+genitálu), se dávka podávaného testosteronu snižuje na polovinu, někdy i méně. Přísun 
+hormonů by se ale neměl zastavit. (srov. FIFKOVÁ, 2008, str. 79-80)
+Problémy, kvůli kterým se nesmí uskutečnit HRT
+„Deprese, psychóza, drogová závislost, chlopenní vada, tromboembolická nemoc, 
+diabetes, rakovina prsu v rodinné anamnéze, kouření cigaret, výrazná obezita“
+(TRANSLIDÉ, 2018) 
+2.6 Operativní zákrok
+Každý transgender jedinec si své operativní kroky plánuje individuálně podle sebe 
+a podle svých potřeb. (srov. LOS FILIPOS, 2017) 
+Ještě před samotným chirurgickým zákrokem se sejde odborná komise
+(srov. TRANSLIDÉ, 2001), která se skládá ze dvou sexuologů, jeden je v případu 
+zainteresovaný a doprovází klienta od počátku jeho přeměny a druhý je odborník na 
+sexuologii, ale je v proměně až do této chvíle nezúčastněný. Dále v komisi sedí lékař 
+zaměření na psychiatrický obor a další dva lékaři, kteří jsou odborníci v klinické 
+20
+psychologii. V komisi také musí být alespoň jeden právník. Za úplnou změnu bereme 
+změnu takovou, která končí chirurgickým zákrokem. Ne všichni transgender jedinci ale 
+o operaci stojí. U nás v České republice se operace provádí pouze lidem starším 21 let. 
+Tento člověk musí být informovaný o operaci a o možných komplikacích, které by 
+mohly nastat. Musí být seznámen s tím, že přeměna pohlaví je nevratný proces. (srov.
+FIFKOVÁ, 2002, str. 67)
+Pokud je Česká republika něčím výjimečná, pokud jde o přeměnu pohlaví, je 
+jedním z mála států, kdy je operace hrazena zdravotní pojišťovnou. (srov. ZDRAVÍ,
+2014)
+Operativní změny u FtM
+Nejdříve se provádí hysterektomie, která je doplněná oboustrannou 
+adnexektomií (odstranění vaječníku a vejcovodu). Tyto operace se provádí především 
+proto, aby se pacient vyvaroval nějakým zbytečným komplikacím, které by mohly 
+v případě zanechání např. vaječníků nastat. (srov. FIFKOVÁ, 2008, str. 101-112)
+Dále se provádí mastektomie. Jedná se o odstranění prsou, která jsou natolik 
+výrazným symbolem ženskosti, že mohou způsobovat víceméně stejná traumata jako 
+MtF jedinci přetrvání penisu. Naprostá většina FtM si je tedy nechce ponechat. (srov. 
+ESTHETICON, 2016)
+V jedné z posledních fází dojde k rekonstrukci penisu a močové roury. Pacienti 
+v České republice jsou seznámeni se způsobem, jakým bude rekonstrukce probíhat 
+a jaká z nejčastěji dvou užívaných technik bude použita. V prvním případě se vytváří 
+penis z předloketního laloku a v případě druhém ze svalově-kožního laloku na zádech.
+(srov. FIFKOVÁ, 2008, str. 101-112)
+Operativní změny u MtF
+U MtF se nejdříve odstraní penis s varlaty. Poté dochází k vaginoplastice, což 
+znamená vytvoření pochvy, s čímž souvisí modelace např. stydkých pysků. Tento 
+zákrok je spíše kosmetický, umožní totiž pacientovi získat tělesné schéma, po kterém 
+touží. Dalšími operacemi, které se v procesu přeměny pohlaví mohou uplatnit, jsou 
+větší, ale i menší estetické úpravy zevnějšku. Bavíme se zde například o zvětšení 
+(augumentace) prsou a vhledem k tomu, že hormony rysy v obličeji zjemní, ale ne vždy 
+21
+tak, jak si sám pacient přeje, nastupují právě ty menší estetické operace, jako například 
+operace nosu. Další operací, která dopomáhá k lepšímu ženskému dojmu, je například 
+fono-chirurgie. Což je chirurgická technika, která pomáhá se zbarvením hlasu na 
+ženštější. (srov. FIFKOVÁ, 2008, str. 113-124)
+22
+3 Legislativní zakotvení transsexuality v českém zákoně
+3.1 Změna jména na neutrální
+Své jméno si trans-gender jednotlivci většinou zvolí ve fázi RLT (Real life testu). 
+Na matrice, v místě trvalého bydliště, mají trans-gender lidé možnost požádat o změnu 
+jména. Tato změna může být buď na neutrální jméno, nebo na jméno, které přísluší 
+budoucímu fyzickému pohlaví. Tato změna je umožněna v Zákonu o matrikách, jménu 
+a příjmení a o změně některých souvisejících zákonů č. 301/2001 Sb. Hlava II, díl 3, 
+§71, odst. 5): „Fyzické osobě, u níž probíhá změna pohlaví, povolí matriční úřad užívat 
+neutrální jméno a příjmení na základě její žádosti a potvrzení zdravotnického zařízení, 
+u něhož léčba pro změnu pohlaví probíhá.“
+Každý trans-gender jedinec musí na matrice předložit potvrzení od sexuologa, 
+kterého navštěvuje. Jak se vůbec takové neutrální příjmení tvoří? „Pokud původní 
+příjmení tvoří podstatné jméno, vytvoří se z něj neutrální tvar přidáním koncovky "ů" 
+(Nováků, Vlčků, Jahodů, atd.).“ (srov. TRANSLIDÉ, 2003)
+„Pokud šlo o přídavné jméno, připojí se koncovka "ých" (Pokorných, Černých, 
+apod.)“ Ale žadatel nemusí zůstávat u svého původního příjmení a má možnost si zvolit 
+jakékoliv jiné. Někdy se používají i anglická příjmení, protože ta nerozlišují rod mužský 
+či ženský. (srov. LOS FILIPOS, 2016) 
+U křestních jmen je to ale už o něco složitější. A to především kvůli tomu, že u nás 
+je jménem předem určeno, které jméno patří pro ženu a jaké naopak pro muže, Zde je 
+taky možné použít anglická křestní jména, stejně jako jsme to zmínili u příjmení. (Alex, 
+Bernie, Andy, Kim, Robbie, Charlie, Lenny, Jean, a tak dále). (srov. TRANSLIDÉ, 
+2003)
+V Čechách ale máme také obourodá oficiální jména (Nikola, René, Saša). Pro 
+transgender osoby se ale připouští obourodá jména, která jsou domácká. Myslíme tím 
+jména, jak je oslovují doma (Jára, Míša, Péťa). 
+Bohužel ne všechny matriky jsou vstřícné. Některá může jedno jméno povolit 
+a druhá to samé jméno zamítnout. Pokud se transgender člověk do této situace dostane, 
+dostává se ke kontaktu na soudního znalce, která se specializuje na jména a do několika 
+dní je schopná napsat odborný posudek. (srov. TRANSLIDÉ, 2003) 
+23
+3.2 Legislativní vyjádření k operaci 
+U nás v České republice je operace změny pohlaví upravena Zákonem č. 20/1966 
+Sb., o péči o zdraví lidu § 27 a: „Kastrace, stereotaktické operace a zákroky 
+u transsexuálů se provádějí pouze na žádost osoby, u níž mají být provedeny, a po 
+schválení odbornou komisí, kterou tvoří právník, nejméně dva lékaři se specializací 
+v příslušném oboru a dva další lékaři nezúčastnění na provádění lékařského zásahu.“
+„Před podáním žádosti musí být osoba náležitě informována lékařem o povaze 
+lékařského zásahu s upozorněním na rizika a případné nepříznivé důsledky s ním 
+spojené.“(eARGI, 2018) 
+Skoblík se zmiňuje o několika kritériích pro doporučení právní úpravy pohlaví 
+podle Vyhlášky Ministerstva zdravotnictví ČSSR č. j. LP-276-16.9.1970 „Léčebné 
+zákroky u intersexuálů, transsexuálů a sexuálních deviantů“ je u FtM alespoň nutná 
+hysterektomie (chirurgické odstranění dělohy), u MtF amputace penisu a oboustranná 
+kastrace. Pokud tedy transgender jedinec splní tato kritéria, je zde možná změna 
+rodného čísla, popřípadě změna jména na jméno osoby opačného pohlaví, tedy na 
+pohlaví, kterým se stává. (srov. SKOBLÍK, 2006, s. 67). 
+3.3 Změna rodného čísla 
+Později Ministerstvo vnitra zašle na matriku veškeré materiály, díky kterým je 
+vystaven nový rodný list, ve kterém je nové rodné číslo. Ve chvíli, kdy se tyto důležité 
+dokumenty dostanou do ruky transgender jedinci, je povinen zažádat si o nový 
+občanský i řidičský průkaz a o novou kartu pojištěnce. (srov. TRANSLIDÉ, 2018) 
+3.4 Vydávání nových diplomů a vysvědčení
+„Směrnice č. j. 29 210/98-20 Ministerstva školství, mládeže a tělovýchovy pro 
+vydávání náhradních dokladů za ztracená nebo zničená školní vysvědčení základních, 
+speciálních, středních a vyšších odborných škol stanoví: Článek V
+„Žadatel, který podává žádost o vydání náhradního vysvědčení z důvodu změny pohlaví, 
+přiloží k žádosti "Rozhodnutí o povolení změny jména a příjmení" vydaného obecním 
+úřadem pověřeným vedením matrik trvalého bydliště žadatele, nebo úředně ověřeným 
+opisem tohoto rozhodnutí a vysvědčení, které má být nahrazeno; toto rozhodnutí 
+24
+a nahrazované vysvědčení se stává součástí dokumentace školy. Škola při vydání 
+druhopisu vysvědčení postupuje podle Článku I.“
+Článek I
+„1) Na písemnou žádost o vydání náhradního školního vysvědčení (dále jen 
+vysvědčení) vydaného základní, speciální, střední nebo vyšší odbornou školou (dále jen 
+škola) vyhotoví škola na základě údajů v dokumentaci (protokoly o zkoušce, třídní 
+výkaz, katalogový list apod.) "Druhopis", který se od prvopisu liší pouze tím, že 
+v záhlaví nese označení druhopis. Záznam o vydání druhopisu vysvědčení se uvede do 
+příslušné dokumentace školy.
+2) Není-li možno opatřit podpisy osob, které byly na původním vysvědčení, vypíše 
+škola jejich jména a příjmení s označením "v. r." a chybějící razítko původní školy 
+nahradí písmeny "L. S.". Na konec textu připojí doložku: "Tento druhopis souhlasí 
+s prvopisem"; doložku podepíše ředitel školy, připojí razítko školy (současné) a datum 
+vyhotovení.
+3) Pokud škola archivuje původní tiskopisy vysvědčení, tyto tiskopisy použije pro 
+vyhotovení druhopisu, jinak použije současný tiskopis, na kterém upraví názvy předmětů 
+eventuálně i ostatních údajů dle původního dokumentu.“ (TRANSLIDÉ, 2018) 
+25
+4 Role sociálního pracovníka při práci s transgender
+komunitou
+4.1 Schopnosti a předpoklady sociálního pracovníka 
+Problémy, kterými se může sociální práce zabývat, se mohou týkat jak jednotlivce, 
+tak i celé společnosti. Sociální pracovník tedy působí jako někdo, kdo spojí společnost 
+či jednoho člověka vrátí zpět do komunity, popřípadě komunitu zpět ke společnosti. 
+Práce sociálního pracovníka je spíše posláním. Schopností „spojovat“, kterou by měl 
+sociální pracovník disponovat, má možnost dát dohromady i další příbuzné disciplíny 
+a napomáhá tak vzniku multidisciplinárního týmu. (srov. HANUŠ, 2007) 
+Jakou roli by tedy měl v práci zastávat sociální pracovník? V první řadě by měl být 
+vzdělaný a měl by být administrátorem, měl by se v administrativě vyznat a být její 
+součástí. Důležité je také komunikace, skrz komunikaci s klientem se sociální pracovník 
+dozvídá informace potřebné k další spolupráci a k výběru postupu další práce a mohl 
+o této metodě, kterou zvolil, napsat zprávu. Dále se očekává profesionalita a to, že 
+sociální pracovník bude stát na straně klienta. Bude ke své roli v jeho životě přistupovat 
+jako k poslání. Proto by měl být sociální pracovník tak trochu filantrop, to znamená, že 
+sociální pracovník má cit pro svou práci a má své vlastní zkušenosti od jeho bližních 
+a dokáže tedy vycítit, co klient potřebuje. (srov. MUSIL, 2007) 
+Každý sociální pracovník by se měl řídit Etickým kodexem sociálních pracovníků. 
+Ten odpovídá na to, jaký by měl sociální pracovník zaujmout postoj ke 
+svým transgender klientům. V Etickém kodexu sociálních pracovníků můžeme najít 
+například toto:
+ „Sociální pracovník respektuje jedinečnost každého člověka bez ohledu na 
+jeho původ, etnickou příslušnost, rasu či barvu pleti, mateřský jazyk, věk, 
+pohlaví, rodinný stav, zdravotní stav, sexuální orientaci, ekonomickou 
+situaci, náboženské a politické přesvědčení a bez ohledu na to, jak se podílí 
+na životě celé společnosti. (…) „ (Etický kodex společnosti sociálních 
+pracovníků ČR, 2006).
+26
+ „Sociální pracovník je si vědom svých odborných a profesních omezení. 
+Pokud s klientem nemůže sám pracovat, předá mu informace o dalších 
+formách pomoci. Sociální pracovník jedná s osobami, které používají jejich 
+služby (klienty) s účastí, empatií a péčí.“ (Etický kodex společnosti 
+sociálních pracovníků ČR, 2006) 
+Co dalšího by měl sociální pracovník znát? O roku 2009 existuje
+antidiskriminační zákon č. 198/2009 Sb. o rovném zacházení a o právních prostředcích 
+ochrany před diskriminací a o změně některých zákonů. Tento zákon je spíše prevencí 
+před diskriminací, která se objevuje čím dál častěji. Řeší příčiny, které by mohly vést 
+k diskriminaci, ale tytéž příčiny už známe v roku 1993, z Listiny základních lidských 
+práv a svobod. (srov. ZÁKONY PRO LIDI, 2018)
+Co by tedy mělo sociálního pracovníka dále charakterizovat? Podle Klimentové 
+Ph.D., by měl mít sociální pracovník tyto vlastnosti, měl by být: Laskavý, Interaktivní, 
+Důvěryhodný, Shovívavý, Komunikativní, Ochotný, Snaživý, Tolerantní, Lidský, 
+Empatický, Moudrý, Pokorný, Aktivní a Inteligentní. (srov. KLIMENTOVÁ, 2007) 
+A jaké je tedy vůbec role sociálního pracovníka při práci s komunitou, kterou 
+transgender komunita bezesporu je? Komunitní pracovník, popř. sociální pracovník, by 
+měl podněcovat a podporovat skupiny lidí, kteří usilují o změnu a zlepšení podmínek ve 
+společnosti. Sociální pracovník by měl být také obhájcem práv klientů a vyjednavačem. 
+(srov. MATOUŠEK, 2013, str. 309-315) 
+Podle Havrdové (2013) má být komunitní pracovník osobním příkladem. Musí 
+umět identifikovat konkrétní problémy a umět s nimi pracovat. Jednou 
+z nejdůležitějších rolí komunitního/sociálního pracovníka je podpora. Měl by 
+podporovat všechny členy komunity, bez rozdílu. Měl by se naučit vnímat přirozené 
+odlišnosti jednotlivých členů komunity a tyto rozdíly by měl dokázat pojmenovat. Po 
+pojmenování by měl usilovat o pozitivní přijetí různých odlišností, aby kvůli nim 
+nedocházelo k nerovnostem a diskriminaci jak v samotné komunitě, tak v celé 
+společnosti. (srov. HAVRDOVÁ, 2013, str. 93-101) 
+Jakou roli může vůbec sociální pracovník v životě lidí, včetně transgender jedinců 
+hrát? Má hned několik rolí. Zde jich zmíním jenom pár. Podle Smutné (2014) je 
+sociální pracovník pečovatel, který se stará o lidi v oblasti běžného života, ve které si 
+nedokáže jedinec poradit sám, ale to je především, pokud se o sebe nedokáže postarat 
+27
+sám například kvůli nějakému postižení, nemoci, či věku. Smutná (2014) také uvádí, že 
+je sociální pracovník zprostředkovatelem neboli koordinátorem služby, to znamená, že 
+je připraven poradit, doporučit, nebo klientovi nabídnout služby, organizace, které jsou 
+vhodné pro klienta. Cvičitel sociální adaptace, znamená, že je sociální pracovník v roli, 
+kdy trénuje, či učí klienta sociální dovednosti a pomáhá klientům řešit jejich problémy 
+a povzbuzuje je ke změnám v chování. Další rolí sociálního pracovníka podle MPSV je 
+poradce, nebo terapeut, ten pomáhá klientovi v jeho osobnostním růstu a pomáhá mu 
+získat náhled na jeho postoje, pocity a způsoby jednání. (MPSV, 2014) 
+Sociální pracovník ale jenom nesedí a nečeká, než ho někdo přijde navštívit 
+a sdělit mu své problémy, se kterými potřebuje pomoci. Sociální pracovník také vychází 
+do ulic a navazuje kontakty sám, či na zavolání. A to je právě práce v přirozeném 
+prostředí klienta, která se nazývá streetwork. (srov. KLENOVSKÝ, 2006)
+Sociální pracovník může být ale manželský a rodinný poradce (srov. SOCIÁLNÍ 
+REVUE, 2007). 
+4.2 Transsexualita není záležitost jen jednoho člověka 
+Transsexualita není záležitostí jen jednoho člověka. Každý z nás má rodinu. Ať tu, 
+do které se narodil, nebo může mít například rodinu, kterou sám založil ještě předtím, 
+než si nějak výrazněji svoji transsexualitu uvědomil. V drtivé většině jde o MtF jedince. 
+Ale celkově je rodičovství vnímané jako překážka v procesu přeměny pohlaví, a to 
+především kvůli strachu z okolí. Transgender jedinci nemívají totiž obavy jen sami 
+o sebe, ale i o své blízké, které by jejich přeměna mohla nějakým způsobem poškodit. 
+Pro dítě je vždy přeměna jednoho z rodičů traumatem. (srov. FIFKOVÁ 2008, str. 135-
+140)
+Proto je třeba s takovým dítětem jednat s maximální opatrností. Někteří odborníci 
+tvrdí, že je pro dítě nejlepší, když transgender rodič odejde od rodiny a dítě není 
+součástí jeho přeměny. Vyvstává zde ale otázka, kdo ví, co je pro dítě opravdu nejlepší? 
+Skutečnost, zda rodič odejde, či neodejde, nemění nic na faktu, že dítě zůstává 
+traumatizováno a frustrováno, a proto je potřeba s takovým dítětem pracovat, nejen 
+s dítětem, ale i s partnerem transgender jednotlivce. (srov. FIFKOVÁ 2008, str. 135-
+140)
+28
+Možná právě získat si partnera transgender jednotlivce je nejlepším způsobem, jak 
+provádět sanaci rodiny. Pokud po prvotních pocitech, jako může být zklamání, smutek, 
+pocit zrady, dostane partner transgender jedince podporu, může tak společné dítě udržet 
+v jakési rovnováze a traumatizace dítěte může tak být co nejmenší. 
+Tím, že budeme pracovat s rodinou, můžeme ulevit jak rodině, tak veliké psychické 
+zátěži transgender jedince. A on se může potom posouvat o něco dál. Navíc psychická 
+pohoda je důležitá jak pro něj, pro následující fáze, kterými bude muset projít, ale je 
+důležitá i pro jeho okolí. (srov. FIFKOVÁ 2008, str. 135-140) 
+Nemusíme se ale bavit jen o sanaci rodiny, protože ne vždy se rodina za každou 
+cenu udrží, je dobré používat speciální techniky sociální terapie rodiny. A zde lze 
+pracovat s touto rodinou jako s každou jinou. Většinou totiž dochází k rozvodu. A zde, 
+už v před-rozvodovém období, je dobré bavit se s rodiči o dětech. O tom, jak si 
+představují budoucí výchovu dětí, jak o ně budou pečovat. A to právě proto, aby bylo 
+dítě co nejméně traumatizováno. (srov. ZAKOUŘILOVÁ 2014, str. 55-56) 
+4.3 Transsexualita je záležitost jednoho člověka 
+V profesi sociálního pracovníka se můžeme klidně setkat s někým z transgender 
+komunity. A to je právě důvodem, proč se tato práce zabývá transgender komunitou. 
+Sociální pracovník má možnost uplatnit se v opravdu širokém spektru působnosti, 
+možnost, že se při své práci setká s transgender menšinou, tedy není vyloučena.
+Můžeme se například s touto problematikou setkat na lince důvěry. Tuto linku 
+zkontaktuje transgender jedinec sám a ví, že něco není v pořádku. O transsexualitě 
+může mít nějaké povědomí, ale nemusí být zrovna velké, proto je dobré, když na druhé 
+straně sítě sedí člověk, který o této problematice něco ví a dokáže člověka uklidnit 
+a nastínit mu, že budoucnost nemusí být tak černá, jak se mu může v té chvíli zdát. 
+(srov. VODÁČKOVÁ, 2012, str. 251- 259)
+Kde bychom se mohli setkat dále s transgender jedincem? Zmiňovali jsme se 
+o školských zřízeních, kde by sociální pracovníci měli figurovat, ale nefigurují. 
+Zároveň jsme ale psali, že mají své vlastní svépomocné skupiny, do kterých se CIS, 
+heterosexuální jedinec ale bohužel nedostane. 
+29
+5 Výzkumné šetření
+Cíl výzkumu
+Cílem mého výzkumu je zjistit, možnou roli sociálního pracovníka při práci 
+s transgender komunitou.
+Dílčí cíle
+1. Zmapovat, péči v sociální práci o transgender jedince. 
+2. Zmapovat potřeby pomoci v sociální oblasti v období přeměny. 
+Výzkumné otázky
+1) Jaká je péče ze strany sociální práce o transgender jedince?
+2) Měl by hrát sociální pracovník nějakou roli v životě transgender jedince? Pokud 
+ano, jakou?
+DRUH VÝZKUMU A VÝBĚR METODIKY
+Pro získání informací do mé odborné práce jsem si vybrala kvalitativní výzkum. 
+Kvalitativní výzkum mi umožňuje, abych se hloubkově zajímala o téma transgender, 
+které je v sociální práci neřešené a nediskutované. I přesto je pro mě toto téma velice 
+zajímavé, a zajímavé je i pro spoustu dalších lidí, ale toto téma se pořád moc neřeší. 
+V LGBT komunitě je toto jedna z nejtišších menšin. Téma mé bakalářské práce si 
+zaslouží podrobný popis problematiky, kterou mi pomůže objasnit rozhovor, který díky 
+zvolenému druhu výzkumu mohu používat. Zajímám se v mé práci o proces přeměny 
+pohlaví, a to už počátku coming outu a budu se snažit zjistit, jestli by sociální pracovník 
+mohl v přeměně pohlaví nějak významně a pozitivně ovlivnit životní situaci transgender 
+jedince. 
+Způsob získávání informací
+Informace do odborné práce jsem získávala hloubkovým rozhovorem. 
+K provedení rozhovoru jsem oslovila jednoho transgender jedince. Tento respondent si 
+30
+prošel zatím jen hormonálními změnami a mohl by v blízké době podstoupit i operativní 
+přeměnu pohlaví, ale na tu se zatím nechystá. Respondent je FtM, tudíž se mění 
+z biologické ženy na muže. Respondent, mě sám od sebe požádal o anonymitu, protože 
+nechce být dohledatelný. Navíc je trans aktivistou a je součástí organizace 
+TRANS*PARENT, která je výše zmíněná, jako „svépomocná skupina“ pro transgender 
+jedince a další. Rozhovor byl proveden formou osobního setkání a trval jednu hodinu
+a proběhl v centru města Českých Budějovic, v kavárně. Během rozhovoru jsem 
+pokládala otevřené otázky, které lze najít v rozhovoru. 
+Rozhovory
+Zde jsou otázky, které jsem pokládala respondentovi.
+1) Co Vám přijde na řešení transgender identity nejsložitější?
+2) Mohl by Vám být ve vaší přeměně ještě někdo nápomocen? V jakém období?
+3) Které situace Vám ve Vašem životě přišly nejvíce náročné? Co, kdo Vám 
+pomohlo?
+4) Jaká je Vaše představa pomoci? V čem?
+5) Myslíte si, že by Vám mohl být nápomocen někdo, kdo dělá (FCE SPka).
+6) Co potřebujete, potřeboval/a jste, abyste se mohli posunout dál? 
+Respondent č. 1
+Respondentem číslo jedna je FtM (Female to Male). Respondent se nachází ve fázi 
+přeměny. Je již druhým rokem na hormonech, a právě proto byla volba mého 
+respondenta jasná. Je současně členem, výše zmíněného TRANS*PARENT, tudíž toho 
+o tématu transgender jedinců mnoho ví. Zde jsou odpovědi na otázky, které jsem
+pokládala. Původně otázka o tom, jestli by mohl být sociální pracovník nápomocen 
+a jak, měla být více o funkcích sociálního pracovníka, protože je o tomto povolání malé 
+31
+povědomí. Ale tento respondent je sociální pracovník, tudíž chodit kolem „horké kaše“ 
+nemělo smysl. 
+Co Vám přijde na řešení transgender identity nejsložitější?
+Neochota odborníků a zdlouhavost systému úřední a medicínské tranzice. 
+Samozřejmě, období coming outu je těžké – trvalo mi dlouho přijmout fakt, že jsem 
+jiný, že pokud chci žít svůj život upřímně, čeká mě vysvětlování rodičům, přátelům, 
+známým, ale i úplně cizím lidem, že moje identita je jiná, než mi od pohledu tipovali. 
+Že mě čeká několik let viditelné tranzice, kdy budu vzbuzovat pozornost. Že budu mít 
+ztížené hledání partnerky/partnera a zakládání rodiny. Ale coming out mi přinesl 
+i pozitiva – dal mi záminku uspořádat si hodnoty a svou identitu celkově, a tak se teď 
+cítím silnější a jistější než předtím.
+Se systémem je to jiné. Bariéry v úřední a medicínské tranzici mě vyčerpávají, ale 
+nedávají mi nic nazpět. Ponižující vyptávání se doktorů na tak nesouvisející věci, jako 
+jsou hračky, se kterými jsem si hrál či na moje sexuální představy, mi vzalo tak 
+maximálně iluze o odbornosti sexuologů. Neochota a arogance mého sexuologa mě 
+přesvědčily o tom, že ne každý lékař má zájem o zdraví svého klienta. Fakt, že v ČR 
+mohu změnit své úřední pohlaví, jen pokud pokorně poprosím a nechám se vykastrovat, 
+mě naučil, že zákony nejsou vždy spravedlivé nebo dobré. Ale necítím, že by mě tyto 
+poznatky nějak posílily. A na rozdíl od své identity jsem se se systémem nesmířil – jak 
+bych se mohl smířit s neférovým a nelegitimním přístupem?
+Mohl by Vám být ve Vaší přeměně ještě někdo nápomocen? V jakém období?
+Popravdě, během tranzice musí člověk v současném Česku oběhat takovou spoustu 
+doktorů a úřadů, že když zrovna nikam nemusím, tak jsem většinou spíš rád, že mám 
+klid. Povinnou součástí medicínské a úřední tranzice jsou návštěvy sexuologa 
+a návštěvy dalších odborníků, které si vyžádá, obvykle psychiatra, endokrinologa, 
+internisty a gynekologa/urologa.
+Ne u všech jsem se setkal s přístupem, který by mi přišel adekvátní jejich vzdělání 
+– například když se mě psychiatr s titulem profesora ptal při vyšetření, které mělo 
+rozhodnout, zda jsem kluk nebo ne, zda jsem si hrál s panenkami či autíčky a odmítal 
+jako odpověď přijmout, že jsem si s nimi nehrál, že jsem si hrál s legem a četl knihy, 
+připadal jsem si jak v nějaké absurdní hře. Proč by o mé identitě měl rozhodovat 
+psychiatr? Navíc takový, který vnímá svět skrze binární heteronormativní stereotypy? 
+32
+Sám vím nejlépe, kým jsem, sebeurčení je nejpřesnější a nejrychlejší metoda, jak určit, 
+jakou identitu člověk má. Takže v první řadě bych ocenil, kdyby byli skutečně 
+nápomocni při tranzici odborníci, kteří jsou v současnosti její obligatorní součástí.
+Nicméně si dovedu představit, že by mi tranzici mohlo usnadnit působení lidí 
+z dalších profesí. Myslím, že se podceňuje význam osvěty o LGBT+ tematice na 
+základních a středních školách. Sám jsem sice vždycky tušil, že jsem jiný, ale neuměl 
+jsem to pojmenovat a styděl jsem se o tom vůbec myslet, protože LGBT+ identita pro 
+mě nebyla v době dospívání validní možnost. Být „buzna“ nebo „transka“ pro mě 
+znamenalo automaticky podezřelé jedince se sklonem k promiskuitě, zálibě v nočním 
+životu, užívání návykových látek, bydlení na ulici a ve squattech, lidi, co mají a šíří 
+pohlavní nemoci. Protože to byl jediný kontext, ve kterém jsme si o LGBT+ lidech ve 
+škole něco říkali – při hodinách sexuální výchovy a v rámci prevence sociálně 
+patologických jevů. Osvětu na školách by mohli dělat učitelé, nebo možná ještě lépe 
+nějací školení externisté přímo z LGBT+ organizací.
+Dále by mi v určité fázi coming outu pomohlo, kdyby existovala nějaká poradna 
+pro trans nebo LGBT+ lidi, kam by se dalo fyzicky zajít, kde bych si o svojí identitě 
+mohl popovídat s někým, kdo by mě uklidnil, poskytnul mi informace, poradil mi, jak 
+postupovat s coming outem navenek třeba v rodině. Tuto roli by mohl možná zastat 
+problematiky znalý psychoterapeut nebo poradna v nízkoprahovém zařízení.
+Které situace Vám ve Vašem životě přišly nejvíce náročné? Co, kdo Vám 
+pomohlo?
+Rozhodování o tom, kterou vysokou školu půjdu studovat. V maturitním ročníku 
+jsem nevěděl, co bych chtěl studovat. Není proto asi překvapivé, že jsem se svojí první 
+volbou školy nebyl spokojený. Ale právě vysokoškolské prostředí, školní feministický 
+spolek, dobrovolnictví byly katalyzátory nalezení mojí identity a dalšího směřování 
+a přestoupení na jiný obor, kde jsem teď spokojený.
+Pokus mého bratra o sebevraždu. Pomohlo mi, že se zotavil a vypadá teď šťastnější. 
+Ale pořád se o něj bojím.
+33
+Boj za právo na důstojnou tranzici. Pomáhá mi vědomí, že jsou v Česku jak mezi 
+obyčejnými lidmi, tak mezi odborníky lidé, kteří také vidí, že je situace kritická. Velmi 
+si vážím i podpory své rodiny a svých přátel.
+Jaká je Vaše představa pomoci?
+První krok je určitě poskytování spolehlivých informací a osvěta, ať už je to ve 
+škole, u lékaře či na úřadě. Informovanost jak pro trans lidi, kteří si coming outem či 
+tranzicí teprve procházejí či projdou, tak pro veřejnost. Lepší znalosti tematiky by 
+rozhodně měli mít zejména lidé v profesích, kde je součástí náplně práce interakce 
+s lidmi. Například pokud se někdo pro deprese ze zdlouhavého začátku tranzice dostane 
+do psychiatrické léčebny, bylo by vhodné, kdyby personál respektoval jeho identitu, 
+a naopak takového člověka ještě víc neubíjel tím, že mu bude zakazovat o své identitě 
+i jen mluvit. Nebo kdyby nízkoprahová zařízení poskytovaly konzultace pro LGBT+ 
+lidi v těžkých situacích, výslovně zmiňovaly ve svém popisu, že jsou LGBT+ friendly 
+a byly případně schopné odkázat na nějakého spolehlivého psychoterapeuta, LGBT+ 
+organizaci atd.
+Další důležitou věcí je aktualizace současného systému, změna legislativy (zejména 
+odstranění podmínky sterilizace pro úřední změnu pohlaví), změny medicínských 
+postupů, aby trans lidé nemuseli podstupovat zbytečné a ponižující vyšetření, aby mohli 
+zahájit HRT v co nejkratší možné době, a nikoliv po několikaměsíční čekací lhůtě či 
+real life testu, změny v proplácení léčiv či přípravků a zákroků tak, aby tranzice 
+neznamenala zásadní finanční zátěž. 
+Myslíte si, že by Vám mohl být nápomocen sociální pracovník? Jak? A čím?
+V současné době nevím, možná pokud se ještě zvedne cena hormonů a budu muset 
+objíždět doktory tak intenzivně jako doposud, budu potřebovat nějaké finanční a právní 
+poradenství. Ale v době, kdy jsem ještě nebyl zcela smířený s tím, kdo jsem a později 
+kdy jsem hledal způsob, jak co nejšetrněji vysvětlit situaci rodině, jsem se velmi bál, že 
+ztratím bydlení, že ztratím rodiče, že ztratím přátele. Myslím, že sociální pracovník by 
+mi dokázal pomoci se v té situaci zorientovat, mohl by mi vysvětlit, jak bych případně 
+mohl postupovat, kdyby něco nevyšlo, že třeba existují služby jako Domy na půl 
+cesty… Že i kdyby mě někdo nepřijal, že mě automaticky nevydědí celá společnost a že 
+34
+mám možnosti, jak neskončit bez práce a na ulici i kdybych přišel o možnost bydlet 
+u rodičů.
+Co potřebujete, potřeboval/a jste, abyste se mohl/a posunout dál? 
+Hlavně tu již zmiňovanou změnu zákona a systému. Opravdu otravné je třeba i to, 
+že sexuologů je velmi málo, ještě míň je vůbec ochotná zabývat se trans lidmi, jen část 
+z nich je ochotná zabývat se nevykastrovanými trans lidmi a z nich jen zlomek se 
+opravdu snaží pomoci a neopájí se neomezenou mocí, kterou nad námi sexuologové 
+mají. Stalo se mi, že jsem cestoval den předem do Prahy, abych stihl brzké ordinační 
+hodiny sexuologa, které má pouze 2–3 hodiny dopoledne a jenom některé dni. Ale přes 
+jeho předchozí ujištění, že mě vezme, mě odmítl nejen vzít, ale byť i jen vytisknout 
+recept na hormony, které mi došly a které je třeba brát pravidelně.
+Riziko takového chování doktorů by se snad snížilo, kdyby bylo na výběr z více 
+odborníků, kdyby se během studií setkali přímo s trans lidmi a nevyprávěl jim o nás 
+pouze někdo, kdo proti nám má (někdy i neuvědomované) předsudky, kdyby systém 
+nevyžadoval a nepodporoval zbytečné čekací lhůty a zachoval pouze vyšetření nezbytná 
+pro zdravotní účely, tedy endokrinologické a gynekologické/urologické. 
+Shrnutí
+Na první výzkumnou otázku lze najít odpověď v rozhovoru. Péče o transgender 
+jedince dostatečná není. Odborníků, kteří tvoří multidisciplinární tým, je sice spousta, 
+ale s jejich péčí, konkrétně tento respondent, není spokojený. 
+Sociální pracovník by měl hrát roli v životě transgender jedince. Alespoň jako 
+poradce, či koordinátor. Nebo jako preventista, například ve školách, aby mohl i širší 
+veřejnost seznámit s transsexualitou. 
+35
+Závěr
+Hlavním cílem této bakalářské práce bylo zjistit, zda má být sociální pracovník 
+součástí multidisciplinárního týmu a jakou roli by měl v tomto týmu zastávat. Za tímto 
+účelem byla zpracována teoretická východiska i výzkumné šetření, které mělo ukázat, 
+jak to tedy v reálném životě, během přeměny je. 
+Ve výzkumném šetření mé práce byl využit hloubkový rozhovor, který probíhal
+formou otevřených otázek. Právě tento rozhovor měl za cíl zjistit, zda je současná péče 
+o transgender jedince dostatečná a jestli by bylo dobré, kdyby se na seznamu odborníků 
+objevil i sociální pracovník a popřípadě, jak a čím by mohl být v přeměně přínosem. 
+Cíl bakalářské práce se povedl naplnit nejen díky teoretickým východiskám, ale 
+také díky rozhovoru s respondentem.
+Právě díky rozhovoru s respondentem bylo zjištěno, že sociální pracovník by se 
+v období přeměny být měl. Sociální pracovník by měl být poradce. Jak řekl respondent, 
+potřeboval by v určitém období někoho, kdo by mu byl nápomocen a informoval ho 
+o možnostech bydlení, v případě, kdyby ho kvůli jeho identitě vyhodili z domu.
+Pomohlo by mu, kdyby mu někdo řekl, že existují například Domy na půl cesty a tak 
+dále. A to je právě jedna z důležitých rolí, kterou sociální pracovník plní. Měl by plnit 
+roli poradce. Mohl by poskytovat poradenské rozhovory, které se sice zezačátku mohou 
+zdát jako psychoterapeutické, ale to již podle Bobka (2008), patří k metodice, která se 
+ze začátku od těch psychoterapeutických sezení zas až tak moc neliší. Právě sociální 
+pracovník většinou poskytuje lidem bezpodmínečnou akceptaci a respekt, ať je klient 
+jakýkoliv a mluví o čemkoliv. (srov. BOBEK, 2008) 
+V rozhovoru lze také vyčíst, že by transgender jedinci ocenili, kdyby někdo podával 
+ostatním lidem pravdivé informace o jejich komunitě. Kdyby to byl někdo, kdo není,
+i když několikrát nevědomky, proti nim. Z toho můžeme vyvodit, že by se sociální 
+pracovník mohl ujmout prevence, která je taky jednou z dovedností a aktivit v sociální 
+práci. Napadá mě tedy to, že stále chybí sociální pracovníci v českých školách, kteří by 
+tuto prevenci mohli provádět. (srov. KOSCUROVÁ, 2013).
+A ještě jedna věc, která mi vyšla z rozhovoru, aniž bych o tuto informaci nějak 
+usilovala. V jedné odpovědi zaznělo, že jako transgender jedinec, musí člověk oběhat 
+velkou spoustu úřadů a doktorů a je většinou rád, když pak už nikam nemusí. A tak si 
+říkám, jestli by nebylo dobré, kdyby existoval i terénní pracovník, který by docházel za 
+lidmi domů, popřípadě do organizací, které jsou „LGBT friendly“ a nabízel své služby 
+36
+tam, kde je třeba, protože kromě toho, že může být terénním pracovníkem, což je práce 
+s klientem v jeho přirozeném prostředí (srov. KLENOVSKÝ, 2006), může být zároveň 
+i koordinátorem, který poskytuje kontakty na ostatní odborníky, kteří se zabývají 
+transsexualitou. Tato práce by mohla sloužit jako podnět pro změnu
+multidisciplinárního týmu a k obohacení tohoto týmu o sociálního pracovníka.
+Myslím, že díky této práci se povedlo ukázat, že současná péče o transgender 
+jedince je nedostatečná.
+37
+Seznam použité literatury 
+Knižní zdroje
+1. GABAL, Ivan. Etnické menšiny ve střední Evropě: konflikt nebo integrace. Praha: G 
+plus G, 1999. ISBN 80-86103-23-4.
+2. ŠIŠKOVÁ, Tatjana. Menšiny a migranti v České republice. Praha: Portál, 2001. 
+ISBN 8071786489.
+3. MAŠÁT, Vladimír. Vybrané postupy sociální práce se skupinou. 1. vyd. Středokluky: 
+Zdeněk Susa, 2012, 157 s. ISBN 978-80-86057-80-4.
+4. FIFKOVÁ, Hana. Transsexualita a jiné poruchy pohlavní identity. Vyd. 2. Praha: 
+Grada, 2008. ISBN 978-80-247-1696-1.
+5. FAFEJTA, Martin. Úvod do sociologie pohlaví a sexuality. Ve Věrovanech: Jan 
+Piszkiewicz, 2004. ISBN 80-86768-06-6.
+6. NÝVLTOVÁ, Václava. Psychopatologie pro speciální pedagogy. Praha: Univerzita 
+Jana Amose Komenského, 2008. ISBN 978-80-86723-48-8 
+7. MATOUŠEK, Oldřich. Základy sociální práce. Praha: Portál, 2001. ISBN 80-7178-
+473-7.
+8. FIFKOVÁ, Hana. Transsexualita: diagnostika a léčba. Praha: Grada, 2002. ISBN 80-
+247-0333-5.
+9. JANOŠOVÁ, Pavlína. Dívčí a chlapecká identita. Praha: Grada, 2008. ISBN 
+8024722844
+10. MACEK, Petr. Adolescence: psychologické a sociální charakteristiky dospívajících. 
+Praha: Portál, 1999. ISBN 80-7178-348-X.
+11. DEVOR, Aaron H. FTM: female-to-male transsexuals in society. Bloomington: 
+Indiana University Press, c1997. ISBN 0253336317.
+12. PERRY, Mike. Klec pro majáky. Zlín: Kniha Zlin, 2011. Fleet, sv. 16. ISBN 978-
+80-87497-00-5.
+13. SMOLÍK, Petr. Duševní a behaviorální poruchy: průvodce klasifikací, nástin 
+nozologie, diagnostika [Smolík, 2002]. 2. revid. vyd. Praha: Maxdorf, 2002. ISBN 80-
+85912-18-X.
+14. FIFKOVÁ, Hana. O sexu s Hankou: výuková pomůcka pro studující středních a 
+vyšších zdravotnických škol. Praha: Grada, 1998. Psychologie pro každého. ISBN 80-
+7169-673-0.
+38
+15. VODÁČKOVÁ, Daniela. Krizová intervence. 3. vyd. Praha: Portál, 2012. ISBN 
+978-80-262-0212-7.
+16. KOSCUROVÁ, Zoja. Sociálna práca v škole: Teoreticko- výskumné reflexe 
+v školskom prostředí. Bratislava: IRIS, 2013. ISBN 978-80-89238-91-0
+17. BEŇOVÁ, Kateřina. Analýza situace lesbické, gay, bisexuální a transgender 
+menšiny v ČR. Praha: Úřad vlády ČR, 2007. ISBN 978-80-87041-33-8. 
+18. SKOBLÍK, Jiří. Transsexualismus. Praha: Karolinum, 2006. ISBN 80-246-1052-3.
+19. Etický kodex společnosti sociálních pracovníků ČR, 2006
+20. ZAKOUŘILOVÁ, Eva. Speciální techniky sociální terapie rodin. Praha: Portál, 
+2014. ISBN978-80-262-0583.8. 
+21. TŮMA, Jiří. Sociální práce a nová náboženská hnutí. Brno: L. Marek, 2011. Deus 
+et gentes. ISBN 978-80-87127-31-5.
+22. MATOUŠEK, Oldřich, KŘIŠŤAN, Alois, Libor MUSIL a Martin SMUTEK, 
+ed. Encyklopedie sociální práce. Praha: Portál, 2013. ISBN 978-80-262-0366-7.
+23. HAVRDOVÁ, Zuzana. Mít život ve svých rukou: o oblastech a postupech práce 
+komunitního pracovníka ve vyloučených lokalitách. Praha: Český západ a Fakulta 
+humanitních studií Univerzity Karlovy v Praze s obecně prospěšnou společností 
+Cheiron T, 2013. ISBN 978-80-87398-32-6.
+24. ŘÍČAN, Pavel a Dana KREJČÍŘOVÁ. Dětská klinická psychologie. 4., přeprac. a 
+dopl. vyd. Praha: Grada, 2006. Psyché (Grada). ISBN 80-247-1049-8.
+25. BOBEK, Milan a Petr PENIŠKA. Práce s lidmi. Brno: NC Publishing, a.s., 2008. 
+ISBN 978-80-903858-2-5. 
+26. KLENOVSKÝ, Libor. Terénna sociálna práca. Bratislava: Občanske združenie 
+Sociálna práca., 2006. ISBN 80-89185-18-5. 
+27. MATOUŠEK, Oldřich, Pavla KODYMOVÁ a Jana KOLÁČKOVÁ, ed. Sociální 
+práce v praxi: specifika různých cílových skupin a práce s nimi. Vyd. 2. Praha: Portál, 
+2010. ISBN 978-80-7367-818-0.
+Odborné články 
+1. MUSIL, Libor. Kvalifikovaný sociální pracovník je schopen s klientem samostatně 
+pracovat. Sociální práce: Role sociálního pracovníka. Brno: Asociace vzdělavatelů v 
+sociální práci, 2007, 2007(1), 7-11. ISSN 1213-6204.
+39
+2. KLIMENTOVÁ, Eva. Sociální pracovník má povinnost udělat vše potřebné pro 
+zlepšení situace klienta: Co by měli dělat sociální pracovníci jinak než dosud, aby se 
+zlepšila životní situace seniorů? Sociální práce: Role sociálního pracovníka. Brno: 
+Asociace vzdělavatelů v sociální práci, 2007, 2007(1), 25-26. ISSN 1213-6204.
+3. HANUŠ, Petr. Kdo je sociální pracovník a proč by měl být vzdělaný. Sociální práce: 
+Role sociálního pracovníka. Brno: Asociace vzdělavatelů v sociální práci, 
+2007, 2007(1), 5-6. ISSN 1213-6204.
+Elektronické zdroje
+1. LGBT aneb být tak trochu "jiný" - Jdi Do Klubu. Jdi Do Klubu [online]. Copyright 
+© 2012 [cit. 11. 12. 2017]. Dostupné z: https://www.jdidoklubu.cz/LGBT-aneb-byt-taktrochu-jiny-P7026386.html
+2. TRANS*PARENT[online].[cit. 12. 2. 2018]. Dostupné z: 
+https://cscz.facebook.com/transparentCZ/
+3. Malý průvodce matrikou pro TS osoby » Translidé « transsexualita a transgender. 
+Rozcestník » Translidé « transsexualita a transgender [online]. © 2003 [cit. 11. 12. 
+2017]. Dostupné z: http://www.translide.cz/matrika 
+4. Los Filipos: Filip jako neutrální jméno? I. Los Filipos [online]. © 2016 [cit. 14. 1. 
+2018]. Dostupné z: http://transfilip.blogspot.cz/2016/12/filip-jako-neutralnijmeno.html
+5. O nás [online]. [cit. 19. 12. 2017]. Dostupné z: http://www.stud.cz/o-nas.html
+6. Dopis spolupracovníkům » Translidé « transsexualita a transgender. Rozcestník » 
+Translidé « transsexualita a transgender [online]. [cit. 12. 2. 2018]. Dostupné z: 
+http://www.translide.cz/spolupracovnici
+7. O nás [online]. [cit. 22. 12. 2017]. Dostupné z: http://www.transparentprague.cz/codelame/
+8. Spektrum zdraví: přírodní léčba, lunární kalendář [online]. [cit. 19. 12. 2017]. 
+Dostupné z:http://www.spektrumzdravi.cz/transvestita-a-travestita-pojmy-ktere-secasto-zamenuji-avsak-jsou-velmi-rozdilne
+9. Odměny a tresty ve výchově | Respektovat. Respektovat [online]. [cit. 22. 12. 2017]. 
+Dostupné z: http://www.respektovat.com/clanky-rozhovory/odmeny-a-tresty-vevychove/
+10. Změna rodného čísla » Translidé « transsexualita a transgender. Rozcestník » 
+Translidé « transsexualita a transgender [online]. [cit. 17 .1 .2018] Dostupné z: 
+http://www.translide.cz/rodne-cislo
+40
+11. MKN-10. ÚZIS ČR | Ústav zdravotnických informací a statistiky ČR [online]. 
+Dostupné z: https://www.uzis.cz/cz/mkn/index.html
+12. 301/2000 Sb. Zákon o matrikách, jménu a příjmení. Zákony pro lidi - Sbírka 
+zákonů ČR v aktuálním konsolidovaném znění [online]. Copyright © [cit. 31. 01. 2018]. 
+Dostupné z: https://www.zakonyprolidi.cz/cs/2000-301
+13. PhDr. Eva Labusová - rodičovství - psychologie - zdraví. PhDr. Eva Labusová -
+rodičovství - psychologie - zdraví [online]. Copyright © 2006 [cit. 12. 02. 2018]. 
+Dostupné z: http://www.evalabusova.cz/vyvoj/puberta.php
+14. [online]. Copyright © 2009 [cit. 31. 01. 2018]. Dostupné z: 
+http://eagri.cz/public/web/mze/legislativa/pravni-predpisy-mze/tematickyprehled/100076054.html
+15. Změny v psychice a chování u dospívajících ve věku 11-15 let | duha.mzk.cz. 4 
+2017 Aktuální číslo elektronické verze časopisu Duha | duha.mzk.cz [online]. Copyright 
+© 2010, [cit. 12. 02. 2018]. Dostupné z: https://duha.mzk.cz/clanky/zmeny-v-psychicechovani-u-dospivajicich-ve-veku-11-15-let
+16. Vydávání nových diplomů a vysvědčení » Translidé « transsexualita a transgender. 
+Rozcestník » Translidé « transsexualita a transgender [online]. Dostupné z: 
+http://www.translide.cz/diplomy
+17. Hormonální terapie utranssexuálních osob » Translidé « transsexualita a 
+transgender. Rozcestník » Translidé « transsexualita a transgender [online]. Dostupné z: 
+http://www.translide.cz/hormonalni-terapie
+18. 198/2009 Sb. Antidiskriminační zákon. Zákony pro lidi - Sbírka zákonů ČR v 
+aktuálním konsolidovaném znění [online]. Copyright © [cit. 14. 02. 2018]. Dostupné z: 
+https://www.zakonyprolidi.cz/cs/2009-198
+19. Transvestita a travestita: pojmy, které se často zaměňují, avšak jsou velmi rozdílné. 
+Spektrum zdraví: přírodní léčba, lunární kalendář [online]. Dostupné z: 
+http://www.spektrumzdravi.cz/transvestita-a-travestita-pojmy-ktere-se-casto-zamenujiavsak-jsou-velmi-rozdilne
+20. Změna pohlaví? Vyšetření jsou ponižující, jsou to příšerné příběhy, říká trans žena -
+Aktuálně.cz. Video - Aktuálně.cz [online]. Copyright © Economia, a.s. [cit. 19. 1. 
+2018]. Dostupné z: https://video.aktualne.cz/dvtv/zmena-pohlavi-vysetreni-jsouponizujici-jsou-to-prisernepri/r~b22e9b3a19dd11e7b58d0025900fea04/?redirected=1521453097
+41
+21. Ne vším, čím jsem byl, byl jsem rád » Translidé « transsexualita a transgender. 
+Rozcestník » Translidé « transsexualita a transgender [online]. [cit. 03. 02.2018]
+Dostupné z: http://www.translide.cz/yoshiyuki
+22. Hidžry » Translidé « transsexualita a transgender. Rozcestník » Translidé « 
+transsexualita a transgender [online]. [cit. 03. 02.2018] Dostupné z: 
+http://www.translide.cz/hidzry
+23. Proti všem a navzdory » Translidé « transsexualita a transgender. Rozcestník » 
+Translidé « transsexualita a transgender [online]. [cit. 03. 02.2018] Dostupné z: 
+http://www.translide.cz/proti-vsem
+24. Psychoterapie vprocesu přeměny pohlaví » Translidé « transsexualita a transgender. 
+Rozcestník » Translidé « transsexualita a transgender [online]. [cit. 25. 03.2018]
+Dostupné z: http://www.translide.cz/psychoterapie
+25. Hormonální terapie u MtF | transsexualita.cz. transsexualita.cz [online]. [cit. 25.
+03.2018] Dostupné z: http://www.transsexualita.cz/?page_id=414
+26. Los Filipos: Operace na dosah. Los Filipos [online]. [cit. 25. 03.2018] Dostupné z: 
+http://transfilip.blogspot.cz/2017/04/operace-na-dosah.html
+27. Chirurgická konverze pohlaví u pacientů s transsexualismem. zdravi.euro.cz -
+Zdravotnictví a medicína [online]. [cit. 22. 03.2018] Dostupné z: 
+https://zdravi.euro.cz/clanek/sestra/chirurgicka-konverze-pohlavi-u-pacientu-stranssexualismem-474628
+28. Mastektomie (odstranění prsu, odstranění prsních žláz) na Estheticon.cz. 
+Estheticon.cz - vše o plastické chirurgii [online]. Copyright © 2006 [cit. 26. 03. 2018]. 
+Dostupné z: https://www.estheticon.cz/zakroky/mastektomie
+29. Základní etapy přeměny | transsexualita.cz. transsexualita.cz [online]. [cit. 12. 01. 
+2018]. Dostupné z: http://www.transsexualita.cz/?page_id=382
+30. Testosteron » Translidé « transsexualita a transgender. Rozcestník » Translidé « 
+transsexualita a transgender [online]. [cit. 07. 12. 2017] Dostupné z: 
+http://www.translide.cz/testosteron
+31. Systémová podpora profesionálního výkonu sociální práce. Role sociálního 
+pracovníka. Bc. Marie Smutná. [online]. Copyright © [cit. 26. 03. 2018]. Dostupné z: 
+https://www.mpsv.cz/files/clanky/19176/Smutna.pdf
+32. Sociální pracovník a pracovník v sociálních službách – Sociální revue. Sociální 
+revue – Sociální práce a společenské otázky [online]. Copyright © 2018 [cit. 26. 03. 
+2018]. Dostupné z: http://socialnirevue.cz/item/socialni-pracovnik-a-pracovnik-vsocialnich-sluzbach
+Rozhovory
+Rozhovor s paní J., matkou transgender jedince
+42
+Abstrakt
+BÍLKOVÁ, V. Role sociálního pracovníka při práci s transgender komunitou. České 
+Budějovice 2018. Bakalářská práce. Jihočeská univerzita v Českých Budějovicích. 
+Teologická fakulta. Katedra etiky, psychologie a charitativní práce. Vedoucí práce Mgr. 
+Markéta Elich, Ph.D.
+Klíčová slova: transgender, přeměna pohlaví, sociální pracovník, multidisciplinární 
+tým. 
+Bakalářská práce se zabývá životem transgender jedinců před coming outem a po něm. 
+Zejména se zabývá přeměnou pohlaví, a to od Real life testu až po samotný chirurgický 
+zákrok. Kromě životních etap se zde také můžeme dočíst o sociální práci a o tom, kde 
+se sociální pracovník může setkat s transgender jedincem a jestli má, nebo by měl mít 
+nějakou roli v přeměně. 
+Ve výzkumné části lze najít rozhovor s transgender jedincem, který odpovídal na 
+otázky. Tyto otázky se týkaly toho, zda je péče ze strany odborníků dostatečná a zda by 
+se do multidisciplinárního týmu, měl přiřadit ještě sociální pracovník, popřípadě jak by 
+mohl pomoci. 
+43
+Abstract
+The role of the Social worker in work with transgender community. 
+Key words: transgender, gender transformation, social worker, multidisciplinary team.
+The bachelor thesis deals with transgender life before and after coming out. It deals 
+especially with gender transformation from Real life test, till surgery intervention. In 
+this thesis you can discove life stages, social work and also where social workers can 
+meet transgender persons. And if social worker has or should have some role in gender 
+transformation. 
+In the research section, is interview with person who experienced this 
+transformation. This person answered my questions about life, and multidisciplinary 
+team. I asked If care for transgender person is sufficient. Or if social worker should join 
+in this team. And how social worker can help. 

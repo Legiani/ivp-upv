@@ -1,0 +1,13 @@
+Edukometrie:  speciální statistický obor, který se zabývá testováním testů - tedy měří kvalitu školních zkoušek
+jeden z přístupů zabývající se měřením pedagogických jevů, výsledků výuky, kontrolováním a aplikací testů za pomocí statistických postupů a vyhodnocování.
+Kirkpatrikův model:
+PDCA: PDCA bývá také známá pod názvy jako Demingův cyklus/kolo, Shewhartův okruh/řídicí cyklus anebo PDSA (z anglického plan-do-study-act neboli naplánuj-proveď-nastuduj-jednej
+	P: plan
+	D: do
+	C: check
+	A: act
+Druhy didaktických testů: testy rychlosti, testy úrovně, testy standardizované, testy nestandardizované, testy kognitivní, testy psychomotorické, testy výsledků výuky, testy studijních předpokladů. Testy rozlišující, testy ověřující, testy vstupní, testy průběžné, testy výstupní
+NR testy: (norm-referenced tests) rozlišující testy – testy relativního výkonu
+U rozlišujících testů se výkon žáka určuje vzhledem k populaci testovaných. Testy jsou konstruovány tak, že umožňují rozhodnout, jaký výkon v testu žák dosáhl vzhledem k celé populaci, k níž patří. Dle něj lze posoudit, zda je žák ve srovnání s ostatními žáky "podprůměrný", "velmi slabý".
+CR testy: (criterion-referenced tests). Testy ověřující: Také je lze nazývat testy absolutního výkonu, kriteriální testy nebo CR testy. Cílem je prověřit úroveň vědomostí v přesně vymezené oblasti. Výkon testovaného se přitom nesrovnává s výkonem jiných žáků, ale vyjadřuje se vůči všem úlohám, které reprezentují určité učivo. Testy jsou konstruovány tak, aby se vybralo učivo, které žák bezpečně zvládá. Ověřující testy se v praxi téměř neužívají.
+Testy studijních předpokladů: Měří úroveň obecnějších charakteristik jedince, které jsou potřebné k dalšímu studiu. Testy by se měly používat při přijímání žáků ke studiu na vyšší typ školy. Konstrukce tesů je složitější než testy výsledků výuky - vyžaduje pedagogickou i psychologickou kvalifikaci pedagoga.

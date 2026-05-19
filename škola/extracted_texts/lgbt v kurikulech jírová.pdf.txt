@@ -1,0 +1,1908 @@
+1
+Univerzita Karlova v Praze
+Pedagogická fakulta
+Ústav výzkumu a rozvoje vzdělávání
+DIPLOMOVÁ PRÁCE
+Problematika LGBT v českých a zahraničních kurikulárních materiálech
+LGBT topics in Czech and international curricular materials
+Bc. Dominika Jírová, DiS.
+Vedoucí práce: RNDr. Dominik Dvořák, Ph.D.
+Studijní program: Učitelství pro střední školy
+Studijní obor: Učitelství všeobecně vzdělávacích předmětů pro základní školy 
+a střední školy pedagogika — výtvarná výchova
+2016
+2
+Prohlašuji, že jsem diplomovou práci na téma Problematika LGBT v českých a zahraničních 
+kurikulárních materiálech vypracovala pod vedením vedoucího práce samostatně za použití 
+v práci uvedených pramenů a literatury. Dále prohlašuji, že tato práce nebyla využita k získání 
+jiného nebo stejného titulu.
+Praha 15. července 2016
+........................................................
+ podpis
+3
+Ráda bych na tomto místě poděkovala zejména svému vedoucímu diplomové práce za 
+profesionální, morální a lidskou podporu. Nesmírně si vážím jeho rad, připomínek a času, 
+který mi věnoval. Dále bych ráda vyjádřila svůj velký dík těm, kteří mě inspirovali i těm, co 
+mě na cestě podporovali a provázeli až do cíle.
+4
+ABSTRAKT
+Práce je přehledem současných teoretických a kurikulárních přístupů k sexuálním minoritám 
+v rámci vzdělávání. Zabývá analýzou kurikulárních dokumentů a teoretických východisek 
+přístupu k (sexuálním) menšinám ve vzdělávání v České republice a relevantními dokumenty 
+dostupnými v anglickém jazyce na téma vzdělávání ohledně leseb, gayů, bisexuálů, 
+transexuálů a transgender osob (LGBT). Dokumenty pro analýzu byly vyhledány metodou 
+sněhové koule. Cílem bylo zanalyzovat situaci v České republice a porovnat ji s výsledky ze 
+zahraničí, na základě čehož bylo vytvořeno jednoduché kategorizační schéma a jsou navržena 
+doporučení pro revizi kurikula. Výsledkem je tedy přehled materiálů a jejich obsahů v České 
+republice a srovnání se zahraničními, anglicky psanými materiály.
+KLÍČOVÁ SLOVA
+analýza kurikula, menšiny, sexuální orientace, Česká republika
+5
+ABSTRACT
+The paper is a review of contemporary theoretical and curricular approaches to sexual 
+minorities in education. It analyses the curricula documents, the theoretical bases of access to 
+(sexual) minorities in education in the Czech Republic and relevant documents available in 
+English-speaking countries on Lesbian, Gay, Bisexual, and Transgender–related (LGBT). 
+Document analysis was performed using the “snowball” method. The aim is to analyse the 
+situation in the Czech Republic and compare it with results from abroad, then there are the
+proposed recommendations for the curriculum revision. The conclusion brings a list of 
+materials and their contents in the Czech Republic and a comparison with foreign materials 
+written in English.
+KEYWORDS
+curriculum analysis, minorities, LBGT, Czech Republic
+6
+Obsah
+1 Úvod...............................................................................................................................8
+1.1 Výzkumný problém.................................................................................................9
+2 Přehled problematiky v odborné literatuře ..................................................................10
+2.1 Terminologie a nestigmatizující jazyk ..................................................................10
+2.2 Krátký historický přehled vývoje problematiky v Česku .....................................13
+2.3 Klíčové zahraniční odborné studie........................................................................17
+2.4 Téma LGBT v kurikulu anglicky psaných materiálech .......................................18
+2.4.1 Historie kurikula ............................................................................................19
+2.4.2 Sexuální zdraví ..............................................................................................20
+2.4.3 Analýza vnímání heteronormativity na školách; pozice LGBT žáků v kolektivu 
+a šikana 21
+2.4.4 Obsahová analýza LGBT témat ve vzdělávacích materiálech.......................23
+2.5 Queer teorie...........................................................................................................23
+3 Metoda a výsledky.......................................................................................................25
+3.1 Tematická analýza pohledů na problematiku LGBT v českých kurikulárních a 
+metodických dokumentech a odborné pedagogické literatuře.........................................25
+3.1.1 Téma: Reprezentace problematiky LGBT v kurikulu základního vzdělávání v 
+ČR 27
+3.1.2 Téma: Pozice LGBT žáků v kolektivu a šikana ............................................31
+3.1.3 Téma: LGBT učitel........................................................................................38
+3.1.4 Téma: Postoje (budoucích) učitelů a práce s nimi.........................................39
+3.2 Reprezentace tématu LGBT v souvislosti se vzděláváním v aktivitách (neziskových) 
+organizací.........................................................................................................................44
+7
+4 Diskuse výsledků .........................................................................................................52
+4.1.1 Omezení studie ..............................................................................................54
+5 Závěr............................................................................................................................55
+6 Seznam použitých informačních zdrojů ......................................................................57
+8
+1 Úvod
+V současnosti je snad nejvíce diskutovaným tématem v oblasti školství inkluzivní přístup. 
+Zahraniční autoři zdůrazňují, že škola nebude nikdy plně inkluzivní, pokud nebude otevřená a 
+vstřícná také vůči genderově nonkonformním jedincům.
+Když se mi můj dobrý přítel, čerstvě na vysoké škole, svěřil, že rád obouvá vysoké podpatky, 
+čekala ho ještě dlouhá a složitá cesta za hledáním sebe sama, přes svou rodinu, přátele i 
+renomované sexuology. První reakce okolí přinesly otázku na jeho orientaci. I já jsem se tak 
+zeptala a uvědomila jsem si, jak málo o tématu vím (a to si dovolím tvrdit, že jsem o něco 
+málo informovanější, než většina populace). Za nějaký čas jsem se sestěhovala do společného 
+bytu s přáteli a měla jsem štěstí na dvě úžasné ženy, partnerky, které mi daly nahlédnout do 
+fungování jejich života, který se jen v detailech liší od toho „většinového“. Lukáš dál zůstal 
+heterosexuálním mladým mužem, který prostě vlastní několik párů lodiček, a mé přítelkyně 
+přemýšlejí o založení rodiny. Přeji si, aby Lukášova cesta k vlastní identitě byla méně trnitá a 
+aby děti Vendy mohly dát v družině pusu oběma svým mámám, bez tázavých pohledů 
+spolužáků.
+Navzdory tomu, že Česká republika (res. bývalé Československo) patřilo a patří k zemím, 
+které historicky mezi prvními liberalizovaly přístup k homosexualitě a postoje občanů jsou 
+dlouhodobě jedny z nejliberálnějších v celosvětovém měřítku, tak z hlediska vzdělávání a 
+výchovy je tato oblast u nás ve srovnání se situací v zahraničí na svém počátku.
+Tato práce je malým příspěvkem k objasnění důležitosti inkluzivního přístupu z pohledu 
+genderové nonkonformity. Práce se skládá z následujících částí. V kapitole 2 uvedu čtenáře 
+do problematiky (včetně jazyka), jejího přehledu v odborné literatuře zejména s využitím 
+zahraničních, anglicky psaných odborných studií. Navazuje kapitola 3, kdy analyzuji 
+výsledky českých kurikulárních dokumentů v návaznosti na anglicky psané materiály. 
+Diskuze obsahuje rozbor, některá srovnání, limity práce a potenciální možnosti pro další 
+zkoumání. Závěr stručně shrnuje výsledky celé práce.
+I když původním záměrem této práce bylo analyzovat především obsah výukových cílů a 
+učivo vztahující se k problematice sexuálních menšin, ukázalo se potřebné zaměření práce 
+částečně upravit, a to nejméně ze dvou důvodů. Za prvé, dokumenty regulující obsah 
+9
+vzdělávání v české základní škole se tomuto tématu věnují v minimální míře. Za druhé, a to 
+hlavně, rešerše odborné literatury i analýza dostupných českých materiálů ukázala, že 
+nejméně stejně významná je problematika prostředí ve škole z hlediska postojů a chování 
+ke genderově nonkonformním jedincům, ať už se jedná o žáky (a potenciálně jejich rodiče, 
+zákonné zástupce nebo členy rodiny), nebo učitele a další pedagogické i nepedagogické 
+pracovníky školy. V průběhu práce se tak do popředí dostala témata jako homofobní šikana 
+nebo otázky sexuální identity a orientace učitelů, které lze zařadit do širšího okruhu 
+problematiky skrytého kurikula nebo psychosociálního klimatu školní instituce. Stejně tak se 
+kromě materiálů vydávaných státními orgány odpovědnými za tvorbu kurikula ukázalo 
+důležité zmapovat činnost dalších aktérů, hlavně neziskových orgnizací.
+1.1 Výzkumný problém
+V této práci provedu analýzu některých klíčových česky a anglicky psaných dokumentů o 
+teoretických východiscích přístupu k (sexuálním) menšinám ve vzdělávání. Dle navržené 
+metodologie zpracuji přehled o kurikulárních a metodických materiálech z hlediska formy a 
+hlavních témat, které jsou v anglickém jazyce přístupné na webu. Zjištěné výsledky kriticky 
+posoudím v rámci situace v této oblasti v České republice.
+Jak ukazuji v následující kapitole své práce, má problematika LGBT v zahraniční pedagogice 
+již tradici několik desítek let a existuje řada kurikulárních a metodických materiálů pro 
+učitele. Naproti tomu v České republice se pozornost těmto otázkám jak v oblasti 
+pedagogického výzkumu, tak ve vzdělávací praxi věnuje teprve nedávno. Výzkumné otázky, 
+které si kladu, jsou:
+Jaká hlavní témata jsou řešena v souvislosti se vzděláváním žáků majority i sexuálních 
+menšin v zahraničí?
+Která z nich jsou již reflektována i v české odborné a metodické literatuře?
+Jaký je přínos nevládních organizací v ČR?
+Co by mohly být nejbližší další kroky z hlediska výzkumu a tvorby kurikula?
+10
+2 Přehled problematiky v odborné literatuře
+V analýze výskytu problematiky v odborné literatuře můžeme postupovat vícerým způsobem. 
+Literaturu můžeme třídit z hlediska regionálního původu, zvolené výzkumné strategie, 
+konkrétního výzkumného problému, nebo také z hlediska paradigmatické pozice.
+V sociálních vědách můžeme rozlišit několik hlavních paradigmat. Pro nás se ukázalo 
+důležité rozlišit práce zaměřené spíše pozitivisticky, které usilují o objektivní a neutrální 
+popis reality, a sociálně-kriticky laděné, kterým je společné kritické hodnocení stávající 
+situace a snaha společenskou situaci změnit, v našem případě zlepšit postavení LGBT 
+majority nebo její sebeprožívání. Mohli bychom se setkat z hlediska ideového i s další pozicí, 
+která se k problematice LGBT (a obecněji multikulturality) staví odmítavě, popírá ji či ji 
+hodnotí negativně. 
+2.1 Terminologie a nestigmatizující jazyk
+Vyjasnění terminologie je samozřejmým vstupem do řešení každého odborného problému. 
+V případě tématu mé práce je však otázka terminologie a jazyka ještě významnější, neboť má 
+nejen odborné, ale také sociokulturní a etické dopady. Jazyk se v tomto případě výrazně podílí 
+na konstruování sociální reality. Jazykové kódování problematiky odráží to, jakým způsobem 
+na komunitu LGBT společnost pohlíží. Volbou různě emočně zabarvených výrazů v rámci 
+diskuze o tématu dávají jednotlivci i celé skupiny najevo svůj postoj. Na začátku je třeba 
+rozlišit pojmy sexuální identity a sexuální orientace. Oba pojmy spolu úzce souvisí, ale 
+neříkají to samé. Sexuální identita je součástí identity jedince, určuje, jak jedinec identifikuje 
+sebe samotného, jak sám sebe vnímá. Sexuální identita se může měnit během života jedince a 
+může, ale také nemusí, korespondovat se sexuální orientací. Sexuální identita se projevuje 
+v rámci sexuálního chování jedince. Pojem sexuální orientace se dnes považuje za převážně 
+vrozenou a vyjadřuje to, jak je přitahován, citově či sexuálně, k osobám jiného, stejného,
+obou pohlaví či žádného pohlaví (Horowitz & Newcomb, 2002, Reiter, 1989). V případě, že 
+jedinec není přitahován žádným pohlavím, hovoříme pak o asexualitě. Tímto tématem se ale 
+ve své práci nebudu podrobněji zabývat. 
+Už na počátku není snadné rozlišit a definovat přesně pojmy lesbická, gay a bisexuální (LGB) 
+menšina a komunita. Zejména pro nezasvěceného pozorovatele je velmi náročné určit hranici 
+11
+mezi tím, kdo je příslušníkem LGB komunity a kdo se již řadí do skupiny transgender. Pokud 
+se dotkneme bisexuality, vedou se vědecké spory, jestli je tuto orientaci vůbec možné 
+definovat a zda se nejedná pouze o dočasnou nejasnost, nevyhraněnost jedince. Ve své práci 
+budu bisexualitu považovat za rovnocenný pojem k označení lesba a gay. Nebudu rozporovat, 
+zda se jedná o otázku sexuální orientace či identity.
+A teď již k samotným pojmům a jejich definici. Na poli odborné komunity se setkáváme se 
+zkratkou LGBT . Laická veřejnost tuto zkratku zpravidla nepoužívá, protože jí není dobře 
+znám její obsah. Členové majoritní společnosti, kteří tuto zkratku znají a umí ji správně 
+použít, jsou zpravidla lidé, kteří se z vlastního zájmu problematikou zabývají nebo mají ve 
+svém okolí člena této minority.
+LGBT je mezinárodně používaná zkratka, která označuje lesby (L), gaye (G), bisexuály (B) a 
+transgender osoby (T) (Analýza situace lesbické, gay, bisexuální a transgender menšiny v ČR, 
+2007), obecně lidi, kteří mají odlišnou sexuální orientaci či se identifikují jako příslušníci této 
+skupiny (platí v případě transgender osob, jedná se o identitu). Ve své práci považuji za 
+odlišnou sexuální orientaci takovou orientaci, která není považována za většinovou, tedy v 
+současné době jde o jinou než heterosexuální orientaci.
+Pojem lesba označuje v současnosti ženu, která je primárně sexuálně a citově přitahována 
+jinou ženou. Setkáváme se také v českém prostředí s označením „lesbička“, které evokuje 
+jakési „měkčí“ označení příslušnice sexuální menšiny. Setkala jsem se ve svém okolí s
+lesbami, které toto označení kvitují, ale také s těmi, které to dle jejich názoru ponižuje a 
+kladou otázku, proč by mělo být pojmenování orientace vůbec změkčováno.
+Majoritní společnost používá velmi často označení gay. V současnosti v České republice je 
+toto označení nejčastěji užíváno pro homosexuálně orientované muže. Čeština jej převzala 
+z angličtiny. V češtině i angličtině (a v jiných světových jazycích, které tento výraz převzaly) 
+se používá proto, abychom se vyhnuli používání hanlivých výrazů (například „homouš“, 
+„teplouš…“ atd.). Pokud ho užíváme jako přídavné jméno, zastupuje v podstatě výraz 
+homosexuální. V angličtině se tak výraz „gay“ vztahuje i k lesbickým ženám, ovšem toto 
+spojení se v češtině vůbec neužívá a vztahuje se výhradně k mužům.
+12
+V moderním pojetí výraz „bisexualita“ odkazuje na širokou škálu lidské sexuální orientace 
+(popř. identity), tužeb a sexuálního chování. Tento termín začal být v angličtině používán ve 
+20. letech 19. století, původně pro jev, kdy organismus vykazoval biologické vlastnosti 
+mužského i ženského pohlaví (dnes hermafrodit či intersexuál). Na počátku 20. století, v době 
+společenských a kulturních změn, na základě vědeckých výzkumů lidské sexuality a 
+historického nástupu více zřetelných „same-sex“ (česky stejnopohlavních) subkultur, došlo 
+k úpravě užívání termínu „bisexuál“ pro jedince, kteří jsou sexuálně přitahováni oběma 
+pohlavími a mohou praktikovat homosexuální i heterosexuální aktivity. (Smith, 2008) 
+Sigmund Freud se bisexualitou, kterou nazýval obojakou inversí, zabývá v knize Tři úvahy o 
+sexuální teorii (Freud, 1905). Nový pohled na bisexualitu přinesl americký biolog Alfred 
+Kinsey, konkrétně jeho knihy, známé jako Kinseyho zprávy, kdy prováděl rozsáhlý výzkum 
+lidské sexuality. V roce 1948 vyšla část Sexuální chování muže a v roce 1953 Sexuální 
+chování ženy. Obě vyšly v dotisku v roce 1998. Kinseyho vyškolení tazatelé zpovídali 
+pro knihu Sexuální chování muže přes 5300 respondentů (Kinsey et al, 1948). Kinsey, ač 
+původně entomolog, se zaměřil na podrobné prozkoumání lidské sexuality. Známá a nejvíce 
+citovaná jeho škála sexuální orientace. Tato škála rozděluje populaci dle sexuálního chování, 
+nesleduje ale prožitek jedince. Kinsey rozdělil sedmibodovou škálu od 0 (výhradní 
+heterosexualita) do 6 (výhradní homosexualita). Kategorie X zahrnuje osoby, které nejsou 
+přitahování ani muži či ženami. Právě z této publikace pochází také tolik citovaný údaj o 4 % 
+homosexuálních mužů. (Kinsey et al, 1948).
+Zkratka LGBTI zahrnuje, kromě klasických pojmů – lesbická, gay, bisexuální, transgender –
+také poměrně náročně definovaný pojem „intersexuální“. Představit si, kdo je intersexuál, 
+měla potíž naprostá většina respondentů výzkumu homofonie a transfobie na českých školách 
+(PROUD, 2015), význam odhadlo pouze 13 % dotázaných.
+Výraz intersexuální lidé označuje jedince, které nelze jednoznačně zařadit do kategorie muž či 
+žena dle anatomické struktury pohlavních orgánů. V medicíně se užívá pojem hermafrodit, ale 
+v současné společnosti je přijatelnější právě pojem intersexuál (Dreger, 2009). Náročné je 
+definovat intersexuála proto, že existuje více (zejména lékařských) pohledů na problematiku 
+(například genetické, ne jen anatomické zkoumání intersexuálního jedince). Tento pojem je 
+také nejvíce diskutován právě z lékařského pohledu. Analýza socio-kulturního zařazení 
+13
+intersexuálních jedinců je tématem na samostatnou práci, nebudu se mu tedy ve své práci 
+podrobněji věnovat.
+Poslední podoba zkratky, kterou zde uvedu, je LGBTIQ, kdy písmeno Q reprezentuje výraz 
+“queer”. Většinou je používán jako pojem, který zaštiťuje všechny netradiční formy sexuality. 
+Zahrnuje jak kulturní, tak zejména sociálně diverzifikovanou skupinu obyvatel, jejichž 
+sexualita jakýmkoli způsobem nezapadá do společenských standardů reprezentovaných 
+monogamním heterosexuálním partnerstvím (Kůst, 2004). Toto chápání pojmu koresponduje 
+s názorem, že queer se zcela jistě řadí do postmoderních směrů chápání problematiky, je ve 
+stejné skupině jako feminismus a přispívá k širšímu a netradičnímu pohledu na zažité 
+generové kategorie (Pinar, 2003). S pojmem queer se můžeme setkat také jako se slangovým 
+výrazem, někdy dokonce hanlivým označením příslušníků homosexuální menšiny. Výraz 
+„queer“ v české společnosti často rezonuje s kulturou (festival Mezipatra), se stylem života 
+LGBT menšiny. 
+Homofobie je obava z homosexuality a homosexuálních osob, která může vést k pocitům 
+odporu, nepřátelství až nenávisti a může se stát základem pro odmítající, zesměšňující či 
+ubližující chování vůči homosexuálním lidem. (Smetáčková, Braun, 2009)
+Většinová společnost si často ani neuvědomuje, že k diskriminaci příslušník LGBT menšiny 
+nemusí nutně docházet přímou konfrontací s jejich orientací. K diskriminaci, a tím tedy 
+znesnadněním životního standardu, dochází již hanlivým užitím jazyka. Z výzkumu (PROUD,
+2015) vyplynula skutečnost, že respondenti (v tomto případě žáci a studenti), kteří se sami 
+identifikovali jako příslušníci LGBT, v polovině případů ojediněle, ve čtvrtině často slýchali, 
+slovní narážky související s jejich identifikací či orientací. 
+2.2 Krátký historický přehled vývoje problematiky v Česku
+V této kapitole se budu zabývat historií vnímání LGBT v rámci České republiky. Česká 
+republika je řazena z hlediska tolerance práv LGBT skupiny mezi nejvíce liberální země 
+Evropy. Podle průzkumu americké agentury Pew Research Center (výzkum globálního 
+pohledu na homosexualitu, zkoumáno 39 zemí) patří Česká republika na čtvrtou příčku 
+tolerance homosexuality. Jsme tak ve společnosti Španělska (88 %), Německa (87 %) a 
+Kanady (80 %) (Global Acceptance of Homosexuality, 2013).
+14
+Obrázek 1a, 1b Globální pohled na homosexualitu Zdroj: Global Acceptance of Homosexuality, 2013
+Vzhledem k politické historii České republiky není překvapující, že téma odlišné sexuální 
+orientace bylo před rokem 1989 tabuizováno. Proto se bude většina dat týkat nedávné historie, 
+15
+po Sametové revoluci. Stejnopohlavní styk přestal být stavěn mimo zákon, ale už před 
+Sametovou revolucí, konkrétně v roce 1962. Stalo se tak díky výzkumu československého a 
+později kanadského psychiatra Kurta Freunda. Freund je považován na zakladatele penilní 
+pletysmografie (též falometrie). Právě v roce 1962 v Praze vyšla kniha Homosexualita u muže
+(specializoval se na mužskou sexualitu). Jeho výzkum na identických dvojčatech prokázal, že 
+homosexualita není otázkou volby jedince, ale genetickou predispozicí. Na další zákonné 
+úpravy musela česká LGBT komunita čekat až do porevolučního roku 1990. V tento rok vešla 
+v platnost stejná hranice 15 let pro věk způsobilosti k pohlavnímu styku jak pro 
+heterosexuály, tak pro homosexuály (dříve byl homosexuální styk zákonem povolen až v 18 
+letech). V roce 1993 byla homosexualita v České republice vyjmuta ze seznamu nemocí. Rok 
+1999 přinesl zákaz diskriminace na základě sexuální orientace na pracovišti a v armádě
+(Seidl, 2012).
+Velkým zlomovým okamžikem se pro lesby a gaye v České republice stal zákon č. 115/2006 
+Sb. o registrovaném partnerství, který vstoupil v platnost roku 2006. Cesta k němu nebyla 
+jednoduchá. Celkem byl předložen čtyřikrát, a to v roce 1998, 1999, 2001 a 2005. I přes veto 
+tehdejšího prezidenta Václava Klause, mohou být registrovaná partnerství uzavřena od 
+1. července 2006. V roce 2009 vstoupil v platnost zákon č. 198/2009 Sb., o rovném zacházení 
+a o právních prostředcích ochrany před diskriminací a o změně některých zákonů 
+(antidiskriminační zákon). Adoptovat dítě může nesezdaný a nově i sezdaný homosexuální 
+jednotlivec. Stále však platí, že zákony České republiky neumožňují společnou adopci dítěte 
+stejnopohlavními páry. 
+Aktuálně vyšel návrh expertní komise, pod záštitou ministryně práce a sociálních věcí 
+Michaely Marksové, aby nová koncepce rodinné politiky přinesla možnost umělého 
+oplodnění ženám bez souhlasu mužského partnera. Ve světle zkoumané problematiky dává 
+tento návrh naději na další krok při cestě k možnosti legálního založení rodiny zejména 
+lesbickým ženám a párům.
+Zatím jsem se v této kapitole věnovala hlavně legislativě. Následující tabulka 1 proto přináší 
+také přehled vývoje postojů české veřejnosti k právům homosexuálů v České republice. 
+CVVM (Centrum pro výzkum veřejného mínění, oddělení Sociologického ústavu AV ČR, 
+v.v.i.)
+16
+Právo homosexuálů na
+2005200720082009201020112012201320142015
+vstup do manželství
++ 38 36 38 47 49 45 51 51 45 49
+- 51 57 55 46 45 48 44 44 48 47
+vstup do registrovaného partnerství
++ 61 69 75 73 72 72 75 72 73 74
+- 30 24 19 23 23 23 21 23 23 22
+adopce dětí
++ 19 22 23 27 29 33 37 34 – –
+- 70 67 65 63 60 59 55 57 – –
+adopce dětí partnera/partnerky
++ – – – – – – – – 58 59
+- – – – – – – – – 32 33
+adopce dětí z institucionální péče
++ – – – – – – – – 45 44
+- – – – – – – – – 48 49
+Tabulka 1: Vývoj postojů české veřejnosti k právům homosexuálů v České republice. (CVVM, 2016)1
+Výsledky ukazují, že právo pro vstup do manželství, jako svazku ekvivalentního 
+heterosexuálnímu manželství, je 49 % respondentů. Nejvíce (51 %) podporovalo manželství 
+homosexuálů v letech 2012 a 2013. Vstup do registrovaného partnerství je již deset let těší 
+podpoře nadpoloviční většiny respondentů. Podpora adopce dětí dosáhla svého vrcholu 
+v předposledním sledovaném roce (2012) 37 %. Od roku 2014 byla otázka adopce dětí 
+konkretizována a rozdělena na dva samostatné dotazy. Pro adopci dětí partnerky či partnera je 
+v současnosti 59 % respondentů, adopci dítěte z institucionální péče by podpořilo jen 44 % 
+dotázaných v roce 2015.
+Celkově lze říci, obyvatelé České republiky (těsnou) nadpoloviční většinou podporují většinu 
+dotazovaných práv homosexuálů. Co se demografických údajů týče, nejvíce kladné podpory 
+ 
+1
+Poznámka autorů výzkumu: Součet odpovědí „rozhodně ano“ a „spíše ano“ a součet odpovědí „spíše ne“ a 
+rozhodně ne“. Dopočet do 100 % u jednotlivých položek v každém roce tvoří odpovědi „neví“.
+17
+se dostává právům homosexuálů mezi lidmi do 29 let, jsou to ve většinou ženy, lidé, kteří 
+považují svou životní úroveň za dobrou a identifikují se jako politicky pravicově smýšlející. 
+Opět se tu potvrzuje fakt, že lidé, kteří mají ve svém okolí či v okruhu přátel homosexuály 
+(muže i ženy), podporují jejich práva (CVVM, 2015).
+2.3 Klíčové zahraniční odborné studie 
+Anglicky psané materiály jsou o poznání bohatší ve srovnání s českými (jak bude ukázáno 
+níže). Proto jsem musela najít systematický přístup, jak vybrat ty příklady, které jsou 
+současné, zásadní a mají širší dopad. Toto kritérium se promítá do zdrojů, ve kterých jsem 
+pátrala. Pro identifikaci nejvýznamnějších odborných studií k tématu diplomové práce jsem v 
+databázi WoS vyhledala anglicky psané dokumenty odpovídající klíčovým slovům: LGBT + 
+curriculum (53 položek), které jsem seřadila podle počtu citací. Pak jsem vyloučila články, 
+které se týkaly terciárního vzdělávání a lékařských oborů. Další kritérium, dle kterého byly 
+vyhledány ostatní články, zohledňovalo, jak odpovídá obsah článku vytyčenému tématu.
+Třídila a analyzovala jsem dokumenty dle klíčových slov a obsahu. Hledala jsem společná 
+témata napříč studiemi a články a porovnávala hlavní myšlenky a zjištění autorů. Tabulka 2
+uvádí pět nejvíce citovaných článků, které jsou dále využity pro popis stavu řešené 
+problematiky.
+Název dokumentu Země Rok vzniku Počet citací 
+(Toomey, McGuire, & Russell, 2012) USA 2012 25
+(Macgillivray & Jennings, 2008) USA 2008 21
+(Minton, Dahl, O’ Moore, & Tuck, 2008) Irsko 2008 14
+(Pingel, Thomas, Harmell, & 
+Bauermeister, 2013)
+USA 2013 13
+(Ballonoff Suleiman & Brindis, 2014) USA 2014 5
+Tabulka 2: Relevantní dokumenty s nejvyšším počtem citací v databázi WoS
+Dále jsem hledala v referenční literatuře, kde mi dobře posloužila obsáhlá Encyclopedia of 
+Curriculum Studies (editor Craig Kridel, 2010). Dále jsem hledala práce, které jsou v již 
+18
+nalezených zdrojích citovány, nebo je považuji, vzhledem k rokům vydání, za velmi aktuální.
+Jako úvod do této kapitoly jsem proto využila i knihu LGBTQ Youth and Education: Policies 
+and Practices, (Cris Mayo, 2013). 
+2.4 Téma LGBT v kurikulu anglicky psaných materiálech
+Jak zmiňuji výše, úvod do této část mé práce otevřu s publikací (Mayo, 2013)
+2
+. Co se týče 
+politiky a praxe vzdělávání na školách, dle Mayo hraje podstatnou roli školní prostředí a to, 
+jak se v něm cítí studenti, ale i učitelé identifikující se jako LGBT, bezpečně. Toto je zjištění, 
+které koresponduje i s výsledky výzkumů v České republice. Karen Graves3(2015) uvádí 
+zajímavé myšlenky ohledně práv LGBTQ menšiny v souvislosti se vzděláváním. Cituje 
+projev Bayarda Rustina ke skupině homosexuálních studentů na univerzitě v Pensylvánii 
+(1986), který pronesl, že boj za práva homosexuálů je „ústředním bojem naší doby, ústředním 
+bojem demokracie a ústředním bojem za lidská práva“ (Graves, 2015, s. 79). Je zajímavé, že 
+ačkoli je tato myšlenka stará 30 let, je velmi aktuální. Graves k tomu dodává, že právě 
+ochrana práv okrajových, opovrhovaných skupin je mechanismus, na kterém je postavena 
+demokracie. V této souvislosti je právě publikace Mayo zásadní text, který dává nahlédnout 
+těm, kteří chtějí porozumět LGBTQ tématu v rámci vzdělávání jednadvacátého století. Graves 
+oceňuje, že Mayo obratně naráží na zásady ve vzdělávání, vzhledem ke queer teorii tak, aby 
+byly informace relevantní jak pro vědce, kteří se v oblasti pohybují, tak pro ty, kteří do tématu 
+teprve pronikají. Tento přístup je třeba ocenit, protože právě laici tvoří tu většinu lidí, která 
+myšlenky tolerance a lidských práv v praxi žije, často na základě vědeckých poznání. Kniha 
+prochází skrz složitosti, napětí a vrstvy, které charakterizují studia sexuality v rámci školního 
+prostředí, a to způsobem, který respektuje komplikovanost tohoto úkolu. Mayo vnímá rozdíly, 
+které komplikují vzdělávání LGBTQ mládeže, například vnímání příslušníky queer skupiny 
+v rámci městského prostředí, vůči rozdílnému vnímání v prostředí venkovském. Dále zmiňuje 
+ 
+2 Cris Mayo je ředitelkou online vzdělávací sekce vzdělávací politiky na univerzitě Illinois. Byla oceněna cenou 
+„Queer SIG of the American Educational Research Association's Body of Work Award“ v roce 2014. V knize 
+otevřeně hovoří o své lesbické orientaci.
+3 Karen Graves je profesorkou univerzity Denison, Ohio, USA)3
+jejím oborem je historie a filozofie vzdělání, 
+queer teorie a vzdělávací politika, výzkumně se zaměřuje na školu dvacátého století ve Spojených státech se 
+zaměřením na gender a sexualitu a politiku týkající se vzdělávání (Denison University, 2016)
+19
+překážky ve vzdělávání z důvodu náboženství. Otázka náboženství není v českých 
+materiálech téměř zmíněna. Jedním z možných vysvětlení může být fakt, že podle průzkumu 
+agentury WIN/Gallup International z roku 2015, jehož výsledky byly publikovány 
+v prestižním The Telegraph (UK), je Česká republika čtvrtou nejvíce ateistickou zemí světa 
+(Creative, 2016). Mayo připomíná, aby učitelé vzali na vědomí svou zodpovědnost vůči 
+vzdělání LGBTQ žáků v souvislosti s náboženskými tendencemi. Nabádá učitele 
+k profesionalitě a připomíná fakt, že veřejné školy v USA nejsou náboženskými institucemi. 
+Mayo hovoří o neznalosti, nevědomosti, která ohraničuje, definuje znalost. Graves k tomuto 
+dodává, že právě tyto potíže, zapříčiněné neznalostí na poli genderu a sexuality ve školním 
+prostředí, zdůrazňuje chápání vzdělávání jako takového. Poukazuje, na fakt, že je těžké chápat 
+poměrně dlouhé mlčení ze strany Američan Educational Research Association (AERA) 
+v případě LGBTQ vzdělávání (Graves, 2015). Graves uzavírá svou recenzi tím, že jí chybí 
+konečný závěr a navrhuje závěr vlastní, kdy cituje část knihy, kterou volně překládám:
+Ať už velkolepě, jemně či proměnlivě, mladí lidé, kteří náleží k LGBTQ skupině, ve školách 
+jsou, na očekávaných i neočekávaných místech. Tak, jako některé formy LGBTQ vztahů a 
+komunit dosáhly uznání, je důležité, abychom nelimitovali to, co přijde dál, ale naopak 
+pomohli k ujištění, že vzdělávání může být zdrojem pro snahu nové generace (Graves, 2015). 
+Pokud zaměříme pozornost nejen na LGBTQ studenty, Quinn zmiňuje zajímavý fakt, že je 
+velmi náročné, dokonce nebezpečné, být známá jako lesba na poli vzdělávání. Odkazuje na 
+zdokumentované případy diskriminace, zažívané sexuální minoritou učitelů i studentů. 
+Dokonce tvrdí, že odborníci, i společenské normy, přináší tvrzení o tom, že být lesbickou 
+výzkumnicí je velmi náročné a stigmatizující a může to ovlivnit počet prováděných a 
+publikovaných výzkumů, zaměřených na problematiku leseb (Quinn in Kridel, 2010). Toto 
+tvrzení se mi v dalších materiálech nepodařilo vyvrátit, ani potvrdit, ačkoli Mayo se ve svých 
+publikacích otevřeně k homosexualitě hlásí (V podobném kontextu se dodnes diskutuje o 
+některých zjištěních Kinseyho).
+2.4.1 Historie kurikula
+Co se týče historie kurikula, Therese Quinn, která se zabývala výzkumem problematiky 
+optikou výzkumu postavení leseb, tvrdí, že ve vztahu k historii kurikula, která se kromě leseb 
+samotných dá vztáhnout na problematiku LGBTQ obecně, byl konceptuální i praktický 
+20
+prostor vytvořen díky feminismu (Quinn in Kridel, 2010). Počátky sahají do 50. let 20. století 
+a pokračují v 80. letech 20. století. Dle Quinn je tematika leseb obecně součást nulového 
+kurikula, kdežto heteronormativita a způsoby projevu heterosexuálního chování jsou legitimní 
+a objevují se jako normální a přirozené napříč společností, jsou součástí skrytého kurikula. 
+V tomto případě vysílá, dle autorky, skryté kurikulum ideologickou zprávu o správnosti 
+heterosexuality. Erik Malewski (in Kridel, 2010) uvádí, že velmi rozšířenou hybnou silou na 
+poli změny kurikula je ukázka reprezentantů LGBT napříč společností (herci, umělci, 
+bojovníci za lidská práva, vědci). Právě tyto příklady pomáhají bourat pozici „správnosti 
+heterosexuality“. Další možností je dle Malewskiho vštípit studentům znalost historie o 
+lidských právech a demokracii. V historii se setkáme s řadou významných osobností, které
+byly bisexuální, lesby či gayové, avšak v kurikulu jsou prezentovány jeho heterosexuální, 
+Tuto zkušenost potvrzuje i studie z UK, a to v rámci užívání jazyka v kurikulu – Santson a 
+Simpson (2011) uvádějí, že významní autoři, kteří jsou zařazeni do anglického kurikula a 
+prokazatelně se identifikovali jako LGB (například Oscar Wilde), nejsou ve spojitosti se 
+svými díly takto představeni studentům. Přitom právě jejich příslušnost k LGB skupině velmi 
+významně ovlivnila jejich tvorbu. 
+2.4.2 Sexuální zdraví
+Pingel a kol. (2013) na základě své studie zkoumali zkušenosti YGBQM (young gay, bisexual 
+and questioning men’s) se sexuální výchovou a jejím vlivem na sexuální chování. Zjistili 
+rozdíly mezi existujícím vzděláváním na poli sexuální výchovy a tím, co sami příjemci 
+vzdělávání, v případě konkrétně této studie YGBQM, považují za podstatné. Opět se tu 
+promítají i zjištění ostatních autorů napříč zkoumanými dokumenty, a to že heteronormativní 
+pojetí kurikula nedostatečně pokrývá potřeby a otázky mladých, kteří se identifikují jako 
+LGBT. Mladí nemají informace, které k zahájení svého bezpečného sexuálního života, 
+odlišného od majority, potřebují. Dokonce absence těchto témat implikuje, že sexualita 
+(YGBQM) je něco špatného a mělo to zůstat skryto. Čili fenomén heteronormativity je 
+podpořen prostřednictvím aktivního ticha. To potvrzuje i Quinn (2010), která podobně 
+zahrnuje tematiku leseb do nulového kurikula. Vzdělávací programy, které odmítají uznat 
+variace sexualit a sexuální identity, snižují dopad sexuální výchovy a neberou ohled na 
+potřeby LGBTQ mládeže. K tomuto zjištění lze připodobnit situaci v České republice. Jak 
+21
+jsem již zmínila v předchozích kapitolách, sexuální výchova na školách s ohledem na 
+potlačení heteronormativity není v českém kurikulu explicitně zmíněna. Autoři zdůrazňují, že 
+pole sexuálního zdraví, správných návyků atp. musí být ošetřeno, protože se jedná o 
+potenciálně velké nebezpečí z důvodu neinformovanosti (riziko pohlavně přenosných chorob, 
+HIV/AIDS). Apelují na to, aby i minority měly přístup k relevantním informacím, dokonce 
+bez ohledu, kterou cestou se k nim dostanou. Proto doporučují spolupráci se zákonodárci, 
+pedagogickými pracovníky, provozovateli webový stránek (ze kterých mladí často čerpají), 
+orgány ochrany veřejného zdraví a samozřejmě dotčené mladé generace. 
+2.4.3 Analýza vnímání heteronormativity na školách; pozice LGBT žáků v kolektivu a 
+šikana
+V této části práce jsem se zaměřila na vnímání heteronormativity na školách a s ní související 
+ovlivnění školního klimatu. Jako referenční dokument jsem zvolila studii Heteronormativita, 
+školní klima a vnímaní bezpečí v otázce genderové nonkonformních vrstevníků (Journal of 
+Adolescence, 2012).
+Školní klima je vnímáno prostřednictvím psychosociálního a akademického nastavení. Autoři 
+uvádějí, že role školy je velmi podstatná při nastavení pocitu bezpečí ve vzdělávací instituci 
+(Toomey a kol., 2012). Mayo (2013) dodává, že na základě různých zkušeností LGBTQ 
+studentů a sympatizantů LGBTQ skupiny, hlavní problémy, které školy musí řešit, pokud si 
+kladou za cíl zlepšit výsledky vzdělávání pro rovnost žen a sexuálních menšin, je právě 
+nastavení bezpečného školního klimatu. V tomto procesu se nejedná jen o žáky, jako 
+příslušníky LGBTQ skupiny, ale i o učitele. Mayo říká, že „jak pro queer žáky, tak queer 
+učitele, kategorie, které se v žádném případě vzájemně nevylučují, je vzdělání prostor 
+přesahu, úvah a vášně“ (Mayo, 2013, s. 80). Pokud školy zahrnuly do kurikula témata týkající 
+se problematiky leseb, gayů, bisexuálů, transgender a queer osob (LGBTQ) a působila na
+škole Gay-Straight Alliance, studenti vnímali prostředí školy jako bezpečnější pro genderově 
+nonkonformní vrstevníky (Toomey a kol., 2012). Existuje celá řada negativních zkušenosti 
+prožitých ve školním prostředí, které pracovníci (učitelé a vychovatelé) musejí brát na 
+vědomí. Konkrétně Mayo ve své publikaci vychází z denní interakce se studenty, která kromě 
+přímých sdělení negativního postoje na základě orientace či identity, zahrnuje jako následek 
+zneužívání návykových látek a myšlenky na sebevraždu. S tím souvisí poznatky dalších 
+22
+autorů, a to že kromě výše zmíněného dosahují takto napadaní studenti v USA horších 
+školních výsledků a vyšší míry absence (Toomey a kol., 2012). Stejnou zkušenost přináší i 
+studie ze Spojeného království, kdy autoři uvádí, že 63% učitelů potvrdilo negativní dopad na 
+práci studentů v souvislosti s homofonní šikanou (Sauntson, Simpson, 2011).
+Celkové klima současných škol (USA) výrazně utváří očekávání v oblasti vnímání norem 
+pohlaví (genderu) a sexuality. Školní klima je odrazem tlaku na heteronormativitu kolektivu a 
+každodenního očekávání studentů, co je “normální” na základě pohlaví a sexuality. Předchozí 
+studie dokazují, že studenti středních a vysokých škol jsou vystaveni riziku pronásledování ve 
+škole, pokud nejsou v souladu s normami ohledně vnímání genderu nebo sexuality. Též je 
+dobře zdokumentováno obtěžování na základě skutečné nebo vnímané sexuální orientace, 
+které je často založeno tom, že student nesplňuje genderové normy. V USA bylo prokázáno, 
+že studenti, kteří se přihlásili k LGBT orientaci, jsou častěji obětmi šikany, a to dokonce 
+čtyřikrát častěji. (Ryan a Rivers 2003).
+Studie se zabývá rolí školních strategií s cílem podpořit bezpečnost pro studenty, kteří se řadí 
+do genderově nevyhovující skupiny. Autoři uvádí, že nejvíce veřejné a výzkumné pozornosti
+je zaměřeno na sexuální orientaci a identitu, nebo školní sociálně-klimatické podmínky pro 
+lesbické ženy, gaye, bisexuální nebo queer (LGBT) žáky a studenty. Méně pozornosti je 
+věnováno genderové nonkonformitě, přestože právě normy genderového souladu podporují 
+heteronormativitu (Toomey a kol., 2012). I Mayo řeší, kromě problémů diskriminace, 
+obtěžování a odcizení, které LGBTQ mládež zažívá, kreativitu a odolnost při organizování 
+aktivit v boji proti těmto problémům na jednotlivých školách. Zkoumá výukové strategie, 
+inovativní projekty, revize osnov a politické iniciativy, které mají pozitivní vliv na vzdělávání 
+v oblasti LGBTQ a školního klimatu. 
+Data z kalifornského výzkumu Prevence obtěžování na školách, zkoumají způsoby, jak 
+indikátory heteronormativního školního prostředí, osobního i školního charakteru, 
+předpovídají vnímaní studentů ohledně bezpečnosti genderově nonkonformních vrstevníků.
+Studie Heteronormativita, školní klima a vnímaní bezpečí v otázce genderové 
+nonkonformních vrstevníků (Toomey a kol., 2012), popisuje heteronormativitu jako 
+společenský hierarchický systém, který přiznává výsady a uděluje sankce jednotlivcům na 
+základě předpokládané binarity pohlaví a sexuality, jako systém definuje a prosazuje 
+23
+přesvědčení a praktiky toho, co je "normální" v každodenním životě. Pohledem skrz rámec 
+heteronormativity lze vysvětlit, jak a proč přetrvává násilí vůči genderově nonkonformním 
+žákům a studentům. Regulace sexuality je rozhodující složkou heteronormativity, právě 
+utvořené normy a související interakce studentů ohrožují jedince, kteří porušují zavedené 
+normy a vystavují je riziku pronásledování. 
+2.4.4 Obsahová analýza LGBT témat ve vzdělávacích materiálech
+Obsahovou analýzu vzdělávacích materiálů ve vztahu k zmiňování LGBT témat provedli 
+Macgillivray a Jennings v USA (2008). Jako jeden z důvodů této analýzy uvedli obavu z toho, 
+že způsoby zobrazení (obrazového i slovního) mohou vést k upevnění stereotypů ohledně 
+LGBT lidí. K analýze zvolili 8 učebnic a všechny obsahovaly alespoň nějakou zmínku 
+k tématu. Povětšinou ale zmiňovali LGBT studenty jako ty, kteří jsou oběťmi a potřebují 
+pomoc. Tento přístup autoři ve svých závěrech velice kritizují. Opět to ukazuje na to, že 
+LGBT téma v kurikulu, když už je zmíněno, tak je spojeno s něčím výjimečným, a hlavně 
+negativním. A co je negativní, to by obecně mělo být skryto. Jen hrstka (konkrétně 3) 
+z učebnic popisovala strategie, jak vytvořit bezpečnější prostředí. Co se užití pojmů týče, 
+knihy zmiňovaly pojem sexuální orientace, ale v textu ho nevysvětlovaly. Nejméně 
+zastoupený a vysvětlený byl celkově pojem bisexualita. Autoři ve svých závěrech, kromě 
+očekávaných doporučení o přesnějším a komplexnějším pojetí problematiky, zmiňují 
+zajímavý fakt, že by materiály měly, mimo jiné, informovat o právech LGBT učitelů.
+2.5 Queer teorie
+Specifickou pozici v rámci odborného diskurzu má tzv. queer teorie (Pinar, 2003), která patří 
+k širšímu proudu postmoderního smýšlení, které, podobně jako feministické hnutí, 
+destabilizuje genderové kategorie. K jejím hlavním představitelům patří William Pinar, který 
+uvádí, že se poprvé s queer teorií setkal na základě dizertace Petera Taubmana v roce 1979. 
+Pinar uvádí, že právě queer teorie mu pomohla pochopit, že demokratizace americké 
+společnosti nemůže pokračovat bez radikální restrukturalizace jednostranné mužské bělošské 
+nadvlády (Pinar, 2003), 
+Cílem queer teorie je destabilizovat pojmy symbolicky i materiálně založené na normálnosti v 
+souvislosti s chápáním mezilidských vztahů (ve smyslu sexuálních i nesexuálních) a binaritě –
+24
+jako heterosexuální / homosexuální, které podporují status quo a neotvírají prostor k volbě 
+vlastního uchopení svojí sexuality. Queer teorie je akademický termín, ale má svůj původ v 
+sociálních hnutích a aktivitách, které probíhaly v rámci lesbické, gay, bisexuální, transgender 
+(LGBT) komunity, které se pokusily zůstat inkluzivní za předpokladu rozdílných chápání a 
+podmínek pro vztahy, a také rozmělnit dominující či podrobující hierarchie uvnitř chápání 
+sexuality rozložením logiky, která je udržuje. Na americké akademickém scéně se queer 
+teorie objevily v polovině 80. let minulého století jako forma kulturní a materiální kritiky.
+S výrazem queer je spojen Queer filmový festival Mezipatra4, který je pořádán skupinou 
+STUD Brno, jež působí od roku 1995. Smyslem festivalu je představit co nejširšímu a z 
+hlediska sexuální orientace smíšenému publiku kvalitní díla světové kinematografie. Festival 
+upozorňuje na neoddělitelnost intimního a společenského, jednotlivci a společnosti a nabízí 
+vyvážené zobrazení postav, které jsou v mainstreamové kultuře a médiích obvykle plné 
+stereotypů a klišé. Společně s ním se také pořádají výstavy, přednášky, workshopy a kulturní 
+akce, určené nejen těm, kteří se jako LGBTQ identifikují, ale také pro ty, kdo s nimi 
+sympatizují. V této souvislosti je až překvapivé, že první český snímek, kde hrálo téma LGBT 
+otevřeně hlavní roli – Pusinky – natočila až v roce 2007 Karin Babinská.
+ 
+4 Queer filmový festival Mezipatra je oficiální podtitul používaný od roku 2009
+25
+3 Metoda a výsledky
+V kapitole 2.3 jsem popsala systematický postup při tematické analýze zahraniční literatury. 
+Protože jedním z cílů mé práce je porovnání situace v zahraničí a v České republice, jsou 
+zahraniční a české prameny popsány zvlášť.
+Postup v druhé části práce lze zahrnout pod široce chápanou analýzu dokumentů. Dokumenty 
+byly určeny na základě konzultace s vedoucím práce, hledání na webu podle klíčových slov 
+(viz 2.3) a metodou sněhové koule, kdy jsem do výzkumu zařazovala dokument citované 
+v materiálech již nalezených dříve. Některé informace jsem získala přímými dotazy u 
+neziskových organizací, které se zkoumanou problematikou zabývají. Postupně, vzhledem 
+k omezenému počtu českých odborných textů, jsem přidala i další typy zdrojů – bakalářské, 
+diplomové a disertační práce a přehled činností neziskových organizací. 
+3.1 Tematická analýza pohledů na problematiku LGBT v českých 
+kurikulárních a metodických dokumentech a odborné pedagogické 
+literatuře
+Uchopit téma LGBT v českých materiálech bylo poměrně náročné. Ve srovnání se stavem 
+v zahraničí (zejména anglicky mluvícím), který ukazují kapitoly výše, dostupných materiálů, 
+které by přímo souvisely s tématem, je poměrně málo. Určitý problém vznikl při rozlišení 
+kategorií literatury, protože zejména není ostrá hranice mezi kurikulárními dokumenty a 
+metodickými doporučeními státních orgánů, podpůrnými materiály pro učitele, a někdy i 
+odbornou literaturou, která vychází s podporou státních orgánů. Tabulka 3 proto shrnuje 
+dohledané relevantní dokumenty chronologicky, jak byly postupně publikovány. 
+26
+Název dokumentu Rok 
+vzniku
+Typ dokumentu/adresát Autor/Autoři
+Rámcový vzdělávací 
+program ZV
+2007 Kurikulární dokument, určeno pro 
+školy, jejich vedení, učitele všeobecně, 
+metodiky vzdělávání, výchovné poradce
+MŠMT
+Vybrané psychologické 
+souvislosti genderu v 
+prostředí školní třídy
+2008 Studie, určeno pro odbornou veřejnost, 
+učitele, školy, jejich vedení, učitele 
+všeobecně, metodiky vzdělávání, 
+výchovné poradce 
+Janošová
+Sexuální výchova, 
+vybraná témata
+2009 Příručka zaštítěná MŠMT, pro školy, 
+jejich vedení, učitele všeobecně, 
+výchovné poradce, školní preventisty
+MŠMT a VÚP
+Homofonie v žákovských 
+kolektivech 
+2009 Metodická příručka, doplňkový 
+výukový materiál pro ZŠ a SŠ včetně 
+didaktické aplikace tématu, určeno pro 
+pro školy, jejich vedení, učitele 
+všeobecně, metodiky vzdělávání, 
+výchovné poradce, žáky/studenty 
+obecně, žáky/studenty – členy LGBTQ 
+komunity
+MŠMT, 
+Smetáčková, 
+Braun
+Metodické doporučení
+k primární prevenci 
+rizikového chování
+u dětí, žáků a studentů
+ve školách a školských 
+zařízeních
+2010 Metodický pokyn určeno pro školy, 
+jejich vedení, učitele všeobecně, 
+výchovné poradce, školní preventisty
+MŠMT
+Nová cesta k léčbě 
+šikany
+2011 Kniha, určeno pro odbornou veřejnost, 
+učitele, rodiče, vedení škol, výchovné 
+poradce, preventisty
+Kolář
+Metodický pokyn MŠMT
+k řešení šikanování ve 
+školách a školských
+zařízeních
+2013 Metodický pokyn určeno pro školy, 
+jejich vedení, učitele všeobecně, 
+výchovné poradce, školní preventisty
+MŠMT
+27
+Celostátní konference 
+MŠMT, MLPRPaL a 
+PROUDu „Homofobie a 
+transfobie jako téma pro 
+českou školu“
+2014 Výstup z konference určeno pro 
+odbornou veřejnost, učitele, školy, 
+jejich vedení, učitele všeobecně, 
+metodiky vzdělávání, výchovné poradce 
+MŠMT, 
+MLPRPaL a 
+PROUD
+Postoje univerzitních 
+studentů pedagogicky 
+orientovaných studijních 
+programů k 
+homosexualitě měřené na 
+škále Homosexuality 
+Attitude Scale
+2015 Výzkumná práce, určeno pro odbornou 
+veřejnost
+Pedagogická 
+orientace, 
+Hlaďo
+České školy pod lupou: 
+Výzkum homofobie a 
+transfobie na školách
+2015 Výzkum určeno pro odbornou 
+veřejnost, učitele, školy, jejich vedení, 
+učitele všeobecně, metodiky vzdělávání, 
+výchovné poradce 
+PROUD
+Tabulka 3: Současné pohledy na problematiku LGBT v odborné pedagogické literatuře
+3.1.1 Téma: Reprezentace problematiky LGBT v kurikulu základního vzdělávání v 
+ČR
+V České republice je společnost poměrně tolerantní, co s přístupu k tématu LGBT i 
+studentům hlásícím se k LGBT menšině týče. Ovšem už v žákovských kolektivech, kde se o 
+odlišné sexuální orientaci nemluví nebo kde se neřeší dostatečně či je podávána negativně, 
+vznikají homofobní tendence.
+Téma LGBT však z pohledu nejvyššího v současné době platného předpisu pro tvorbu 
+kurikula českého základního vzdělávání – tedy RVP ZV – spadá pod nulové kurikulum. Do 
+nulového kurikula spadají povětšinou témata, která jsou špatně uchopitelná z hlediska svého 
+emočního obsahu, či jsou potenciálně konfliktní na poli základních hodnot a přesvědčení o 
+smyslu vzdělávání jako takového. Velmi často je právě obsah nulového kurikula předzvěstí 
+podstatných a zásadních témat, které se prolínají společností. 
+Návod či nástroje pro učitele, aby tuto problematiku uchopili a dokázali jí co nejobjektivněji 
+předat svým žákům, na poli Rámcového vzdělávacího programu není dostatečně představen. 
+Přitom právě žáci druhého stupně základních škol jsou ve svém vývoji nejohroženější 
+28
+skupinou. Dalo by se tvrdit, že vynechání zásadních otázek minoritní sexuality a minoritní 
+sexuální orientace je ve své podstatě k příslušníkům minority diskriminační. 
+Na druhou stranu se ukázalo, že na poli LGBT tématiky vznikla v posledních letech často 
+přímo z iniciativy MŠMT ČR (popř. VÚP – nyní Národní ústav pro vzdělávání) paleta 
+materiálů, které uchopují problematiku z hlediska vedení škol a pedagogických pracovníků
+(viz dále). Avšak vzhledem k tomu, že tyto uvedené materiály mají charakter pouze 
+metodických doporučení a nejsou závazně zahrnuty v RVP (a tím se asi nedostaly ani do 
+ŠVP), je na každém učiteli či pedagogickém pracovníkovi, jak přístup k tématu, a jestli vůbec, 
+zvolí, jak a kde si informace vyhledá a využije je. Přitom ze zahraničí je známo Malins 
+(2016), že učitelé, pokud mohou, se těmto tématům vyhýbají, v neposlední řadě také pro 
+obavy z rodičů. Výslovné zařazení by jim poskytlo oporu. O potřebě formální opory 
+Ministerstva školství a krajských úřadů v boji proti šikaně píše i Kolář (2001).
+Správné uchopení tématu LGBT, by mohlo spoustě mladým lidem pomoci nalézt cestu 
+k vlastnímu uvědomění a sexualitě. Nemíním tu pouze situaci, kdy si mladý člověk uvědomí 
+svoji příslušnost k sexuální minoritě, ale třeba i ujištění, že patří k majoritě. Nemusí se přitom 
+jednat jen o uvědomění vlastní sexuality. Vzhledem k tomu, že ke společenským normám 
+dnešní doby patří tolerance, čím dál více rodin neskrývá, že rodičovský pár je homosexuální. 
+Považuji to za zcela přirozenou věc. Rámcový vzdělávací program se ale vůbec nedotýká 
+tématu homosexuálních rodin, ze kterých někteří spolužáci, ač třeba příslušníci majority, 
+pochází. 
+Následující řádky se věnují rozboru Rámcového vzdělávacího programu, konkrétně verzi 
+upravené v lednu 2016. Rámcový vzdělávací program pro základní vzdělávání nabádá, v části 
+„Výchova k občanství“, k toleranci: „objasní potřebu tolerance ve společnosti, respektuje 
+kulturní zvláštnosti i odlišné názory, zájmy, způsoby chování a myšlení lidí, zaujímá tolerantní 
+postoje k menšinám“(s. 57). V tomto bodě bychom mohli shledat prostor, aby pedagog sám 
+žákům vymezil, co jsou menšiny. Menšiny jsou velice široký pojem a není zde explicitně 
+uvedeno, jaké menšiny by zmíněny být měly. Míra tolerance je také velmi relativní, opět 
+záleží na učiteli, jakým způsobem a jestli vůbec bude zařazovat téma do výuky. Dále RVP 
+uvádí boj proti nesnášenlivosti: „rozpoznává netolerantní, rasistické, xenofobní a 
+29
+extremistické projevy v chování lidí a zaujímá aktivní postoj proti všem projevům lidské 
+nesnášenlivosti“(RVP, s. 57). RVP přímo zmiňuje potíže rasismu, extremismu a xenofobního 
+jednání. Z hlediska nesnášenlivosti by bylo vhodné zařadit i kategorii homofobie tak, jako je 
+již uváděna v metodických materiálech pro prevenci sociálně patologických jevů.
+Část „Výchova ke zdraví“ se dotýká tématu sexuality, avšak bez konkrétního vyjádření 
+postoje k LGBT tématu. „respektuje význam sexuality v souvislosti se zdravím, etikou, 
+morálkou a pozitivními životními cíli; chápe význam zdrženlivosti v dospívání a odpovědného 
+sexuálního chování“ (RVP, s. 93) Není zde zmíněn význam sexuality ve smyslu sexuální 
+orientace, či identity. Stejně tak se sem dá zahrnout i problematika genderu a genderově 
+nonkonformních spolužáků, která je s tématem identity velmi úzce spjata.
+Dále se oblasti sexuálního chování letmo dotýká kapitola „Člověk a jeho svět“: „uplatňuje 
+ohleduplné chování k druhému pohlaví a orientuje se v bezpečných způsobech sexuálního 
+chování mezi chlapci a děvčaty v daném věku“ (s. 50) V tomto případě se RVP zaměřuje 
+spíše na zdravotní aspekty sexuality. 
+Stejná kapitola také obsahuje část: „partnerství, manželství, rodičovství, základy sexuální 
+výchovy – rodina, vztahy v rodině, partnerské vztahy, osobní vztahy, etická stránka vztahů, 
+etická stránka sexuality“ (s. 50) Tato část se dá velmi dobře interpretovat jako samozřejmě 
+heterosexuální směr, co se partnerství, manželství a rodičovství týče. Vzniká zde sice prostor 
+pro pedagoga, aby zařadil i stejnopohlavní partnerství a svazky, avšak vzdělávací program to 
+neříká přímo a iniciativu v tomto smyslu nepodporuje.
+Ani zde neposkytuje Rámcový vzdělávací program učiteli dostatečnou oporu, jak se tématu 
+odlišné sexuální orientace zhostit. Ne jen explicitně se sexualitou, ale hlavně s identitou 
+mladých lidí, souvisí otázka coming outu. Uchopit vlastní sexualitu je i pro heterosexuálního 
+jedince náročný přerod. Pokud se navíc žák či student identifikuje jako patřící do některé (či 
+některých) z kategorie LGBTQ, RVP nenabízí učitelům pomocnou ruku v těchto situacích.
+Slovo „homosexualita“ či výraz LGBT se v Rámcovém vzdělávacím programu pro základní 
+vzdělávání, nevyskytuje vůbec. Při hledání výrazu „homo“ nalezneme pouze „homonyma“ (s. 
+21 a 23).
+30
+Rámcový vzdělávací program pro základní vzdělávání se vůči homosexualitě, lesbám, gayům, 
+homosexuálů, transexuálů, intersexuálům a příslušníkům queer skupiny nikterak nevymezuje. 
+Nepodává ale ani pomocnou ruku učiteli, aby se těchto náročných témat zhostil. RVP o nich 
+v podstatě „taktně“ mlčí. Je tedy na každé škole a každém učiteli, nakolik bude aktivně 
+formovat informace, které chce svým žákům předat. Na kolik bude vystupovat ze stínu 
+nulového kurikula, do kterého LGBT téma dle analýzy dokumentů pro základní vzdělávání 
+v České republice spadá. Za podstatnou mezeru považuji vzdělávání v oblasti bezpečnosti 
+sexuálního chování, nejen LGBT mládeže, které, je-li zanedbáno, může mít dalekosáhlé 
+následky. Sexualita LGBT lidí jí neoddiskutovatelně odlišná od heterosexuální většiny. Právě 
+v mladém věku, kdy jsou žáci a studenti vzděláváni ve formální vzdělávacím systému, pod 
+taktovkou kurikulárních materiálů, objevují svou sexualitu. Nejen její případnou odlišnost, ale 
+i mechanismy fungování. Škola by měla poskytnout alespoň základní návody, jak se s tímto 
+potýkat. Je pozitivní, že alespoň nenabádá přímo k odmítání odlišné sexuality či identity. Ale 
+možná právě to, že „se o tom nemluví“, je pravděpodobně posilován převládající názor, že 
+heteronormativita je správnou, žádoucí cestou. Což logicky vede k ještě větším překážkám 
+mladých lidí k uvědomění si sebe sama.
+Druhým dokumentem, který by měl ovlivňovat sociální klima a celkově vzdělávací podmínky 
+v každé škole a který se týká mého tématu, je Minimální preventivní program. Minimální 
+preventivní program vychází z Metodického doporučení k primární prevenci rizikového 
+chování dětí a mládeže č.j. : 21291/2010-28 (aktualizované verze z roku 2011). Pro jeho 
+vytváření je také důležitá Národní strategie primární prevence rizikového chování dětí a 
+mládeže v působnosti Ministerstva školství, mládeže a tělovýchovy na období 2013-2018. Jak 
+jsem popsala výše, je ve výchozích a podkladových materiálech poměrně podrobně a 
+moderně problematika LGBT řešena, aspoň pokud jde o prevenci. Ale na základě mé sondy 
+do podoby minimálních preventivních programů zveřejněných na webech základních škol se 
+zdá, že školy volí cestu, kdy do svého programu vetkly pouze úvodní formulaci zmiňující 
+homofobii:
+„Primární prevence rizikového chování u žáků v působnosti MŠMT se zaměřuje prioritně na 
+předcházení rozvoje rizik, které směřují zejména k následujícím rizikovým projevům v 
+31
+chování žáků: agrese, šikana, kyberšikana, násilí, vandalismus, intolerance, antisemitismus, 
+extremismus, rasismus a xenofobie, homofobie“ (MŠMT, 2010)
+Tento dokument ovšem obsahuje přílohy, kterou které jsou svým zpracováním, jak obsahově, 
+tak didakticky velmi dobrým materiálem (viz tabulka 4). Obsahují hlubší úvod do tematiky, 
+zákonné rámce, návody, jak identifikovat rizikové chování, případně nabízí i přehled 
+organizací, které se danou tématikou zabývají. Dále v sobě nesou informace, které po 
+prostudování dobře poslouží pedagogovi či pedagogickému pracovníkovi, jako nápomocný 
+materiál při zvládnutí těchto témat.
+3.1.2 Téma: Pozice LGBT žáků v kolektivu a šikana
+Téma sociální pozice LGBT žáků původně nebylo hlavním cílem práce, ale ukázalo se, že je 
+potřeba ho pro jeho závažnost uvést. Skupina autorů, jež v roce 2007 pod Úřadem vlády ČR 
+vydala publikaci Analýza situace lesbické, gay, bisexuální a transgender menšiny v ČR, se 
+domnívá, že existuje souvislost mezi zařazením tématu LGBT do kurikula a šikanou na 
+školách. O přístupu a prevenci šikany na školách pojednává výukový materiál Homofobie 
+v žákovských kolektivech (Smetáčková, Braun, 2009). Genderovými stereotypy v 
+sociálním prostředí školní třídy se zabývá i studie Vybrané psychologické souvislosti genderu 
+v prostředí školní třídy (Janošová, 2008) Autorka se v ní zabývá sebepojetím a 
+sebeprožíváním dívek a chlapců, časným zahájením neautentických partnerských vztahů a řeší 
+také utajování genderově a sexuálně zaměřené šikany. Tuto studii jsem vybrala proto, že 
+Janošová řeší téma konsekvencí genderových stereotypů ve školní třídě a zabývá se šikanou 
+s genderovým podtextem. Upozorňuje na neautentické partnerské vztahy a příčinu hledá v 
+mediálním tlaku. „Partnerský status běžně patří již v mladším a středním školním věku mezi 
+nejefektivnější prostředky sebepotvrzení a stává se nástrojem k získání sociální prestiže ve 
+vrstevnické skupině.“ Janošová (2008, s. 342). Partnerským statusem jsou míněny vztahy 
+heterosexuální, nikoli homosexuální povahy. 
+32
+Název Specifikace Relevantní 
+témata Stručný obsah
+CO DĚLATINTERVENCE 
+PEDAGOGA
+Rizikové chování 
+ve školním 
+prostředí -
+rámcový koncept
+Příručka je součástí 
+Metodického doporučení 
+k primární prevenci 
+rizikového chování u 
+dětí, žáků a studentů
+ve školách a školských 
+zařízeních č.j. 
+21291/2010-28, MŠMT, 
+2010
+Šikana
+(příloha č. 6)
+Homofobie 
+(příloha č. 8)
+Rizikové 
+sexuální 
+chování. 
+(příloha č. 18)
+Identifikace rizikového chování
+Východiska
+Podrobně popsané posty v jednotlivých případech
+Legislativa
+Preventivní aktivity
+Cíl aktivity
+Doporučení pro pedagogy (včetně limitů jejich kompetencí)
+Kontakty na příslušné organizace
+SEXUÁLNÍ 
+VÝCHOVA, 
+vybraná témata
+Příručka pro učitele v 
+rámci programu 
+Výchova ke zdraví, 
+MŠMT a VÚP v Praze, 
+2009
+Sexuální
+výchova
+Sexuální výchova z pohledu etiky – RVP ZV z pohledu sexuální 
+výchovy – Ochrana reprodukčního zdraví mladistvých – HIV / AIDS 
+Nemoci přenosné pohlavním stykem – Sexuální orientace – Sexuální 
+deviace a deviantní chování – Sexuální dysfunkce – Sexuální 
+výchova a legislativa – Sexualita a média – Bezpečný internet –
+Genderové aspekty sexuální výchovy – Syndrom CAN – Sexuální 
+výchova v rodině a ve škole – Sexuální výchova u žáků se speciálními 
+vzdělávacími potřebami – Didaktické náměty – Návrh učiva vzhledem 
+k věkovým zvláštnostem žáků
+Metodický pokyn 
+MŠMT k řešení 
+šikanování ve 
+školách a 
+školských
+zařízeních
+Metodický pokyn 
+vydalo MŠMT, 2013 Šikana 
+Vymezení fenoménu pojmu
+Povinnosti školy 
+Školní program proti šikanování
+Prakticé příklady
+Opatření pro nápravu
+Ochrana dětí
+státní orgány kontroly
+Tabulka 4: Vybrané metodické materiály vydané MŠMT
+33
+V části zabývající se šikanou zmiňuje hned v úvodu příčinu v hegemonní maskulinitě, kdy 
+popisuje verbální i neverbální souboje chlapců. Podle výsledků této studie je zřejmé, že 
+homosexuální chlapci na poli soupeření se svými spolužáky prohrávají, protože jejich
+orientace či identifikace je znevýhodňuje. Tato studie také upozorňuje, že žáci a studenti 
+prezentují či se chlubí svými sexuálními znalostmi a zkušenostmi. Žádoucí jsou ve školním 
+prostředí zkušenosti heterosexuální, což vyplývá z textu výše. Pokud se tak jedná o 
+homofobní šikanu, terčem bývají zejména chlapci, kteří se neúčastní boje o moc ve školní 
+třídě a nemají požadované maskulinní dovednosti. Autorka zmiňuje, napadání mezi 
+spolužáky, které souvisí s homosexualitou, začíná ve středním školním věku.
+V roce 2011 vyšla kniha Michaela Koláře Nová cesta k léčbě šikany. Autor v ní navazuje 
+na svou předchozí dlouholetou praxi v indikování, prevenci a řešení následků tohoto 
+patologického jevu. Problematika šikanování je zde chápána nejen jako problém, se 
+kterými se žáci a studenti setkávají ve školním prostředí, ale jako celospolečenský jev, na 
+který je intenzivně pohlíženo zejména posledních dvacet let. Ohroženi šikanou jsou, dle 
+autora, nejen její oběti a iniciátoři, ale většina žáků, kteří se se šikanou setkávají. 
+Upozorňuje, že prvky šikany se vyskytují už v mateřských školách. Hovoří o šikaně na 
+základních, tak i na středních školách, kde tuto smutnou statistiku dokazují výsledky 
+výzkumu školního klimatu v prostředí českých základní škol v roce 2001, výzkumu se 
+účastnilo celkem 1 935 žáků a žákyň 5. až 9. ročníků základních škol. (Pospíšil, 2006)
+Kolář pokládá šikanu za jev, který se dá léčit (odtud také název celé publikace i dílčích 
+kapitol). Je to podle něj důsledek krize společenských vztahů naší společnosti a překládá 
+postupy, kterak se šikanou vypořádat. Kniha je rozdělena do čtyř částí a obsahuje 71 
+kazuistik na téma šikany různého druhu. Právě na nich je vysvětleno, jak předcházet, 
+indikovat a zacházet se šikanou v jejích různých stádiích ve školním prostředí. Přínos 
+publikace dokazuje i recenze z řad odborníků, v tomto případě Antonína Mezery:
+Kolářova publikace je přirovnávána k norskému autorovi D. Olweusovi. Kolářův přístup se 
+originálně zaměřuje na prevenci šikany na školách a její řešení. Jeho vzdělávací programy 
+mají prokazatelný důsledek v poklesu výskytu šikany na školách, a to zejména díky 
+preventivním opatřením, ne jen řešením následků, Za zmínku jistě stojí Kolářův „Hradecký 
+program proti šikanování“, který přispívá ke snížení šikany jako jevu na školách. Autor 
+34
+metodicky postupuje při léčbě šikany na úrovni primární i sekundární prevence. Účinky 
+aplikovaných metod se v praxi základních i středních jednoznačně prokázaly. (Mezera, 
+2011)
+Do tématu šikany spadá i šikana z důvodu projevu jiné, než majoritní sexuální orientace. 
+Jak jsem již uvedla výše při rozboru studie Janošové (2008), příčinu v šikaně, související 
+s homosexualitou, nachází Janošová v hegemonní maskulinitě a potřebě dokázat jistou 
+převahu (zejména chlapců) na poli heterosexuálních aktivit. Kolář se ve své publikaci 
+nezaměřuje vyloženě na téma prevence či léčby šikany konkrétně z příčin homosexuální 
+orientace. Zahrnuje toto téma do šikany jako takové, ale pozitivní je, že mu věnuje, ač ne 
+primárně, pozornost. Uvádí příklad homosexuálního obtěžování v kasuistice Hra na 
+homosexuální obtěžování (s. 73), kdy byla oběť, fyzicky ne příliš silný chlapec, 
+přesvědčována, že si jej vybrali dva předstíraně homosexuální spolužáci. Prováděli 
+homosexuálně orientované útoky s cílem ho vystrašit. Tato kasuistika poukazuje na fakt, že 
+homosexualita (ač v tomto případě zřejmě převážně předstíraná ze strany agresorů) je 
+zneužita jako nástroj pro ubližování a týrání spolužáka. 
+Spouštěčem každé šikany je souhra více faktorů. Za ten hlavní je považována odlišnost od 
+většiny. Odlišná sexuální orientace a její skryté či přímé projevy k šikaně ve školním 
+kolektivu (zejména na druhém stupni základní školy a na středních školách) k šikaně 
+podněcuje. Sexualita je pro mladé lidi velkým a hojně diskutovaným i prožívaným 
+tématem. Proto jsou příslušníci sexuální minority, či ti, kdo s nimi sympatizují, snadným 
+terčem k šikaně. Nepřijetí kolektivem a strach ze sankcí za svou odlišnost, je hlavním 
+důvodem skrývání sexuální orientace.
+Šikana se projevuje chováním, kdy je agresorovým cílem, aby ohrožoval, zastrašoval, týral 
+nebo ubližoval jednotlivci nebo skupině. O šikaně hovoříme ve chvíli, kdy jsou útoky 
+opakované, ať už fyzické či psychické, s jasným cílem jedince nebo skupinu žáků poškodit 
+ve výše uvedeném smyslu. Charakteristické pro oběti šikany je, že se nemohou bránit, 
+nebo neví jak útokům čelit. Kolář uvádí, že k projevům patří útoky fyzické, tak verbální, 
+od pomluv přes nadávky, vyhrožování a ponižování, které se pak často spojuje přímo 
+s fyzickým násilím. (Kolář, 2001) Jak vyplynulo z analýzy výzkumu výše, v rámci tématu 
+homofonní šikany jsou nejčastěji popisovány útky verbální. 
+35
+Homofobní postoje by se, na základě zásad uvedených v Rámcovém vzdělávacím 
+programu, v českém školním prostředí vyskytovat neměly. Jak ale vyplynulo z Hlaďova 
+výzkumu (2015), ti, kdo s RVP pracují, učitelé a jiní pedagogičtí pracovníci, mají v ne 
+úplně uspokojivé míře tyto homofobní postoje v sobě. Nedostatečná konkretizace témat 
+sexuální minority v kurikulu samozřejmě tyto postoje nepodněcuje, ale zároveň nepřispívá 
+k jejich eliminaci. Není to samozřejmě jen vinou formálního kurikula. K homofobii a z ní 
+vycházející homofobní šikaně přispívá neformální kurikulum, které ukazuje, jaké jsou 
+vztahy mezi pedagogy a studenty, vztahy mezi žáky, v jejich kolektivech, sociální 
+prostředí vzdělávacího zařízení, nebo třeba zobrazování genderových stereotypů ve 
+výukových materiálech. Je to také klima školy, které žákům v ideálním případě ukazuje, že 
+homofobie je něco, co se nedá tolerovat. Podstatný vliv školy a její atmosféry potvrdili 
+studenti (genderově konformní i nekonformní) společně s učiteli. (PROUD, 2015)
+Homofobní šikana či obtěžování se mohou projevovat různě. Může to být užívání 
+stigmatizujícího jazyka, výrazů, projevy mohou být vyjádřeny nonverbálně – gesty, které 
+všichni členové skupiny rozeznají jako jasnou narážku na homosexualitu, či vtipkováním, 
+až po fyzické útoky. Smetáčková s Braunem (2009) ve zmíněném metodickém materiálu 
+řadí mezi projevy šikany také vtipy, obrázky, komentáře o homosexualitě, bisexualitě a 
+transexualitě, které zesměšňují, znevažují nebo uráží a jsou neadresné – nemíří na 
+konkrétní osoby a vytváří tak nepřátelskou atmosféru. Dále obtěžování zasíláním vzkazů 
+(maily, sms), předstírání sexuálních pohybů, fyzické napadání, ale i druhý extrém –
+ignorování. Tyto útoky se snahou citelně ublížit, jsou mířeny vůči jedincům, kteří obvykle 
+nesplňují svým vzhledem normy na projev maskulinity či feminity. Kolář dokumentuje 
+konkrétní příklady v knize Bolest šikanování.
+„Šikany se sexuálním „humorem“ jsou však i ve školách samozřejmostí. V poslední době 
+se vyskytlo několik případů u učňů, kde hlavním „herním“ motivem bylo homosexuální 
+znásilňování, případně homosexuální obtěžování. Probíhalo to tak, že velký a robustní žák 
+chytil zezadu nějakého subtilnějšího spolužáka a strhl ho zezadu břichem na zem. Zalehl 
+ho a řval mu do uší sexuální vulgarismy.“ (Kolář, 2001, s. 47)
+Nejvíce ohroženou skupinou jsou právě mladí dospívající, kteří si prochází coming outem 
+– obdobím, kdy se sami vyrovnávají se svou odlišnou sexuální orientací a postupně ji 
+36
+vyjevují svému okolí. Právě během coming outu dochází u jedince k identifikaci s jeho 
+sexuální orientací. V době dospívání je touha patřit mezi své vrstevníky velmi silná, a 
+proto jsou mladí lidé nejvíce zranitelní. Důsledky chování vrstevnického kolektivu, který 
+se k takto citlivému tématu nedokáže postavit s porozuměním a tolerancí, jsou pro 
+psychiku minoritního jedince obzvlášť náročné a často ji poznamenají na celý život.
+Útočníci, kteří se dopouští homofobního šikanování, jsou přesvědčení, že homosexualita 
+je, protože je odlišná, něco špatného a věří v nadřazenost heterosexuality nad ostatními 
+formami sexuality (Smetáčková, Braun, 2009). Bohužel se šikana projevuje nejčastěji ve 
+věku, kdy dochází ke coming-outu.
+Ti, kdo šikanu na svých spolužácích páchají, tak činí z více důvodů. Jsou to v první řadě 
+předsudky, jak jsem uvedla výše. Útočníci se cítí v převaze, šikanující je povětšinou 
+majorita, tudíž „někam patří“. Někdy se také šikana ukazuje jako projev osobní nejistoty.
+Předsudky vůči homosexuálům panují více mezi muži, než ženami. Smetáčková a Braun 
+(2009) to vysvětlují to genderových řádem, který přisuzuje mužům významnější úlohu, 
+kdy nedodržení představy o „správném muži“ více ohrožující z hlediska společnosti, než je 
+to s představou „správných“ žena dívek. Ženy nemají z hlediska genderového řádu tak 
+důležité postavení a není jim přisuzována sexuálně aktivní role. Ženská homosexualita se 
+často považuje za dočasnou ve smyslu, že dívka ještě „nepotkala toho pravého“. Z toho 
+vyplývá, že homofobní obtěžování je více projevováno mezi chlapci, než dívkami. Chlapci 
+si tak v podstatě dokazují svoji správnou roli heterosexuálního a společností přijímaného 
+muže. Homosexualita muže je skrytě vnímána společností jako slabost, nedostatečnost či 
+selhání. Janošová (2008) toto chlapecké chování ve studii také potvrzuje. Chlapci, kteří si 
+nejsou jistí svou genedrovou identitou nebo postavením v kolektivu, si svou pozici mohou 
+získávat napadáním nebo ponižováním ostatních chlapců. Jejich oběťmi se pak stávají 
+zejména spolužáci (chlapci), kteří v kolektivu neprojevují dostatečnou mužnost (ať už 
+svým chováním, nebo fyzicky), nesoupeří s nimi o přední pozici v kolektivu. Výpady 
+chlapců proti těmto spolužákům, které se vážou na napadání vztahující se k (genderové) 
+odlišnosti nebo domnělé homosexualitě, se začínají projevovat na začátku středního 
+školního věku. Brzy po svých chlapeckých spolužácích se takového chování dopouští i 
+dívky (Janošová, 2008).
+37
+Žáci, kteří se identifikují jako s LGB orientací, jsou ohroženi šikanou ve výrazně větší 
+míře, podle výzkumu americké mládeže. A to dokonce čtyřikrát více než většinová 
+populace. Podobné výsledky přinesly i výzkumné studie některých západoevropských 
+zemí, nedávno například Španělsko nebo Velké Británie. Výsledky hovoří o stresu, tlaku 
+na šikanované mladé lidi, který může být, v některých případech enormní. Alarmující je v 
+této souvislosti i fakt, který uvedla značná část heterosexuálních středoškoláků, že se stali 
+obětí homofobní šikany jen proto, že byli svými vrstevníky vnímáni jako potenciálně 
+homosexuální. (Úřad vlády ČR, 2007)
+Situace v České republice naštěstí nepodněcuje snahu vzdělávací institucí a škol o šíření 
+nepravdivých informací či podněcování k nenávisti vůči LGBT menšině. Ovšem i toto 
+téma, stejně jako každé, které vyvolává vášnivě protichůdné názory, se do českých škol 
+dostalo. A to konkrétně šířením publikace „Terapie homosexuality“. Ta byla v letech 
+2003–2004 nevládními subjekty masově šířena do škol a k jejímu stažení došlo až po delší 
+době, a to díky upozornění jiných nevládních organizací. Autor předkládal názory na 
+homosexualitu jako vědecká fakta, který byla ale zcela v rozporu s názory a výsledky prací 
+odborníků na tuto oblast. (Úřad vlády ČR, 2007)
+Díky medializaci se veřejnost dověděla o některých tragických osudech obětí šikany, 
+aplikované na základě minoritní sexuální orientace. S tímto jevem se potýkají i Spojené 
+státy. Newsweek v roce 2008 informoval o vraždě studenta Larryho Kinga, který byl pro 
+svou sexuální orientaci zastřelen spolužákem.
+Výzkumy uvádí velmi smutné číslo z USA. Ročně si pět tisíc dětí, náctiletých a 
+dospívajících vezme život. Podle kvalifikovaných odhadů zhruba 30 % z nich jsou lesby a 
+gayové, kteří mají potíž vypořádat se se svou orientací (Owens, 1998, s. 119). V absolutní 
+hodnotě je to patnáct set zmařených mladých životů. Výzkumy uvádějí, že 20–40 % 
+dospívajících s odlišnou sexuální orientací nebo identitou se pokusí spáchat sebevraždu.
+Tyto smutné události upoutaly pozornost veřejnosti na fakt, že v reálném životě neshody se 
+genderovými normami a vnímání homosexuální orientace vedou k šikaně a pronásledování
+v rámci školy. Jako reakci na tyto události se výzkumníci začali zabývat strategií na 
+podporu pozitivní školního klimatu, s cílem zvýšit vnímání školy jako bezpečného místa.
+38
+Asi nejvýraznějším dopadem šikany kvůli homosexualitě, který proběhl českými médii, je 
+případ Filipa, který spáchal sebevraždu v únoru 2014. Nejen na základě této události byla 
+v únoru 2015 spuštěna online poradna pod záštitou Prague Pride – sbarvouven.cz: 
+„Web sbarvouven.cz je snadnou cestou, jak poskytnout všem zájemcům bez rozdílu 
+informace o coming outu a přímo je spojit s těmi, s nimiž si chtějí popovídat. Nabízíme 
+bezpečné a vstřícné prostředí - především ti, kdo váhají. Mezi mentory a mentorkami, jimž 
+se můžete ozvat, najdete lesby, gaye, transgender osoby, psychology i příbuzné LGBT lidí. 
+Web tedy není určen jenom gayům a lesbám, ale zkrátka všem.“ ("SBARVOUVEN - O 
+nás", 2015)
+Podobným projektem v USA je GSA (Gay-Straight Alliance). Je to studenty řízený klub, 
+obvykle při vysoké nebo střední škole, který poskytuje studentům bezpečné místo pro 
+setkávání, vzájemnou podporu, mohou zde hovořit o otázkách týkajících se sexuální 
+orientace, genderové identity a projevu a pracovat na potlačení homofobie a transfobie. 
+3.1.3 Téma: LGBT učitel
+Na téma LGBT a učitel jsem hledala relevantní dokumenty velmi těžko. Toto téma není 
+v dostupných textech široce zastoupeno. V rozhovoru pro časopis Respekt zmiňuje 
+Czeslaw Walek, ředitel gay a lesbického festivalu Prague Pride, s kolegyní Kateřinou 
+Saparovou, situaci ohledně přiznání gay či lesbické orientace učitelem. Jejich svědectví 
+dokazuje smutný, šedý stav této oblast. Tvrdí, že coming out učitelů, přiznání 
+homosexuality, vnímá veřejnost jako propojení s pedofilií. „Lidé mají stále zafixováno, že 
+„teplouš“ je na chlapečky. Týká se to ale i holek, které učí. Jedna moje známá učitelka 
+měla třeba fotky z výletu, na kterých vydávala svého kamaráda za partnera, aby měla klid.“ 
+("Být učitel a gay je pořád problém", 2014) V rozhovoru je také zmíněn konkrétní příklad, 
+kdy se vedení školy postavilo proti otevřenému projevu příslušnosti učitele k LGBT 
+menšině. Učitel požádal ředitelku školy o souhlas s fotografií. Chtěj se vyfotit společně se 
+svými studenty, kdy všichni znali situaci ohledně jeho orientace. Ačkoli velmi milým 
+mailem, tak přesto ředitelka vyjádřila nesouhlas s odkazem na to, že jsou škola soukromá, 
+která své studenty potřebuje a netuší, jak budou reagovat rodiče. Situaci z jiného pohledu 
+dokumentují Britské listy v aktuálním článku z února 2016. Z křesťanské školy 
+v Birminghamu byl odvolán, na tlak rodičů, učitel, protože svým žákům otevřeně přiznal, 
+39
+že je homosexuál. Dostal ale místo zástupce ředitele v Parkfield Community School, kde je 
+98 procent žáků muslimských. Učitel zahájil, se souhlasem ředitelky program pro podporu 
+diverzity, který vítá lidi jakékoliv rasy či náboženství i lesbičky, gaye, bisexuály a 
+transgenderové osoby. Škola má 770 žáků 23 národností. Článek též upozorňuje na 
+zajímavou skutečnost, že v roce 1988 konzervativní vláda Margaret Thatcherové zákonem 
+zakázala "úmyslnou reklamu pro homosexualitu" a vyučování "přijatelnosti homosexuality 
+jako rodinného vztahu". Ve Skotsku byl tento zákon zrušen v roce 2000 a v celé Británii v 
+roce 2003, avšak dodnes existuje v britských školách nervozita ohledně toho, co učitelé 
+smějí říkat o homosexualitě (Britské listy, 2016).
+3.1.4 Téma: Postoje (budoucích) učitelů a práce s nimi
+Cílem výzkumu Postoje univerzitních studentů pedagogicky orientovaných studijních 
+programů k homosexualitě měřené na škále Homosexuality Attitude Scale (Hlaďo, 2015)
+bylo zjistit postoje studentů pedagogicky orientovaných studijních programů k 
+homosexualitě. Použitým výzkumným nástrojem byl dotazník Kiteové a Deauxové –
+Homosexuality Attitude Scale. Sběr dat proběhl v říjnu a listopadu 2014. Výběrový soubor 
+je tvořen 1 140 respondenty. Výsledek Hlaďovy studie ukázal, že mezi studenty 
+pedagogických studijních programů panují v průměru poměrně pozitivní postoje vůči 
+homosexualitě. Avšak v doporučeních upozorňuje na poměrně vysoké zastoupení
+negativních postojů. V individuálních případech respondenti vyjadřovali středně negativní, 
+vysoce negativní či dokonce extrémně negativní postoje (tento příklon bylo možné 
+sledovat u více než 10 % respondentů). Vzhledem k závažným dopadům, jež by mohlo mít 
+jejich otevřené prezentování při výchovně-vzdělávací práci s žáky, je zjištěný stav u 
+budoucích pedagogů nežádoucí (Hlaďo, 2015, s 456). Za důležitý krok považuje autor 
+nalezení způsobu formování postojů studentů pedagogických oborů k homosexualitě. 
+Pokládá otázku, jak mohou vysoké školy studenty vzdělávat, kultivovat, učit je respektu a 
+otevřenosti k diverzitě, aby byli učitelé a další pedagogičtí pracovníci schopni 
+kvalifikovaně pracovat s homosexuálně orientovanými žáky, poskytovat jim adekvátní 
+pomoc, účinně předcházet a řešit homofobní diskriminaci a aktivně přispívat ke změně 
+školního klimatu (Hlaďo, 2015, s 456). Autor zmiňuje, že dle zahraniční literatury vede 
+k signifikantní změně postojů k homosexualitě, míní tím postoje negativní, výchovně 
+40
+vzdělávací působení. Vyzdvihuje tuto potřebu u studentů mužského pohlaví a příslušníků 
+některých církví. Doporučuje studenty seznámit s psychologickou podstatou stereotypů, 
+negativním dopadem předsudků a zmiňuje též zařazení témat lidské sexuality do 
+formálního kurikula. To potvrzuje, jak důležité je toto téma správně uchopit v metodických 
+materiálech a v celém konceptu kurikula. Je příznačné, že autor této studie se odkazuje 
+zejména na zahraniční materiály. 
+Co se konkrétních metod týče, autor uvádí jako efektivní edukační metody audiovizuální 
+materiály, které přímo zobrazují gay a lesbickou tématiku, a dokumenty zachycující 
+předsudky majority vůči homosexuálům. Tvrdí, že právě využitím audiovizuálních 
+materiálů může dojít k vyvracení stereotypů a miskoncepcí o homosexualitě a poskytovat 
+příležitost pro rozvoj pozitivního nahlížení na homosexuálně orientované jedince (Hlaďo, 
+2015, s. 458). Konkrétně autor uvádí promítání filmů, spotů, dokumentů s následnou 
+analýzou jejich obsahu a reflektování skutečnosti. Považuje to za základy, které jsou 
+dostatečné pro praxi budoucích učitelů. Autor zdůrazňuje jeden ze závěrů, že 
+heterosexuálové, kteří znají někoho, kdo otevřeně přiznává svou homosexuální orientaci, 
+všeobecně zastávají k homosexualitě pozitivnější postoje než ostatní. Kontakt s otevřeně 
+homosexuálními jedinci lze zprostředkovat například besedou Živá knihovna5, pořádanou 
+pod záštitou Amnesty International. Autor uvádí, že školy (v našem případě univerzity 
+připravující budoucí pedagogy) jako sociální organismus musí přijmout a dodržovat 
+normy, které považují netolerantní a diskriminační chování vůči osobám s odlišnou 
+sexuální orientací za neakceptovatelné (Hlaďo, 2015, s 458).
+V této souvislosti jsem se zabývala také diplomovými a bakalářskými pracemi, které se 
+nějakým způsobem dotýkají zvoleného tématu. Co se časového rozmezí týče, nejstarší 
+práce, kterou považuji za relevantní, byla obhájena v roce 2007, nejmladší pak v roce 
+2015. Zdrojem mi byla databáze google scholar. Práce jsem vyhledávala dle klíčových slov 
+LGBT, homosexualita, kurikulum, šikana. Sledovány tedy byly oblasti sexuální výchovy a 
+názory, pohledy studentů či veřejnosti. Nejvíce relevantních prací jsem nalezla při 
+ 
+5
+Sama jsem se této aktivity zúčastnila, v rámci studia VOŠ. Ze zkušenosti mohu potvrdit autorův závěr, že 
+takovýto druh vzdělání a interaktivního vhledu do problematiky mění, poměrně zásadně, náhled na celý 
+problém.
+41
+Masarykově univerzitě v Brně, což může být ovlivněno způsobem vyhledávání. Nejstarší 
+vyhledané relevantní práce jsem našla z roku 2007 (rok po tom, co byla v České republice 
+oficiálně uznána jiná forma stejnopohlavního soužití), ale to opět může být dáno datem, od 
+kdy jsou kvalifikační práce vkládány do on-line databází (tabulka 5).
+Druh
+práce Název Autor Univerzita Rok Klíčová slova
+diserta
+ční 
+Plánovaná lesbická 
+rodina: rozhodovací 
+proces jako klíčový 
+aspekt přechodu 
+k rodičovství
+Mgr. Eva 
+Polášková MUNI 2009 LGBT, rodičovství, homosexualita
+bakalář
+ská
+Sexuální výchova 
+jako veřejněpolitický 
+problém
+Radka 
+Císařová MUNI 2013 sexuální výchova, kurikulum, RVP
+diplom
+ová
+Postoje mladistvých 
+k sexuálnímu životu
+Bc. 
+Jindřich 
+Plachý
+UHK 2014 mladiství, zkušenosti, 
+sexualita, postoje
+diplom
+ová
+Genderové aspekty 
+pedagogické 
+komunikace na 2. 
+stupni české základní 
+školy
+Bc. Lucie 
+Vaďurová MUNI 2010 gender, pedagogika, komunikace 
+bakalář
+ská 
+práce
+Postoje lesbických 
+žen k rodičovství a k 
+výchově dětí
+Lucie 
+Vaďurová MUNI 2008
+homosexualita, homofobi
+e coming out, sexuální 
+orientace, postoje 
+společnosti, 
+rodina, lesbická 
+rodina, registrované 
+partnerství výchova dětí.
+diplom
+ová 
+práce
+Jak se žije 
+homosexuálům v 
+českém školství
+Daniela 
+Kunhartov
+á
+MUNI 2009
+homosexualita, 
+stejnopohlavní 
+rodičovství, gay, lesba, 
+české školství
+42
+bakalář
+ská 
+práce
+Homoparentalita z 
+pohledu studentů 
+oboru sociální 
+pedagogika
+Andrea 
+Koželová MUNI 2015
+dítě, gender,
+homosexualita,
+homoparentalita,
+rodina, výchova
+diplom
+ová 
+práce
+Postoje adolescentů k 
+homosexualitě
+Vendula 
+Rulcová MUNI 2007
+homosexualita, 
+homofobie, 
+heterosexismus, coming 
+out
+bakalář
+ská 
+práce
+Výchova dětí 
+homosexuálními páry 
+z pohledu pedagogů
+Barbora 
+Šestáková MUNI 2007 homosexualita, homofobie, šikana
+bakalář
+ská
+práce
+Sexuální orientace 
+jako příčina 
+společenské 
+diskriminace
+Lucie 
+Kováčová MUNI 2013
+sexuální orientace,
+diskriminace, pohlaví,
+společnost, menšina
+bakalář
+ská 
+práce
+Názory žáků 8. a 9. 
+tříd ZŠ na osvojení 
+dětí homosexuálními 
+páry
+Lucie 
+Gergelová MUNI 2015
+homosexualita,
+homoparentalita,
+náhradní rodinná 
+péče, osvojení,
+registrované partnerství
+bakalář
+ská 
+práce
+Vývoj názorů na 
+registrované 
+partnerství v 
+evropských zemích a 
+České republice
+Andrea 
+Kyselová MUNI 2007
+homosexualita,
+registrované partnerství,
+adopce dětí 
+homosexuálními páry
+bakalář
+ská 
+práce
+Jak se cítí 
+homosexuální 
+pedagog v prostředí 
+českého školství
+Tomáš 
+Komínek MUNI 2013
+coming put,
+diskriminace, historie 
+homosexuality,
+homofobie, pedagog, 
+registrované partnerství, 
+školství
+bakalář
+ská
+Výchova směřující k 
+toleranci rasových, 
+náboženských a 
+sexuálních menšin -
+analýza učebnic pro 
+základní školy
+Anna 
+Černá MUNI 2008 tolerance, sexualita, náboženství, menšina
+43
+bakalář
+ská
+Pohled studentů 
+středních škol na 
+homosexualitu
+Jana 
+Žižlavská MUNI 2015 homosexualita, sexuální orientace, homofobie
+diplom
+ová
+Ověřování účinnosti 
+některých metod 
+sexuální výchovy na 
+1. stupni ZŠ
+Martina 
+Vallová TUL 2012 sexuální výchova, metody výuky
+bakalář
+ská
+Homosexualita a 
+šikana na středních 
+školách
+Martin 
+Novák MUNI 2013
+homosexualita, šikana, 
+coming out, střední 
+školy, homofobie
+bakalář
+ská
+Pohledy mladých lidí 
+na homosexualitu a 
+registrované 
+partnerství
+Monika 
+Štarhová MUNI 2010
+homosexualita, homosex
+uální 
+chování, homosexuální 
+orientace, gay, lesba, co
+ming out, registrované 
+partnerství, manželství, 
+majetkoprávní vztahy 
+homosexuality
+bakalář
+ská
+Homosexualita, 
+coming out a proces 
+seznamování
+Milan 
+Limberg, 
+DiS.
+MUNI 2008
+homosexualita, coming 
+out, proces 
+seznamování, gay, lesbič
+ka, registrované 
+partnerství, rodičovství, s
+exualita, organizace
+Tabulka 5: Reprezentace tématu LGBT v souvislosti se vzděláváním v pracích vysokoškolských 
+studentů
+Je zajímavé, že disertačních prací bylo nalezeno minimum (jedna), a ta se netýká 
+vzdělávání a školství (jde o práci Plánovaná lesbická rodina: rozhodovací proces jako 
+klíčový aspekt přechodu k rodičovství). Výsledky ukazují, že studenti se zaměřovali na 
+sexuální orientaci z pohledu diskriminace, sexuálního chování, dále se práce zabývaly 
+výchovou či adopcí dětí homosexuálními páry, coming outem. Práce se zabývaly často 
+popisem tématu, zjišťováním názorů, pohledů či postojů (př. Pohled studentů středních 
+škol na homosexualitu, Žižlavská, 2015), mechanizmy a procesy (př. Homosexualita, 
+coming out a proces seznamování, Limberg, 2008), analýzou (př. Výchova směřující k 
+toleranci rasových, náboženských a sexuálních menšin – analýza učebnic pro základní 
+44
+školy, Černá, 2008). Objevila se i práce, která souvisela vyloženě s metodikou sexuální 
+výchovy, ovšem bez přímého zacílení na homosexualitu (Ověřování účinnosti některých 
+metod sexuální výchovy na 1. stupni ZŠ, Vallová, 2012).
+3.2 Reprezentace tématu LGBT v souvislosti se vzděláváním 
+v aktivitách (neziskových) organizací
+Poslední roky přinesly v České republice změnu přístupu k tématu. Svůj podíl na tom mají 
+jednotliví badatelé, ať už to jsou výsledky celostátních výzkumů Sexuální chování v ČR. 
+Weisse a J. Zvěřiny, či aktivity občanských sdružení a neziskových organizací. Za ty 
+významné již byl uveden PROUD (platforma pro rovnoprávnost, uznání a diverzitu), 
+organizace založená v roce 2011. Co se vzdělávacího dopadu týče, PROUD získal 
+akreditaci MŠMT pro pořádání školícího kurzu zaměřeného na problematiku LGBT osob 
+v rámci sociální péče, určeného právě sociálním pracovníkům. Za přínosný považuji 
+projekt sbarvouven.cz, který zmiňuji v textu výše, internetovou poradnu pro LGBTQ 
+mládež. Je pozitivní, že tato změna přináší posun v uchopení tématu, kdy si státní orgány i 
+odborná veřejnost uvědomují, jaký má problematika význam. Mediálně známý je pochod 
+Prague Pride, který je právě PROUDem zaštiťován.
+Druhou, o poznání starší organizací je STUD Brno, která od roku 1996 působí jako 
+nestátní nezisková organizace. Jejich nejznámější aktivitou je Queer filmový festival 
+Mezipatra (pořádaný od roku 2000). Pořádá mnoho vzdělávací aktivit, jak pro samotné 
+LGBTQ lidi, tak pro studenty a pedagogy.
+Následující tabulka 6 se zabývá výsledky činnosti neziskových organizací a občanských 
+sdružení, které přímo i nepřímo souvisí se tématem vzdělávání a LGBTQ.
+45
+Název 
+organizace
+Datace Druh 
+činnosti/aktivity
+Cílová skupina Název
+PROUD 2016 Akreditace MŠMT 
+školícího kurzu pro 
+sociální 
+pracovníky a 
+pracovnic
+Pracovníci 
+sociální 
+prevence, 
+sociálního 
+poradenství a 
+pracovnice a 
+pracovníky na 
+úřadech.
+Úvod do 
+problematiky LGBT 
+osob a sociální práce
+STUD Brno 2000-
+dosud
+Filmový festival Homosexuální 
+mládež, žáci a 
+studenti
+Queer filmový 
+festival 
+MEZIPATRA
+STUD Brno 2010-
+dosud
+Informační projekt LGBTQ GLpartnerství.cz
+Poradna pro 
+občanství, 
+STUD Brno a 
+Gender 
+Studies
+2009-
+dosud
+Informační projekt žáci a studenti, 
+veřejnost, oběti 
+šikany
+Rozmanitostí proti 
+šikaně
+LePress, 
+STUD Brno
+2008-
+dosud
+Projekt, literatura, 
+artefakty
+LGBTQ QueerShop
+STUD Brno 2008-
+dosud
+Průvod LGBTQ 
+veřejnost
+Queer Parade Brno a 
+Teplé jaro
+STUD Brno 2003-
+dosud
+Projekt dospívající 
+gayové
+Gay Teens
+STUD Brno 1997-
+dosud
+Dlouhodobá 
+aktivita
+LGBTQ, 
+veřejnost
+Queer knihovna
+STUD Brno 1997-
+dosud
+internetový portál LGBTQ, široká 
+veřejnost
+STUD.cz
+46
+STUD Brno 2001-
+2005
+telefonická linka LGBTQ Gay a lesbická linka 
+pomoci
+STUD Brno 2001-
+2003
+komunitní centrum LGBTQ mládež Komunitní centrum 
+lesbické, gay a 
+bisexuální mládeže
+Amnesty 
+International
+2001 -
+dosud
+Vzdělávací projekt žáci a studenti, 
+pedagogové, 
+veřejnost
+Živá knihovna
+PROUD 2015 -
+dosud
+Internetová 
+poradna
+LGBTQ mládež, 
+studenti, žáci, 
+rodiče, učitelé
+Sbarvouven.cz
+Amnesty 
+International
+aktuálně 
+probíhá
+internetový portál pedagogové www.lidskaprava.cz
+Prague Pride 2010 -
+dosud
+festival LGBTQ 
+komunita, široká 
+veřejnost
+Festival Prague Pride
+UPOL, ESF a 
+státní 
+rozpočet ČR
+2015 Publikace asistenti 
+pedagogů, 
+pedagogové
+Metodika práce 
+asistenta pedagoga
+Tabulka 6: Reprezentace tématu LGBT v souvislosti se vzděláváním aktivitách (neziskových) 
+organizacích
+Z hlediska zkoumaného tématu je na českém poli významnou událostí celostátní 
+konference MŠMT, MLPRPaL6a PROUDu „Homofobie a transfobie jako téma pro českou 
+školu“, konala se na MŠMT v říjnu roku 2014. PROUD je významnou organizací, která 
+mapuje situaci LGBT skupiny v České republice. Za zkratkou se skrývá zapsaný spolek 
+Platforma pro rovnoprávnost, uznání a diverzitu. Tato organizace se zabývá osvětovou, 
+vzdělávací, expertní a lobbingovou činností v oblasti práv, sociálního postavení a 
+každodenního života tzv. LGBT (lesbických, gay, bisexuálních a trans) osob s vizí 
+společnosti, kde sexuální orientace či genderová identita nemají vliv (obzvláště ten 
+negativní) na kvalitu života. (PROUD, 2016)
+ 
+6 Ministr pro lidská práva, rovné příležitosti a legislativu.
+47
+Konferencí se vinula nit probírané šikany žáků v souvislosti s jejich generovou identitou –
+s tím, jak se jejich projevy chování ve školním kolektivu shodují nebo rozchází s tím, 
+k jaké generové skupině formálně náleží. Na konferenci byl uveden fakt, že dle průzkumu 
+provedeného ve 37 zemích organizací UNESCO, se prokázala přímá závislost mezi zvýšením 
+záškoláctví, předčasných odchodů ze vzdělávání a studijní neúspěšností a mezi homofobní 
+šikanou. Lze říci, že obdobné zkušenosti uváděla polovina z přítomných na konferenci. 
+Dokonce se jednalo o opakovanou zkušenost s eskalací šikany. Zkušenost s homofobií a 
+transfobií na českých školách přinesli školní a krajští metodici prevence. Níže přináším 
+výstupy z konference, navrhované kroky pro řešení problematiky. Kroky byly navrženy „s 
+ohledem na mezinárodní závazky a standardy UNESCO, antidiskriminační legislativu a 
+Strategii vzdělávací politiky 2020, a na závazek systematického řešení homofobie a transfobie 
+ze strany MŠMT.“ (Homofobie a transfobie jako téma pro českou školu“, 2014, s. 2)
+„(1) Téma prevence homofobie a transfobie bude jasně komunikováno mezi prioritami 
+vzdělávacích politik MŠMT a návrh preventivních kroků MŠMT jako vedoucího koordinačního 
+orgánu bude zapracován do akčního plánu Strategie vzdělávací politiky České republiky do 
+roku 2020; 
+(2) Bude vytvořena stálá expertní platforma na úrovni MLPRPaL, MŠMT a expertů na LGBTI 
+inkluzivní vzdělávání z akademické sféry; 
+(3) MŠMT zajistí krajským metodikům a školám specifickou metodickou podporu pro oblast 
+homofobie a transfobie, v první řadě půjde o dotisk a distribuci příručky „Homofobie v 
+žákovských kolektivech“ od Ireny Smetáčkové Ph.D. a PhDr. Richarda Brauna, a to v tištěném 
+nákladu min. 1 výtisku na školu;
+(4) V rámci další revize kurikulárních dokumentů bude téma homofobie a transfobie a 
+genderově citlivé výchovy zakomponováno do Rámcových vzdělávacích programů pro MŠ, ZŠ 
+s SŠ; 
+(5) MLPRPaL a MŠMT iniciují celorepublikové tematické šetření k přítomnosti homofobie a 
+transfobie na školách ze strany ČŠI;
+(6) Při pravidelných poradách MŠMT s krajskými a oblastními koordinátory prevence a s 
+vedoucími školských odborů na krajských úřadech bude vytvořen prostor pro prezentaci 
+tématu prevence homofobie a transfobie; 
+48
+(7) MŠMT ve spolupráci s Národní radou dětí a mládeže zajistí zvyšování odborných kapacit 
+pracovníků a pracovnic v neformálním vzdělávání v oblasti práce s tématem prevence 
+homofobie a transfobie ve vrstevnických kolektivech; 
+(8) S příslušným útvarem NÚV bude navržen odborný seminář pro metodiky a metodičky 
+prevence školských poradenských zařízení (PPP, SPP); 
+(9) Sdílení dobré praxe krajských a školních metodiků, výchovných poradců a všech dalších 
+aktérů bude pravidelně opakováno, a odprezentuje se zde vyvinutá akce v uplynulém roce, 
+zároveň zde bude pokračovat síťování všech aktérů za participace MŠMT a dalších institucí; 
+(10) Všichni zúčastnění aktéři se zavázali, že se budou problematikou homofobie a transfobie a 
+její prevencí nadále systematicky zabývat.
+(„Homofobie a transfobie jako téma pro českou školu“, 2014, s.2, 3)
+Od března do prosince 2015 probíhal na českých školách výzkum (dotazníkové šetření) 
+týkající se fenoménů homofobie a transfobie. Výzkum podpořila ILGA-Europe (evropská 
+pobočka mezinárodní organizace sdružující lesby, gaye, bisexuály, transsexuály a 
+intersexuály). ILGA je mezinárodní nevládní organizace, zastřešující a spojující více než 
+400 organizací ze 45 evropských zemí. Evropská pobočka byla založena v roce 1996, kdy 
+se oddělila a stala se nezávislou entitou. ILGA, jako taková, byl založen v roce 1978. 
+ILGA-Europe sídlí v Bruselu. (What is ILGA-Europe | ILGA-Europe, 2016) 
+Na výzkumu se podílela Katedra psychologie PedF Univerzity Karlovy v Praze a Centrum 
+kulturálních, mediálních a komunikačních studií FF Univerzity Palackého v Olomouci. 
+Výzkum tvořily dvě části – kvantitativní část reprezentoval online dotazník pro žáky 8. a 9. 
+tříd základních škol, středoškoláky (žáci SOŠ, gymnázií, SOU a OU) a absolventy SŠ, 
+kteří dostudovali nejdéle před rokem. Věkové rozmezí tedy bylo 14–23 let. Online (na 
+serveru surveymonkey.com) na ně čekalo 29 otázek. Ty měly přinést obraz o postojích 
+žáků k vrstevníkům, jejichž generová či sexuální identita není v souladu s většinou. Autoři 
+také mapovali osobní zkušenosti respondentů s jevem homofobie a transfobie ve školním 
+prostředí. Dotazník, na jehož sestavení se podílela zejména psycholožka doc. Smetáčková
+(Pedf UK v Praze) a sociolog Mgr. Zdeněk Sloboda (z FF UP v Olomouci), vyplnilo 1314 
+respondentů. Analýzou prošly pouze úplně nebo téměř úplně vyplněné dotazníky. Autoři 
+49
+se domnívají, že k nevyplnění všech otázek došlo tím, že respondentům bylo buď 
+nepříjemné odpovídat, nebo odpověď neznali. 
+Autoři výzkumu uvádí, že ve výsledku se respondenti orientovali dobře v pojmech gay, 
+lesba a chápali jejich význam, ačkoli pojem bisexuál a zejména transsexuál pro ně byl 
+oříškem (13 % alespoň tušila význam). 88 % respondentů osobně znala někoho, kdo patří 
+do LGBT skupiny. Osobní kontakt s příslušníkem LGBT skupiny také indikoval toleranci 
+respondentů, kdy byla vyšší v případě, že osobně LGBT příslušníka skupiny znali. 
+Výzkum se také zabýval sdílením prostoru (škola, třída, lavice) s LGB osobami. Tady byla 
+míra tolerance respondentů poměrně vysoká. Netolerantní postoje deklarovaly pouze 
+jednotky procent respondentů. U transsexuálních osob, které se zdají pro respondenty 
+nejméně uchopitelné, by jejich přítomnost ve škole vadila výrazně vyššímu procentu 
+dotázaných, dokonce školní lavici by s nimi nechtělo sdílet 23 % osob. Autoři výzkumu
+k tomu dodávají: „Ač jsou to čísla nízká, je zřejmá míra nárůstu neochoty, čím „blíže“ by 
+respondentovi/respondentce LGBT osoba byla.“ Výsledky přinesly jasnou přímou úměru 
+mezi tolerancí respondentů k LGBT lidem ve škole, a jejich ochotou s nimi pobývat 
+v kolektivu (třídy) a sdílet osobní prostor (v lavici). 
+Míra tolerance sdílení prostoru se promítla i v části zkoumající výroky o LGBT. Tady byli 
+respondenti opět tolerantnější k lesbám, gayům a bisexuálům (rozhodně či spíše pozitivní 
+postoj vyjádřilo 75 % respondentů), vyloženě negativní vztah vyjádřilo 5 % dotázaných. 
+Trans osoby, jak už ukázaly předchozí odstavce, byly pro respondenty méně uchopitelnou 
+skupinou. Proto v dotazníku získaly jen 55 % vyloženě kladných odpovědí. Neutrálně je 
+vnímala čtvrtina, ovšem poměrně vysoké číslo – 19 % dotázaných – vyjádřilo svůj 
+negativní postoj. Palčivé výsledky dotazů na transexuály se promítají dále. Čtvrtina 
+chlapců by zavrhla kamaráda, který by se identifikoval jako příslušník transexxuální 
+skupiny. 59 % je nepříjemná jejich společnost. Když se ale podíváme na výsledky stejného 
+dotazů u ostatních skupin (LGB), dostaneme se na poloviční číslo. Autoři uvádí, že míra 
+tolerance závisela velkou měrou právě na sebeidentifikaci samotných respondentů.
+Další část dotazníku se týkala slovních a fyzických útoků. Respondenti v převážné míře 
+uvedli, že osobně ani zprostředkovaně nezaznamenali útoky z důvodu LGBT orientace. 
+Tyto výsledky jsou ale v protikladu se zkušenostmi respondentů, kteří se za příslušníky 
+50
+LGBT skupiny označili (sama sebe v dotazníku takto označila značná část respondentů –
+43 %, autoři připouští, že tato skutečnost mohla být ovlivněna způsobem sběru dat). Žáci, 
+kteří se ve výzkumu deklarovali jako příslušníci LGBT skupiny, uvedli, že polovina z nich 
+slýchala ojediněle například vtipy o LGBT lidech, čtvrtina dokonce často. Polovina jich 
+často zaznamenávala hanlivé výrazy, třetina ojediněle. Autoři usuzují, že tyto rozdíly 
+mohou být dány tím, že LGBT lidé jsou vůči dotazovaným tématům ve větší míře citliví 
+než heterosexuální respondenti. Podotýkají také, že si patrně informace tohoto typu aktivně 
+sami vyhledávají.
+K poslední části dotazníku, která se týkala vtipů, urážek a zesměšňování LGBT osob ze 
+strany vyučujících, autoři dodávají, že ačkoli je procentuální míra této zkušenosti poměrně 
+nízká (6–8 % dotázaných), je alarmující, že takovouto zkušenost ze strany pedagoga vůbec 
+někteří žáci mají. Tendenci k tomuto chování pedagogů bohužel indikoval také výzkum 
+mezi studenty pedagogicky orientovaných oborů. Obecně jsou tito studenti homosexualitě 
+ve svých názorech nakloněni, ale více než desetina jich vyjádřila extrémně negativní postoj 
+(Hlaďo, 2015). Vzhledem k tomu, že oba průzkumy byly provedeny v podobném čase, lze 
+do budoucna očekávat, že podobné zkušenosti žáků se budou opakovat (ovšem nejsem 
+schopna odhadnout stoupající, klesající nebo stagnující trend).
+Dvacet hloubkový výzkumných rozhovorů se vyučujícími základních i středních škol 
+tvořilo druhou část. Během půlhodinového polo-strukturovaného rozhovoru se autoři 
+dotazovali učitelů, metodiků prevence a školních psychologů na LGBTQ žáky jejich školy. 
+Třetinu rozhovorů realizovali ve městě s více než milionem obyvatel, další dvě pak ve 
+velkých městech (přes 100 000 obyvatel). Dva rozhovory provedli na malém městě (pod 
+50 000 tisíc obyvatel). Zjišťovali situaci kolem homofonního a transfobního obtěžování a 
+šikany. Respondentům byly představeny a vysvětleny základní pojmy a byly, mimo výše 
+uvedené, dotazováni na jejich reakce v situacích dotčených témat, také na potřeby ohledně 
+materiálů, které mají pro tato témata k dispozici.
+Z analýz rozhovorů vyplynulo, že vyučující se setkávají s LGBT studenty zejména na 
+velkých školách. V každém kolektivu se genderově nekonformní jedinci vyskytují a přijetí 
+skupinou záleží na tom, jakou v ní mají pozici. Často ale dochází k odmítání a to bez 
+rozdílu skutečnosti, zda se jako LGBT identifikují nebo ne. S tím koresponduje fakt, o 
+51
+kterém hovoří Janošová (2008) ve své studii, a to slabá pozice genderově nezapadajících 
+chlapců v chlapeckém kolektivu. Určující pro pozici v kolektivu se ukázalo prostředí 
+školy, obor, typ i samotný charakter kolektivu.
+Když už dochází k napadání a obtěžování, děje se tak nejčastěji verbálně. A dokonce 
+v případech, kdy si žáci základních škol neuvědomují jejich význam a spojení se 
+sexualitou. Domnívám se proto, že je nezbytná osvěta v pojmech ze strany vyučujících, 
+která by pomohla ukázat, jak ničivý účinek můžou některé výrazy, navíc „trefně“ použity 
+směrem k LGBT spolužákům a lidem obecně, mít.
+Účastníci výzkumu se vyjádřili kladně k potřebě být v této oblasti více informováni. 
+Z pohledu boje proti šikaně, ne jen té homofonní, je to jistě dobré zjištění. Hlaďo (2015) 
+doporučuje jako účinnou metodu informování pedagogických pracovníků audiovizuální 
+materiály (filmy, dokumenty, spoty) a jejich konfrontaci s realitou. 
+Výsledky proběhly i čtenými českými médii. V článku, který vyšel v únoru 2016, se 
+objevily dva zajímavé komentáře. Zejména komentář Zdeňka Slobody, sociologa a 
+zakladatele hnutí PROUD, potvrzuje má zjištění, že téma LGBT není dostatečně pokryto 
+ze stran školského vzdělávacího systému.
+„Školy mají obvykle preventivní programy zaměřené na klasická témata, jako jsou drogy, 
+alkohol nebo šikana. Prakticky na žádné ze škol, která byla součástí výzkumu, se 
+nepraktikovala prevence ve vztahu k otázce LGBT nebo homofobii, s výjimkou jednoho 
+gymnázia,“ poukazuje na nedostatky školství v tomto směru Sloboda. (Novinky, 2016)
+52
+4 Diskuse výsledků 
+Z dostupných pramenů, výzkumů, literatury, aktivit neziskových i státní institucí vyplývá, 
+že téma LGBT je v současnosti nejvíce vnímané a řešené optikou šikany, tedy homofobní 
+šikany. Šikana a agrese (která vedla až ke smrti mladého člověka, který se jako gay 
+identifikoval) vzniká ze strachu, ze strachu z neznámého a neuchopeného. Poškozuje nejen 
+šikanované, ale v podstatě i agresory. Z dostupných pramenů vyplývá, že nejvíce ohroženi 
+jsou zejména chlapci v chlapeckých kolektivech, kteří nesplňují očekávanou představu 
+chlapce příslušného věku a sociální skupiny a nedisponují požadovanými maskulinními 
+znaky, ať už chování, nebo fyzickou dispozicí. K útokům tohoto druhu se nemusí jedinec 
+nutně identifikovat jako příslušník LGBT skupiny, ale stačí, aby byl považován za 
+potenciálně genderově nekonformního, homosexuálního nebo jakkoli odlišného od normy 
+(Kůst, 2004, Janošová, 2008, Smetáčková, Braun 2009). 
+Výzkumy ukazují, že na akceptaci LGBT žáků a studentů se podílí, kromě samotných 
+aktérů (žáci, studenti, pedagogičtí pracovníci školy), významnou měrou sociální klima 
+celého vzdělávacího zařízení. A pak také osobní zkušenost jednotlivců, což přímo souvisí 
+se strachem z neznámého, viz výše. Z dostupných pramenů lze indikovat, že 
+informovanost a situace obecně může být lepší pro LGBT identifikující se žáky ve větších 
+školách a větších městech. (Velká města jsou z tohoto hlediska přirozeně vždy vstřícnější 
+k odlišnosti mimo jiné díky větší anonymitě městského života, ale také v důsledku 
+odlišného sociálního složení obyvatel.) Co se týče oborů, vzhledem k výše uvedenu tvrzení
+o zvýšeném ohrožení chlapců, lze očekávat, že více kritických momentů bude vznikat v 
+kolektivech primárně více maskulinních učňovských oborů. 
+Řešení těchto problémů je důležitou součástí práce pedagogů, kteří by měli předcházet 
+těmto aktivitám nebo je umět efektivně řešit. Pedagogové jsou součástí společenství školy, 
+rukovětí k jejich práci je, kromě osobní zkušenosti a vlastní touhy být profesionálem 
+v oboru, Školní vzdělávací program. Ten je tvořen na základě Rámcového vzdělávacího 
+programu. Analýza RVP ZV ukázala, že téma homosexuality a homofobie je opatrně 
+zahrnuto v kategoriích, kdy se hovoří o vzájemném respektu k jakékoli odlišnosti. 
+Nevysvětluje hlouběji podstatu jinakosti, konkrétně u LGBT spolužáků, ať už se tak sami 
+identifikovali nebo tímto procesem teprve prochází. Nedostatek informací částečně suplují 
+53
+činnosti některých (neziskových) organizací – viz dále. Díky těm může být problematika 
+LGBT lidí lépe uchopena pedagogy, vedením školy a samotnými žáky.
+V České republice je patrná činnost organizací, které se na problematiku LGBT zaměřují 
+(např. STUD Brno, PROUD, Gender Studies). Pomocnou ruku LGBT mládeži tak nabízejí 
+v současnosti hlavně neziskové projekty (třeba online poradna pro LGBT mladé „S barvou
+ven“, vedená od roku 2016 PROUDem). Představují informační projekty, festivaly, 
+knihovny (i ty živé), vznikají metodiky a semináře nejen pro samotné LGBT lidi, ale také 
+pro jejich bezprostřední okolí, spolužáky, pedagogické pracovníky, rodinné příslušníky.
+Zahraničním protějškem může být příklad Gay-Straight Alliance, která je ale řízena přímo 
+studenty samotnými. Nové poznatky pomáhají uchopovat a třídit také činnosti 
+výzkumníků, zaměřené přímo do vzdělávací oblasti, kak obecně zkoumající otázky 
+sexuality a veřejného mínění.
+Co se týče samotných pedagogů, jsou to (nejen) nositelé kultury příslušné školy, vzhledem 
+k tomu, že pohled na problematiku LGBT se filtruje (a tím nechci napadat profesionalitu 
+učitelů) skrz osobní postoje, zkušenosti i třeba náboženství, je často na nich samotných, na 
+jejich iniciativě, kde získají informace a návody k tomu, jak je relevantně žákům předat. 
+Z Hlaďova (2015) výzkumu vyšlo najevo, že rozhodně ne všichni pedagogové jsou 
+pozitivně nakloněni tématu homosexuality. Analýza diplomových prací českých 
+vysokoškolských studentů přinesla zjištění, že se studenti zabývají nejčastěji tématem 
+homosexuality jako takové, diskriminací, adopcí a výchovou dětí homosexuálními páry a 
+coming outem.
+Na otázky kolem homosexuality samotných učitelů jsem v českém prostředí nenalezla 
+relevantní odborné materiály (zdá se, že ani v mezinárodním prostředí není toto téma příliš 
+analyzováno).
+I když metodické materiály vydávané MŠMT ČR z poslední dekády pojednávají o 
+tématech sexuální identity, orientace, popř. sexuálních deviací (parafilií) a sexuálních 
+disfunkcí poměrně podrobně, otevřeně a kompetentně, mnoho problémů zůstává.
+54
+Za prvé, zdá se, že celá agenda je především vnímána jako záležitost prevence sociálně 
+patologických jevů (například homosexualita je řešena vlastně vždy v kontextu homofobie 
+nebo šikany). 
+Za druhé, může tak vzniknout dojem, že tato problematika je ve škole záležitostí jednoho 
+učitele, metodika prevence nebo výchovného poradce.
+Za třetí, a to s tím souvisí, nemusí se promítnout nijak do obsahu výuky, například 
+prostřednictvím neutrální prezentace toho, že osoby s menšinovou sexualitou kolem nás 
+vždy byly, jsou a budou, často to jsou lidé, kteří v mnoha oblastech lidské činnosti dosáhli 
+významných úspěchů.
+4.1.1 Omezení studie
+Zahraničních studií, i když jsem se zaměřila jen na angličtinu, je nepřeberné množství. 
+Proto jsem zpracovala jen velmi omezenou část. V průběhu práce se ukázalo, že 
+v posledních letech i v České republice narůstá počet materiálů, které vznikají, ale často 
+jsou skryty jen jako „přílohy“ oficiálních dokumentů, apod. Práce je zásadně limitována 
+faktem, že nevím, jak jsou v praxi tyto dokumenty známy a případně používány, jaké 
+k nim a k sledované tematice mají postoj různí aktéři vzdělávání – nejen učitelé, ale také 
+rodiče, zřizovatelé škol apod. V tomto případě se otevírá široké pole pro další výzkum. Co 
+se týče dalších možných kroků, lze zpracovat analýzu českých výukových materiálů
+(učebnic), vzhledem k tématu inkluze a LGBT.
+55
+5 Závěr
+V práci jsem provedla analýzu vybraných zahraničních materiálů k problematice LGBT ve 
+vzdělávání žáků a přípravě učitelů a pokusila se o přehled existujících materiálů českých.
+Zahraniční, anglicky psané materiály pojímají problematiku LGBT z více úhlů pohledů, 
+než je tomu u materiálů v ČR. Jejich studie jsou obsáhlejší, komplexnější nebo naopak 
+detailně zaměřeny na konkrétní téma, například studie Creating Comprehensive, Youth 
+Centered, Culturally Appropriate Sex Education: What Do Young Gay, Bisexual,and 
+Questioning Men Want? (Pingel a kol. 2013), která se zaměřuje konkrétně na mladé 
+homosexuální muže a ty, kteří o své identitě ještě váhají. Zahraniční publikace obsahují 
+řadu analýz, zkoumají konkrétní jevy napříč společností. 
+Specifickým přístupem v zahraničí je queer teorie kurikula. "Queering" rozšiřuje rámce 
+chápání heteronormativity o identity, které se nevejdou do striktní definice 
+heteronormativity Přístup skrze queering umožňuje přítomnost "komplexní” identity (např 
+queer pohlaví, queer sexuality) v prostředí, které tradičně poskytují prostor pouze jedincům 
+s "normálními" identitou. Queering v oblasti vzdělávacího systému vyžaduje, aby 
+kurikulum, politika a praxe školy zahrnovaly a respektovaly všechny individuality i s jejich 
+zkušenostmi.
+V České republice existuje několik dokumentů, které jsou svým obsahem, zejména 
+vymezením problematiky a praktickými radami pro pedagogy i jiné pedagogické 
+pracovníky, kvalitním materiálem. Tyto materiály jsou ale vydávány jako nezávazná 
+doporučení. Školy z nich mohou přebírat pouze názvy témat, aby dostály formálním 
+povinnostem, aniž by došlo k jejich hlubší analýze či praktickému uchopení do 
+vzdělávacích programů. Formální opora MŠMT v podobě explicitního uvedení tematiky 
+v závazných výstupech by školám pomohla obhájit zařazení témat do kurikula i před 
+rodiči. Velká část iniciativy leží na neziskových organizacích. Dalším důležitým tématem 
+je zařazení problematiky LGBT do počátečního a celoživotního vzdělávání učitelů.
+56
+Svou práci jsem začala úvahou o inkluzivitě. Zahraniční práce přinesly i názor, že zahrnutí 
+problematiky LGBT do kurikula a do práce s klimatem školy nebude přínosem jen pro 
+LGBT menšinu, ale pomůže to vytvořit více inkluzivní tolerantní školní klima obecně a 
+obohatí to všechny žáky.
+57
+Seznam použitých informačních zdrojů
+Ballonoff Suleiman, A. & Brindis, C. (2014). Adolescent School-Based Sex Education: 
+Using Developmental Neuroscience to Guide New Directions for Policy and 
+Practice. Sex Res Soc Policy, 11(2), 137-152.
+Být učitel a gay je pořád problém. (2014). Týdeník Respekt. Retrieved 27 June 2016, from 
+http://www.respekt.cz/fokus/byt-ucitel-a-gay-je-porad-problem
+Creative, S. (2016). The Telegraph UK- Mapped: These are the world's most religious 
+countries. WIN/Gallup International, Religion survey, The telegraph, 
+UK. Wingia.com. Retrieved 2 July 2016, from 
+http://www.wingia.com/en/news/the_telegraph_uk_mapped_these_are_the_world_s
+_most_religious_countries
+Dreger, A. D. (2009). Hermafroditi a medicínská konstrukce pohlaví. Praha: Triton.
+Dvořák, D. (2012). Od osnov ke standardům. Praha: PedF UK. 
+Freud, S. (1905). Tři úvahy o sexuální teorii. Alois Srdce.
+Global Acceptance of Homosexuality. (2013). Pew Research Center's Global Attitudes 
+Project. Staženo z http://www.pewglobal.org/2013/06/04/global-acceptance-ofhomosexuality/
+Graves, K. (2015). Cris Mayo, LGBTQ Youth and Education: Policies and Practices
+[recenze knihy]. Educational Theory, 65(1), 79–85. 
+http://dx.doi.org/10.1111/edth.12097
+Habr, J., Hájková, H., & Vaníčková, H. (2015). Metodika práce asistenta pedagoga.
+Olomouc: Univerzita Palackého v Olomouci.
+Hlaďo, P. (2015). Postoje univerzitních studentů pedagogicky orientovaných studijních 
+programů k homosexualitě měřené na škále Homosexuality Attitude 
+Scale. Pedagogická orientace, 25(3),438–464. 
+Homosexuální učitel, který musel odejít z křesťanské školy, exceluje ve škole muslimské.
+(2016). Britské listy (online), 15. 2. 2016. Staženo z http://blisty.cz/art/81108.html
+58
+Kelly, A. V. (2004). The curriculum: theory and practice. London: Sage. 
+Kinsey, A., Pomeroy, W., & Martin, C. (1948). Sexual behavior in the human male.
+Philadelphia: W.B. Saunders Co.
+Kridel, C. (2010). Encyclopedia of curriculum studies. Thousand Oaks, CA: SAGE 
+Publications.
+Kůst, F. (2004). Queer, queer theory, queer cinema. . Revue Pro Média, (9). 
+http://rpm.fss.muni.cz/Revue/Heslar/queer.htm
+Macgillivray, I. & Jennings, T. (2008). A Content Analysis Exploring Lesbian, Gay, 
+Bisexual, and Transgender Topics in Foundations of Education Textbooks. Journal 
+Of Teacher Education, 59(2), 170-188.
+Malins, P. (2016). How inclusive is “inclusive education” in the Ontario elementary 
+classroom?: Teachers talk about addressing diverse gender and sexual identities. 
+Teaching and Teacher Education, 54, 128–138.
+Maňák, J., Janík, T., & Švec, V. (2008). Kurikulum v současné škole. Brno: Paido. 
+Mayo, C. (2007). Queering foundations: Queer and lesbian, gay, bisexual, and transgender 
+educational research. Review Of Research In Education, 31(1), 78–94.
+Mezera, A. (2011). Léčba šikany (recenze). E-Psychologie, 4, 80. http://dx.doi.org/ISSN 
+1802-8853
+Minton, S., Dahl, T., O’ Moore, A., & Tuck, D. (2008). An exploratory survey of the 
+experiences of homophobic bullying among lesbian, gay, bisexual and 
+transgendered young people in Ireland. Irish Educational Studies, 27(2), 177-191. 
+MŠMT. (2011a). Metodické doporučení k primární prevenci rizikového chování u dětí a 
+mládeže. Staženo z: www.msmt.cz/uploads/
+MŠMT. (2011b). Homofobie. Příloha č. 8 Metodického doporučení k primární prevenci 
+rizikového chování u dětí a mládeže. Staženo z: www.msmt.cz/uploads/
+59
+MŠMT. (2011c). Rizikové sexuální chování. Příloha č. 18 Metodického doporučení 
+k primární prevenci rizikového chování u dětí a mládeže. Staženo z: 
+www.msmt.cz/uploads/
+Owens, R. (1998). Queer kids. New York: Haworth Press.
+Pinar, W. F. (2003). Queer theory in education. Journal of Homosexuality, 45(2–4), 357–
+360. 
+Pingel, E., Thomas, L., Harmell, C., & Bauermeister, J. (2013). Creating Comprehensive, 
+Youth Centered, Culturally Appropriate Sex Education: What Do Young Gay, 
+Bisexual, and Questioning Men Want?. Sex Res Soc Policy, 10(4), 293-301.
+Posner, G. J. (1992). Analyzing the curriculum. New York, McGraw-Hill. 
+Pospíšil, R. (2006). Šikana a školní klima–dílčí výsledky výzkumu. Získáno,6(2), 2015.
+Postoje veřejnosti k právům homosexuálů – květen 2015. (2015). CVVM. Staženo z webu
+http://cvvm.soc.cas.cz
+Reiter, L. (1989). Sexual orientation, sexual identity, and the question of choice. Clinical 
+Social Work Journal, 17(2)
+Renn, K. A. (2010). LGBT and Queer research in higher education: The state and status of 
+the field. Educational Researcher, 39(2), 132–141. 
+Ryan, C. & Rivers, I. (2003). Lesbian, gay, bisexual and transgender youth: Victimization 
+and its correlates in the USA and UK. Culture, Health & Sexuality, 5(2), 103-119. 
+Sbarvouven- O nás. (2015). Sbarvouven.cz. Staženo z https://www.sbarvouven.cz/cs/o-nas.
+Seidl, J. (2012). Od žaláře k oltári. Brno: Host.
+Smetáčková, I., & Braun, R. (2009). Homofobie v žákovských kolektivech. Praha: Úřad 
+vlády České republiky. 
+Švaříček, R., & Šeďová, K., et al. (2007). Kvalitativní výzkum v pedagogických vědách.
+Praha: Portál.
+60
+Toomey, R., McGuire, J., & Russell, S. (2012). Heteronormativity, school climates, and 
+perceived safety for gender nonconforming peers. Journal Of Adolescence, 35(1), 
+187-196. 
+What is a GSA? | Genders & Sexualities Alliance Network. (2016). Gsanetwork.org. 
+Retrieved 13 July 2016, https://gsanetwork.org/resources/building-your-gsa/whatgsa
+61
+Univerzita Karlova v Praze, Pedagogická fakulta
+M. Rettigové 4, 116 39 Praha 1
+Evidenční list žadatelů o nahlédnutí do listinné podoby práce
+Jsem si vědom/a, že závěrečná práce je autorským dílem a že informace získané 
+nahlédnutím do zveřejněné závěrečné práce nemohou být použity k výdělečným účelům, 
+ani nemohou být vydávány za studijní, vědeckou nebo jinou tvůrčí činnost jiné osoby než 
+autora. 
+Byl/a jsem seznámen/a se skutečností, že si mohu pořizovat výpisy, opisy nebo 
+rozmnoženiny závěrečné práce, jsem však povinen/povinna s nimi nakládat jako 
+s autorským dílem a zachovávat pravidla uvedená v předchozím odstavci tohoto 
+prohlášení.
+Poř. č. Datum Jméno a příjmení Adresa trvalého bydliště Podpis
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+62
+Univerzita Karlova v Praze, Pedagogická fakulta
+M. Rettigové 4, 116 39 Praha 1
+Prohlášení žadatele o nahlédnutí do listinné podoby práce před její obhajobou
+Závěrečná práce:
+Druh závěrečné práce: Diplomová práce
+Název závěrečné práce: Problematika LGBT v českých a zahraničních kurikulárních 
+materiálech
+Autor práce: Bc. Dominika Jírová, DiS.
+Jsem si vědom/a, že závěrečná práce je autorským dílem a že informace získané 
+nahlédnutím do zveřejněné závěrečné práce nemohou být použity k výdělečným účelům, 
+ani nemohou být vydávány za studijní, vědeckou nebo jinou tvůrčí činnost jiné osoby než 
+autora.
+Byl/a jsem seznámen/a se skutečností, že si mohu pořizovat výpisy, opisy nebo 
+rozmnoženiny závěrečné práce, jsem však povinen/povinna s nimi nakládat jako 
+s autorským dílem a zachovávat pravidla uvedená v předchozím odstavci tohoto 
+prohlášení.
+Jsem si vědom/a, že pořizovat výpisy, opisy nebo rozmnoženiny dané práce lze pouze na 
+své náklady.
+V Praze dne ………………………………
+Jméno a příjmení žadatele
+Adresa trvalého bydliště
+........................................................
+podpis

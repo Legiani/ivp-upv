@@ -1,0 +1,62 @@
+Česká zemědělská univerzita v Praze
+Institut vzdělávání a poradenství
+Předmět: Veterinářství a plemenářství
+Třída: 4.A, obor agropodnikání
+Termín: 17.3.2023
+Téma hodiny: Nakažlivé nemoci prasat II.
+Autor: Kamila Bulušková
+2023
+Příprava na teoretickou vyučovací jednotku z předmětu „Veterinářství a plemenářství“
+Obor vzdělávání: 	Agropodnikání
+Ročník: 		4.
+Místo výkonu vyučovací jednotky: SŠZ Chrudim
+Tematický celek: 	Zoohygiena a prevence chorob hospodářských zvířat
+Téma: 		Nemoci prasat II.
+Časová dotace:	45 minut
+Vzdělávací cíle: 	Žák se naučí základní informace o původcích, průběhu, prevenci a léčbě červenky prasat a Aujeszkyho choroby prasat
+Žák si formou opakování upevní vědomosti z oblasti parazitárních onemocnění prasat.
+Výchovné cíle: 	Vytvoření si správného vztahu k dodržování zásah bezpečnosti a ochrany zdraví
+Vytvoření si správného vztahu k životnímu prostředí
+Forma výuky: 	Teoretická vyučovací jednotka
+Použité metody ve vyučovací jednotce: Metody verbální (výklad, popis)
+Mezipředmětové vztahy: Biologie, Chov zvířat
+Průřezová témata: Environmentální výchova
+Učební pomůcky: Učebnice „Zoohygiena a prevence chorob hospodářských zvířat“, prezentace
+Schéma vyučovací jednotky:
+Opakování:
+Jaká parazitická onemocnění znáte? (škrkavčitost, zavšivení, svrab, svalovčitost, kokcidióza)
+Jaký je rozdíl mezi ektoparazitózou a endoparazitózou? (ekto – na povrchu těla, endo – uvnitř těla)
+Jakým způsobem dochází k přenosu škrkavčitosti? (pozřením výkalů nemocných prasat)
+Která z parazitóz je přenosná na člověka? (svalovčitost – přenos pozřením masa nakažených prasat)
+Jakým způsobem byste léčili svrab a zavšivení? (postřik postižených míst, injekce)
+Co je nejdůležitějším prvkem prevence u všech onemocnění? (důsledná zoohygiena v chovu)
+Probíraná látka:
+Nakažlivé (infekční) nemoci – postihují zpravidla více zvířat najednou. 
+Obecnými příznaky bývá zvýšená tělesná teplota, svalový třes, malátnost zvířat a nechutenství. Infekční nemoci jsou většinou značně nakažlivé, přenáší se buď samotnými nakaženými zvířaty nebo předměty, které s nimi přišly do styku.
+	Příklady infekčních nemocí u prasat: Červenka, Aujezskyho choroba, Mor prasat, Sípavka, Gastroenteritis, Prasečí chřipka, Enzootická pneumonie
+Červenka prasat: původcem onemocnění je bakterie Erysipelothrix rhusiopatie
+Bakterie se běžně vyskytuje ve vnějším prostředí. Dále pak ve výkalech nakažených prasat, v kontaminované půdě či dokonce žijí přímo uvnitř zdravých prasat (v mandlích, ve střevech) aniž by škodily. 
+K propuknutí onemocnění dochází až za určitých stresových podmínek, zejména za horka až dusna (tzn. v letním období). Mikroby pronikají do těla mandlemi, porušenou kůží nebo trávicím ústrojím.
+Příznaky: po průniku bakterií do těla dochází do jednoho týdne k těžké infekci a někdy až velmi rychlému úhynu.
+Zvýšená teplota, kopřivkové červené skvrny (podle nich červenka), které po čase čím dál tím víc tmavnou a slévají se, doprovázené dýchacími obtížemi. 
+Infekce se může usadit též v kloubech, prase pak kulhá.
+Tři východiska: úhyn, vyléčení se (a získání imunity proti dalšímu nakažení), přechod do chronické formy (průběh nemoci v rámci několika měsíců, popř. nevratné trvalé následky - Může dojít k nekróze (odumření) postižených částí kůže a jejímu odpadávání).
+Léčba: injekční podání antibiotik (penicilinu). Při nákaze více kusů lze podat penicilin ve vodě nebo v krmivu. Chronické změny se již vyléčit nedají, změny na srdci a kloubech jsou nevratné.
+Prevence: vakcinace avirulentní živou vakcínou (živé bakterie, které jsou zbaveny schopnosti vyvolat onemocnění). Imunita trvá pak okolo půl roku, kdy je nutná opětovná aplikace vakcíny.
+Červenka je zoonóza – nemoc přenosná na člověka. Nakazit se mohou osoby, které přijdou do styku s kontaminovaným masem (typicky řezníci) či při jeho pozření.
+Aujezskyho choroba: též se lze setkat s názvem „pseudovzteklina“, původcem je prasečí herpesvirus SHV-1. Prasata jsou hlavním hostitelem této nemoci, nemoc je však přenosná na téměř všechny druhy zvířat, kromě člověka a primátů. Pro ostatní druhy zvířat je onemocnění vždy smrtelné, prasata mohou přežít. 
+Virus je relativně odolný, šíří se aerosolem, ve vzduchu se udrží až 7 hodin. Prasata se nakazí jeho vdechnutím či pozřením. Zdrojem onemocnění jsou další infikovaná prasata, která jej vylučují v hlenu z dýchacích cest, poševním hlenu, v semeni, v mléce a někdy též v moči. Herpesvirus je obsažen v mase nakažených zvířat – takto dochází k přenosu na jiná zvířata (psi, kočky…).
+Při vypuknutí nemoci v chovu zpravidla onemocní většina ustájených prasat. Příznaky však záleží na stáří nakažených prasat.
+Příznaky: u mladých prasat: odstávčata a mladá prasata ve výkrmu mají horečku spojenou se zánětem dýchacích cest, který může přejít v zápal plic. Někdy se vyskytují i nervové příznaky při postižení mozku – potácení se, epileptické záchvaty. Mortalita je nízká (1-2 %). Sající selata obvykle umírají – převažují neurologické příznaky – třes, nekoordinované pohyby.
+	Dospělá prasata: nemoc buď zcela bez příznaků nebo jako krátkodobé horečnaté onemocnění spojené s nechutenstvím. U prasnic jsou typickým příznakem poruchy reprodukce – časté potraty a poruchy zabřezávání.
+	U jiných zvířat: typicky psi – vždy smrtelná, postihuje mozek. Inkubační doba 6 dní, nechutenství, apatie či naopak podrážděnost se záchvaty zuřivosti. Typickým příznakem je také svědění kůže, obrna hltanu – zvířata nemohou polykat, sliny vytékají z huby, brzy pak dochází k obrně hrtanu – zvíře ztratí hlas a schopnost vydávat zvuky, konečným příznakem jsou záškuby svalů a zvíře do 2 dnů umírá.
+Prevence: U prasat byla v minulosti možná vakcinace, která byla V Československu prováděna do roku 1987, od r. 1988 je zakázaná. Stát je v chovech domácích prasat prostý nákazy. Domácí chovy je nutné chránit před zavlečením nákazy zejména prostřednictvím kontaminovaných předmětů a materiálu infikovaného od divokých prasat.
+Opakování: 
+Jaký je nejvýraznější projev červenky? (kopřivkové červené skvrny)
+V jakém orgánu nejčastěji žije bakterie červenky? (mandle)
+Co je to chronické onemocnění? (průběh nemoci v rámci nekolika měsíců, obvykle nedojde k úplnému vyléčení, zůstávají trvalé následky)
+Jakým způsobem se léčí červenka? (Penicilin – injekčně či v krmivu/vodě)
+Jaké preventivní opatření lze udělat abychom předešli vzniku červenky? (vakcinace živou vakcínou, zbavenou schopnosti vyvolat onemocnění)
+Co je to zoonóza? (nemoc přenosná ze zvířete na člověka)
+Pro jakou skupinu prasat je Aujezskyho choroba nejnebezpečnější? (sající selata)
+Co způsobuje Aujeszkyho choroba u dospělých prasnic? (potraty, poruchy reprodukce)

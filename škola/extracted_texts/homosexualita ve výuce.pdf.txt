@@ -1,0 +1,2071 @@
+UNIVERZITA HRADEC KRÁLOVÉ
+Pedagogická fakulta
+Bakalářská práce
+2021 Natálie Veselská
+UNIVERZITA HRADEC KRÁLOVÉ
+Pedagogická fakulta
+Katedra pedagogiky a psychologie
+Téma homosexuality ve výuce
+Bakalářská práce
+Autor: Natálie Veselská
+Studijní program: B7507 Specializace v pedagogice
+Studijní obor: Český jazyk a literatura se zaměřením na vzdělávání
+Společenské vědy se zaměřením na vzdělávání
+Vedoucí práce: Mgr. Daniela Vrabcová, Ph.D.
+Oponent práce: doc. PhDr. PaedDr. Kamil Janiš, CSc.
+Hradec Králové 2021
+
+Prohlášení
+Prohlašuji, že jsem bakalářskou práci „Téma homosexuality ve výuce“ vypracovala samostatně pod vedením vedoucí bakalářské práce a s použitím literatury a pramenů v ní uvedených.
+V Hradci Králové dne 8. 4. 2021 _______________________________
+Poděkování
+Ráda bych tímto poděkovala Mgr. Daniele Vrabcové, Ph.D. za odborné vedení bakalářské 
+práce a poskytnutí inspirací a cenných rad.
+Natálie Veselská
+Anotace
+VESELSKÁ, Natálie. Téma homosexuality ve výuce. Hradec Králové: Pedagogická fakulta, 
+2021. Bakalářská práce. Univerzita Hradec Králové, Pedagogická fakulta.
+Bakalářská práce se zabývá tématem homosexuality a prevence homofobie v kontextu výchovy a vzdělávání. Práce je členěna na teoretickou a empirickou část. Teoretická část mapuje problematiku homosexuality v odborných zdrojích, v hlavních kurikulárních dokumentech (RVP, ŠVP) i ve vybraných učebnicích. V empirické části jsou sledovány znalosti a postoje žáků a učitelů týkající se dané problematiky, pozornost je věnována také zařazování 
+tématu do vyučovacích hodin. Součástí empirické části je návrh možných didaktických námětů pro práci s žáky. Hlavní výzkumné metody jsou obsahová analýza a dotazník.
+Klíčová slova
+Homosexualita, coming out, registrované partnerství, homofobie, šikana
+Annotation
+VESELSKÁ, Natálie. The Topic of Homosexuality in Education. Hradec Králové: Faculty 
+of Education, 2021. Bachelor´s Thesis. University of Hradec Králové, Faculty of Education.
+The bachelor´s thesis deals with the topic of homosexuality and prevention of homophobia 
+in the context of education. The thesis is divided into theoretical and empirical part. The 
+theoretical part explores the issue of homosexuality in specialised sources, in the main curricular documents (FEP, SEP) and in selected school textbooks. The knowledge and attitudes 
+of students and teachers related to the issue are examined in the empirical part, attention is 
+also paid to the inclusion of the topic in the lessons. The proposal of possible didactic topics
+for working with students is part of the empirical section. Content analysis and a questionnaire survey are the main research methods.
+Key words
+Homosexuality, coming out, registered partnership, homophobia, bullying
+Obsah
+Úvod..........................................................................................................................9
+1 Lidská sexualita a gender ....................................................................................10
+1.1 Gender a pohlaví..........................................................................................10
+1.2 Sexuální (genderová) identifikace..................................................................11
+1.2.1 Různorodost identit................................................................................12
+1.3 Sexuální orientace (preference) .....................................................................14
+1.3.1 Druhy sexuální orientace........................................................................14
+2 Homosexualita ...................................................................................................16
+2.1 Termín homosexualita ..................................................................................16
+2.2 Vznik homosexuality a její léčba ...................................................................17
+2.2.1 Biologické a psychogenní studie .............................................................17
+2.2.2 Léčba homosexuality.............................................................................18
+2.3 Vývoj pojetí homosexuality ..........................................................................19
+2.3.1 Mimoevropské kultury...........................................................................19
+2.3.2 Evropa do 20. století..............................................................................20
+2.3.3 Přelom v pojetí homosexuality................................................................20
+2.3.4 Česká společnost a homosexualita...........................................................21
+3 Registrované partnerství, rodičovství a coming out................................................22
+3.1 Registrované partnerství ...............................................................................22
+3.2 Rodičovství a vliv na vývoj dítěte..................................................................23
+3.3 Coming out..................................................................................................26
+4 Homofobie a šikana ............................................................................................28
+4.1 Školní prostředí............................................................................................29
+4.1.1 Prevence homofobní šikany....................................................................31
+5 Školní dokumenty...............................................................................................32
+5.1 RVP............................................................................................................32
+5.2 ŠVP............................................................................................................33
+5.3 Učebnice společenskovědních předmětů.........................................................34
+5.3.1 Občanský a společenskovědní základ: přehled středoškolského učiva.........34
+5.3.2 Občanská a rodinná výchova 9, pro základní školy a víceletá gymnázia......36
+5.3.3 Etická výchova pro 6.–7. ročník..............................................................37
+5.3.4 Občanská nauka pro střední odborné školy a studijní obory SOU...............38
+5.3.5 Odmaturuj! ze společenských věd...........................................................38
+6 Metodologické aspekty šetření ............................................................................ 40
+6.1 Výzkumný problém, výzkumné cíle, otázky a hypotézy.................................. 40
+6.2 Sběr dat – metoda, organizace – a jejich zpracování........................................ 42
+6.3 Celková charakteristika výzkumného vzorku ................................................. 43
+7 Povědomí o homosexualitě a registrovaném partnerství......................................... 47
+7.1 Povědomí žáků o homosexualitě a registrovaném partnerství........................... 47
+7.2 Učitelé a jejich povědomí o homosexualitě a registrovaném partnerství............ 49
+8 Postoje k homosexuálům, homoparentním rodinám a jejich právům ....................... 53
+8.1 Postoje žáků k homosexuálům, homoparentním rodinám a jejich právům......... 53
+8.2 Postoje učitelů k homoparentním rodinám a jejich právům.............................. 57
+9 Tematické zastoupení problematiky homosexuality a souvisejících otázek ve výuce: 
+pohled učitelů........................................................................................................... 61
+10 Vyhodnocení hypotéz a doporučení pro praxi.................................................... 65
+Závěr....................................................................................................................... 68
+Seznam použité literatury .......................................................................................... 69
+Seznam příloh .......................................................................................................... 74
+9
+Úvod
+V postavení homosexuálů ve společnosti proběhly od pádu komunismu velké změny. Přesto je 
+téma pro mnohé tabuizované, ba dokonce nepřijatelné a homosexuálové jsou v České republice 
+stále jakousi výjimkou. Pro odlišně orientované jedince tak může být vědomí o odlišnosti nelehké a fáze sebepřijetí či následného coming outu v rámci heteronormativně orientované společnosti se může stát nepřekonatelnou překážkou.
+Česká společnost se zastavila v bodě, kdy homosexuály přestala za jejich orientaci právně 
+trestat a začala je tolerovat. Ovšem při vyslovení pojmu „tolerovat něco“ cítíme, že se nejedná 
+o běžnou věc, ale stále o, i když přijímanou, odchylku z běžného systému. Tomu nasvědčují 
+také zákony, které zdaleka neumožňují registrovaným partnerům to samé, co heterosexuálním 
+manželům. Přitom se jedná pouze o lásku člověka k člověku, stejně jako tomu je u partnerů či 
+manželů odlišného pohlaví.
+I přes stále možné setkání homosexuála s někým, kdo si na něj ukáže prstem, jsou ve společnosti znatelné posuny k lepšímu, které mohou být ovlivněné medializací a většími možnostmi
+hromadného sdílení informací. Lidé jsou v současné době v tomto tématu odvážnější, o své 
+orientaci veřejně hovoří a vyžadují rovná práva. Domnívám se proto, že cesta k lepším zítřkům 
+vede skrze mladé lidi, žáky, které lze formovat a vést k přijímání stále ještě odlišných hodnot, 
+postojů, životů a také jiné sexuální orientace.
+Také Ministerstvo školství, mládeže a tělovýchovy vnímá dané potřeby k předcházení a řešení 
+homofobie, proto jsem se zaměřila na téma homosexuality ve výuce a mým hlavním cílem je 
+zjistit, zda a jakým způsobem je téma zařazováno do vyučovacích hodin. K naplnění cíle je 
+využita analýza školních dokumentů – RVP, ŠVP a vybraných učebnic – a také šetření zaměřené na znalosti a postoje zejména těch, kteří jsou hlavními činiteli výchovně-vzdělávacího 
+procesu – učitelů a žáků. Nezáleží totiž jen na tom, zda se ve vyučovacích hodinách téma vyskytuje, ale také na tom, jakou formou je podáno a jaké názory a postoje jsou žákům předávány.
+Pro umožnění snadnějšího začlenění tématu předkládám v příloze A možné didaktické náměty, 
+které by mohly být oporou a inspirací v případě neznalosti jeho vhodného uchopení a jejichž 
+cílem je zejména vyvrácení domnělých, ale nepravdivých informací. Zařazení tématu do vyučování by tak mělo vést k celkové prevenci proti homofobní šikaně a homofobii.
+10
+Teoretická část 
+1 Lidská sexualita a gender
+Před definicí homosexuality se zaměřím na pojmy, které jsou jí „nadřazené“. Tím základním je 
+sexualita, jež je pro svou šíři nahlížena z mnoha pohledů – psychologického, sociologického, 
+medicínského, z pohledu práva atd. Setkáváme se zde s definicí užší, mnohdy laickou, která 
+označuje jako projev sexuality zejména pohlavní rozmnožování, případně zjednodušeně sex. 
+Do širší definice pak patří i ty projevy, které s erotickou slastí přímo nesouvisí (např. schopnosti 
+prostorové orientace, sociální kompetence, nadání aj.).
+Je zřejmé, že sexualita souvisí s více či méně uvědomovaným jednáním a prožíváním jedince 
+a rovněž i s jeho identitou. A co více – je vepsána do kultury lidí, stejně tak jako je kultura 
+a společnost vepsána do sexuality jedince. Vzhledem k tomuto je nalezení jedné přesné definice
+téměř nemožné. Já budu vycházet ze sociálněkonstruktivistického pohledu. Dle Slobody
+(2016, s. 12) je při „definování“ důležité brát v potaz tzv. intersekcionalitu, protože „skutečných 
+podob, chápání a proměn nabývá sexualita až při pohledu na průnik s dalšími sociálními kategoriemi, jako jsou gender, věk, etnicita, ekonomický status, víra nebo životní styl.“ Sexualitu
+tak není možné nazírat samostatně.
+1.1 Gender a pohlaví
+Zásadní kategorií týkající se nahlížení sexuality a sexuální identity je gender. Protože „pokud 
+by nebylo důležité, jestli jste z hlediska genderu muž nebo žena, nebylo by ani důležité, jestli 
+milujete muže nebo ženu, jestli máte sex s mužem nebo se ženou nebo jaké pohlavní znaky 
+(ne)máte.“ (Sloboda 2016, s. 15) Tímto je společnost rozdělována bipolárně na dvě skupiny, 
+a to na „muže“ (mužství) a „ženy“ (ženství).
+Termín gender původně vznikl ve feministické teorii pro označení kulturních stereotypů (např. 
+povinnost ženy plodit děti), které jsou spojeny s daným pohlavím a které jsou brány jako přirozené. Dnes je tento pojem využíván běžně a je společensky stanoveno, že máme gendery dva.
+Avšak vzhledem k tomu, že je gender dán sociálně, mohli bychom mít genderů mnohem více
+nebo jejich pojetí měnit. „Jde o určité sociální ženství a mužství – takto na něj lze nahlížet jako 
+na instituci.“ (Fafejta 2004, s. 30–31) Faktem je, že již od narození je dítě pojímáno jako muž 
+11
+nebo žena, a to heterosexuální muž nebo heterosexuální žena. Je tedy kulturně formulováno 
+představou o tom, co je pro něj, jako pro muže nebo pro ženu, vhodné, jak by se mělo chovat, 
+jak by mělo vypadat atd.
+Rozdělení na mužství a ženství označuje spousta autorů (Foucalt, Butlerová, Fafejta, Sloboda 
+a další) právě sociálním konstruktem, při němž se předpokládá zásadní vliv kultury a společnosti, zatímco vliv biologického pohlaví je podružný. Proto sociální konstruktivisté přijímají 
+multiplicitu genderových identit nebo hovoří o překračování hranic genderů.
+Dle Fafejty (2004, s. 13–27) je vše, čím se sociologie zabývá, sociálním konstruktem. Vše, co 
+je spojeno s člověkem ve společnosti, je do jisté míry sociálně ovlivněno. Přidává ale, že je
+zároveň nemožné stanovit hranice mezi přirozeným a konstruovaným. Z výše zmíněného tedy 
+vyplývá, že lidská sexualita by mohla být společenským konstruktem, tudíž je ovlivňována
+společností. Je však evidentní, že člověk a příroda jsou v úzkém sepjetí, a tak jak příroda a společnost utváří člověka, tak člověk utváří přírodu a jasné hranice mezi těmito oblastmi lze těžce 
+stanovit.
+V naší společnosti je v každodenních situacích gender spojován s pohlavím a tyto pojmy splývají, přesto tomu tak někdy reálně nemusí být. Člověk může být stejného (biologického) pohlaví 
+jako někdo jiný, ale jejich gendery (charakteristická chování či modely) mohou být odlišné.1Je 
+proto důležité si uvědomit, že pohlaví je dáno výhradně biologicky. Jsou to biologické vlastnosti, které odlišují muže a ženy. Pohlaví jsou v naší společnosti dvě a jsou odlišená na základě
+pohlavního ústrojí a reprodukčních dispozic. Ve skutečnosti tomu však „laické“ rozlišení 
+na muže a ženy neodpovídá. V reálném životě totiž osoby podle pohlaví (např. přirození) vůbec 
+nerozlišujeme, rozlišujeme je naopak většinou podle genderu (zejm. vzhledu). A možná právě 
+proto jsou těžko stanovitelné hranice mezi genderem a pohlavím, mezi biologickým a sociálním. (Fafejta 2004, s. 23)
+1.2 Sexuální (genderová) identifikace
+Tato identifikace určuje, za koho se jedinec považuje a jaké je jeho vlastní sebepojetí. Fifková, 
+Weiss a Procházka (2002, s. 13) např. uvádí: „Sexuální identifikace vyjadřuje subjektivně 
+1 Předpokládám zde: biologické pohlaví = sexuální (pohlavní) identita; sebepojetí (mužství, ženství) = genderová identita.
+12
+vnímaný pocit sounáležitosti či naopak rozporu s vlastním tělem, s jeho primárními i sekundárními pohlavními znaky i se sociální rolí přisuzovanou danému pohlaví.“
+Vliv na identitu jedince má již jeho prenatální vývoj, zejména hormony, které jsou produkovány
+v oblasti hypotalamu. Výsledkem je pak jedinec, jehož pohlaví má jakési dvě složky – fyzickou 
+(vzhled pohlavních orgánů) a psychickou (ztotožnění s mužstvím či ženstvím). (Weiss 2010, 
+s. 102–103)
+Z definice vyplývá, že sexuální identifikace, pohlaví a gender spolu úzce souvisí. Je totiž 
+zřejmé, že jedinec, který se narodí biologicky jako muž, ale psychicky nebude své mužství cítit
+a dle něj se identifikovat, nebude splňovat nepsaná pravidla pro gender mužství. Pokud by se 
+v tomto případě jedinec definoval jako žena, nazýváme tento jev transsexualita. Jedinec by se 
+mohl rovněž identifikovat jako někdo, kdo sebe sama nevnímá ani jako muže, ani jako ženu,
+potom bychom ho označili za osobu nebinární.
+Se sexuální identifikací ještě souvisí jeden z termínů, a to intersexualita. Tento pojem označuje 
+člověka, u kterého nelze jednoznačně říct, zda se z biologického hlediska jedná o muže či 
+o ženu. 
+1.2.1 Různorodost identit
+Tuto kapitolu jsem cíleně nazvala různorodostí identit, abych zde mohla shrnout výše uvedené 
+pojmy z předchozí kapitoly, které souvisí jak s genderem, tak s pohlavím (v případě intersexuality pouze s pohlavím), a zároveň se jimi hlouběji nezaobírat – vzhledem k tématu práce nejsou 
+tyto informace příliš podstatné, avšak je nezbytné je v kontextu zmínit.
+Pojmenovat jednotlivé skupiny sexuálních identifikací je velmi obtížné, protože se s vyvíjející
+kulturou a společností objevují nové názvy a nové „typy“ těchto identit. Liší se však od tradičního ztotožnění se s biologickou přirozeností jedince.
+13
+Mnou nejdříve zmíněná transsexualita označuje nesoulad psychické a biologické stránky pohlaví. Dle Slobody (2016, s. 61) je však zastřešujícím názvem termín trans identity, který (alespoň částečně)2 odpovídá pluralitním identifikacím sebe sama. O tom se ještě zmíním níže. 
+Transsexualita je často vykládána jako porucha/diagnóza označená F64.0 v MKN3, přesněji 
+porucha pohlavní identity (angl. gender identity disorder)4. Je ji možné řešit medicínsky, a to 
+podstoupením změny pohlaví. Tento proces zahrnuje mnoho fází, o kterých je možné se dočíst 
+např. v autobiograficky laděných knihách Terezy Spencerové nebo Leslie Feinberg.5
+Dalším uvedeným pojmem je nebinárnost pohlaví (angl. genderqueer). Jedinec označený nálepkou nebinárnosti je ten, který se nechce přiřadit k jedné ze dvou binárních skupin ve společnosti – ženy, muži. Těchto lidí je široká škála, někteří se hodnotí jako pohlavně neutrální, někteří vnímají sebe sama někde na pomezí ženského a mužského pohlaví, případně dokonce 
+někde úplně jinde.
+Posledním ze zmíněných pojmů je intersexualita neboli mezipohlavnost. Jednoznačná a konečná definice není dle Dregerové (2009) možná. Tento termín se od předchozích liší tím, že 
+se netýká genderu, ale takřka výlučně biologického pohlaví. Označujeme jím jedince, jejichž 
+„biologické znaky samy o sobě nejsou v souladu a jednoznačně neukazují buď na biologické 
+mužství, nebo ženství.“ (Sloboda 2016, s. 61) Tito jednotlivci s různě uspořádanými chromozomy byli dříve označováni jako hermafrodité. Dnes se tento termín kvůli přílišnému zúžení 
+nepoužívá.
+Všechny výše uvedené nebinární varianty pohlaví jsou mnohdy zahrnovány pod zastřešující 
+pojem transgender, případně dle Slobody (2016) pod již zmíněné trans identity. Spencerová 
+(2003, s. 38) uvádí, že transgender lidé jsou ti, kteří „nějakým způsobem nesplňují očekávání, 
+která daná společnost spojuje s jejich biologickým pohlavím.“ Pojem transgender vznikl, aby 
+zpochybnil pojem transsexualita, který je biomedicínsky definován. Tento nový termín má smazat hranice mezi jednotlivými škatulkami, do kterých jsou jedinci zařazováni.
+2 Sloboda (2016, s. 61) zde uvádí, že jakékoliv množství identifikací je nedostatečné, protože genderové identity jsou definovány skrze vlastní identifikaci jednotlivce. Pod pojmem „trans identity“ tedy myslí kategorie, z nichž nejčastěji užívanými jsou 
+transsexualita, transgender, travestismus, transvestitismus atd.
+3 Mezinárodní klasifikace nemocí a souvisejících zdravotních problémů. Vydává WHO.
+4 Gender je zde přeloženo jako pohlaví, kterému ale odpovídá v angličtině slovo sex. Já se však budu držet sociálněkonstruktivistického pojetí a dle Slobody (2016) předpokládám již uvedený rozdíl mezi slovem gender a pohlaví.
+5 Více k tématu transsexualita viz např. kniha Transsexualita a jiné poruchy pohlavní identity. (Fifková a kol. 2008)
+14
+1.3 Sexuální orientace (preference)
+„Celoživotní, neměnný a nositelem nezapříčiněný a nezvolený stav výlučné nebo převažující 
+erotické a citové preference osob daného pohlaví.“ Takto definuje sexuální orientaci Weiss
+(2010, s. 107)6. Zkrácené vysvětlení kolokace sexuální orientace pak zní kupříkladu následovně: „Sexuální preference osob stejného či opačného pohlaví, příp. obou pohlaví.“ (Sloboda 
+2016, s. 16)
+Pojetí sexuální orientace a tolerance vůči ní jsou opět napříč historií a kulturou velmi odlišná, 
+zvláště co se týče té homosexuální a bisexuální. Rovněž zde znovu narážím na problém společensky konstruované existence dvou bipolárních kategorií. Orientace byly dříve považovány 
+dvě – výlučně heterosexuální a výlučně homosexuální. Postupně se začaly objevovat teorie 
+o škále možných hetero-/homo-sexualit a došlo tak k představě sexuální orientace jakožto poli, 
+které zohledňuje různou míru sexuální přitažlivosti a také kulturní aspekty sexuality. (Sloboda 
+2016, s. 17)
+Weiss (2010, s. 107) uvádí, že „rozhodujícím pro rozpoznání sexuální orientace jsou erotické
+představy, sny, fantazie a kvalita erotické citové náklonnosti – zamilovanosti.“ Sny a představy 
+bývají dle freudiánské představy zejména u homosexuálů považovány za projev něčeho potlačeného, tedy sexuální orientace. Tato vodítka společně s citovou náklonností k určitému pohlaví proto bývají předkládány jako nápovědy k odhalení sexuální orientace. (Sloboda 2016, 
+s. 19–20)
+1.3.1 Druhy sexuální orientace
+Zde je znovu podstatné načrtnout jakousi pomyslnou hranici mezi genderovou identitou a sexuální identitou. Výše jsem u sexuální (genderové) identifikace předpokládala, že se jedná o vytváření identity na základě sebepojetí coby muže nebo ženy. Zde předpokládám sexuální orientaci jakožto vytváření identity na základě sexuální a vztahové preference k určitému pohlaví.
+Sexuální orientaci v tomto pojetí rozlišujeme na heterosexuální, homosexuální a bisexuální.
+Za heterosexuálního jedince považujeme člověka, který je sexuálně přitahován opačným 
+6 K této definici se v průběhu práce pro vymezení některých pojmů vracím.
+15
+pohlavím. Za člověka homosexuálního pak jedince sexuálně přitahovaného stejným pohlavím
+a za bisexuální osobu tu, která je přitahována oběma pohlavími ve stejné míře.
+Bisexualitou velmi často označujeme přechodné období mezi heterosexualitou a homosexualitou, rovněž může znamenat nejistotu ve vlastní sexuální orientaci, experimentování či sebezapření z důvodu odmítnutí společností. (Sloboda 2016, s. 60) Přesný počet bisexuálů tak není 
+znám a stejně jako při výzkumech zaměřených na počet homosexuálních lidí jsou výsledky 
+odlišné. V českém průzkumu poskytovaném společností DEMA v roce 1998 uvedla 4 % žen 
+a 6 % mužů, že někdy mělo sex s osobou stejného pohlaví. Jako homosexuální se identifikovala 
+3 % žen a 2 % mužů. (Zvěřina 2003, s. 120) Weiss (2010, s. 108) uvádí, že množství mužů, 
+kteří připustili svou opakovanou homosexuální zkušenost, se zvýšilo na 2,5 % v roce 2003, 
+zatímco procento žen s homosexuální zkušeností se pohybovalo od 2,6 do 6 %. Byla zde položena i otázka, kolik mužů se považuje za bisexuální, výsledek byl 12,5 %. Počet žen, které se 
+považovaly v roce 2003 za bisexuální, byl necelých 10 %.
+16
+2 Homosexualita
+Pro celkové ladění a uvědomění si cíle a poselství práce znovu zopakuji Weissovu definici 
+pojmu orientace: „Celoživotní, neměnný a nositelem nezapříčiněný a nezvolený stav výlučné 
+nebo převažující erotické a citové preference osob daného pohlaví.“ (Weiss 2010, s. 107) Pokud 
+bych totiž chtěla definovat homosexualitu, mohla bych ji použít také.
+Běžně je homosexualita chápána jako opak heterosexuality – přitažlivost ne opačného, ale stejného pohlaví. Pokud uvedu její definici, zní dle Brzka a Pondělíčkové (1992, s. 19) opravdu 
+téměř totožně s Weissovou definicí sexuality: „Homosexualitou rozumíme trvalou citovou 
+a erotickou preferenci osob stejného pohlaví. Je to celoživotní, neměnný a nezvolený stav charakterizovaný tím, že jeho nositel je pohlavně přitahován a vzrušován převážně či výlučně
+osobami stejného pohlaví.“7 Brzek s Pondělíčkovou (tamtéž) dále uvádí, že se jedná o „sexuální 
+orientaci spojenou s láskou, romantikou a se sexuálním přáním, které je zcela nebo z větší části 
+pociťováno a prožíváno k osobám stejného pohlaví.“
+Z výše uvedeného vyplývá, že homosexualita se jinak kvalitativně od heterosexuálního vztahu
+či orientace neliší. Jediným rozdílem je, že se týká dvou osob stejného pohlaví. Nabízí se tedy
+myšlenka, že ve vztahu nezáleží na sexuální orientaci, ale výhradně na osobnosti daných jedinců.
+2.1 Termín homosexualita
+Slovo pochází z druhé poloviny 19. století (kolem r. 1869) z německého prostředí. Za původce 
+slova se označuje Karl Maria Benkert (K. M. Kertbeny). On byl rovněž prvním, kdo v moderní 
+době prosazoval sexuální orientaci za vrozenou a neměnnou a svým spisem vystupoval proti 
+názoru mužské sodomie jakožto čiré zlomyslnosti. Postupně byl termín zpopularizován a plně 
+nahradil slova typu sodomie či pederastie. (Zvěřina 2003, s. 120)
+V prvopočátcích vznikl pojem ve spojitosti s fyzickou sexualitou, tzn. poukazoval na provozování sexu s osobou stejného pohlaví. A to i přes to, že původní etymologie slova vychází z latinské terminologie, kde slovo „sexus“ nese primárně význam pohlaví (není výhradní odkaz 
+7 Definice byla psána v době, kdy byl ne příliš příznivý vztah k pojetí homosexuality. Je psána z lékařského hlediska a má 
+obhajující charakter. (Janošová 2000)
+17
+na pohlavní styk) a slovo „homo-“, první část složeniny, význam totožný. Tento překlad může 
+odkazovat na soulož se stejným pohlavím, ale také výhradně nemusí, stejně tak jako dnes chápeme heterosexualitu.
+I přes tendence soudobé společnosti k chápání pojmu dle anglického překladu (či dle původní 
+etymologie), kde slovo sex znamená nejen samotný akt, ale rovněž i pohlaví, je ve Velké Británii více užíváno označení gay, které je používáno pro muže i pro ženy, a slovo homosexual
+se kvůli snaze o zamezení stigmatizace spíše neužívá. V prostředí českém ale platí za souhrnný 
+název stále pojem homosexuálové, který zahrnuje gay muže i lesbické ženy. (Sloboda 2016, 
+s. 40–41)
+2.2 Vznik homosexuality a její léčba
+U vzniku homosexuality nebo obecně sexuální orientace bych opět ráda připomněla definici
+Weisse, že orientace není otázkou svobodné volby. I přes to, že nejsou přesně popsané mechanismy, které by vedly ke vzniku některé ze sexuálních orientací, existuje množství indiciísvědčících pro biologickou podmíněnost. S největší pravděpodobností se jedná o více kauzalit vedoucích k té či oné sexuální orientaci. Weiss (2010, s. 112) také uvádí, že by se nejednoznačnost 
+výsledků neměla projevovat ve zpochybňování biologické podmíněnosti, ale měla by vést 
+k hledání metodických chyb. Uvedu některé předkládané výzkumy a teorie.
+2.2.1 Biologické a psychogenní studie
+Jedna ze základních biologických hypotéz předpokládá genetické dispozice pro vznik homosexuality. Roku 1993 vědci z Národního ústavu pro výzkum rakoviny v USA zjistili, že mužské 
+pohlavní chromozomy X mají u homosexuálních mužů dlouhé raménko v oblasti označované 
+Xq 28. Zde se tedy měl nacházet gen zodpovědný za vznik homosexuality. Rovněž zjistili, že 
+v příbuzenstvu těchto mužů z matčiny strany lze dohledat další homosexuálně zaměřené jedince. Potvrdili tím hypotézu vyřčenou mnoho let před nimi, že homosexualita je více děděna 
+z matčiny strany. Problém je, že žádný znak v genetickém vybavení nebyl zjištěn u žen. (Janošová 2000, s. 26)
+Toto tvrzení vyvrací doposud největší provedený výzkum z roku 2019 zaměřený na genetické 
+profily více než 490 tisíc obyvatel USA, Velké Británie a Švédska. Dokazuje, že homosexuální 
+chování ovlivňuje mnoho genů, ne pouze jeden, a rovněž je ovlivňováno dalšími příčinami 
+18
+pocházejícími z vnějšího okolí. (Ganna a kol. 2019) Genetik B. Neale, který na studii pracoval, 
+uvedl: „Jedná se o normální a přirozenou součást variace našeho druhu.“ (tamtéž)
+Další studií, která předkládá biologické determinanty, je studie prenatálních hormonů. V této 
+oblasti je nejvýznamnějším endokrinologem Günter Dörner. Ten předpokládal, že během intrauterinního vývoje dojde k diferenciaci zásobení center v oblasti hypotalamu, a to během jednoho týdnu 2. trimestru. Za vznikem homosexuality u mužů pak stojí nedostatek testosteronu.
+Novější hypotézy se přiklánějí k názoru, že se spíše jedná o odlišnou reakci sexuálních center 
+mezimozku na tento hormon. (Janošová 2000, s. 27)
+Rovněž byly prováděny studie se zaměřením na imunologii (nejmladší z bratrů bývají homosexuální – organismus matky může projevovat zvýšenou imunosenzitivitu vůči androgenům 
+plodu) nebo např. byly zaznamenávány rozdíly u psychofyziologických charakteristik – častější 
+leváctví u homosexuálů, horší prostorová představivost či nižší agresivita u mužů. (Weiss 2010, 
+s. 108)
+Opakem k tvrzení biologickému je teorie psychogenní, která byla před desítkami let upřednostňována. Tato teorie předkládala tvrzení, že homosexualita je výhradně stav získaný, zvolený 
+nebo naučený v průběhu života. Nebyla však validně zkoumána a důkazy nebyly předloženy, 
+není tak potvrzena její platnost.
+2.2.2 Léčba homosexuality
+Homosexualita přestala být postupem času chápána jako zvrhlost a byla pojímána jako porucha 
+sexuálního zdraví, kterou je potřeba léčit. Existovaly různé metody, které se využívaly k odstranění orientace na stejné pohlaví, avšak veškeré pokusy byly neúčinné.
+Prvním takovým známým pokusem je doporučení neurologa Hammonda z roku 1892 o intenzivním cyklistickém tréninku, který měl směřovat k překonání nervového vyčerpání způsobujícího homosexualitu. Další terapeutické pokusy zahrnovaly např. zvýšené množství konzumace alkoholu, užívání kokainu či návštěvu nevěstinců, popř. kastraci. (Weiss 2010, s. 116)
+Kastrace byla často rovněž výsledkem hormonálního léčení, které spočívalo v podání mužských hormonů či v odebrání homosexuálních varlat a nahrazení heterosexuálních, ty však tělo 
+nepřijalo a muž byl vykastrovaný homosexuál. Dnes je známo, že množství hormonů nemá 
+na orientaci vliv. (Brzek 1992, s. 60–62)
+19
+O léčbu se pokoušely rovněž psychoterapeutické směry, jako např. psychoanalýza a averzivní 
+metoda. Ta spočívala v podávání prostředků vyvolávajících zvracení při nežádoucích fantaziích
+jedince či pouštění elektrického proudu do jeho těla. Tyto pokusy byly mnohdy spíše mučením, 
+nepřinesly však žádné výsledky, a proto bylo od metod odstoupeno. (Janošová 2000, s. 31)
+Roku 2000 byl vydán Americkou psychiatrickou asociací dokument, v němž se přistupuje k názoru, že chybí prokazatelné výsledky léčby, a tudíž se léčení nedoporučuje. Rovněž je odmítnuto považovat homosexualitu za nemoc, která by vyžadovala léčení.
+2.3 Vývoj pojetí homosexuality
+Je zřejmé, že styky či praktiky mezi stejnopohlavními jedinci se objevovaly napříč kulturami 
+v různé podobě už několik století před naším letopočtem. Zmínky o nich najdeme např. z období starověké Číny, z islámského období nebo starověkého Říma.
+2.3.1 Mimoevropské kultury
+Jednu z nejstarších zmínek nalezneme ve spise Naučení vezíra Ptahotepa ze starověkého 
+Egypta z 24. stol. př. n. l. Zmínky zde mají zavrhující charakter. Homosexualita byla rozšířena
+také v Mezopotámii, a to včetně mužské prostituce. Naopak židovské zákony proti homosexualitě eticky odlišovaly židy od pohanů.
+Stejně tak i v jiných kulturách bylo na homosexuální styk nahlíženo negativně, výjimku tvoří 
+indičtí hidžrové, kteří jsou často označováni jako třetí pohlaví. Je to skupina transsexuálů, homosexuálů a intersexuálů, kteří společně utvářejí vlastní komunitu založenou na sounáležitosti. 
+Těm je sice smazán kastovní původ a jsou od běžné společnosti odloučeni, ale nejsou jinak 
+stíháni. Také v nejstarší knize asi ze 4. stol. n. l. zabývající se milováním – Kámasútře – najdeme zmínky o lesbickém a harémovém styku žen.
+V islámské společnosti nebyla trestána homosexualita, ale konkrétní akt. Pokud byl muž8 při 
+homosexuálním styku v pasivní roli, bylo na něj nahlíženo jako na zvráceného člověka, který 
+narušoval Boží stvoření a nesplňoval mužskou roli. Muž, který se choval aktivně, nebyl brán 
+jako homosexuál, protože plnil roli muže, nikoli ženy. V teokraticky zřízených státech (Írán)
+8 Zmiňuji pouze muže, protože v islámském zákoně je homosexuální chování ženy nepřípustné a je hodnoceno podobně jako 
+mimomanželský sex. Touto příčinou není lesbické chování v zemích příliš známé. (Janošová 2000)
+20
+však vedly tyto činy k popravám gayů. Dnes jsou ale přehlíženy, protože, na rozdíl od cizoložství, neohrožují majetek, čest a právo muže. (Janošová 2000, s. 37–40)
+2.3.2 Evropa do 20. století
+Z evropských dějin shledávám za podstatné zmínit staré Řecko, protože právě zde byla poprvé 
+a naposled homosexualita, zejména milenecké vztahy mezi chlapci a muži, po určitou dobu 
+paralelou k heterosexualitě. Tyto vlivy přicházely od Dórů, kteří věřili, že tím předávají chlapci 
+mužnost. (Janošová 2000, str. 42) Ženy měly v tehdejší společnosti nevýznamné postavení 
+a ženská sexualita zde byla zavrhována, proto je zřejmě zcela neznámá. Jedinou výjimkou je 
+básnířka Sapfó, spojená mj. se vznikem řecké lyriky, která kolem roku 600 zřídila na ostrově 
+Lesbos Dům múz a jako první žena se „přiznala“ ke své homosexuální orientaci. Náklonnost 
+ke členkám dívčího kroužku, uctívajícího poezií a hudbou bohyni Afroditu a devět Múz, vyzařuje z dochované poezie.
+S příchodem Konstantina Velikého9a s převládající židovsko-křesťanskou tradicí začala být 
+homosexualita znovu odmítána. První zmínku z českého území nalezneme v Karolinském trestním kodexu vydaném Karlem IV. roku 1353. I zde se nachází požadavek krutého trestání homosexuálního styku. Tyto postihy byly zmírněny až roku 1787 Josefem II., kdy byly stejnopohlavní styky trestány vězením. (Brzek 1992, s. 107–111) Tento přístup se až do konce monarchie nezměnil.
+2.3.3 Přelom v pojetí homosexuality
+Homosexualita se během 19. století dostávala do lexikonu nemocí a až roku 1896–1897 byla 
+vyslovena myšlenka, že je vrozená. Příznivý vývoj počátku svobody a pojetí individua byl ale 
+zastaven 2. světovou válkou a nacistickou diskriminací a genocidou všech „odlišných“.
+Necelých 20 let po konci války začal proces dekriminalizace homosexuality a Československo 
+bylo jednou z prvních zemí, kde byla trestnost zrušena. Dnes uznávají všechny státy Evropy 
+homosexuální styk jako legální a mnoho z nich má uzákoněno stejnopohlavní manželství či 
+homoparentní osvojení dítěte (zejména státy západní a severní Evropy – např. Lucembursko, 
+9 Císařem od roku 306 n. l.
+21
+Německo, Belgie, Velká Británie, Švýcarsko, Španělsko), určitou roli zde hraje požadavek EU 
+o zrušení anti-gay legislativy.
+2.3.4 Česká společnost a homosexualita
+Skořepa ve své knize Puberta vydané roku 1940 (s. 261–264) uvádí, že „vrozená homosexualita
+je biologickou variací pohlavního pudu a neměla by se hodnotit morálně ani soudně, třebaže 
+její projevy musí být zákonem omezeny.“ Zařazuje ji přitom do chlapeckých úchylek. Uvádí 
+také, že někteří autoři (zejména psychologové – např. Hoffman, Adler) odmítají uznat, že homosexualita by byla vrozeným jevem.
+Zlom nastává roku 1961, kdy byl v Československu stíhán pouze pohlavní styk se stejnopohlavní osobou, která nedovršila hranici 18 let. I přesto bylo zakázáno homosexuálům hromadné 
+shromažďování, podávání seznamovacích inzerátů nebo zakládání organizací a StB vlastnila 
+seznamy homosexuálně orientovaných osob. Téma však začalo být na počátku 80. let aktuální
+z důvodu onemocnění AIDS považovaného za nemoc homosexuálů.
+Po listopadu 1989 umožnila svoboda slova započít boj o upevňování práv homosexuální menšiny. V roce 1990 byla zrovnoprávněna věková hranice 15 let pro všechny sexuální styky.10
+Od této doby se začíná objevovat téma v médiích a vznikají organizace, které o lepší postavení 
+homosexuálů u nás usilují, např. SOHO11, LAMBDA či politické Hnutí za rovnoprávnost homosexuálních občanů. Roku 2006 byl schválen zákon o registrovaném partnerství, který SOHO 
+navrhlo poprvé už v roce 1995. Od roku 2013 je připraven návrh na novelu zákona o registrovaném partnerství umožňující adopci dětí partnera partnerem druhým a od roku 2018 byl v Poslanecké sněmovně ČR třikrát projednáván zákon o manželství pro všechny.
+10 Charakteristiku postoje sexuologů ještě v roce 1992 dokládá názor A. Brzky a J. Pondělíčkové (s. 110) v Knize Třetí pohlaví: 
+„Pražská sexuologická škola stále chápe homosexualitu jako sexuální deviaci a byli bychom šťastni, kdybychom jednou dokázali léčením homosexuální orientaci změnit.“ 
+11 Sdružení osob homosexuální orientace, založeno 24. června 1990.
+22
+3 Registrované partnerství, rodičovství a coming out
+Častým tématem bývá v otázce zrovnoprávnění homoparentních a heteroparentních rodin samotný výklad slova manželství a jeho etymologický původ, jakožto posvátného institutu založeného na vztahu ženy a muže s cílem plodit děti. O tomto tématu se vedou četné diskuse mezi 
+konzervativní a liberálnější částí společnosti. Já se v kapitole tři zaměřuji na institut registrovaného partnerství a jeho porovnání s tradičním manželstvím a dále na (ne)rodičovství homoparentního páru. Rovněž jsem do této kapitoly vložila jednu z podstatných fází v životě homosexuála, a tou je coming out.
+3.1 Registrované partnerství
+„Trvalé společenství dvou osob stejného pohlaví vzniklé způsobem stanoveným zákonem 
+č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů, 
+ve znění pozdějších předpisů, (dále jen „zákon o partnerství“). Partnerství vzniká projevem vůle 
+dvou osob stejného pohlaví činěným formou souhlasného svobodného a úplného prohlášení 
+těchto osob o tom, že spolu vstupují do partnerství.“ (MVČR)
+Institut registrovaného partnerství mohou občané v ČR uzavírat od 1. července roku 2006 za určitých podmínek – alespoň jeden z partnerů je české státní příslušnosti, oba partneři jsou starší 
+18 let a nemají dříve uzavřená a stále trvající manželství či partnerství. Tento zákon byl před 
+vydáním vetován tehdejším prezidentem Václavem Klausem, avšak nakonec ho 15. června
+2006 Poslanecká sněmovna ČR přehlasovala.
+Registrované partnerství se v mnoha právech shoduje s institutem manželství, avšak v několika 
+podstatných se liší. Partneři jsou si rovni, mají právo se zastupovat v běžných záležitostech, 
+mají právo na informaci o zdravotním stavu druhého. Otázka dědictví je také shodná s manželstvím, stejně tak i vyživovací povinnost partnerů. Registrovaným však nevzniká společné 
+jmění, jak tomu v případě manželů je, a to samé platí i v případě zadlužení. Nedochází ani 
+ke vzniku společného nájmu, partneři se musí domluvit s vlastníkem bytu v nájemní smlouvě.
+Registrovaní partneři rovněž nesdílí stejné příjmení.
+Nejpodstatnější částí institutu je nemožnost společného osvojení dítěte či osvojení dítěte druhého partnera. Do roku 2016 bylo dokonce zakázáno osobám v registrovaném partnerství 
+23
+adoptovat děti, ačkoli osoba svobodná si dítě adoptovat směla. Ústavní soud shledal tento stav 
+jako diskriminaci. Vyloučení společné adopce z práv registrovaných partnerů ale nadále trvá, 
+a proto se tento fakt stává hlavním jádrem pokusů o zrovnoprávnění manželství a registrovaného partnerství v ČR. K úkonu společného osvojení dětí již některé evropské státy přešly, prvním takovým bylo Nizozemí, ve kterém je rovněž možno uzavírat stejnopohlavní manželství
+(od roku 2001). Podmínky pro uzavření stejnopohlavního manželství se zde neliší od podmínek 
+uzavření manželství heterosexuálního.
+3.2 Rodičovství a vliv na vývoj dítěte
+Jak jsem uvedla, tak právě rodičovství je spojeno s definicí rozdílu mezi manželstvím a registrovaným partnerstvím. Dle Bossové a kol. (cit. dle Weiss 2010, s. 117)se „lesbické ženy od heterosexuálních neliší v zařazení rodičovství do svých žebříčků hodnot.“ Pro registrované partnery však v České republice není snadné pořídit si dítě a založit tím rodinu, přitom právě jedna 
+z možností získání dítěte – adopce oběma partnery – by mohla být vhodným prostředkem.
+Kromě adopce a pěstounské péče jsou dva způsoby nabytí dítěte v homoparentní rodině – biologické rodičovství jednoho z partnerů, který přináší dítě do nové rodiny, a sociální rodičovství, 
+kdy dítě přijde na svět způsobem asistované reprodukce v průběhu soužití homosexuálů. Přičemž druhá možnost se týká zejména lesbických párů a v ČR není pro homosexuální páry, ani 
+pro ženy bez budoucího otce, na klinice legálně možná. 
+Jednou z nejčastějších variant otěhotnění je poskytnutí spermatu ženskému páru, činí tak často 
+kamarád, který po narození zpravidla nebývá, ale může být uveden v rodném listě.12 V případě 
+homoparentního páru mužského je možnost „darování“ dítěte, což znamená, že žena počne 
+s jedním z mužů dítě a po narození se jeho výchovy zřekne. Zde je ale problém kodifikace 
+institutu matky, která je téměř vždy zapsána v rodném listě, a tudíž si může na dítě klást ze zákona nárok. V některých státech je umožněno, aby dítě homosexuálního mužského páru bylo 
+odnošeno ženou, která na něj po narození nárok nemá. Aby se snížil tlak na mateřství, nosí žena 
+v děloze dítě, které pochází z vajíčka ženy jiné a ze spermatu budoucího otce (jednoho z páru). 
+(Sloboda 2016, s. 112–114)
+12 Zde dochází k podstatnému rozhodnutí, zda bude mít dítě uvedeno v rodném listě jen matku. Pokud tomu tak bude a biologický otec – dárce spermatu – v rodném listě zapsán nebude, dítě bude mít oficiálně pouze jednoho rodiče a v případě nemoci 
+či úmrtí na něj druhý z partnerů nemá nárok, a dítě tak nemá žádného rodiče.
+24
+Zejména pro mužské páry by však byla nejjednodušší variantou zmíněná adopce. Zákon v ČR 
+sice od roku 2013 povoluje člověku, který uzavřel registrované partnerství, si dítě adoptovat
+(žádost o osvojení nesmí být zamítnuta z důvodu sexuální orientace), problémem ale je, že
+druhý z partnerů na dítě nemá nárok – není zapsán v rodném listě, takže není jeho rodič. Dítěti 
+tak nepřipadají ani např. dědická práva, není považován za tzv. nepominutelného dědice aj.
+Povolení adopce dětí homosexuály, a tím možné snížení počtu dětí v kojeneckém ústavu nebo 
+DD je často diskutované téma. Tato možnost by přitom umožnila homosexuálům založit vlastní 
+rodinu a dětem by zajistila prostředí s milujícími rodiči, které jim právě v ústavech či domovech 
+schází.
+Dětem v ústavech a domovech se také nedostává vzorců fungující rodiny a dítě nezískává pocit 
+bezpečí a nevnímá lásku mezi rodiči, kterou by v opačném případě potom uplatňovalo ve svém
+manželství či partnerství. (Matějček 1994) Otázkou vlivu DD na vývoj dětí se zabýval např. 
+výzkum agentury Ipsos (Chábová 2015), který se konkrétně zaměřoval na dospívající, jež opustili nebo brzy opustí DD. Jeho výsledky ukazují, že děti vyrůstající v dětských domovech nejsou 
+většinově připraveny na svůj osobní život, mají velmi slabé vazby s přáteli a často zůstávají 
+osamoceny. V DD jsou totiž příliš fixovány k vychovatelkám a v momentě, kdy z domova odchází, nezůstává jim v životě blízký člověk. Také výsledky ukázaly, že děti z domovů studují 
+v 71 % učební obory (a nejsou se svým vzděláním spokojeny), přitom ze všech studujících 
+v ČR se vzdělává pouze 21 % na oborech s výučním listem. (ČSÚ) Rovněž se děti v momentě
+opuštění DD setkávají s finančními problémy a nejsou dostatečně informovány o možnostech 
+práce, bydlení, finanční gramotnosti atd. Velkým problémem je finanční zabezpečení – pouze 
+13 % z nich totiž mělo na dobu po opuštění domova našetřené peníze. (Chábová 2015)
+V českém prostředí jsou však stále platné názory, že děti, které budou vychovávány homoparentním párem, nepřijdou tak, mimo jiné, v rodině do styku s oběma pohlavími, a budou mít 
+znesnadněnou svou sexuální identifikaci. (Brzek 1992) Zde by bylo opět vhodné připomenout, 
+že homosexualita je pravděpodobně souhrou mnoha faktorů, které jsou vrozené. Ve prospěch 
+adopce také svědčí výzkumy mnoha asociací (Americká psychologická asociace, Americká 
+akademie pediatrů, Psychologická asociace Ohio a mnoho dalších), které dokazují, že se dítě 
+ve stejnopohlavní rodině vyvíjí stejně jako v rodině heteroparentní. (Jsme fér.cz)
+První takovou výzkumnou studií byla práce R. Greena, který porovnal 50 homosexuálních matek s 56 dětmi ve věku 3–11 let a 40 osamělých heterosexuálních matek se 48 potomky stejného 
+25
+věku, děti žily srovnatelnou dobu bez otců. „Autoři porovnávali vývoj sexuální identity a sociálních vztahů u dětí. Nezjistili žádné podstatné rozdíly v pohlavním vývoji mezi oběma skupinami u chlapců a jen málo podstatné rozdíly u dívek.“ (Weiss 2010, s. 117) Dále např. Golomboková (tamtéž) provedla podobnou studii, kde porovnávala lesbické rodiny, heterosexuální 
+rodiny a osamělé matky. Také nezjistila žádné rozdíly ve vývoji, spokojenosti dětí ani v kvalitě 
+vztahu. Uvedla pouze to, že lesbické matky mají s dětmi častější interakci. Roku 200313 se podobnou studií zaměřenou na efekt stejnopohlavního partnerství na děti zabývala CPA: „Přehled 
+psychologických výzkumů Kanadské asociace psychologů vede k závěru, že děti ve stejnopohlavních rodinách se nijak neliší od dětí z rodin heterosexuálních s ohledem na jejich psychický 
+vývoj, sexualitu či genderovou identitu.“ (Herek 2006)
+Maskulinní a femininní projevy jsou dle Nedbálkové a Poláškové (cit. dle Janošová 2008, 
+s. 192) „ovlivňovány širším spektrem sociálních vlivů, než je „pouhý“ vzorec chování otce 
+a matky.“ Janošová (tamtéž) k odlišnosti pouze dodává, že se u dětí ve stejnopohlavních rodinách nesetkávali s tak výrazným stereotypem v jejich chování. Dle prokázaných výzkumů se 
+zdá, že je vhodnější pro výchovu a vývoj dítěte prostředí dvou angažovaných dospělých než 
+pouze jednoho, což znamená, že situace je srovnatelná s úplnou a neúplnou rodinou.
+Obavy z nesprávného vývoje dětí jsou tedy neopodstatněné, avšak problém, kterému mohou 
+děti čelit, není jejich nesprávný vývoj, ale homofobní společnost, se kterou se mohou setkat 
+během tzv. vnějšího coming outu,
+14 kdy se atypické pohlaví rodičů může stát terčem nežádoucí 
+pozornosti. Feinberg (cit. dle Janošová 2008, s. 194–195) však tvrdí, že „tyto konfrontace mají 
+dočasný charakter a pokud je rodina jinak funkční, tak pozornost okolí po čase odezní.“ Heteronormativní stereotyp se ale týká také školy, ve které by učitelé měli mít na paměti, že se 
+v jejich třídě může vyskytovat jedinec, jehož rodiče jsou homosexuálové. „Nejlepší prevencí 
+by však bylo, kdyby školní osnovy i pedagogové více připouštěli alternativní rodinná složení
+(…) a věnovali jim v rámci výuky určitou pozornost.“ (Janošová 2008, s. 195)
+13 Studie byla znovu přezkoumána a potvrzena roku 2006.
+14 Zveřejnění odlišné orientace (své nebo někoho blízkého, v tomto případě svých rodičů).
+26
+3.3 Coming out
+Téma coming outu, příp. „vyoutováníse“ či identifikování se s…, považuji v kontextu své práce 
+za velmi podstatné, a to z důvodu úzkého sepětí s dospíváním jedince, jeho identitou a bohužel 
+někdy i šikanou či homofobií, a to nejen ve školním prostředí.
+Dospívání jedince je z mnoha pohledů důležitou etapou lidského vývoje. Právě zde se začíná 
+objevovat tlak na gender, kdy je u dívek kladen důraz na ženskost a u chlapců naopak na mužnost, nebo sexualitu, a to zejména na obecně společensky myšlenou heterosexualitu. V tomto 
+období se velmi často homosexuálně15 orientovaný jedinec dostává do polemiky s tím, kdo 
+vlastně je a jaká je jeho identita. Toto přijímání sebe sama, vlastní coming out, není jednoduché 
+a je ovlivněno mnoha, zejména sociálními, aspekty: rodinné a sociální prostředí – (ne)akceptace 
+odlišnosti –, existence identifikačních kategorií a jazyka pro pojmenování situace, vzory lidí 
+ve svém okolí či vlastní schopnost prosadit se proti společnosti. (Sloboda 2016, s. 71–80) Tyto 
+aspekty sebeidentifikace a jakéhosi následného zveřejnění sebe sama stále ukazují na heteronomní a bipolárně zaměřenou společnost, pro kterou je homosexualita něco neobvyklého, 
+možná někdy až podřadného. Rovněž zde napomáhají médii sdílené stereotypní představy 
+o vzezření či chování gayů a leseb. Silný vliv na zmiňované pojetí homosexuálů má jakési 
+zmrazení v bodě, kdy začala být homosexuální menšina tolerována. Společenská „proměna neměla spočívat v pouhé toleranci, při níž subjekt tolerance zachovává chápání sebe sama jako 
+entity organizující prostor a sociálně mocenské vztahy v rámci něj.“ (Seidl 2012, s. 380) „Pouhá 
+tolerance znamená popření rovnocennosti!“ (Hromada, cit. dle Seidl 2012, s. 380)
+Proces coming outu lze rozdělit dle Slobody (2016) na dvě základní stádia: vnitřní a vnější. 
+Moment sbližování se s vlastní identitou zahrnuje mnoho fázi, ve kterých jedinec prožívá nejistotu, pocity osamocení, podřadnosti, zklamání sebe sama i ostatních, ale také například fázi 
+přijímání jiných modelů, představ o budoucnosti, které nakonec vyplynou ve fázi smíření 
+se s danou situací, její přijetí. Tyto fáze vyžadují mnoho odhodlání, aby nedošlo k zastavení 
+fáze coming outu a následné zařazení se, i když proti své vůli, do většinové – heterosexuální –
+společnosti.
+15 Zmiňuji vzhledem k tématu práce pouze homosexualitu, ale platí to rovněž i pro ostatní neheterosexuální orientace.
+27
+Vnější fáze přichází následovně a stejně tak jako ta vnitřní vyžaduje bojovnost a dostatek sil 
+na odkrytí velmi intimní oblasti jedince. Také ona bývá velmistresující a náročná, je proto důležité, aby byl jedinec sám se sebou vyrovnaný, měl zvládnutou fázi vnitřního coming outu 
+a přijmul fakt své sexuální orientace. Velkou roli v tomto procesu hraje znovu strach z případné 
+negativní reakce, a to zejména od nejbližších – rodičů, prarodičů, přátel. I ti pak prožívají tzv. 
+sekundární coming out (Sloboda 2016, s. 81). Ten se týká zejména rodičů homosexuálního 
+jedince a rovněž obsahuje fáze zjištění, uvědomění si, (ne)přijetí a (ne)sžití se s odlišností vlastního dítěte. Nejtěžší přitom bývá přijetí syna homosexuála otcem. Samotný coming out však 
+trvá celý život a je důležité, aby se jedinec rozhodl sám, kdy je na čase se odkrýt. Odhodlání 
+odkrýt se však může mít i pozitivní vliv na vlastní sebepřijetí, a to v případě kladných reakcí 
+od okolí.
+U mladistvých tato fáze přijetí odlišné sexuality může vytvářet v prostředí „vhodné“ podmínky 
+také pro konfrontaci s dětmi odlišných názorů. Dítě se tak může znovu dostat do psychicky 
+zátěžové situace, tou je odolávání posměchu či urážkám mířeným na jeho osobu z důvodu odlišnosti. Právě k homofobii a šikaně může být škola vhodným prostředím. Pro tyto případy 
+vznikly mnohé poradny (Sbarvouven.cz) a organizace (STUD), které se zaměřují také na pomoc dospívajícím ve složitých situacích spojených s coming outem a vlastní identitou. Rovněž 
+dnes přispívají k snazšímu přijetí odlišné orientace příspěvky slavných youtuberů, kteří si fází 
+již prošli, a mohou tak sdílet své pocity a emoce.
+28
+4 Homofobie a šikana
+Gartrell (cit. dle Weiss 2010, s. 117–118) v roce 2000 konstatoval: „87 % dětí z lesbických 
+rodin je dobře adaptováno ve vztahu k vrstevníkům. Avšak 18 % se setkalo s homofobními 
+projevy učitelů či spolužáků. Tyto obavy jsou časté a odrážejí zřejmě více vnímání dospělých
+než dětí, pro které nepředstavují alternativní modely v rodinách spolužáků a kamarádů překážku v jejich akceptaci.“ 
+Jak jsem zmínila výše, homoparentní výchova je srovnatelná s výchovou heteroparentní a nijak 
+se mezi sebou neodlišují, avšak postoje k homosexuálům ze strany jiných dospělých autorit 
+na děti vliv mají. Jak uvádí Kultánová (2017, s. 1): „Nikoli sexuální orientace rodiče, ale homofobie je problém, jemuž jsou děti vystavovány.“
+Termín homofobie byl poprvé použit roku 1972 psychologem Georgiem Weinbergem a vyjadřuje jakousi obavu z „nepřirozené“ homosexuality a homosexuálních osob, která vede k pocitům nenávisti, odporu, odmítání a může skončit i případným zesměšňováním homosexuála, 
+nebo dokonce ubližováním či dlouhodobějším šikanováním. Ti, kteří jsou nositeli obav, pro ně 
+často hledají racionálně podložené důvody a nacházejí je např. v náboženských textech nebo se 
+odkazují na zachování tradiční rodiny. (Smetáčková 2009) Weiss (2010, s. 112) ještě dodává
+rozdíl mezi homofobií a fobiemi jinými. Tvrdí, že odpůrci se homosexuálům nevyhýbají, ale 
+naopak hledají možnosti kontaktu, aby je mohli fyzicky či slovně napadat. 
+Podstatou homofobie je opět sociálně konstruovaný gender16. Naše společnost je bipolárně rozdělena na ženy a muže, ženství a mužství. Rovněž lze téměř vše rozdělit na ženské a mužské.
+Tyto dva aspekty se dle častého tvrzení vzájemně doplňují a tvoří ideální celek. Z toho vyplývá, 
+že pokud je ideální celek tvořen mužem a ženou, je společensky pojímaným ideálem také heterosexualita a ostatní -sexuality jsou odchylkou z tohoto systému. (Smetáčková 2009)
+V ČR existuje tzv. antidiskriminační zákon, který se k homofobii vztahuje. Je zanesen pod 
+č. 198/2009 Sb. a na jeho základě nelze s osobou zacházet méně příznivě, než se zachází nebo 
+by se zacházelo, s osobou jinou ve stejné situaci, a to např. i z důvodu sexuální orientace. V zákoně je rovněž dodáno, že diskriminace je i jednání, kdy je s osobou zacházeno takto na základě 
+situace domnělé. (MVČR) I přesto se ve výzkumu provedeném ombudsmanem v roce 2019
+16 Viz podkapitola Gender a pohlaví – podkapitola 1.1.
+29
+ukázalo, že během 5 let bylo obtěžováno 55 % dotázaných17 a 15 % dotázaných se zmínilo, že 
+bylo fyzicky/sexuálně napadeno. Dohromady se tedy setkalo s nějakou formou homofobie 1981
+osob. Tento výzkum také kladl dotazy na místo, kde k obtěžování a napadení došlo. V případě 
+prvním se škola/univerzita umístila na 2. místě (29 %) po veřejném prostranství. V případě druhém se umístila škola či univerzita na místě 4. se 13 %, opět po veřejném prostranství, restauračních zařízeních a venkovním prostředí. (Šabatová 2019)
+Druhým úzce souvisejícím pojmem týkajícím se obtěžování či útoků na jedince je šikana.
+Dle Smetáčkové (2009, s. 15) je šikana definována takto: „Zásadně narušené vztahy v sociální 
+skupině, kde jedinec či několik osob opakovaně a dlouhodobě ubližují jinému člověku nebo
+skupině osob. Ubližování může mít různé podoby a různou vážnost.“ Autorka dále dodává, že 
+šikana má dlouhodobé negativní následky pro šikanovaného člověka. Ten je vyloučen ze skupiny z toho důvodu, že je skupinou, jejich podmínkami, považován za odlišného nebo spadá 
+pod skupinu lidí, která je terčem společenských předsudků. (Smetáčková 2009, s. 16–17) Jedním z těchto předsudků je i jakási podřazenost homosexuality či jiné neheterosexuální orientace 
+té většinové, heterosexuální. Právě tyto předsudky a následné dlouhodobější obtěžování neheterosexuálů nazýváme homofobní šikanou, se kterou se lze často setkat právě ve školním prostředí.
+4.1 Školní prostředí
+Škola, ve které probíhá tzv. sekundární socializace18, má velký vliv na dětský vývoj. Zde nachází jedinci své vrstevníky, a proto škola poskytuje jedinci nejen výchovnou, vzdělávací atp. 
+funkci, ale rovněž i funkci socializační. Právě škola je institucí, která má být v tomto směru co 
+nejvíce objektivní, ale i ona reflektuje společnost, její genderový a sexuální řád. (Sloboda 2010, 
+s. 85)
+Neblahý vliv homofobie a šikany může na žáky působit v mnoha směrech. Ať už to jsou záškoláctví nebo zhoršené studijní výsledky v rovině vzdělávací, může vést homofobie i k depresím, 
+popřípadě sebevraždám v rovině psychosociální. Toto dokazuje i analýza Ryana a Riverse 
+z roku 2003 (cit. dle Sloboda 2016, s. 86). Dle nich často dochází u žáků, kteří sami sebe 
+17 Dotazovány byly nejen homosexuální osoby, ale rovněž i bisexuální a transgender osoby.
+18 Primární socializace probíhá v rodině, terciární probíhá v dospělosti.
+30
+charakterizují jako LGBT+19, právě ke zhoršení prospěchu či opuštění studia, a to zejména 
+v období coming outu.
+Dle výzkumu provedeného ombudsmanem v roce 2019 se s častou formou šikany setkala 
+ve školním prostředí až pětina respondentů20, cca 290. Naopak nikdy se s takovým chováním 
+nesetkala necelá čtvrtina dotázaných, cca 348. (Šabatová 2019) Analýza PROUDu prokazuje, 
+že se s negativními poznámkami či přímo nadávkami namířenými na LGBT+ osoby setkala 
+pětina dotázaných studentů a 8 % učitelů existenci LGBT+ přímo popíralo21. (Hajdlíková 
+a spol. 2016)
+Odsuzující chování spolužáků/vrstevníků má na neheterosexuálního studenta značný vliv, 
+stejně jako homofobie či šikana ze strany učitele jakožto autority a člověka, který předává hodnoty, vědomosti a postoje. Pokud jsou jedinci nuceni homofobii či homofobní šikanu podstupovat, je pro ně ve třídě vytvářeno negativní klima. (Smetáčková 2009)
+Homofobní chování je ve školním (třídním) kolektivu specifické. Často je realizováno 
+chlapci22, kteří jsou zaměřeni na jiné chlapce chovající se zženštěle nebo dětinsky, rovněž mohou být opožděni ve fyzickém růstu, jinak se oblékat než ostatní nebo být příliš přizpůsobiví 
+autoritám. Čechová (2016, s. 13) ve své publikaci uvádí příklad 16letého žáka, který byl označován za gaye, protože přišel na střední školu z baletní konzervatoře, a to i přes zájem o holky. 
+Z toho vyplývá, že často vůbec není toto chování spojeno se skutečnou sexuální orientací či 
+genderovou identifikací. (Plummer 1999, cit. dle Sloboda 2016, s. 86)
+Plummerovo zjištění doplňuje i Smetáčková (2009, s. 24) tvrzením, že často označení za homosexuála (příp. jiný výraz tohoto významu) zesiluje nadávky jiné, které jsou cílené na něčím 
+se odlišující osobu. Jazyk obsahující homofobní posměšky či jiná přirovnání je v řeči dětí 
+obecně běžný, nemusí se jednat pouze o nadávky. I k tomuto uvádí příklad Čechová (2016, 
+s. 13) citací 15leté Sylvy: „Jednou jsem si do školy vzala kostkovanou košili a spolužák hned 
+na to, že mám lesbickou košili.“
+19 Iniciálová zkratka – iniciála leseb, gayů, bisexuálů, transgender osob a dalších (označuje znaménko +).
+20 Dotazovány byly nejen homosexuální osoby, ale rovněž i bisexuální a transgender osoby.
+21 Zde se jednalo o online dotazník cílený na žáky/studenty od 14 do 23 let (žáci 8., 9. třídy a všech typů středních škol, příp. 
+čerství absolventi), průměrný věk byl 17 let. Odpovědělo 1314 respondentů z nichž se 47 % identifikovalo jako heterosexuální 
+a 20 % jako homosexuální. 
+22 Důvodem je genderový řád. Na muže jsou kladeny vyšší požadavky na „správnou“ orientace, protože mužská homosexualita 
+je častěji zvýrazňována než ženská, je jim přisuzována sexuálně aktivní role a jejich agresivita je obecně více tolerována než 
+ženská. (Connel 1995, cit. dle Smetáčková 2009)
+31
+Děti se ale kromě výše uvedených situací mohou ve školním prostřední setkat s mnoha dalšími 
+případy, které vedou k většímu možnému riziku šikany a nepřívětivých vztahů mezi spolužáky, 
+spolužákem a učitelem, učitelem a rodiči atd. Může to být coming out spolužáka nebo učitele, 
+homosexuální jedinec v rodině spolužáka (rodiče, sourozenec), jedinec sympatizující s touto 
+menšinou, předpoklad genderově stereotypního chování či stejnopohlavní pár. (Čechová 2016, 
+s. 13–14) Pro tyto příklady je právě škola častým místem výskytu homofobní šikany, a proto 
+by právě zde měla probíhat preventivní dlouhodobá opatření.
+4.1.1 Prevence homofobní šikany
+Aby bylo zabráněno takto se vytvářejícímu klimatu ve třídě/škole, je třeba dbát na několik možných projevů homofobie vůči případným neheterosexuálním žákům (nejen v třídních kolektivech): zesměšňující vtipy, obrázky, komentáře, verbální poznámky, různá gesta, pohyby, odhalování partií, intimní doteky, předstírání sexuálních pohybů, fyzické napadání či ignorování.
+(Čechová 2016, s. 10) Avšak je třeba si uvědomit, že nejen tato pozornost povede k celkovému 
+zlepšení situace. Důležité je vědomí, že homofobie není výmyslem samotného jedince, ale že 
+tyto předsudky jsou ukotveny napříč společností, která, i přes zlepšující se situaci, je spíše stále
+heteronormativní.
+V případě propuknutí šikany a nutnosti jejího řešení by měla mít každá škola, mimo principů 
+doporučovaných Metodickými pokyny MŠMT proti šikaně obecně, vypracovaný svůj program
+proti šikaně. Je také nutná spolupráce školního psychologa, učitelů, výchovného poradce atd.
+K prevenci homofobní šikany by také přispělo zařazení tématu menšinové orientace do kurikula.
+32
+5 Školní dokumenty
+Jak jsem již zmínila, ve škole je možnost setkávání se s tématem homosexuality v mnoha oblastech, a to jak ve formálním, tak v neformálním (skrytém) kurikulu. Kurikulum je dle Maňáka
+(2008, s. 14) „obsah vzdělání (učivo) v širším slova smyslu a proces jeho osvojování, tj. jako 
+veškerou zkušenost žáka (učícího se), kterou získává ve školském (vzdělávacím) prostředí, 
+a činnosti, které jsou spojeny s jeho osvojováním a hodnocením.“
+Formálním neboli explicitním kurikulem jsou myšleny dokumenty, učivo a s tím korespondující učební materiály a učebnice23. Jednoduše to, co je obsahem výuky. Tím druhým, neformálním kurikulem, je pak vše ostatní, s čím se žáci setkávají, a nespadá to do kurikula formálního, 
+včetně vztahů mezi učiteli, mezi spolužáky, celkového klimatu školy atd. (Smetáčková 2009, 
+s. 20) Termín neformální by se rovněž dal nahradit pojmem skryté. Neformální či skryté kurikulum je mnohdy neintencionální soubor postojů, chování, procesů, efektů atd., který žáci absorbují a později aplikují ve svém životě. (Průcha 2008, s. 214)
+Tyto výše uvedené aspekty školního prostředí mohou vést k již zmiňovanému neblahému zrodu 
+homofobie, která je u dětí ovlivněna nedostatkem seriózních informací o lidské sexualitě. Bohužel je ve škole málo podkladů k výuce a nedostatek materiálů s tímto obsahem24, a to i z důvodu tabuizace sexuálních témat. Tím je výuka znesnadněna, ba někdy dokonce vědomě opomíjena. Smetáčková (2009, s. 20–21, 32–37) také uvádí, že je podstatné homofobii ve školním 
+prostředí viditelně odmítnout a nepředpokládat, že její odmítnutí je samozřejmé.
+5.1 RVP
+V RVP pro základní vzdělávání a gymnázia jsou, vzhledem k tématu, podstatné zejména oblasti
+Člověk a zdraví a Člověk a společnost. Roli hraje také průřezové téma Osobnostní a sociální 
+výchova. I přes to, že se v RVP vyskytují výše uvedené oblasti a průřezové téma, se se stěžejním 
+termínem homosexualita či jiná sexuální orientace nebo gender vůbec nesetkávám.
+V RVP pro ZŠ se v oblasti Člověk a jeho zdraví ve výstupech pro druhé období nachází fráze: 
+„Žák uplatňuje ohleduplné chování k druhému pohlaví a orientuje se v bezpečných způsobech 
+23 Většina učebnic je stále genderově a heteronormativně stereotypních. Avšak v učebnicích je od roku 2009 dle nařízení 
+MŠMT nutná genderová korektnost a stejně tak je genderová korektnost doporučováno i v mluveném jazyce.
+24 Některé materiály vytváří např. organizace Nesehnutí.
+33
+sexuálního chování mezi chlapci a děvčaty v daném věku.“ (RVP ZŠ, s. 49) Zde je zřetelné, že 
+se na druhém stupni základní školy pracuje pouze s dvěma pohlavími a sexuální chování může 
+probíhat pouze mezi chlapci a děvčaty. Malým náznakem, kde by se mohlo o jiné než heterosexuální orientaci pojednávat, je zmínka o sexuálním dospívání a sexualitě jako součásti formování osobnosti, která se nachází v sekci učivo u výchovy ke zdraví. V popisu učiva pro výuku oboru etická výchova se ještě objevuje zmínka o sexuální identitě jedince, která spadá 
+do sexuálního zdraví, a o důstojnosti k lidské osobě. I zde by bylo možné tuto látku probírat.
+V průřezovém tématu Osobnostní a sociální výchova jsou rovněž zmiňovány některé termíny, 
+které jsou pro zařazení tématu stěžejní. Například v oblasti sebepojetí a sebepoznání (osobnostní rozvoj) se setkáváme s vícero z nich: moje tělo, co o sobě vím a co ne, můj vztah k sobě 
+samému, moje vztahy k druhým lidem atd.
+V RVP pro gymnázia shledávám velmi podobné formulace. U výchovy ke zdraví je jedním 
+z očekávaných výstupů žáka znalost práv každého jedince v oblasti sexuality a reprodukce, 
+avšak v učivu opět něco konkrétnějšího týkajícího se neheterosexuální orientace není. Rozdílem je, že se v průřezových tématech pro gymnázia v oblasti Výchova k myšlení v evropských 
+a globálních souvislostech vyskytuje nerovnost mezi muži a ženami v globálním kontextu 
+a problematika genderu. Zde se ale zřejmě bude jednat o problematiku sexismu25.
+Rovněž jsem nahlédla do RVP pro střední školy – obchodní akademii a ekonomické lyceum. 
+Zde jsem shledala v oblasti Člověk v lidském společenství téma týkající se problematiky genderu. Celkový výstup v tématu společenskovědním má směřovat k toleranci, snášenlivosti a nepodléhání předsudečného jednání. Výstup by tedy měl zahrnovat i zmínku o neexistenci pouze 
+jedné orientace a cílit k toleranci orientací menšinových.
+5.2 ŠVP
+Také jsem vyhledala některé školní vzdělávací programy, které jsou tvořeny samotnou školou, 
+abych zjistila, jak pracují s informacemi obsaženými v RVP. V ŠVP pro obor Ekonomické lyceum nejmenované obchodní akademie a hotelové školy, které je velmi podrobně zpracováno, 
+25 Přesvědčení, že jedno z pohlaví je na vyšším společenském žebříčku než to druhé.
+34
+jsem našla pouze v rodinném právu, které spadá pod předmět právo, téma registrované partnerství.
+V ŠVP pro šestileté gymnázium jsem rovněž nenašla žádnou zmínku ani o neheterosexuální 
+orientaci, ani o registrovaném partnerství. Stejně tak tomu bylo i v ŠVP dalšího z šestiletých 
+gymnázií. Z výše uvedeného rozboru lze vyvodit, že se tematika homosexuality ve vzdělávacích programech neobjevuje, a to jak v primárním RVP, tak ani v ŠVP daných škol.
+5.3 Učebnice společenskovědních předmětů
+Dalšími stěžejními texty z oblasti kurikula jsou učebnice, ve kterých by mohly být uvedeny 
+příklady, které usnadní učitelům realizaci tématu a poskytnutí informací svým žákům. Tento 
+průřez obsahuje analyzované učebnice jak pro druhý stupeň základní školy, tak učebnice pro 
+střední školy a víceletá gymnázia. Vybrala jsem běžně užívané materiály schválené MŠMT 
+a vydané po roce 2000, u nichž komentuji obsahovou stránku s cílem posoudit, zda jsou tyto 
+učebnice k zahrnutí problematiky do výuky uzpůsobeny. Jsou jimi: Občanský a společenskovědní základ: přehled středoškolského učiva (Edika), Občanská nauka pro střední odborné 
+školy a studijní obory SOU (SPN), Občanská výchova 9: učebnice pro SŠ a víceletá gymnázia 
+(Fraus), Etická výchova 6–7 (Computer media) a Odmaturuj! ze společenských věd (Didaktis).
+5.3.1 Občanský a společenskovědní základ: přehled středoškolského učiva
+Učebnice kolektivu autorů – Bartoníčková a kol. –, jejíž první vydání bylo v roce 2009 a nové, 
+aktualizované, v roce 2019 pod nakladatelstvím Edika, je určena především pro žáky středních 
+škol, kteří se chystají ze společenskovědních předmětů maturovat.
+Nejprve byla zaměřena pozornost na starší vydání, poté na jeho porovnání s vydáním novým. 
+Ve všech publikacích, nejen v této, jsem hledala jakoukoliv zmínku o odlišné orientaci, registrovaném partnerství, homofobii, rodičích stejného pohlaví atp. V kapitole první byl u vývoje 
+osobnosti nalezen termín homosexualita pouze v kontextu toho, že v období pubescence mají 
+děti kritické názory na postoje starší generace týkající se např. právě homosexuality či postavení žen ve společnosti. Na následující straně (Bartoníčková a kol. 2009, s. 22) u adolescenta
+se vyskytují 4 typická očekávání mužů a žen v manželství dle S. Kratochvíla. Zejména očekávaní mužů jsou dle mého názoru do učebnice naprosto nevhodná. Jsou jimi:
+35
+1) „Uvařeno, uklizeno – manželství je pro muže zárukou snadného uspokojení základních 
+potřeb – jídlo a útulný domov.
+2) Sex, kdykoli se mu zachce: předpoklad snadné dostupnosti uspokojení sexuálních potřeb.
+3) Stálý obdiv: žena by měla muže náležitě obdivovat a patřičně mu to dávat najevo.
+4) Nezatěžovat starostmi: zbytečně muže neúkolovat, nepožadovat po něm práce v domácnosti navíc či vyřízení nějaké úřední záležitosti.“ 
+Očekávání žen jsou dle Kratochvíla značně odlišná – posedět a popovídat, duševní porozumění, 
+vcítění do ženy, vyjadřování lásky. Informace nejsou v učebnici okomentovány, není zde řečeno, zda jsou tato očekávání během rodinného života správná, či nikoliv. Netýkají se sice tématu homosexuality, ale ráda bych uvedla, že dle mého názoru není vhodné předkládat dětem 
+tyto informace, jakožto typická očekávání obou pohlaví při vstupu do manželství, bez jakéhokoliv komentáře.
+Kapitola Člověk a společnost zahrnuje téma sociální nerovnosti (Bartoníčková a kol. 2009, 
+s. 52). Je zde uvedeno, že by „především žádná skupina neměla být znevýhodněna, diskriminována na základě vlastností, které nesouvisí s výkonem a dodržováním norem (zejména z důvodu rasy, národnosti, pohlaví, náboženského vyznání a politického přesvědčení).“ Dle mého 
+názoru je v této kapitole, a zvláště v této větě, nevyužitý prostor pro krátké pojednání o sexuální 
+orientaci.
+Zmínku o tématu jsem očekávala v podkapitole Rodina – stejná kapitola (Bartoníčková a kol. 
+2009, s. 60). Našla jsem jedinou, a to opět pouze jakýsi příklad alternativních typů života (nesezdané partnerství, staropanenství, soužití homosexuálů), které jsou dlouhodobě vystavovány 
+předsudkům „(...) díky vysoké hodnotě tradičně vnímané rodiny.“ Zde bych chtěla upozornit 
+na předložku „díky“, která by, dle mého názoru, měla být nahrazena slovem „kvůli“, aby fráze 
+nevyznívala ve prospěch předsudkům způsobeným vyzdvihováním tradiční rodiny.
+Vydání z roku 2019 se po obsahové stránce příliš neliší. Vše výše uvedené ze staršího vydání 
+se v učebnici stále vyskytuje. Změnu jsem nalezla pouze u zmíněné kapitoly Občan a právo, 
+kde je v podkapitole Manželství (Buček a kol. 2019, s. 156) doplněna věta, že pro osoby stejného pohlaví existuje možnost uzavření registrovaného partnerství, a to od roku 2006. Také je 
+36
+zde uvedeno, že manželství nemůže vzniknout, pokud osoba dříve vstoupila do registrovaného 
+partnerství.
+5.3.2 Občanská a rodinná výchova 9, pro základní školy a víceletá gymnázia
+Tato učebnice vydaná nakladatelstvím Fraus v roce 2006 je určena žákům 9. tříd a víceletých 
+gymnázií. Autory jsou Dagmar Janošková, Monika Ondráčková, Dagmar Čábalová, Jitka Šebková a Hana Marková. K této učebnici si lze pořídit také příručku učitele.
+I zde jsem se zaměřila na vhodné a nevhodné formulace, příklady či informace, které odkazují 
+na zkoumané téma. V kapitole druhé u tématu občanskoprávních vztahů je uvedena pro připomenutí definice (Janošková a kol. 2006, s. 18), že „každý člověk má svá lidská práva, ale i odpovědnost respektovat práva druhých.“ Na následující straně jsou zmíněny lidská práva, mj. 
+právo na nedotknutelnost a na zachování své důstojnosti. Právě do těchto práv řadíme také neoprávněnost šikany či homofobie. Jsou tedy vhodným podkladem pro výuku a zmínění práv 
+homosexuálů.
+V kapitole pojmenované Rodina a zákony se kromě porovnání manželství a partnerského soužití vyskytuje také informace o soužití a sňatku stejnopohlavních párů. Odstavec následují 
+3 otázky vedoucí k diskusi a 2 úkoly, zaměřené na dané téma. Tyto otázky zjišťují názor dětí 
+na sňatek homosexuálních párů, na jeho pojmenování a na zrovnoprávnění partnerů a manželů. 
+Úkoly vedou děti k přemýšlení nad důvody pro výchovu dětí stejnopohlavními partnery a proti 
+ní. Celé téma je doplněno fotkou dvou mužů, manželů, kteří drží „oddací list“. Na následující 
+straně (Janošková 2006, s. 46) se poté objevuje definice registrovaného partnerství a také jsou 
+zmiňována práva registrovaných. Na závěr je do učebnice vložena mapa světa, ze které lze dle 
+legendy zjistit, jak dané státy přistupují k homosexualitě, sňatkům a adopci.
+V této části je problematika vhodně a dostatečně zpracována, bohužel se v některých případech 
+nemusí jednat o pravdivé informace vzhledem k roku vydání.
+Část druhá – rodinná výchova – začíná tématem týkajícím se rodiny. Na straně 77 (Janošková 
+a kol. 2006) je zmíněno, že „pro dítě je rozhodující psychologické rodičovství založené na citovém, psychickém, vnitřním přijetí dítěte, a ne pouze biologické rodičovství doložené potvrzením z nemocnice.“ Samotný úvod do rodinné výchovy tedy vyzývá k tématům, která by se 
+mohla týkat rodičovství homosexuálních párů.
+37
+Učebnice byla v roce 2019 pozměněna a informace aktualizovány. Je tedy dostupné nové vydání obsahující stejné kapitoly, téměř totožný obsah, ale upravené informace.
+5.3.3 Etická výchova pro 6.–7. ročník
+Učebnice etické výchovy od nakladatelství Computer media byla vydána v roce 2014 a jejími 
+autorkami jsou Marie Navrátilová, Hana Brichová a Marcela Matějcová. Byla zvolena jako 
+zástupce učebnic pro etickou výchovu a také pro nahlédnutí do učebnice určené nižším ročníkům 2. stupně ZŠ.
+Od této učebnice nebylo očekáváno přímé zařazení tématu. Vyhledávány byly zejména možnosti, kam lze téma vložit. V části určené pro 6. třídu se tato možnost nabízí u tématu 2 v lekci
+Jsem rád, že jsem, kdo jsem. (Navrátilová a kol. 2014, s. 23) I když zde primárně nebylo cíleno
+na dané téma, mohla by být lekce spojena např. s otázkou coming outu. Další možnost se nabízí 
+v tématu 5 lekci Za peníze si domov nekoupíš. Na uvedené otázky, které mají být položeny 
+žákům – např. V čem je tvoje rodina mimořádná? – může být odpovězeno jakkoliv. Proto lze 
+počítat také s tím, že někdo z žáků má dvě maminky nebo dva tatínky. V tento moment by mělo 
+dojít k okomentování situace a otevírá se k zařazení tématu prostor. Zmínku o přijetí své sexuality nacházím u tématu 7 – Dospívání – v lekci Čas proměn (Navrátilová a kol. 2014, s. 47). 
+Je zde uvedeno, že k základním úkolům patří „přijmout sebe sama, svoji sexualitu.“ I přes následující zmínku, že období dospívání je spojeno s počátky zájmu o druhé pohlaví, se domnívám o vhodnosti zařazení tématu do této lekce.
+V části pro 7. ročník je opět prostor u tématu 2 v lekci Zdravé sebevědomí. (Navrátilová a kol. 
+2014, s. 67) V jednom cvičení jsou uvedeny okolnosti, které ovlivňují naše sebevědomí – např. 
+také rasa, národ, rodiče, pohlaví. Domnívám se, že zde by mělo býtsouslovísexuální orientace 
+uvedeno a následně v hodině zmíněno. U tématu 4 – Reálné a zobrazené vzory – v lekci Vzory 
+v rodině (Navrátilová a kol. 2014, s. 87) by mohl být k tématu také prostor, ale přesto je z uvedených úkolů a obrázků znatelné heteronormativní pojetí rodiny – např. se žáci mají zamyslet 
+nad tím, jaký význam má pro ně rodič stejného pohlaví. Tato formulace není vhodná pro žáky 
+z homoparentních rodin, ve kterých jsou rodiče opačného pohlaví, než je samo dítě (dvě matky 
+mají syna atp.).
+38
+5.3.4 Občanská nauka pro střední odborné školy a studijní obory SOU
+V tomto případě se jedná o učebnici vydanou již v roce 2003 nakladatelstvím SPN – pedagogické nakladatelství. Jejím autorem je Jaroslav Dudák a kolektiv a nalezneme v ní celkem 6 kapitol. Učebnice sice obdržela schvalovací doložku MŠMT, ale i přesto se domnívám, že vzhledem k roku vydání není aktuální.
+Na straně 55 (Dudák a kol. 2003, s. 55) jsou uvedeny funkce rodiny a také to, že je pro dítě 
+rodina vzorem, který si odnáší do své vlastní. Pod odstavcem je okénko „k zamyšlení“, ve kterém se vyskytují informace o výchově dětí stejnopohlavními páry, nebo dokonce jejich adopce
+těmito páry v jiných zemích. Následuje je dodatek o upřednostňování výběru heterosexuálních 
+rodičů při adopci, protože se psychologové domnívají, že pro sebepojetí, sexuální identitu a vývoj rodinných rolí dítěte je důležité, aby žilo v rodině heterosexuální. Přesto je za nejdůležitější 
+považováno, aby dostávalo dítě otevřený a láskyplný vztah od rodičů. Děti jsou následně vyzvány k diskusi ohledně výše řečeného.
+O tématu práv, rovnoprávnosti a svobody se hovoří na straně 145 (Dudák a kol. 2003), kde je 
+definována rovnoprávnost před zákonem a zmiňována rovnost životních šancí. Je zde uvedeno, 
+že každý má stejné právo a lidé jsou si rovni před zákonem, nehledě na jejich pohlaví, rasu, 
+barvu pleti, jazyk atd. Není však uvedena sexuální orientace, i když je výčet těchto možných 
+lidských odlišností na necelé 3 řádky. Myslím si, že i v tomto případě by mělo být téma zmíněno.
+5.3.5 Odmaturuj! ze společenských věd
+Poslední analyzovaná učebnice byla vydaná v roce 2015 (aktualizované vydání) pod nakladatelstvím Didaktis a je určena zejména pro žáky připravující se na maturitní zkoušku či přijímací 
+zkoušky na VŠ.
+Odmaturuj! ze společenských věd obsahuje spolu s učebnicí pro ZŠ nejobsáhlejší zmínku o registrovaném partnerství. V kapitole Rodinné právo (Dvořák a kol. 2015, s. 68) je registrovanému partnerství věnovaná samotná podkapitola, stejně tak jako např. manželství, která vykládá
+podstatu a podmínky institutu a práva registrovaných partnerů. V podkapitole následující (Dvořák a kol. 2015, s. 70) je u náhradní rodinné péče zmíněno, že si dítě nemohou adoptovat 
+39
+registrovaní partneři a vzniká tak situace, kdy dítě považuje za rodiče obě osoby, ale jedna 
+z nich nemá k dítěti žádná práva. To je doplněno fotkou dvou mužů, kteří drží v náručí malé 
+dítě.
+Další zmínka se nachází v podkapitole Sociální problémy české společnosti (Dvořák a kol. 
+2015, s. 150), kde je, na rozdíl od učebnice Občanský a společenskovědní základ, uvedeno, že 
+společnosti moderní jsou pluralitní, takže právně chrání různé odlišnosti, např. etnické, náboženské, ale také sexuální. Dále je uvedeno: „Součást vzdělávacího systému demokratických 
+společností tvoří výchova respektu vůči odlišnostem a odstraňování předsudků vůči různým
+sociálním skupinám a menšinám (duševně nemocným, homosexuálům, lidem bez domova 
+atd.).“
+Uvedené formulace v učebnici jsou dostačující a nabízí prostor k diskusi mezi žáky. Proto se 
+domnívám, že je z hlediska tématu homosexuality a registrovaného partnerství vhodně zpracována pro výuku společenskovědních předmětů.
+Analýza vybraných učebnic potvrdila předpoklad, že se v nich přímá zmínka o tématu vyskytuje zřídkakdy, ale přesto se mu lze v několika výše zmíněných bodech věnovat. Pro podpoření 
+jeho zařazování do vyučovacích hodin jsou do přílohy A vloženy pracovní návrhy možných 
+aplikací tématu.
+40
+Empirická část
+6 Metodologické aspekty šetření
+Empirická část této bakalářské práce je členěna na pět kapitol. V kapitole 6 jsou specifikovány 
+metodologické aspekty výzkumného šetření, kapitoly 7–9 jsou zaměřeny na prezentaci hlavních 
+empirických šetření a v kapitole 10 jsou vyhodnoceny hypotézy a zformulována doporučení 
+pro praxi. Příloha A obsahuje pracovní návrhy aplikací tématu, které by měly podpořit zahrnutí 
+tématu do výchovně-vzdělávacího procesu – nejen do společenskovědních předmětů – na středním stupni vzdělávání.
+Dotazníkové šetření, které bylo zvoleno pro empirickou část bakalářské práce, sledovalo 
+zejména současný stav vědomostí žáků a učitelů a jejich postoje k problematice homosexuality, 
+registrovaného partnerství a homoparentních rodin, ale také k zařazení tématu do vyučování. 
+V některých případech byl zjišťován pohled na problematiku také rodičů, studentů pedagogických fakult a ostatních, a to z důvodu utvoření celistvého obrazu o současném stavu. Do prezentace dat jsou však začleněny pouze některé odpovědi rodičů a studentů pedagogických fakult. Zbylá data, vzhledem k požadavku rozsahu práce, představena nejsou.
+Velký důraz je kladen na kapitolu 9, která je věnována zjištěním o (ne)zahrnování tématu do vyučování učiteli a (ne)dostupnosti vhodných materiálů. Tyto informace mají mapovat stav 
+ve školách a tím navazovat na teoretickou část, ze které vyplývá, že pro jedince, který je homosexuál nebo vyrůstá v homosexuální rodině, je nezbytné, aby byl školním kolektivem přijat. 
+K tomu může sloužit právě zařazení tématu do vyučování, jakožto prevence proti homofobii 
+a šikaně, pomocí kterého budou vyvráceny domnělé, ale nepravdivé informace.
+6.1 Výzkumný problém, výzkumné cíle, otázky a hypotézy
+Zastřešujícím cílem je analýza znalostí, názorů a postojů zejména přímých účastníků výchovněvzdělávacího procesu – žáků a učitelů. Podstatou zjištění je, jaké mají současní učitelé znalosti 
+a postoje k homosexuální menšině, protože právě ty jsou žákům předkládány a pokud jsou nevhodné, mohou vést ke vzniku šikany. Od žáků bylo nutné získat odpovědi, aby bylo zjištěno, 
+zda se jejich názory a postoje liší od učitelů – předpokládá se tolerantnější a kladnější přístup 
+k tématu – a jaké by mohli mít reakce nejen na své spolužáky, kteří prochází fází coming outu, 
+41
+ale např. i na učitele, který je homosexuál. Samostatným cílem je zmapování postojů učitelů 
+k zařazování tématu do hodin, příčin, proč téma případně nezařazují, a názorů na množství dostupných materiálů.
+Před sestavením dotazníku byly stanoveny hlavní výzkumné otázky a hypotézy, které vycházejí 
+z cíle daného pozorování a na jejichž základě byly formulovány samotné otázky pro výzkum.
+V závěru práce budou tyto hypotézy falzifikovány, či verifikovány.
+Hlavní výzkumné otázky a hypotézy
+• Jaká je informovanost žáků a učitelů o vzniku homosexuality a právech registrovaných partnerů?
+H1: Učitelé mají nižší znalosti o vzniku homosexuality, právech registrovaných partnerů 
+a možnosti sňatku homosexuálů než žáci.
+• Do jaké míry je dle učitelů a rodičů vhodné, aby byla témata týkající se homosexuality 
+zařazena do výuky?
+H2: Učitelé se častěji než rodiče domnívají, že je vhodné téma do výuky zařadit.
+• Do jaké míry se učitelé věnují tématu homosexuality a registrovaného partnerství během 
+svých hodin?
+• Jakou roli v začleňování tématu hraje věk učitelů?
+H3 a H4: Učitelé do 30 let začleňují problematiku do svých hodin častěji než učitelé
+od 31 do 50 let. Nejméně ji zahrnují učitelů od 51 let.
+• Jaké důvody mají učitelé pro nezařazování tématu do výuky?
+• Jak se liší tolerance žáků a učitelů (různého věku) k vychovávání dětí stejnopohlavními 
+páry a k rovným právům registrovaných partnerů a manželů?
+H5: Dle učitelů do 50 let (včetně) je prostředí pro možnost plnohodnotné výchovy a rozvoje 
+dětí u rodičů stejného pohlaví vhodnější než dle rodičů a ti hodnotí toto prostředí jako vhodnější, než jak ho hodnotí učitelé nad 50 let.
+42
+H6: Dvě ženy (matky) jsou pro dotázané respondenty vhodnějším prostředím než dva muži 
+(otcové), ti jsou ale pro všechny dotázané vhodnější než rodič samoživitel.
+H7: Učitelé od 51 let jsou častěji než učitelé do 50 toho názoru, že by homosexuální a heterosexuální páry neměly mít stejná práva.
+6.2 Sběr dat – metoda, organizace – a jejich zpracování
+Hlavní užitou výzkumnou metodou je dotazník, který je využit ke zjištění znalostí, postojů 
+a názorů souvisejících s tématem homosexuality a registrovaného partnerství. Je kvantitativní 
+složkou výzkumu, která nahrazuje rozhovor a která je nejčastěji předkládána v písemné formě. 
+(Gavora 2010) Při jejím vyhodnocování je důležité brát v potaz anonymitu respondentů, která 
+může mít vliv na zkreslení výsledků. Rovněž je výzkum limitován z důvodu self-selection bias
+(sebezařazení do výzkumu), což znamená, že dotazník většinou vyplňují ti, kteří jsou k tomu 
+motivováni, a výsledky tak mohou být rovněž zkresleny. Snažila jsem se však zvolit několik 
+cest sdílení, aby výzkumný vzorek obsahoval respondenty z různých měst, různého věku a sociálních rolí.
+Dotazník, vypracovaný v serveru Click4Survey, byl šířen elektronicky s cílem zisku většího 
+objemu dat (s přihlédnutím na stinné stránky této formy sběru dat). K jeho distribuci bylo využito zejména e-mailu a sociálních sítí (Facebook, Instagram). Před zahájením sdílení jsem srozumitelnost otázek, nahlížení respondentů a celkové zformulování dotazníku ověřila předvýzkumem, který byl rozeslán 20 zástupcům daných sociálních rolí různého věku a veškeré dotazy 
+a návrhy s nimi byly diskutovány. Postupně jsem některé otázky upravila, vhodněji zformulovala a doplnila možnosti odpovědí, aby nedošlo během dotazníku k neporozumění či mýlce.
+Výzkum byl realizován mezi 21. 1. 2021 a 10. 2. 2021. Během tohoto období se podařilo získat 
+1249 správně vyplněných dotazníků při návratnosti 64,1 %. Dotazník byl anonymní a celkem 
+obsahoval 40 otázek. Zobrazované otázky byly pro každého respondenta voleny tak, aby na ně 
+byl, vzhledem ke svému věku a sociální roli, schopen odpovědět a také aby byly v souladu s cíli 
+a výzkumnými otázkami bakalářské práce. V empirické části se však zaměřuji na prezentaci 
+pouze některých vybraných a stěžejních otázek, které korespondují s hlavními výzkumnými 
+otázkami a vyvrací, či potvrzují hypotézy. Dotazníky jsou součástí příloh této práce (C, D).
+43
+Při prezentování dat jsou sesbírané odpovědi na uzavřené otázky s možností výběru odpovědi 
+zpracovány nejčastěji do sloupcových grafů. Výjimku tvoří některá data zpracovaná k celkové 
+charakteristice vzorku v podkapitole 6.3 a jedna otázka v kapitole 8. V té jsou odpovědi zpracovány jak do grafů, tak pro větší přehlednost vloženy také do tabulek a uvedeny pouze v procentech – vzhledem k typu otázky (viz příloha B, C). Otevřené otázky jsou výhradně zpracovány do tabulek a při jejich analýze jsem pro nutnost stručného předložení formulací odpovědí 
+pracovala s klíčovými slovy a s vyzněním celého výroku respondenta. Jsou tak sumarizovány 
+do několika nejčastějších typů odpovědí.
+Následná prezentace zjištěných dat je dělena do 3 kapitol (7–9). Kapitoly 7 a 8 předkládají 
+odpovědi na otázky znalostního a názorového typu určené zejména pro žáky i učitele. Jsou 
+v nich znázorněny rozdíly mezi žáky a učiteli, ale také porovnány tři věkové kategorie učitelů
+a u dvou otázek znázorněny rovněž odpovědi rodičů. Kapitola 9 poté představuje odpovědi 
+na otázky, které se týkaly zařazování problematiky do vyučování a byly většinou položeny 
+pouze učitelům. Výjimku tvoří jedna otázka doplněná odpověďmi od rodičů a studentů pedagogických fakult.
+6.3 Celková charakteristika výzkumného vzorku
+K analýze dat je v této bakalářské práci využita část (n = 899) z celého výzkumného vzorku
+(n = 1249)s ohledem na všechny klíčové podskupiny (učitelé, žáci, rodiče, studenti pedagogických fakult). Informace k celkovému složení souboru dle hlavních znaků vyplývají z následujících grafů (1–4) a tabulek (1–3). Jeho struktura je specifikována z hlediska pohlaví, sociální 
+role (žák, student pedagogické fakulty, student jiné fakulty, rodič, učitel, ostatní), velikosti
+místa trvalého bydliště, věku a u učitelů a žáků i typu školy dle jejich příslušnosti.
+První z grafů zobrazuje složení výzkumného vzorku z hlediska pohlaví respondentů.
+44
+Graf 1 – Počet respondentů z hlediska pohlaví
+Z grafu 1 vyplývá, že celkový počet respondentů tvořilo 81 % žen, 18,5 % mužů a 0,5 % sebe 
+sama identifikovalo jako mající jiné pohlaví – „jiné“.
+Následující graf 2 zobrazuje, jak daní respondenti odpovídali na otázku týkající se jejich sociální role. Pro větší informovanost jsou jednotlivé sloupce rozděleny barevně i dle četnosti každého z pohlaví.
+Graf 2 – Počet respondentů z hlediska sociální role
+Nejvíce respondentů se identifikovalo jako „učitel“ – 281 (22,5 %) – a „žák“ – rovněž 281 
+(22,5 %). Rodičů vyplnilo dotazník 237 (19 %) a studentů pedagogických fakult 100 (8 %).
+Specifikace sociálních rolí učitel a žák dle příslušnosti k typu školy jsou uvedeny v tabulce 1.
+Tab. 1 – Doplnění specifikace (typu školy) ke skupině žáků a učitelů
+žáci učitelé
+n % n %
+ZŠ (2. stupeň) 5 1,8 % 134 47,7 %
+OU, SOU 9 3,2 % 12 4,3 %
+SŠ 185 65,8 % 74 26,3 %
+GYM 82 29,2 % 54 19,2 %
+VOŠ, VŠ 7 2,5 %
+1012
+231 6
+ženy muži jiné
+Počet respondentů
+224 80 188 219 220 166
+55
+20
+44
+62 17
+54
+1
+4
+1
+0
+100
+200
+300
+žák stud. PDF stud. jiné
+fak.
+učitel rodič ostatní
+Počet respondentů
+ženy muži
+45
+Ve výše uvedené tabulce 1 jsou obsaženy četnosti jednotlivých odpovědí na otázku, jakého typu
+školy je daný respondent (žák) žákem a na jakém typu školy daný respondent (učitel) vyučuje.
+Z tabulky 1 vyplývá, že mnou zvolená metoda šíření dotazníku nebyla vhodná pro získání dat 
+od žáků základních škol, a to z důvodu nízké návratnosti vyplněných dotazníků (respondentů 
+do 15 let odpovědělo 7). Proto bych pro získání dat od žáků základních škol zvolila příště jinou 
+variantu sdílení dotazníku nebo jinou výzkumnou metodu.
+Do grafu 3 jsou zaneseny odpovědi na otázku týkající se věku respondentů. Samostatně vyčleněny jsou role „žák“ a „učitel“, zbylí dotázání jsou souhrnně vloženi pod „ostatní“.
+Graf 3 – Počet respondentů z hlediska věku u daných sociálních skupin
+Celkový počet respondentů daného věku bez rozdílu sociální role je vložen pro větší přehlednost do níže uvedené tabulky 2.
+Tab. 2 – Počet respondentů z hlediska věku
+Z tabulky 2 vyplývá, že mezi 3 nejčastější věkové kategorie, které vyplnily dotazník, patřili 
+respondenti do 20 let (26,8 %). 25,9 % respondentů bylo ve věku 21–25 let a 15,1 % ve věku
+31–40 let.
+Poslední graf 4 zobrazuje odpovědi na otázku: Jak velké je město/vesnice, ve které(m) žijete?
+Počet respondentů
+n %
+Do 20 let 335 26,8 %
+21–25 let 323 25,9 %
+26–30 let 140 11,2 %
+31–40 let 188 15,1 %
+41–50 let 165 13,2 %
+51 a více 98 7,8 %
+272
+2
+61
+7
+23
+293
+1
+53
+86
+1
+85 102
+70
+95
+48 50
+žáci učitelé ostatní
+Počet respondentů
+do 20 let 21–25 let 26–30 let 31–40 let 41–50 let 51 a více
+46
+Graf 4 – Počet respondentů z hlediska velikosti obce, ve které žijí
+V grafu 4 jsou opět vyčleněni učitelé a žáci a zbylé sociální role jsou zahrnuty pod jednotné 
+označení „ostatní“. Pod graf 4 je vložena tabulka 3, která shrnuje celkový počet respondentů 
+v závislosti na velikosti obce.
+Tab. 3 – Počet respondentů dle velikosti místa bydliště
+Z tabulky 3 vyplývá, že nejvíce respondentů žije ve městě od 10 do 50 tisíc obyvatel (19,7 %). 
+Nejméně naopak ve městě od 100 do 500 tisíc (7,5 %).
+V následujících kapitolách 7–9 jsou prezentována sebraná data za účelem porovnání zjištění 
+mezi dvěma podskupinami – žáky a učiteli – a rovněž mezi věkovými kategoriemi (do 30 let, 
+31–50, 51 a více) učitelů. Předložené tabulky a grafy znázorňující znalosti, názory a postoje
+v kapitolách 7 a 8 jsou rozděleny na dvě podkapitoly. V podkapitolách 7.1 a 8.1 jsou zpracována data od žáků a v podkapitolách 7.2 a 8.2 od učitelů. V kapitole 8.2 jsou pro porovnání 
+vloženy ke dvěma otázkám do grafu postoje rodičů. Kapitola 9 je věnována zastoupení problematiky a s ní souvisejících otázek ve výuce, jsou zde tedy předkládány odpovědi na otázky 
+položené výhradně učitelům. Výjimku tvoří jedna otázka, která byla položena všem – ta je 
+v této části komparována s názory rodičů a studentů pedagogických fakult.
+Počet respondentů
+n %
+Do 500 obyv. 172 13,8 %
+Do 2500 obyv. 188 15,1 %
+Do 10 tis. obyv. 241 19,3 %
+Do 50 tis. obyv. 246 19,7 %
+Do 100 tis. obyv. 152 12,2 %
+Do 500 tis. obyv. 94 7,5 %
+Více obyv. 156 12,5 %
+108
+52
+12
+101
+64
+24
+145
+60
+36
+155
+44 47
+73
+46
+33
+66
+5
+23
+112
+10
+34
+ostatní žáci učitelé
+Počet respondentů
+do 500 do 2500 do 10 tis. do 50 tis. do 100 tis. do 500 tis. více
+47
+7 Povědomí o homosexualitě a registrovaném partnerství
+Tato podkapitola vychází z první skupiny otázek týkajících se základního povědomí o tématu,
+a to konkrétně z otázek zaměřených na vznik homosexuality a na práva registrovaných partnerů. 
+Kapitola je členěna na dvě podkapitoly 7.1 a 7.2, v každé z nich je nahlíženo do povědomí 
+o homosexualitě jedné podskupině ze vzorku: v 7.1 žákům, v 7.2 učitelům. Jako celek je strukturována pěti otázkami mapujícími: 1. pohled žáků a učitelů na vznik homosexuality, 2. pochopení významu/obsahu pojmu „registrované partnerství“, 3. orientaci v právech registrovaných 
+partnerů a 4. informovanost v otázce možnosti sňatků mezi homosexuálními páry.
+7.1 Povědomí žáků o homosexualitě a registrovaném partnerství
+Pro nahlédnutí do žákovského povědomí vycházím z 281 odpovědí. Pro detailní charakteristiku 
+podskupiny žáků viz graf 2 a tab. 1 v podkapitole 6.3. Z hlediska věku a pohlaví je podskupina 
+tohoto složení: 94,3 % žáků se pohybuje mezi 15. a 20. rokem života a dotazník vyplnilo 225 
+(80,1 %) dívek, 55 (19,6 %) chlapců a 1 osoba, která sebe sama definuje jako jiné pohlaví.
+Na otázku – Jak podle vás homosexualita vzniká? –, která byla v dotazníku žáků první v pořadí 
+z otázek teoretických, odpovídali všichni žáci – 281. Odpovědi na ni jsou graficky zachyceny 
+v grafu 5. Sloupce označující předpokládané správné odpovědi jsou zvýrazněny.
+Graf 5 – Vyhodnocení otázky: Jak vzniká homosexualita?
+Z grafu 5 vyplývá, že nejvíce žáků – 56,6 % – označilo, že homosexualita je vrozená, a 18,2 % 
+respondentů označilo, že se domnívá, že je vrozená. Na základě teoretické části, ve které bylo 
+159 (56,6 %)
+51 (18,2 %)
+5 (1,8 %)
+54 (19,2 %)
+7 (2,5 %) 5 (1,8 %)
+vrozená myslím si,
+že je
+vrozená
+myslím si,
+že není
+vrozená
+možnost
+volby
+nevím jiné
+Počet respondentů
+48
+pojednáváno o studiích předpokládajících biologickou podmíněnost homosexuality, lze stanovit, že správnou odpověď zná/předpokládá 74,8 % respondentů. Pokud dotázaní označili odpověď „jiné“, měli uvést svůj názor. Zde dva z nich uvedli, že se může jednat o kombinaci vrozeného a např. traumatické zkušenosti. I tato varianta by se dala považovat za správnou.
+Na otázku druhou – Víte, co je to registrované partnerství? – odpovědělo 261 (92,9 %) respondentů „ano“ a pouze 20 (7,1 %) z nich označilo, že si odpovědí není jisto. Opověď „ne“ neoznačil nikdo z respondentů. Pro malé množství variant uvedených odpovědí tyto údaje v tabulce 
+či grafu zaneseny nejsou.
+Další v pořadí byla otázka, zda žáci vědí, jaká jsou práva registrovaných partnerů. Na ni poskytlo odpověď 254 respondentů, protože žáci do 15 let a ti, kteří si nejsou jisti, co to je registrované partnerství, tuto otázku neobdrželi. Odpovědi jsou znázorněny v grafu 6.
+Graf 6 – Vyhodnocení otázky: Víte, jaká jsou práva registrovaných partnerů?
+Z grafu 6 vyplývá, že pouze 42,5 % z žáků tato práva údajně zná a 48 % žáků si ohledně znalosti 
+práv není jisto. Neznalost práv připustilo 9,5 % žáků.
+Na navazující otázku, zda se práva registrovaných partnerů a manželů liší, odpovědělo z 274
+respondentů (tuto otázku nedostali žáci do 15 let) 207 (75,6 %) žáků, že se práva registrovaných 
+partnerů a manželů liší, 53 (19,3 %) si s odpovědí nebylo jisto a chybnou odpověď „ne“ uvedlo 
+pouze 14 (5,1 %) žáků. Ani tato otázka, jako doplňující k otázce předchozí, není graficky znázorněna.
+Poslední otázka zněla: Jsou sňatky homosexuálů v ČR a/nebo v jiných státech povoleny?. 
+Kromě jednoho žáka do 12 let na ni odpovídali všichni – 280.
+108 (42,5 %)
+24 (9,5 %)
+122 (48 %)
+ano ne nejsem si jistý/á
+Počet respondentů
+49
+Graf 7 – Vyhodnocení otázky: Jsou sňatky homosexuálů povoleny?
+Dle znázornění v grafu 7 odpovědělo 192 (68,6 %) žáků správně – „povoleny v některých státech, v ČR ne.“ Některou variantu chybné odpovědi uvedlo 65 (23,2 %) žáků a odpověď „nevím“ uvedlo 23 (8,2 %) respondentů. Sloupec znázorňující správnou odpověď je v grafu zvýrazněn.
+7.2 Učitelé a jejich povědomí o homosexualitě a registrovaném 
+partnerství
+Tato část výzkumného vzorku obsahuje rovněž 281 vyplněných formulářů, viz graf 2 v podkapitole 6.3. Ze skupiny učitelů zaujímají rovněž větší podíl ženy, a to 219 (77,9 %). Dotazníků 
+od mužů bylo získáno 62 (22,1 %). Sebraná data jsou u jednotlivých otázek rozdělena do 3 skupin – učitelé do 30 let, učitelé ve věku 31–50 let a starší 50 let – pro jejich přímou komparaci.
+Pro upřesnění vzorku dotázaných je vložen graf 8 zobrazující strukturu učitelů v závislosti 
+na věku a typu školy, na které učí.
+Graf 8 – Počet učitelů v závislosti na typu školy
+50 (17,9 %)
+192 (68,6 %)
+4 (1,4 %) 11 (3,9 %) 23 (8,2 %)
+povoleny v ČR i
+v některých
+jiných státech
+povoleny v
+některých
+státech, v ČR ne
+povoleny v ČR,
+v jiných státech
+nevím
+nejsou povoleny nevím
+Počet respondentů
+44
+2
+15 15
+2
+73
+8
+41
+28
+5
+17
+2
+18
+11
+ZŠ SOU, OU SŠ GYM VOŠ, VŠ
+Počet respondentů
+Místo působiště
+do 30 let 31–50 let 51 a více
+50
+Následujících pět otázek je shodných s otázkami žáků. Slouží ke stejnému účelu – zjištění stavu 
+znalostí daného tématu. Pokud totiž učitelé problematiku do svých hodin zařazují nebo by mohli 
+zařazovat, je nezbytné mít, zejména o právech partnerů, přehled.
+První z nich byla otázka: Jak podle vás homosexualita vzniká?. Na ni odpovídali všichni dotázaní učitelé. Struktura odpovědí je zaznamenána v grafu 9.
+Graf 9 – Vyhodnocení otázky: Jak vzniká homosexualita?
+U první otázky zvolilo odpověď „vrozená“ 199 (66,9 %) učitelů a „myslím si, že je vrozená,“ 
+44 (15,7 %). Z odpovědí „jiné“, kterou zaškrtlo 18 dotázaných, bylo nejčastěji zmiňováno, že 
+homosexualita je kombinací vrozeného a dalších vlivů – společnost, traumatická událost – nebo
+že je z větší míry vrozená, ale někdy se jedná o krátkodobý akt, módu či hledání nového. 
+Z těchto odpovědí lze 14 (5 %) hodnotit jako správných, celková úspěšnost je tedy 87,6 %. 
+U žáků měla 75,1% úspěšnost.
+Následující otázka – Víte, co je to registrované partnerství? – není, stejně jako u žáků, zpracována do grafu – odpovědělo na ni 99,3 % učitelů „ano, vím.“ Odpověď „nejsem si jistá“ označily pouze 2 ženy, a to mezi 21–25 a 41–50 lety. Nikdo z dotazovaných, tak jako u žáků, neoznačil odpověď „ne“. Žáci na ni odpověděli „ano, vím“ v 92,9 % případů.
+Navazující otázkou je: Víte, jaká jsou práva registrovaných partnerů?. Na ni odpovídalo 279 
+učitelů (ti, kteří ví, co je to registrované partnerství). Odpovědi jsou zaneseny do grafu 10.
+47 109 32
+11
+23 10 5
+8 5
+7
+1
+3
+2
+6 8 4
+0%
+25%
+50%
+75%
+100%
+do 30 let 31–50 let 51 a více
+Počet respondentů
+vrozená myslím si, že je vrozená
+myslím si, že není vrozená možnost volby každého jedince
+nevím jiné
+51
+Graf 10 – Vyhodnocení otázky: Víte, jaká jsou práva registrovaných partnerů?
+Z 279 dotázaných ví, dle grafu 10, jaká jsou práva registrovaných partnerů, 172 (61,6 %) a 96 
+(34,4 %) si jimi není jisto. Neznalost práv uvedlo pouze 11 (4 %) učitelů. U učitelů nad 50 let 
+je jistota se znalostí práv nižší (47,9 %) a polovina z nich si není jista.
+V otázce na odlišnost práv registrovaných partnerů a manželů byli dotázáni všichni učitelé. 
+Míra odpovědí zanesena do grafu 11.
+Graf 11 – Vyhodnocení otázky: Liší se tato práva od práv manželů?
+Na otázku, zda se práva liší, bylo odpovězeno lépe než na otázku dotazující se, jaká jsou práva 
+registrovaných partnerů. Učitelé odpověděli správně v 237 případech (84,3 %) z 281. Jisto si 
+nebylo 33 respondentů (11,7 %) a pouze 11 (3,9 %) odpovědělo chybně – „ne“. Opět je vyšší 
+neúspěšnost u učitelů nad 50 let, „ano“ zde uvedlo 68,8 % ze 48 učitelů, což je v průměru 
+o 18,7 % méně než u zbylých 2 věkových skupin.
+50 (64,9 %) 99 (64,3 %) 23 (47,9 %)
+22 (28,6 %) 50 (32,5 %)
+24 (50 %)
+5 (6,5 %) 5 (3,2 %) 1 (2,1 %)
+0%
+25%
+50%
+75%
+100%
+do 30 let 31–50 let 51 a více
+Počet respondentů
+ano nejsem si jistá/ý ne
+68 (87,2 %) 136 (87,7 %) 33 (68,8 %)
+7 (9 %) 12 (7,7 %)
+14 (29,2 %)
+3 (3,8 %) 7 (4,5 %) 1 (2,1 %)
+0%
+25%
+50%
+75%
+100%
+do 30 let 31–50 let 51 a více
+Počet respondentů
+ano nejsem si jistá/ý ne
+52
+Poslední z otázek zaměřených na povědomí o tématu zněla: Jsou sňatky homosexuálů v ČR 
+a/nebo v jiných státech povoleny?. Zde byla sledována zejména úspěšnost odpovědí, a proto je 
+v grafu, pro přehlednost, rozlišena pouze správná a chybná varianta odpovědí a odpověď „nevím“. Viz graf 12.
+Graf 12 – Vyhodnocení otázky: Jsou sňatky homosexuálů povoleny?
+Na otázku zpracovanou v grafu 12 uvedlo správnou odpověď – „povoleny v některých státech, 
+v ČR ne“ – celkem 161 (57,3 %) učitelů z 281. Nejlépe odpovídali učitelé do 30 let, 64,1 % 
+z nich uvedlo správnou odpověď, nejhůře naopak učitelé nad 50 let, pouze polovina (24) odpověděla správně.
+Některou z chybných variant odpovědí uvedlo celkem 106 (37,7 %) respondentů. Z toho nejčastěji (32,3 %) uváděnou variantou bylo „jsou povoleny v ČR i v některých jiných státech.“ 
+Varianta, že sňatky nejsou povoleny vůbec, se ve výsledcích objevila ve 3,6 % odpovědí. Zbylých 1,8 % učitelů uvedlo, že sňatky „jsou povoleny v ČR, v jiných státech nevím.“ Odpověď 
+„nevím“ uvedlo 5 % dotázaných učitelů. V této otázce odpovídali žáci lépe, 192 z nich (68,6 %)
+uvedlo správnou variantu.
+50 (64,1 %) 87 (56,1 %) 24 (50 %)
+24 (30,8 %)
+63 (40,7 %)
+19 (39,6 %)
+4 (5,1 %) 5 (3,2 %) 5 (10,4 %)
+0%
+25%
+50%
+75%
+100%
+do 30 let 31–50 let 51 a více
+Počet respondentů
+správná odpověď chybná odpověď odpověď "nevím"
+53
+8 Postoje k homosexuálům, homoparentním rodinám a 
+jejich právům
+Druhá kapitola je věnována prezentaci sebraných odpovědí na otázky týkající se postojů dotázaných k homoparentním rodinám a k rovnosti homosexuálních a heterosexuálních párů. Kapitola je opět členěna na dvě podkapitoly – 8.1 postoje žáků a 8.2 postoje učitelů – přičemž první 
+tři otázky jsou totožné. Kapitola 8.1 týkající se žáků byla doplněna dvěma otázkami, které zjišťují, zda se žáci s homosexuálem potkali a jaká by byla jejich reakce na případný coming out 
+kamaráda.
+Struktura podkapitol je tvořena pěti a třemi otázkami mapujícími: 1. názor na rovnost práv 
+manželů a registrovaných partnerů, 2. postoj k vychovávání dětí stejnopohlavními páry, 
+3. možnost předání plnohodnotné výchovy těmito páry, 4. přijímání homosexuálů jako běžné
+součásti společnosti žáky, a to na základě známosti či případného coming outu svých přátel.
+8.1 Postoje žáků k homosexuálům, homoparentním rodinám a jejich právům
+I v této podkapitole, stejně jako v 7.1, vycházím z 281 vyplněných dotazníků. Pro detailní charakteristiku podskupiny žáků viz graf 2 a tab. 1 v podkapitole 6.3.
+První z druhé skupiny otázek byla otevřená a zněla: Měly by mít homosexuální páry stejná 
+práva jako heterosexuální – např. adopce, umělé oplodnění, rodičovská práva atd.? Uveďte 
+důvod. Otázka byla zobrazena žákům, kteří ví, že se práva registrovaných partnerů a manželů 
+liší (207). Možnost uvést odpověď však byla dobrovolná, zpět tak bylo získáno 179 odpovědí.
+Odpovědi jsou podle klíčových slov rozděleny do čtyř skupin: ano / spíše ano, ne / spíše ne, 
+nejsem si jistý / diskutabilní / souhlasím pouze s majetkovými právy a nevím. Jejich frekvence 
+jsou zaznamenány v tabulce 4.
+54
+Tab. 4 – Vyhodnocení otázky: Rovnost práv homosexuálních a heterosexuálních párů?
+V tabulce 4 jsou uvedena procentuální zastoupení jednotlivých názorů a také nejčastější důvody
+k odpovědím. S rovnými právy souhlasí 93,3 % žáků. Nejvíce žáků se svým tvrzením opíralo 
+o nemožnost jedince zvolit si, koho miluje, rovnost každého člověka bez ohledu na orientaci 
+a schopnost homosexuálů vychovávat dítě stejně dobře (někdy i lépe, protože dítě je vždy 
+chtěné), jako ho vychovávají heterosexuální rodiče. K tomuto důvodu také uváděli, že záleží
+především na výchově a péči. Mnoho z nich také uvedlo, že je lepší, pokud dítě vyrůstá v milující rodině než v dětském domově. Od třech žáků bylo zmíněno, že je třeba o tématu více 
+mluvit, aby nedocházelo ve společnosti k šikaně dětí vychovávaných právě homosexuály.
+Následující otázka zjišťovala, jaký je názor respondentů na vychovávání dětí stejnopohlavními 
+páry. Zde odpovídali všichni žáci od 13 let (280). Výsledky jsou zaneseny do grafu 13.
+Graf 13 – Vyhodnocení otázky: Jaký máte názor na vychovávání dětí stejnopohlavními páry?
+Počet 
+žáků Nejčastější typy odpovědí
+Ano / spíše ano 167
+(93,3 %)
+nezáleží na pohlaví rodičů, stejná práva, není 
+důvod proč ne, nemůžeme si vybrat, koho milujeme, lepší než dětský domov, mnohdy se 
+dokážou postarat lépe než heterosexuálové, 
+stejné podmínky jako manželé
+Ne / spíše ne 6
+(3,4 %)
+vývoj dítěte, obtížné pro dítě, chybějící vzor, 
+gayové si nejsou věrní
+Nejsem si jistý / 
+diskutabilní / 
+pouze majetková práva
+4
+(2,2 %)
+nejsou dostatečné výzkumy o dětech vychovávaných homosexuály, dítě by mohlo být šikanováno
+Nevím 2 (1,1 %)
+179 (63,9 %)
+50 (17,9 %)
+31 (11,1 %)
+11 (3,9 %) 9 (3,2 %)
+souhlasím s
+tím
+spíše s tím
+souhlasím
+nejsem ani pro,
+ani proti
+spíše s tím
+nesouhlasím
+nesouhlasím s
+tím
+Počet respondentů
+55
+Jak z grafu 13 vyplývá, z 280 žáků uvedlo 229 (81,8 %), že s vychováváním dětí stejnopohlavním párem souhlasí nebo spíše souhlasí. „Spíše s tím nesouhlasím“ nebo „nesouhlasím“ uvedlo 
+20 (7,1 %) dotázaných. 31 žáků má na otázku neutrální názor.
+Třetí otázka z této části – Jak vhodné (z hlediska možnosti obdržení plnohodnotné výchovy, 
+rozvoje atd.) je podle vás zázemí pro dítě u těchto rodičů? – byla odlišného typu. Dotázaní měli 
+porovnat 4 typy rodiny (viz příloha C), které se lišily pohlavím rodičů a celistvostí. Nabízené 
+odpovědi byly čtyři a respondenti měli určit, zda dítě může u těchto rodičů získat plnohodnotnou výchovu, rozvoj a vše potřebné – jak moc je prostředí pro toto vhodné. Cílem tedy bylo 
+získat informaci, zda si dotázaní myslí, že ve výchově dítěte záleží pouze / ve velké míře na pohlaví rodičů. Z tohoto důvodu byl do porovnání uveden také rodič samoživitel. Odpovědi jsou 
+znázorněny v tabulce 5.
+Tab. 5 – Vyhodnocení otázky: Vhodnost zázemí pro dítě podle pohlaví a počtu rodičů
+V tabulce 5 je znázorněno, že pouze pro 7 % (cca 20) žáků je rodina se dvěma ženami (matkami) nevhodným zázemím a pro 8 % (cca 23) je nevhodné prostředí, kde jsou rodiči dva muži.
+Jako „velmi vhodné“ označilo tyto rodiny 48 % a 49 % (cca 134 a 137) žáků. Rodiče samoživitele považuje za nevhodného 14 % (cca 39) dotázaných a pouze 20 % (cca 56) žáků označilo 
+toto prostředí jako „velmi vhodné“.
+Následující dvě otázky byly položeny pouze žákům do 20 let. První z nich – Setkali jste se 
+někdy s homosexuálním jedincem? – mapuje, zda je pro žáka běžné se s homosexuálem setkat
+a případně kde ke kontaktu dochází. Odpovědi jsou zaneseny do grafu 14.
+Velmi 
+vhodné vhodné nevhodné Naprosto nevhodné
+Celkem respondentů
+Dvě ženy 48 % 44 % 7 % 0
+280
+Dva muži 49 % 42 % 7 % 1 %
+Otec a 
+matka 83 % 16 % 0 0
+Rodič samoživitel 20 % 66 % 14 % 0
+56
+Graf 14 – Vyhodnocení otázky: Setkali jste se s homosexuálem?
+Na otázku odpovídalo 272 respondentů. V odpovědi bylo možné označit obě z výše nabízených 
+míst najednou, viz graf 14. Ve svém okolí se s homosexuálem setkalo 241 jedinců (88,6 %) 
+a na internetu 117 (43 %). Pouze 10 (3,6 %) dotazovaných označilo možnost, že s neheterosexuálním jedincem nikdy nesetkalo.
+Porovnávala jsem, zda má na přístup žáků k tématu vliv, že se s homosexuálem nesetkali. Polovina (5) z těchto 10 dotázaných je k tématu spíše nezaujata a téma pro ně není podstatné. 
+Na otázku následující, zaznamenanou v grafu 15, jak by dotázaní reagovali, kdyby byl někdo 
+z jejich přátel homosexuální orientace, pouze jeden uvedl, že by mu to vadilo, protože homosexualita není normální. Zbylí respondenti odpovídali kladně. Dle mého zjištění tedy tato skutečnost na postoj spíše vliv nemá.
+Poslední otázka tedy zněla: Jak byste reagovali, kdyby byl někdo z vašich přátel homosexuální 
+orientace?. Odpovědělo na ni 272 žáků a odpovědi jsou zaznamenány v grafu 15.
+Graf 15 – Vyhodnocení otázky: Jak byste reagovali na přítele homosexuála?
+227 (83,5 %)
+40 (14,7 %)
+5 (1,8 %) 0
+neodsuzoval(a) bych
+ji/ho, je to normální
+neodsuzoval(a) bych
+ji/ho, ale musel(a) bych
+si zvyknout
+neodsuzoval(a) bych
+ji/ho, ale vadilo by mi
+to, protože to není
+normální
+vadilo by mi to velmi,
+nebavil(a) bych se s
+ní(m)
+Počet respondentů
+117 (43 %)
+241 (88,6 %)
+10 (3,6 %)
+ano, na internetu ano, ve svém okolí ne, nesetkal(a)
+Počet respondentů
+57
+Na poslední otázku zjišťující postoj dotázaného k homosexuálům odpovědělo 227 (83,5 %) 
+žáků, že považuje kamaráda homosexuální orientace za normální jev. 40 (14,7 %) žáků by ho 
+neodsuzovalo, ale muselo by si na jeho orientaci zvyknout, a pouze 5 (1,8 %) dotázaným by 
+tato orientace u svého kamaráda vadila. Žádný z žáků neuvedl, že by mu homosexuální orientace vadila tak, aby se s kamarádem nadále nebavil.
+8.2 Postoje učitelů k homoparentním rodinám a jejich právům
+Ani u učitelů se v této kapitole výzkumný vzorek nemění, n = 281. Pro detailnější charakteristiku viz graf 2 a tab. 1 v podkapitole 6.3. Ke dvěma otázkám je pro detailnější nahlédnutí postoje 
+k homosexuálním rodinám vloženo porovnání s odpověďmi rodičů.
+Otázky jsou shodné s prvními třemi z podkapitoly 8.1. První z otázek – Měly by mít homosexuální páry stejná práva jako heterosexuální – např. adopce, umělé oplodnění, rodičovská práva 
+atd.? Uveďte důvod. – byla otevřená a dostali ji pouze učitelé, kteří uvedli, že se práva registrovaných partnerů a manželů liší (237). Byla rovněž jako u žáků jediná v dotazníku dobrovolná, zpět tak bylo získáno 219 odpovědí. Frekvence odpovědí a nejčastější důvody k těmto 
+názorům jsou zaznamenány na základě klíčových slov v tabulce 6.
+Tab. 6 – Vyhodnocení otázky: Rovnost práv homosexuálních a heterosexuálních párů?
+S rovnocennými právy homosexuálních párů a manželů souhlasí 170 (77,6 %) dotázaných učitelů. Učitelů ve věku do 30 let souhlasí 80,7 %, ve věku od 31 do 50 let 81,3 % a učitelů 
+Počet učitelů
+Do 30 Nejčastější typy odpovědí
+let 31–50 let 51 a více
+Ano / spíše ano 50
+(80,7 %)
+104
+(81,3 %)
+16
+(55,2 %)
+nezáleží na pohlaví rodičů/orientaci (49), stejná 
+práva (36), není důvod proč 
+ne (19), adopce dětí z DD 
+(10), stejné podmínky jako 
+manželé, nutné o tématu 
+více hovořit
+Ne / spíše ne 3
+(4,8 %)
+12
+(9,4 %)
+9
+(31 %)
+Nepřirozené / proti přírodě 
+(5), klasická rodina (8), vývoj dítěte (6), chybějící vzor
+Nejsem si jistý / 
+diskutabilní / 
+něco ano, něco 
+ne, je mi to jedno
+9
+(14,5 %)
+12
+(9,4 %)
+4
+(13,8 %)
+Ne umělé oplodnění, surogátní mateřství (8), ne 
+adopce (3), dítě by mohlo 
+být šikanováno, vývoj dítěte
+58
+od 51 let pouze 55,2 %. S těmito právy celkem nesouhlasí 24 (11 %) dotázaných. Ze skupiny 
+učitelů nad 50 let se jedná o 31 % z 29 dotázaných.
+Jako důvod k nesouhlasu byla nejčastěji uváděna preference klasické rodiny, nepřirozený vztah 
+dvou mužů nebo dvou žen, ohrožení vývoje dítěte aj. V několika případech dotázaní souhlasili 
+s majetkovými a jinými právy, ale nesouhlasili s umělým oplodněním či surogátním mateřstvím. Bylo také zmiňováno, že při adopci by měla být dána přednost heterosexuálním rodičům.
+Následující otázka zjišťovala, jaký je názor respondentů na vychovávání dětí stejnopohlavními 
+páry. Zde odpovídali všichni učitelé. Výsledky jsou zaneseny do grafu 16.
+Graf 16 – Vyhodnocení otázky: Jaký máte názor na vychovávání dětí stejnopohlavními páry?
+Z grafu 16 vyplývá, že nejvíce tolerantní jsou učitelé do 30 let. Odpověď „souhlasím s tím“ 
+uvedlo 65,4 % a „spíše s tím souhlasím“ 14,1 %. Spíše nesouhlasí nebo nesouhlasí pouze 9 % 
+učitelů do 30 let. Ze všech dotázaných nejméně souhlasí s výchovou dítěte v homoparentní 
+rodině učitelé nad 50 let (29,2 %). Kladnou variantu odpovědi na tuto otázku uvedlo pouze 
+50 % dotázaných nad 50 let.
+Do grafu jsou pro porovnání vloženy sebrané hodnoty od rodičů. Z 237 rodičů s vychováváním 
+dětí stejnopohlavními páry souhlasí nebo spíše souhlasí 141 (59,5 %). Nesouhlasí nebo spíše 
+nesouhlasí 18,6 %. Velká míra rodičů (21,9 %) také uvedla, že není ani pro, ani proti.
+Poslední otázka – Jak vhodné (z hlediska možnosti obdržení plnohodnotné výchovy, rozvoje 
+atd.) je podle vás zázemí pro dítě u těchto rodičů? – je stejně jako u žáků velmi podobná té předchozí, ale liší se tím, že zde měli respondenti usuzovat podle 4 obrázků (viz příloha C), a tím 
+51 78 10 81
+11
+41
+14
+60
+9 18
+10
+52
+6
+11
+7
+26
+1 7 7 18
+0%
+25%
+50%
+75%
+100%
+učitelé do 30 let učitelé 31–50 let učitelé 50 a více let rodiče
+Počet respondentů
+souhlasím s tím spíše s tím souhlasím nejsem ani, ani proti
+spíše s tím nesouhlasím nesouhlasím s tím
+59
+vzájemně porovnat dané typy rodin. Nejpodstatnější odpovědi jsou shrnuty v grafu 17 a 18, 
+veškeré hodnoty jsou pro detailnější prostudování vloženy v tabulkách 8–11 do přílohy B.
+Graf 17 – Velmi vhodné a vhodné prostředí poskytované těmito rodiči dle vyjádřených názorů
+Graf 18 – Nevhodné a naprosto nevhodné prostředí poskytované těmito rodiči dle vyjádřených 
+názorů
+Výše uvedené dva grafy (17 a 18) znázorňují, že s věkem učitelů klesá tolerance k homosexuálním rodičům a stejně tak i k rodičům samoživitelům. Učitelé do 30 let označili shodně rodiny 
+s dvěma muži (otci) a dvěma ženami (matkami) za „velmi vhodné“ nebo „vhodné“ v 94 % 
+(cca 73) případů a za „nevhodné“ či „naprosto nevhodné“ označilo toto prostředí pouze 6 % 
+dotázaných, opět shodně. 
+S přibývajícím věkem pak kladné odpovědi klesají a negativní rostou. Z učitelů od 31 do 50 let 
+se 89 % domnívá, že prostředí se dvěma ženami je vhodné, a 84 %, že je vhodné to se dvěma 
+7% 6%
+11%
+27%
+19%
+8%
+6%
+17%
+31%
+23%
+1% 2%
+14% 14%
+22%
+31%
+17%
+žáci uč. do 30 let uč. 31–50 let uč. nad 50 let rodiče
+Počet respondentů
+dvě ženy dva muži otec a matka rodič samoživitel
+92% 94% 89%
+73%
+81%
+91% 94%
+84%
+69%
+77%
+99% 99% 100% 98% 100%
+86% 86%
+77%
+68%
+83%
+Žáci 12-19 uč. do 30 let uč. 31–50 let uč. nad 51 let rodiče
+Počet respondentů
+dvě ženy dva muži otec a matka rodič samoživitel
+60
+muži. Nevhodná jsou tato prostředí pro 11 % (2 ženy) a 17 % (2 muži). U učitelů nad 50 let 
+jsou vhodná pouze pro 73 % (2 ženy) a 69 % (2 muži) a nevhodná pro 27 % (2 ženy) a 31 % 
+(2 muži).
+Při porovnání s odpověďmi uváděnými u rodiče samoživitele jsou dle respondentů vhodnějším
+prostředím homosexuální rodiče a s rostoucím věkem respondentů i zde roste označení tohoto 
+prostředí za nevhodné. Rodiče samoživitele označilo jako nevhodné prostředí 14 % učitelů 
+do 30 let, 22 % učitelů od 31 do 50 let a 31 % učitelů od 51 let.
+Při rozdělení učitelů na muže a ženy označilo 12 % mužů za nevhodné prostředí dvě ženy, 18 % 
+dva muže a 30 % rodiče samoživitele. Ženy označily za nevhodné prostředí dvě matky ve 13 % 
+případů, dva muže v 16 % případů a rodiče samoživitele v 19 %. V tomto rozdělení je znatelný 
+rozdíl u rodiče samoživitele, kde je více žen tolerantnějších.
+Rodiče označili dvě ženy za nevhodné v 19 % odpovědí, dva muže ve 23 % a rodiče samoživitele v 17 %. Jsou tedy jediní, pro které je rodič samoživitel lepší volbou než rodiče stejného 
+pohlaví. Při rozdělení rodičů na muže a ženy se tato čísla u mužů, kterých je pouze 17, ještě 
+zvýší. Pro 36 % otců jsou nevhodné dvě matky a pro 47 % dva otcové. Rodič samoživitel není 
+vhodný pro 24 % z nich.
+Pro porovnání jsou do grafů vloženi i žáci, jejichž odpovědi byly zpracovány v podkapitole 8.1
+(s. 55). Ze všech odpovědí na otázku vyplývá, že nejvíce tolerantní jsou učitelé do 30 let.
+61
+9 Tematické zastoupení problematiky homosexuality 
+a souvisejících otázek ve výuce: pohled učitelů
+V poslední části jsou předkládány zpracované odpovědi na otázky, které byly položeny učitelům a které se zaměřují na zastoupení dané problematiky a s ní souvisejících otázek ve výchovně-vzdělávacím procesu. Jedna z otázek (graf 20) je při prezentaci dat přímo porovnána
+s odpověďmi rodičů a studentů pedagogických fakult za účelem širšího nahlédnutí názorů a potvrzení, či vyvrácení stanovených hypotéz. Pomocí pěti otázek je tak nahlíženo na: 1. současný 
+stav zahrnování problematiky do výuky, 2. důvody, proč tomu tak příp. není, 3. názory učitelů 
+na její zařazení, 4. (ne)dostatek materiálů
+První z otázek – Myslíte si, že je vhodné problematiku homosexuality, registrovaného partnerství a toho týkajících se práv zahrnout do vyučování? – je porovnána s názory studentů pedagogických fakult a rodičů. Viz graf 19 a 20.
+Graf 19 – Vyhodnocení otázky: Je vhodné zahrnout problematiku do vyučování?
+V grafu 19 jsou zaneseny odpovědi od učitelů. Celkem 245 (87,2 %) z 281 dotázaných se 
+shodlo, že zmiňovanou problematiku je vhodné zahrnout do vyučování. Dle věku bylo nejvíce 
+pozitivních odpovědí ve skupině dotázaných do 30 let, a to 89,7 %, nejméně ve skupině nad 
+50 let, 83,3 %. „Není to vhodné“ uvedlo pouze 5 (1,8 %) učitelů. Podstatné to není 
+pro 31 (11 %) dotázaných.
+Při rozdělení učitelů na muže (62) a ženy (219) jsou výsledky shodné. 87,1 % mužů a 87,2 %
+žen uvedlo, že zařazení tématu je vhodné. Jako důvod pro nezařazení tématu dotazovaní 
+70 (89,7 %) 135 (87,1 %) 40 (83,3 %)
+2 (2,6 %) 3 (1,9 %)
+6 (7,7 %) 17 (11 %) 8 (16,7 %)
+0%
+25%
+50%
+75%
+100%
+do 30 let 31–50 let 51 a více
+Počet respondentů
+ano, je to vhodné ne, není to vhodné nevím, není to pro mě podstatné
+62
+uváděli, že by ho nezahrnovali jako povinné z důvodu nepodstatnosti, neprofesionality kolegů 
+a prostředí.
+V grafu 20 jsou pro porovnání vloženy odpovědi od studentů pedagogických fakult a rodičů.
+Graf 20 – Porovnání odpovědí učitelů, studentů pedagogických fakult a rodičů
+Z grafu 20 vyplývá, že nejvíce vhodné se zdá být zařazení tématu do vyučování studentům 
+pedagogických fakult (93 %). Nejméně naopak rodičům, kteří uvedli pouze v 73,8 % případů, 
+že je to vhodné, a v 10,1 %, že to vhodné není. Z toho vyplývá, že možní „budoucí učitelé“ jsou 
+více otevřeni tomuto tématu než učitelé současní.
+U odpovědí rodičů jsou nejvíce znatelné rozdíly při rozdělení na muže a ženy, i když mužů 
+rodičů odpovědělo pouze 17. Pouze 9 (52,9 %) z nich označilo, že je problematiku vhodné 
+zařadit, a 5 (29,4 %) mužů se domnívá, že to vhodné není. Ženy označily „ano, je to vhodné“ 
+ve 166 (75,5 %) případech. Nevhodné je to pro 19 (8,6 %) a podstatné to není pro 35 (15,9 %) 
+žen.
+Následující otázka – Zahrnujete problematiku do výuky? – byla položena těm, kteří učí některý 
+z předmětů společenskovědních, dějepis, výtvarnou výchovy, český nebo cizí jazyk, a zároveň 
+těm, kteří v předchozí otázce uvedli, že je zařazení tématu vhodné (163).
+87,2%
+93%
+73,8%
+1,8% 3%
+11% 10,1%
+4%
+16%
+učitelé studenti PdF rodiče
+Počet respondentů
+ano, je to vhodné ne, není to vhodné nevím, není to pro mě důležité
+63
+Graf 21 – Vyhodnocení otázky: Zahrnujete problematiku do výuky?
+Z grafu 21 vyplývá, že o problematice ve svých hodinách hovoří 123 (75,4 %) dotázaných, 
+zbylých 40 (24,5 %) téma do výuky nezahrnuje. Nejvíce téma do svých hodin zahrnují učitelé 
+ve věku 31–50 let, 80,2 % z 91 dotázaných. Naopak nejméně učitelé nad 50 let, pouze 60 % 
+z 20 dotázaných. Při rozdělení respondentů na muže a ženy jsou odpovědi opět shodné s celkovými výsledky všech učitelů.
+U této otázky by se však dalo předpokládat větší zastoupení odpovědi „ne, nezahrnuji“, protože
+15 učitelů, kteří učí výše uvedené předměty, zvolilo u předchozí otázky, že pro ně zahrnutí 
+tématu není podstatné, a 1 zvolil, že to není vhodné. Mezi nimi bylo nejvíce učitelů cizího
+a/nebo českého jazyka – jedná se o 14 dotázaných.
+Učitelé, kteří zvolili odpověď „ne, nezahrnuji“ (40), byli dotázáni, proč problematiku do výuky 
+nezahrnují. Nejčastější typy odpovědí jsou vloženy do tabulky 7.
+Tab. 7 – vyhodnocení otázky: Proč problematiku do vyučování nezahrnujete?
+Odpověď Počet respondentů
+Nevhodné téma do mých hodin (věk žáků, předmět) 13
+Obavy z reakce rodičů, kolegů 9
+Citlivé téma 7
+Nedostatek času 7
+Nevím, jak téma vykládat 7
+Nedostatek materiálů 6
+Mezery v osnovách 6
+Zatím ne (délka praxe, nebyla k tomu příležitost) 6
+Jen okrajově, ne jako samostatné téma, pokud se žáci zeptají 4
+Obavy z přijetí žáky, důležitější témata 2
+38 (73,1 %) 73 (80,2 %) 12 (60 %)
+14 (26,9 %)
+18 (19,8 %)
+8 (40 %)
+0%
+25%
+50%
+75%
+100%
+do 30 let 31–50 let 51 a více
+Počet respondentů
+ano ne
+64
+Nejčastějším důvodem k nezahrnování tématu bylo, že se nejedná o vhodné téma do respondentových hodin. Dále učitelé uvedli, že mají obavy z reakce zejména rodičů a kolegů. 
+Pro 7 z nich je téma citlivé, učitelé mají nedostatek času pro jeho zařazení nebo neví, jak téma 
+vykládat či správně uchopit. Nedostatek materiálů byl uveden v odpovědích 6krát. 
+Právě na tento důvod se zaměřovala další otázka – Je k výuce dostatek materiálů?. Položena 
+byla respondentům, kteří téma do svých hodin zahrnují (123).
+Graf 22 – Vyhodnocení otázky: Je k výuce dostatek materiálů?
+Na otázku odpovědělo „ano“ nebo „spíše ano“ 49 (39,8 %) učitelů, „spíše ne“ nebo „ne“ uvedlo 
+74 (60,2 %) učitelů. Většina se tedy shodla, že materiálů dostatek není.
+Navazující a zároveň poslední otázka položená 74 respondentům, kteří u otázky předchozí odpověděli „spíše ne“ nebo „ne“, zněla: Uvítali byste tedy větší množství materiálů?. Pro jednoduchost odpovědí opět nebylo nutné vkládat graf. Z 74 dotázaných odpovědělo 86,5 % učitelů 
+„ano“ a pouze 10 (13,5 %) zvolilo možnost „ne“.
+Na základě předpokladu, rozboru učebnic a následného vyhodnocení těchto dvou posledních 
+otázek navrhuji v závěru (příloha A) možné pracovní aplikace tématu do vyučovacích hodin.
+13 (34,2 %) 32 (43,8 %) 4 (33,3 %)
+25 (65,8 %)
+41 (56,2 %)
+8 (66,7 %)
+0%
+25%
+50%
+75%
+100%
+do 30 let 31–50 let 51 a více
+Počet respondentů
+spíše ano/ano spíše ne/ne
+65
+10 Vyhodnocení hypotéz a doporučení pro praxi
+Výzkumné šetření cílilo zejména na 2 sociální role – žáky a učitele. V průběhu zpracovávání 
+byly u odpovědí učitelů porovnávány jednotlivé věkové kategorie mezi sebou a byl zjišťován 
+vliv věku a pohlaví na dané odpovědi. Některé výsledky byly pro dokreslení současného stavu 
+komparovány s odpověďmi rodičů a studentů pedagogických fakult. Na základě vyhodnocení 
+hypotéz a celkového nahlédnutí byly stanoveny uvedené závěry a doporučení.
+H1: Učitelé mají nižší znalosti o vzniku homosexuality, právech registrovaných partnerů
+a možnosti sňatku homosexuálů než žáci.
+Vyhodnocení této hypotézy se opírá o kapitolu 7, ve které byly zpracovány odpovědi na otázky 
+týkající se znalosti respondentů. Na otázku týkající se vzniku homosexuality odpovědělo 
+správně (je vrozená, kombinace vrozeného a jiného) 75,1 % žáků a 87,6 % učitelů. Znalost práv 
+registrovaných partnerů uvedlo 42,5 % žáků a 61,6 % učitelů a na otázku, zda jsou sňatky homosexuálů povoleny, odpovědělo správně 68,6 % žáků a 57,3 % učitelů.
+V celkovém součtu těchto 3 otázek mají žáci v průměru 62,1% znalost a učitelé 68,8% znalost 
+o tématu. Při rozdělení na věkové kategorie učitelů jsou se znalostmi nejhůře učitelé od 51 let 
+– 61,8 %. Platnost hypotézy 1 je tak průměrem odpovědí všech učitelů vyvrácena.
+H2: Učitelé se častěji než rodiče domnívají, že je vhodné téma do výuky zařadit.
+Hypotéza 2 pracuje s odpověďmi na otázku, zda je vhodné problematiku do vyučování zahrnout. 87,2 % učitelů se domnívá, že je to vhodné, rodiče se domnívají o vhodnosti zařazení 
+tématu v 73,8 %. Nevhodnost zařazení uvedlo 1,8 % učitelů a 10,1 % rodičů. Platnost hypotézy 2 je potvrzena.
+H3 a H4: Učitelé do 30 let začleňují problematiku do svých hodin častěji než učitelé 
+od 31 do 50 let. Nejméně ji zahrnují učitelé od 51 let.
+Z předchozí hypotézy vyplynulo, že 87,2 % učitelů si myslí, že je vhodné téma do výchovněvzdělávacího procesu zařadit. Další otázka prokázala, že pouze 73,1 % učitelů do 30 let, 80,2 % 
+učitelů ve věku 31–50 let a 60 % učitelů od 51 let takto činí. Platnost hypotézy 3 je vyvrácena, 
+platnost hypotézy 4 potvrzena. Nejvíce se tématu totiž věnují učitelé mezi 31 a 50 lety, nejméně však ti nad 50 let. Při porovnání poměrů v jednotlivých skupinách podle délky praxe 
+66
+zařazují téma nejméně do hodin učitelé s praxí do 2 let (67,5 %). 7,5 % z nich však uvedlo, že 
+důvodem je právě délka praxe, protože se k tématu ještě nedostali.
+H5: Dle učitelů do 50 let (včetně) je prostředí pro možnost plnohodnotné výchovy a rozvoje 
+dětí u rodičů stejného pohlaví vhodnější než dle rodičů a ti hodnotí toto prostředí jako vhodnější, než jak ho hodnotí učitelé nad 50 let.
+Tato hypotéza pracuje s otázkou, zda si dotázaní myslí, že je pro výchovu dětí podstatné pohlaví 
+rodičů. Učitelé do 50 let jsou dle odpovědí nejtolerantnější ze všech zkoumaných skupin. Pro 
+91,5 % je vhodné prostředí se dvěma matkami a pro 89 % prostředí se dvěma otci. 81 % rodičů 
+uvedlo, že je vhodné prostředí se dvěma matkami, a 77 %, že je vhodné prostředíse dvěma otci.
+Učitelé nad 50 let toto uvedli v 73 a 69 % případů (ve stejném pořadí). Hypotéza 5 je tedy 
+potvrzena.
+H6: Dvě ženy (matky) jsou pro dotázané respondenty vhodnějším prostředím než dva muži 
+(otcové), ti jsou ale pro všechny dotázané vhodnější než rodič samoživitel.
+Hypotéza 6 úzce souvisí s hypotézou předchozí. Všechny skupiny respondentů (viz komentáře 
+k hypotéze 5) hodnotily prostředí se dvěma matkami jako více vhodné. Při detailním rozdělení 
+na učitele do 30 let a učitele od 31 do 50 let vychází, že jediní, kteří ohodnotilistejně dvě matky 
+i dva otce, byli učitelé do 30 let (shodně 94 %).
+Učitelé do 30 let hodnotili prostředí s rodičem samoživitelem jako vhodné v 86 %, učitelé 
+od 31 do 50 let v 77 % (2 otcové – 84 %), učitelé od 51 let v 68 % (dva otcové – 69 %) a rodiče 
+v 86 % (dva otcové – 77 %). Rodiče jsou jediní, z jejichž pohledu má dítě možnost plnohodnotné výchovy a rozvoje u rodiče samoživitele větší než u homosexuálního páru. Hypotéza 6
+je vyvrácena.
+H7: Učitelé od 51 let jsou častěji než učitelé do 50 toho názoru, že by homosexuální a heterosexuální páry neměly mít stejná práva.
+Poslední hypotéza sledovala rovněž míru tolerance a to, jaký má na ni vliv věk respondenta.
+80,7 % respondentů do 30 let a 81,3 % respondentů od 31 do 50 let se domnívá, že by stejná 
+práva mít tyto páry měly. Z dotázaných učitelů nad 51 souhlasí se stejnými právy 55,2 % dotázaných. Hypotéza 7 je s rozdílem více než 25 % potvrzena.
+67
+Dotazníkovým šetřením byly zjištěny znalosti, názory a postoje respondentů k tématu. Bylo tak 
+učiněno za účelem stanovení nejen toho, zda je téma v hodinách aktivně diskutováno a učiteli 
+zahrnováno, ale také zda pro to mají učitelé dostatečné znalosti a zda jsou jejich názory a postoje tolerantní. Jedná se totiž o problematiku, která může být předkládána dvěma způsoby –
+tím, který podněcuje homofobii, a tím, který naopak před homofobií varuje a je proti ní prevencí. Také samotné nezařazení tématu a nevyvrácení domnělých faktů, které si žáci mohou 
+přinést z domácího či jiného prostředí, může v třídním (i jiném) kolektivu vést k rozvinutí této 
+formy šikany.
+Pomocí stanovených hypotéz byly potvrzeny předpoklady o značném rozdílu mezi jednotlivými věkovými kategoriemi i sociálními rolemi. Celkovým pozitivním zjištěním je, že s nižším 
+věkem roste míra tolerance a zvyšuje se zájem o téma. U žáků (a mladých učitelů) může míru 
+přijetí ovlivňovat setkání většiny dotázaných s homosexuálem, ať už v reálném nebo internetovém světě. Důležitým pozitivním zjištěním je vysoký zájem učitelů (zejm. do 50 let) o zařazování tématu do svých hodin (75,4 %). Někteří učitelé však mají ze zahrnování tématu stále 
+obavy – reakce kolegů, rodičů či žáků – nebo je pro ně téma stále příliš citlivé. Také proto by 
+bylo vhodné jeho zařazení, které by vedlo ke zmírnění tabuizace.
+I přes výše uvedená pozitiva jsou ve znalostech i názorech značná neuspokojivá zjištění, která 
+zejména u učitelů a rodičů mohou mít na názory žáků negativní vliv. Z výzkumu vyplynulo, že 
+z velké části jsou netolerantní učitelé nad 50 let, protože se stejnými právy homosexuálních 
+i heterosexuálních párů souhlasí pouze 55,2 % z nich. Přesto se 83,3 % domnívá, že je vhodné 
+téma zařadit do vyučování, a 60 % ve své praxi tak činí. Proto by bylo vhodné při zařazování 
+tématu klást pozornost na jeho nezaujaté a tolerantní předávání. Překvapivé bylo zjištění o domněnce 34,1 % učitelů, že sňatky homosexuálů jsou v ČR povoleny. Přitom právě z registrovaného partnerství uzákoněného pro homosexuály pramení rozdíly mezi heterosexuálními a homosexuálními páry (viz teoretická část). Manželství pro všechny je v současné době často diskutované a domnívám se, že i ve společenskovědních předmětech by mu měl být věnován prostor.
+O tématu homosexuality je vhodné hovořit také na třídnických hodinách či rodičovských schůzkách, a to zejména v momentě, kdy má vyučující podezření na homofobní šikanu nebo pokud 
+se v jeho třídě homosexuál či dítě, které má homosexuální rodiče, vyskytuje. Z dotazníkového 
+šetření totiž vyplynulo, že se lze stále s negativními a homofobními názory setkat.
+68
+Závěr
+Bakalářská práce reagovala na téma, které je v současné době společností hojně diskutované. 
+Na jednu stranu je to jistě dobře – díky tomu se dostávají do širšího povědomí lidé, kteří jsou 
+homosexuálové a nejsou to devianti ani nemocní. Na stranu druhou to znamená, že pokud je 
+něco diskutované, označené jako kontroverzní či příliš citlivé, není to společností přijímáno 
+jako běžné.
+V teoretické části bakalářské práce byla shrnuta východiska, která vysvětlují možný vznik neheterosexuální orientace a předkládají další informace, které souvisí s homosexualitou či registrovaným partnerstvím. Důležitými kapitolami jsou také ty zabývající se coming outem, homoparentními rodiči a homofobií.
+Vzhledem k tomu, že cílem práce bylo zejména zmapování situace ve školství, bylo nutné analyzovat školní dokumenty a vzdělávací programy. Výsledky této analýzy dopadly podle očekávání – téma v učebnicích konkrétně zařazeno nebývá, avšak možností pro navázání na uvedené 
+informace týkající se rodiny, vztahů, sexuality, tolerance aj. je dostatek, a záleží tak pouze 
+na samotném učiteli, jeho snaze a chuti s tématem pracovat.
+Výzkumná část obsahovala zejména sebraná data od učitelů a žáků, příp. rodičů a studentů 
+pedagogických fakult. Výsledkem je zjištění, že s vyšším věkem učitelů klesá jak míra zařazování tématu do vyučovacích hodin, tak míra tolerance k homosexuálům. Dále výsledky ukazují, 
+že mladí učitelé do 30 let a žáci jsou k tomuto tématu velmi tolerantní a otevření. Potvrzuje se 
+tak předpoklad, že je možné doufat v lepší vývoj ve společnosti z důvodu odlišného (pozitivnějšího) přístupu mladých lidí. Celkové výsledky průzkumu předčily má očekávání a jsem jimi 
+mile překvapena.
+Na základě nabytých znalostí a získaných odpovědí od respondentů jsem do přílohy A vložila 
+návrhy možných didaktických aplikací tématu pro žáky 2. stupně ZŠ a SŠ, ke kterým byly 
+využity některé reálné výroky respondentů z výzkumu. Žáci by během těchto aktivit měli být
+vedeni k pochopení odlišností a jejich informace o tématu by měly být komplexní a zejména 
+pravdivé. Výchovu od stále ještě méně tolerantních rodičů totiž pedagog nezmění, avšak nastínit správný směr svým žákům a tím podpořit štěstí, které nikomu ve společnosti neubližuje,
+může. Proto doufám, že alespoň některým učitelům budou navržené aplikace inspirací.
+69
+Seznam použité literatury
+BRZEK, Antonín. Třetí pohlaví?. Vyd. 2. Praha: Scientia Medica, 1992. ISBN 80-855-2603-4.
+ČECHOVÁ, Helena a Lada HAJDÍKOVÁ. Duhová příručka pro vyučující: jak přispívat k bezpečnému a zdravému klimatu v prostředí školy na příkladu prevence homofobní šikany [online]. V Praze: Platforma pro rovnoprávnost, uznání a diverzitu, [2016] [cit. 2021-03-11]. ISBN 
+978-80-88175-01-8. Dostupné z: https://ndk.cz/view/uuid:46fa6a60-b075-11ea-b68c005056827e52?page=uuid:d2df98f4-657d-43c0-9ff5-1a773d560d57
+DREGER, Alice Domurat. Hermafroditi a medicínská konstrukce pohlaví. Vyd. 2. Praha: Triton, 2009. ISBN 978-80-7387-040-9.
+FAFEJTA, Martin. Úvod do sociologie pohlaví a sexuality. Ve Věrovanech: Jan Piszkiewicz, 
+2004. ISBN 80-867-6806-6.
+FIFKOVÁ, Hana. Transsexualita: diagnostika a léčba. Praha: Grada, 2002. ISBN 80-247-
+0333-5.
+GAVORA, Peter. Úvod do pedagogického výzkumu. 2., rozš. české vyd. Brno: Paido, 2010. 
+Pedagogický výzkum v teorii a praxi. ISBN 978-80-7315-185-0.
+HIML, Pavel, Jan SEIDL a Franz SCHINDLER. Miluji tvory svého pohlaví. Praha: Argo, 2013. 
+ISBN 978-80-257-0876-7.
+JANOŠOVÁ, Pavlína. Homosexualita v názorech současné společnosti: diagnostika a léčba. 
+Vyd. 2. V Praze: Karolinum, 2000. ISBN 80-718-4954-5.
+JANOŠOVÁ, Pavlína. Dívčí a chlapecká identita: vývoj a úskalí. Praha: Grada, 2008. Psyché 
+(Grada). ISBN 978-80-247-2284-9.
+MAŇÁK, Josef, Tomáš JANÍK a Vlastimil ŠVEC. Kurikulum v současné škole. Brno: Paido, 
+2008. Pedagogický výzkum v teorii a praxi. ISBN 978-80-7315-175-1.
+MATĚJČEK, Zdeněk. O rodině vlastní, nevlastní a náhradní. Praha: Portal, 1994. ISBN 80-
+85282-83-6.
+70
+PRŮCHA, Jan, Eliška WALTEROVÁ a Jiří MAREŠ. Pedagogický slovník. 4., aktualiz. vyd. 
+[i.e. Vyd. 5.]. Praha: Portál, 2008. Pedagogický výzkum v teorii a praxi. ISBN 978-80-7367-
+416-8.
+SEIDL, Jan. Od žaláře k oltáři: emancipace homosexuality v českých zemích od roku 1867 do 
+současnosti. Brno: Host, 2012. ISBN 978-80-7294-585-6.
+SKOŘEPA, Miloslav. Puberta [online]. Vyd. 3. Praha: Dědictví Komenského, 1940 [cit. 2021-
+03-10]. Dostupné z: https://ndk.cz/view/uuid:74baa350-48e7-11e2-bc08-
+005056827e52?page=uuid:6a1fd30e91a37d8aaa4157e2046e6355&fulltext=sko%C5%99epa%201940
+SLOBODA, Zdeněk. Dospívání, rodičovství a (homo)sexualita. Praha: Pasparta, 2016. ISBN 
+978-80-88163-09-1.
+SMETÁČKOVÁ, Irena a Richard BRAUN. Homofobie v žákovských kolektivech. Praha: Úřad 
+vlády České republiky, 2009. ISBN 978-80-7440-016-2.
+WEISS, Petr. Sexuologie. Praha: Grada, 2010. ISBN 978-80-247-2492-8.
+ZVĚŘINA, Jaroslav. Sexuologie (nejen) pro lékaře. Vyd. 2. Brno: CERM, 2003. ISBN 80-720-
+4264-5.
+Analyzované učebnice
+BARTONÍČKOVÁ, Klára. Občanský a společenskovědní základ - přehled středoškolského 
+učiva: přehled středoškolského učiva. Druhé, aktualizované vydání. Brno: Computer Press, 
+2009. Maturity. ISBN 978-80-251-2631-8.
+BUČEK, Ladislav, Klára HAMUĽÁKOVÁ, Klára ILLE, et al. Občanský a společenskovědní 
+základ: přehled středoškolského učiva. Druhé, aktualizované vydání. Brno: Edika, 2019. Maturity (Edika). ISBN 978-802-6614-012.
+DUDÁK, Vladislav. Občanská nauka pro střední odborné školy a studijní obory SOU: přehled 
+středoškolského učiva. Druhé, aktualizované vydání. Praha: SPN - pedagogické nakladatelství, 
+2003. Maturity. ISBN 80-723-5233-4.
+71
+DVOŘÁK, Jan, František EMMERT, Alena FABIČOVICOVÁ, et al. Odmaturuj! ze společenských věd: přehled středoškolského učiva. Druhé, přepracované vydání. Brno: Didaktis, [2015]. 
+Odmaturuj! ISBN 978-80-7358-243-2.
+JANOŠKOVÁ, Dagmar, Monika ONDRÁČKOVÁ, Dagmar ŠAFRÁNKOVÁ, Jitka ŠEBKOVÁ a Hana ŠERÁKOVÁ. Občanská výchova 9 pro základní školy a víceletá gymnázia: 
+přehled středoškolského učiva. Druhé, aktualizované vydání. Plzeň: Fraus, 2007. Maturity. 
+ISBN 978-80-7238-529-4.
+NAVRÁTILOVÁ, Marie, Hana BRICHOVÁ a Marcela MATĚJCOVÁ. Etická výchova: 6-7. 
+Ilustroval Roman BUREŠ. Praha: Národní institut pro další vzdělávání, [2014]. ISBN 978-80-
+87449-56-1.
+Internetové zdroje
+České školy v číslech. Český statistický úřad [online]. Praha: ČZÚ, 2019 [cit. 2021-03-11]. Dostupné z: https://www.czso.cz/csu/stoletistatistiky/ceske-skoly-v-cislech
+GANNA, Andrea, Karin JH VERWEIJ, Michel G. NIVARD, et. al. Large-scale GWAS reveals 
+insights into the genetic architecture of same-sex sexual behavior. Science [online]. American 
+Association for the Advancement of Science, 2019, (6456) [cit. 2021-03-11]. ISSN 1095-9203. 
+Dostupné z: https://doi.org/10.1126/science.aat7693.
+Gender: základní pojmy. Český statistický úřad [online]. Praha: ČSÚ, 2016 [cit. 2021-03-11]. 
+Dostupné z: https://www.czso.cz/csu/gender/gender_pojmy
+HAJDLÍKOVÁ, Lada, Vítězslav SLÍVA a Zdenka BUREŠOVÁ. České školy pod lupou: Výzkum homofobie a transfobie na školách [online]. Praha: Platforma pro rovnoprávnost, uznání 
+a diverzitu, 2016 [cit. 2021-03-11]. ISBN 978-80-88175-04-9. Dostupné z: https://www.ilgaeurope.org/sites/default/files/Attachments/cz_-proud_final_report.pdf
+HEREK, G.M. Marriage of Same-Sex Couples - Position Statement. Legal recognition of samesex relationships in the United States: A social science perspective. American Psychologist [online]. CPA, 2006 [cit. 2021-03-11]. Dostupné z: 
+72
+https://web.archive.org/web/20090419195945/http:/www.cpa.ca/cpasite/userfiles/Documents/Marriage%20of%20Same-Sex%20Couples%20Position%20Statement%20-%20October%202006%20%281%29.pdf
+HODOVALOVÁ, Martina. Socializace jedince. Wikisofia [online]. Praha, c2013 [cit. 2021-03-
+11]. Dostupné z: https://wikisofia.cz/wiki/Socializace_jedince
+Homosexualita: Původ a užívání označení pro homosexualitu. Wikipedie [online]. 2021 [cit. 
+2021-03-11]. Dostupné z: https://cs.wikipedia.org/wiki/Homosexualita#P%C5%AFvod_a_u%C5%BE%C3%ADv%C3%A1n%C3%AD_ozna%C4%8Den%C3
+%AD_pro_homosexualitu
+CHÁBOVÁ, Klára. Dětské domovy brzy opustí tisícovka dětí.: Jsou na odchod do běžného života připraveny? [online]. Praha: Mimo domov, 2015 [cit. 2021-03-11]. Dostupné z: 
+https://www.ipsos.com/sites/default/files/2017-12/tz_unikatni_pruzkum_detske_domovy.pdf
+Jsme fér [online]. Praha [cit. 2021-03-11]. Dostupné z: https://www.jsmefer.cz/názory_odborniku
+KULTÁNOVÁ, Petra a Magdalena SKŘIVÁNKOVÁ. Sešívané rodiny: nový život zevnitř i 
+zvenku [online]. 2017, 1-48 [cit. 2021-03-11]. Dostupné z: https://praguepride.cz/cs/kdojsme/media-download/publikace/21-sesivane-rodiny-novy-zivot-zevnitr-i-zvenku/file
+Metodické pokyny. MŠMT [online]. Praha: MŠMT, c2013-2021 [cit. 2021-03-11]. Dostupné z: 
+https://www.msmt.cz/vzdelavani/socialni-programy/metodicke-dokumenty-doporuceni-a-pokyny
+Rámcové vzdělávací programy. Národní ústav pro vzdělávání [online]. NÚV, c2011-2021 [cit. 
+2021-03-11]. Dostupné z: http://www.nuv.cz/t/rvp
+ŠABATOVÁ, Anna. Být LGBT+ v Česku: Zkušenosti LGBT+ lidí s předsudky, diskriminací, 
+obtěžováním a násilím z nenávisti [online]. 2019, 52-58 [cit. 2021-03-11]. Dostupné z: 
+https://www.ochrance.cz/uploads-import/DISKRIMINACE/Vyzkum/Vyzkum-LGBT.pdf
+Uzavření registrovaného partnerství. Ministerstvo vnitra ČR [online]. Praha: MVČR, 2020 [cit. 
+2021-03-11]. Dostupné z: https://www.mvcr.cz/clanek/uzavreni-registrovaneho-partnerstvi.aspx
+73
+Zákon č. 198/2009 Sb. Zákony pro lidi [online]. Zlín: AION CS, c2010-2021 [cit. 2021-03-11]. 
+Dostupné z: https://www.zakonyprolidi.cz/cs/2009-198
+Další vhodné odkazy
+Nesehnutí [online]. Brno: Nesehnutí, c2021 [cit. 2021-03-11]. Dostupné z: https://nesehnuti.cz/
+PraguePride [online]. Praha [cit. 2021-03-11]. Dostupné z: https://www.praguepride.cz/cs/
+STUD [online]. Brno, c1996-2017 [cit. 2021-03-11]. Dostupné z: https://www.stud.cz/
+74
+Seznam příloh
+Příloha A – Pracovní návrhy didaktických aplikací tématu
+Příloha B – Odpovědi na otázku: Jak vhodné (z hlediska možnosti obdržení plnohodnotné výchovy, rozvoje atd.) je podle vás zázemí pro dítě u těchto rodičů?
+Příloha C – Dotazník pro žáky
+Příloha D – Dotazník pro učitele
+Příloha A
+Pracovní návrhy didaktických aplikací tématu
+Z analýzy učebnic a z dotazníkového šetření vyplývá, že konkrétních materiálů pro začlenění 
+tématu do vyučovacích hodin není mnoho. Proto poskytuji nápady na aktivity, které lze ve vyučování využít. Vzhledem ke své aprobaci a nejvhodnějšímu prostoru pro zařazení tématu se 
+věnuji zejména společenskovědním předmětům, rovněž ale poskytuji nápady na zařazení tématu do hodin jiných – dějepisu, anglického či českého jazyka.
+Nezbytná predispozice pro začleňování tématu do hodin je jeho znalost učitelem a rovněž 
+kladný a tolerantní pohled na věc. V opačném případě by mohlo dojít k podnícení homofobní 
+šikany, tedy opačnému efektu, než který by dané návrhy měly mít. Případné znalosti je možné 
+čerpat i z této bakalářské práce či odborné literatury uvedené ve zdrojích.
+Před vyučovací/třídnickou hodinou, ve které bude látka probírána, je vhodné žáky na téma připravit a zeptat se (např. metodou anonymních papírků s názory), zda jim aktivita nebude nepříjemná nebo jinak nekomfortní, a to zejména v případě, kdy by učitel mohl mít podezření na šikanu či jiné neshody ve třídě s tímto tématem spojené. O to podstatnější ale je téma do hodin 
+následně zařadit.
+Cílová skupina
+Aktivity do společenskovědních předmětů jsou určené zejména žákům nižších ročníků středních škol. Zaměřím se na dva návrhy, které pracují s problematikou coming outu, práv homosexuálních partnerů a homosexualitou obecně. Domnívám se, že návrhy je ale vhodné, v obměněné podobě pro nižší ročník, zařadit již na druhý stupeň škol základních, a to vzhledem k dospívání žáků. Návrhy pro zařazení do předmětů jiných – anglického, českého jazyka a dějepisu 
+– je možné uplatnit v ročnících, ve kterých jsou dle tematického plánu školy okruhy probírány.
+Příprava a pomůcky
+Pro aktivity je vhodné připravit třídu pro možnosti rovné diskuse a volného pohybu, tzn. odsunout lavice ke zdi. Nejpodstatnější se však jeví příprava učitele, který by během probíhající 
+hodiny měl být v roli průvodce otevřeného různým názorům, ale přesto by jeho cílem mělo být 
+předání nezaujatých, ale pravdivých informací. Rovněž by aktivity mohly vést k odhalení stávající šikany, proto je třeba i na toto zaměřit pozornost.
+Pro realizaci tématu je třeba psacích potřeb, papíru a lístečků s výroky.
+Výchovně-vzdělávací cíle
+Veškeré aktivity cílí na seznámení žáků se základními pojmy a pravdivými informacemi, které 
+povede k jejich vlastnímu názoru na danou problematiku podloženou validními argumenty 
+a které by mělo mít vliv na snížení homofobních a nenávistných názorů. Jednotlivé dílčí cíle 
+vyučovacích hodin jsou: Žák správně definuje základní pojmy týkající se tématu homosexuality. Žák tolerantně přistupuje k lidem jiné orientace. Žák hodnotí jednotlivé výroky na základě 
+opodstatnění. Žák se zamýšlí nad vlivem negativních názorů na život homosexuálů (coming 
+out) a diskutuje míru nebezpečí těchto názorů. Žák předkládá důvody, proč by (ne)mělo dojít 
+k zrovnoprávnění registrovaných partnerů.
+Aktivita 1
+Tato aktivita může být využita samostatně a na ni může být navázáno např. diskusí nebo jako 
+mobilizační a evokační fáze před aktivitou jinou. V případě prvním – využití aktivity jako stěžejní části hodiny – je vhodné zařadit před danou aktivitu motivační fázi. Jednou z možností je 
+např. napsání fráze láska je láska (mj. často zmiňovaný důvod v dotazníkovém šetření k otázce 
+zrovnoprávnění) na tabuli a vyzvání žáků, co je k danému výroku napadá. Tímto žáci postupně 
+přijdou na různé „podoby“ lásky a také by mohla tato motivační fáze vést k nalezení tématu 
+vyučovací hodiny.
+Samotná aktivita má poté zejména expoziční funkci a rovněž vytváří podklady pro následnou 
+diskusi – fixační či aplikační funkci. Před začátkem se žáci, podle velikosti třídy, rozdělí do skupin po 3–5. Následně dostane každá skupina 1 papír s pojmem/pojmy z níže uvedených. Úkolem skupinek bude, aby během 3 minut vymyslely, jak daný výraz během 1 minuty vhodně 
+popsat a představit ostatním žákům, kteří ho musí uhodnout.
+Žáci se během této aktivity seznámí s pojmy a my můžeme sledovat, jaké výrazové prostředky 
+během popisování používají a na ně posléze navázat výkladem či diskusí.
+Gay a lesba Registrované partnerství a manželství Transvestitismus
+Pohlaví a gender Coming out Transsexualita
+Heterosexualita, homosexualita a bisexualita Homofobie a šikana
+Při následné diskusi se snažíme jednotlivé pojmy rozvést a zaměříme se zejména na stěžejní 
+témata a informace. Tuto aktivitu lze využít i u žáků na základních školách, kde by bylo vhodné 
+zařadit do diskuse otázky, které vyvrací předsudky a upozorňují na úskalí případné netolerance 
+– Je možné homosexuála poznat na první pohled? Má typické vlastnosti? Myslíte si, že si můžeme vybrat, zda budeme homosexuálové? Může mít coming out nějaká úskalí? Jak se homosexuál může ve společnosti cítit? Jak se může cítit, pokud uslyší ve svém okolí nadávky na homosexuály? V průběhu diskusí žáky vedeme k podloženým informacím a snažíme se vyvrátit 
+stereotypizaci. 
+Aktivita 2
+Tuto aktivitu lze nazvat jako hru na role. K realizaci jsou využity výroky, které byly zmiňovány 
+v odpovědích na položené otázky respondentům v dotazníkovém šetření, některé s mírnou úpravou.
+Hru na role využijeme jako hlavní aktivitu v hodině, na kterou by mělo být opět navázáno diskusí. Je vhodné žákům předem nepředkládat žádná stanoviska, aby bylo zjištěno, jak žáci sami 
+nahlíží na výroky. Aktivita obsahuje jak mobilizační, tak expoziční funkci, která je následně 
+rozvíjena v diskusi.
+Vybraní či vylosovaní z žáků utvoří dvojice. Každá dvojice bude vyjadřovat jiný typ vztahu: 
+otec – matka, sestra – bratr, dítě – rodič, kamarád – kamarádka, učitel – žák. Každému z dvojice 
+dáme kartičku – na jedné bude napsána věta, která je kladného vyznění k homosexuálům, jejich 
+právům, vychovávání dětí aj. Na druhé bude věta, která je záporná (žáci ovšem nebudou vědět, 
+která věta je „správná“ a která „špatná“). Úkolem každé dvojice je připravit si krátkou scénku, 
+při které představí postoje obou rolí. Ti z žáků, kteří nepředvádí scénky, zapisují, co se jim 
+na daných reakcích a názorech líbilo a nelíbilo a co autory výroků mohlo k těmto názorům vést.
+Otec a matka
++ „Kdyby byl náš syn homosexuál, asi by mi to nevadilo, i homosexuálové jsou normální lidé 
+a mají právo na to, aby byli šťastní a mohli rozhodovat o svém životě.“
+- „Bál bych se, že je to naše chyba, něco jsme zanedbali. Nebo že se mu něco stalo, má nějaké 
+trauma. Taky by to mohl někde odkoukat, je to dneska docela v módě.“
+Rodič a prarodič (70 let)
++ „Dle mého názoru je pojem "manželství" brán příliš staromódně. Nevidím jediný důvod, proč 
+by neměl mít pár, který k sobě chová city, možnost vstoupit do svazku manželského.“
+- „Manželství je institut po tisíciletí vymezený jako svazek muže a ženy, coby ústřední součásti 
+rodiny, s cílem plodit děti.“
+Sestra a bratr
++ „Lidi si myslí, že při vychovávání dětí stejnopohlavními páry chybí v rodině jeden vzor. Podle 
+mě ale záleží také na tom, jaké to dítě je. A má přeci kolem sebe i páry heterosexuální, jako 
+třeba babičky a dědečky, tudíž si myslím, že nemusí být pak na stejné pohlaví tak jako jeho 
+rodiče. Dítě taky někdy vychovává jen matka nebo jen otec.“
+- „Ne. Myslím, že je pro vývoj dítěte velmi důležité, aby ho vychovávala jak matka, tak otec. 
+Pokud je dítě vychováváno jen jedním pohlavím, má to na něj následně vliv. Navíc si myslím, 
+že můžou být chlapi pedofilové.“
+19leté dítě a rodič
++ „Jsem homosexuál a jednou bych si chtěl svého partnera vzít. Nevím, jak to vzniklo, ale 
+nepřitahují mě holky, nevybral jsem si to. Bylo by snazší, kdybych je mohl mít rád, ale nejde 
+to.“
+- „Ne, není to normální. Homosexualita je proti přírodě a poslední roky je to spíš póza a snaha 
+být viditelný. Ve škole vám s tím akorát vymývají mozky.“
+Kamarád a kamarádka
++ „Myslím si, že každý má právo být v manželství s člověkem, kterého miluje a chce s ním v této 
+formě vztahu být, nemyslím si, že by to nemělo být něco špatného, když jsou dvě manželky / dva 
+manželé.“
+- „Proč by měli chtít manželství, když mají registrované partnerství? Prostě chtějí být v něčem 
+jiní, tak jim to musí stačit.“
+Učitel a žák
++ „Homosexuálové by měli mít možnost dítě adoptovat a příp. lesby podstoupit umělé oplodnění, když chtějí. Podle mě jsou mnohdy lepší rodiče než heterosexuálové. Dokážou dát tu 
+správnou lásku dětem. A svoje děti budou milovat nadevše. Což se někdy u heterosexuálních 
+párů říct nedá, když to jsou třeba opilci, nezáleží teda na pohlaví.“
+- „Ne. Samozřejmě že dítěti je lépe, když má nějakou rodinu než žádnou. Ale dětí k adopci není 
+dostatek ani pro rodiny, které jsou schopné nabídnout otce i matku. A ty jsou pro výchovu dítěte 
+lepší z hlediska výchovy a vzoru. A umělé oplodnění?... To by bylo přiznání, že se jedná o poruchu/nemoc (jako v případě neplodných párů).“
+Po dokončení aktivity zahájíme diskusi ohledně zmíněných a zaznamenaných argumentů. Výše 
+uvedené fráze lze použít různými způsoby, např. uspořádat kruh a o frázích po jejich přečtení 
+diskutovat nebo rozdat fráze do skupin a nechat žáky zpracovat argumenty, které se v nich 
+vyskytují. Všemi aktivitami směřujeme ke stejnému cíli – úvaha nad tím, které argumenty jsou 
+validní a pravdivé a které nikoliv. Při všech uvedených aktivitách opět pozorujeme dění a následně reagujeme na slova žáků, která nám mohou být podkladem pro následnou diskusi či 
+jinou aktivitu.
+Dějepis
+V tomto předmětu si představuji zařadit téma k druhé světové válce. Homosexuálové byli rovněž, mimo jiné stejně jako Židé, perzekuováni a vražděni. Zde také nastal jakýsi útlum v možném přijetí homosexuálů společností. Proto se domnívám o vhodnosti zařazení diskuse k tématu 
+války. Lze totiž pokládat otázky, proč byli i oni stíháni, jaký k tomu byl důvod aj.
+Anglický jazyk
+Pro tento předmět lze, spíše u středoškoláků, najít mnoho námětů k cizojazyčné konverzaci. 
+Známí, i homosexuální, autoři, umělci či návrháři jsou v hodinách zmiňováni, a to zejména 
+ve vyšších ročnících, které se připravují k maturitě. Např. u Oscara Wilda, který se pojí s anglickou literaturou a byl za vztah k muži odsouzen, se téma nabízí. Lze zde diskutovat o tehdejším postavení homosexuálů a v návaznosti na to zmínit i dnešní. 
+Český jazyk a literatura
+Námět pro diskusi, který jsem zmínila pro výuku v anglickém jazyce, by mohl být použit stejně 
+tak i v jazyce českém – v literatuře. Existují zahraniční díla (např. Stébla trávy od Walta Whitmana nebo Smrt v Benátkách od Thomase Manna), ve kterých je homosexualita motivem, 
+a také autoři, se kterými je téma spojeno – např. prokletí básníci Paul Verlain a Arthur Rimbaud. 
+V české literatuře nalezneme také autory, u kterých se o tématice homosexuality v dílech spekuluje a je těžké ji potvrdit, ale také vyvrátit. Jsou to např. některá díla od Julia Zeyera nebo 
+prvotní básně Otakara Březiny. Naopak ve tvorbě Ladislava Fukse či Jiřího Karáska ze Lvovic 
+jsou dnes již náznaky čitelné a v rozborech se tedy motivům odlišné sexuality není vhodné 
+vyhnout. Proto by i zde mělo být téma zařazeno a předloženy důvody, proč byla homosexualita 
+v dílech skrývána, jaké bylo postavení homosexuálů v minulosti a jaké je dnes.
+Příloha B
+Odpovědi na otázku – Jak vhodné je dle vás prostředí pro výchovu a rozvoj dítěte?
+Tab. 8 – učitelé do 30 let
+velmi 
+vhodné vhodné nevhodné naprosto nevhodné celkem
+Dvě matky 54 % 40 % 6 % 0 %
+78
+Dva otcové 54 % 40 % 5 % 1 %
+Otec a 
+matka 85 % 14 % 1 % 0 %
+Rodič samoživitel 27 % 59 % 13 % 1 %
+Tab. 9 – učitelé 31-50 let
+velmi 
+vhodné vhodné nevhodné naprosto nevhodné celkem
+Dvě matky 34 % 55 % 8 % 3 %
+155
+Dva otcové 32 % 52 % 14 % 3 %
+Otec a 
+matka 79 % 21 % 0 % 0 %
+Rodič samoživitel 12 % 65 % 21 % 1 %
+Tab. 10 – učitelé nad 50 let
+velmi 
+vhodné vhodné nevhodné naprosto nevhodné celkem
+Dvě matky 21 % 52 % 21 % 6 %
+48
+Dva otcové 17 % 52 % 21 % 10 %
+Otec a 
+matka 81 % 17 % 0 % 2 %
+Rodič samoživitel 10 % 58 % 27 % 4 %
+Tab. 11 – rodiče
+velmi 
+vhodné vhodné nevhodné naprosto nevhodné celkem
+Dvě matky 19 % 62 % 15 % 4 %
+237
+Dva otcové 16 % 61 % 17 % 6 %
+Otec a 
+matka 78 % 22 % 0 % 0 %
+Rodič samoživitel 10 % 73 % 17 % 0 %
+Příloha C
+Dotazník pro žáky
+Do přílohy jsou vloženy otázky, které byly určeny žákům a které byly v empirické části k prezentaci dat využity. Obecné demografické otázky jsou totožné s otázkami učitelů, tak je tomu 
+i u otázek 6–13, proto nebudou v příloze D zmiňovány znovu. Otázky se zobrazovaly dle předchozích odpovědí, proto měl každý respondent dotazník jiný.
+Dobrý den,
+prosím o vyplnění dotazníku, který se zaobírá problematikou pojetí a zprostředkování tématu 
+„homosexualita“ ve výuce. Výsledky slouží jako zdroj k mé bakalářské práci. Za odpovědi děkuji a věřím, že i Vy k tomuto tématu máte co říct. Natálie Veselská
+1) Jaké je vaše pohlaví?
+o žena
+o muž
+o jiné
+2) V jakém věkovém rozmezí se pohybujete?
+o do 12 let
+o 13–15 let
+o 16–20 let
+o 21–25 let
+o 26–30 let
+o 31–40 let
+o 41–50 let
+o více než 50 let
+3) Kdo jste?
+vyberte jednu nebo více možností
+o žák (ZŠ, SŠ, SOU, GYM)
+o student pedagogické fakulty VŠ
+o student jiné fakulty VŠ, VOŠ
+o učitel (2. stupeň ZŠ, SŠ, OU, GYM, VŠ, VOŠ)
+o rodič
+o ostatní
+4) Jaké školy jste žákem?
+o základní školy
+o střední školy
+o odborného učiliště (SOU, OU)
+o gymnázia
+5) Kolik obyvatel má obec/město, ve které(m) žijete?
+o do 500 obyvatel
+o do 2500 obyvatel
+o do 10 000 obyvatel
+o do 50 000 obyvatel
+o do 100 000 obyvatel
+o do 500 000 obyvatel
+o více
+6) Jak podle vás homosexualita vzniká?
+o je vrozená
+o myslím si, že je vrozená
+o myslím si, že není vrozená
+o možnost volby každého jedince
+o nevím
+o jiné ______________________
+7) Víte, co je to registrované partnerství?
+o ano
+o ne
+o nejsem si jistá/ý
+8) Víte, jaká jsou práva registrovaných partnerů?
+o ano
+o ne
+o nejsem si jistá/ý
+9) Liší se práva registrovaných partnerů a manželů?
+o ano
+o ne
+o nejsem si jistá/ý
+10)Jsou sňatky homosexuálů v ČR a/nebo v jiných státech povoleny?
+o jsou povoleny v ČR i v některých jiných státech
+o jsou povoleny v některých státech, v ČR ne
+o jsou povoleny v ČR, v jiných státech nevím
+o nejsou povoleny
+o nevím
+11) Měly by mít homosexuální páry stejná práva jako heterosexuální – např. adopce, umělé 
+oplodnění, rodičovská práva atd.? Uveďte důvod.
+12)Jaký máte názor na vychovávání dětí stejnopohlavními páry?
+pozn. stejnopohlavní pár = dítě má dva otce nebo dvě matky
+ 
+souhlasím spíše s tím nejsem ani pro, spíše s tím nesouhlasím
+ s tím souhlasím ani proti nesouhlasím s tím
+13)Jak vhodné (z hlediska možnosti obdržení plnohodnotné výchovy, rozvoje atd.) je podle vás 
+zázemí pro dítě u těchto rodičů?
+Označte posuvníkem na 4stupňových škálách.
+velmi vhodné / vhodné / nevhodné / naprosto nevhodné
+Obr. 1 – Dvě matky
+velmi vhodné / vhodné / nevhodné / naprosto nevhodné
+Obr. 2 – Dva otcové
+velmi vhodné / vhodné / nevhodné / naprosto nevhodné
+Obr. 3 – Otec a matka
+velmi vhodné / vhodné / nevhodné / naprosto nevhodné
+Obr. 4 – Rodič samoživitel
+14) Setkali jste se s homosexuálním jedincem? Případně kde?
+výběr jedné/více možností
+o ano, na internetu
+o ano, ve svém okolí
+o ne, nesetkal(a)
+15)Jak byste reagovali, kdyby byl někdo z vašich přátel homosexuální orientace?
+o neodsuzoval bych ji/ho, je to normální
+o neodsuzoval(a) bych ji/ho, ale musel(a) bych si na to zvyknout
+o neodsuzoval(a) bych ji/ho, ale vadilo by mi to, protože to není normální
+o vadilo by mi to velmi, v žádném případě bych se s ní(m) nebavil(a)
+Příloha D
+Dotazník pro učitele
+Jak jsem již zmínila výše, do přílohy D jsou doplněny otázky, které nebyly položeny žákům.
+Také v dotazníku učitelů se některé otázky respondentům zobrazovaly dle předchozích odpovědí, proto měl každý respondent vlastní podobu dotazníku.
+…
+1) Jaké je vaše dosud nejvyšší dosažené vzdělání?
+o ZŠ
+o SOU
+o SŠ
+o GYM
+o VOŠ
+o VŠ
+2) Na jakém typu školy učíte?
+v případě více škol preferujte jednu – např. tu, na které učíte nejvíce
+o ZŠ
+o SOU, OU
+o SŠ
+o GYM
+o VOŠ
+o VŠ
+3) Učíte některý z těchto předmětů?
+výběr jedné/více možností
+o občanská nauka, společenské vědy, etická výchova
+o český jazyk
+o cizí jazyky
+o dějepis
+o výtvarná výchova, výtvarné umění
+o žádný z těchto předmětů neučím
+4) Jaká je délka vaší praxe?
+o méně než 1 rok
+o 1–2 roky
+o 3–5 let
+o 6–10 let
+o více než 10 let
+…
+5) Myslíte si, že je vhodné problematiku homosexuality, registrovaného partnerství a toho týkajících se práv zahrnout do vyučování?
+o ano, je to vhodné
+o ne, není to vhodné
+o nevím, není to pro mě důležité
+6) Zahrnujete ji do své výuky?
+o Ano, zahrnuji
+o Ne, nezahrnuji
+7) Proč ji do výuky nezahrnujete? (v případě odpovědi na otázku 6 – „ne, nezahrnuji“)
+výběr jedné/více možné
+o nedostatek materiálů
+o mezery v osnovách
+o nedostatek času
+o obavy z přijetí tématu žáky
+o obavy z reakce kolegů, vedení
+o obavy z reakce rodičů
+o příliš citlivé téma
+o nevím, jak téma vykládat
+o myslím si, že jsou důležitější témata
+o jiné _______________________________
+8) Je k výuce dostatek materiálů? (v případě odpovědi na otázku 6 – „ano, zahrnuji“)
+o ano
+o spíše ano
+o spíše ne
+o ne
+9) Uvítali byste tedy větší množství materiálů? (v případě odpovědi na otázku 8 – „spíše 
+ne/ne“)
+o ano
+o ne
+Děkuji Vám za Vaše názory a čas, který jste věnovali vyplnění tohoto dotazníku. Věřím, že i 
+Vám byl v některých bodech přínosem.
+Seznam obrázků použitých v dotazníku
+Obr. 1 – Dvě matky
+Thinkstock.cz. [online]. [cit. 2021-03-25]. Dostupné z: https://zena.aktualne.cz/maji-singlezeny-pravo-mit-deti/r~7bdfd2f2028111e6b8aa0025900fea04/
+Obr. 2 – Dva otcové
+TV Nova. [online]. [cit. 2021-03-25]. Dostupné z: https://www.extralife.cz/zivot-gayu-vceske-republice-otevrena-zpoved-o-predsudcich-a-adopci_1711
+Obr. 3 – Otec a matka
+Profimedia.cz. [online]. [cit. 2021-03-25]. Dostupné z: https://zena.aktualne.cz/rodina/hubertnebo-petiletka-jake-jmeno-vybrat-miminku/r~i:article:709809/
+Obr. 4 – Rodič samoživitel
+[online]. [cit. 2021-03-25]. Dostupné z: https://uvero.cz/samozivitelky-a-prispevky-od-statuktere-mohou-vyuzit/

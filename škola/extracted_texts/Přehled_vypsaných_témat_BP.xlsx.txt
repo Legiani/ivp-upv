@@ -1,0 +1,67 @@
+Poř. | Typ | Název tématu | Vedoucí práce | Garantující pracoviště | Program | Obor | Určené pro | Obsazeno/Max
+1. | BP | Kariérový koučink versus kariérové poradenství | Dobiášová, M. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 2
+2. | BP | Programy a metody kariérního poradenství na VŠ | Dobiášová, M. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 2
+3. | BP | Psychohygiena v práci učitele | Dobiášová, M. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 2
+4. | BP | Rozvoj komunikačních dovedností při výuce | Dobiášová, M. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 2
+5. | BP | Spolupráce studentů VŠ s kariérními centry a jejich připravenost na trh práce | Dobiášová, M. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 2
+6. | BP | Spolupráce vysokoškoláků s kariérními centry a rozvoj podnikatelských aktivit studentů | Dobiášová, M. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 1
+7. | BP | Úloha motivace ve výchovně vzdělávacím procesu | Dobiášová, M. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 2
+8. | BP | Historie a tradice zemědělského vzdělávání jako inspirace pro žákovské projekty na středních zemědělských školách | Dytrtová, R. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+9. | BP | Motivace výběru profesního zaměření a perspektivy žáků/absolventů zvolené odborné školy | Dytrtová, R. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 4
+10. | BP | Motivace výběru studijního zaměření žáků 1. ročníku středních zemědělských škol – průzkum | Dytrtová, R. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 2
+11. | BP | Průřezové téma Člověk a svět práce a jeho aplikace ve výuce praktického vyučování na středních odborných školách | Dytrtová, R. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 4
+12. | BP | Průřezové téma Člověk a životní prostředí a jeho aplikace ve výuce odborných předmětů na středních odborných školách | Dytrtová, R. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+13. | BP | Volba studijního a profesního zaměření maturantů středních zemědělských škol – průzkum | Dytrtová, R. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1
+14. | BP | Kariérního poradenství a životní spokojenost studentů | Hlubučková, A. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 3
+15. | BP | Kariérové poradenství pro klienty se specifickými potřebami | Hlubučková, A. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 4
+16. | BP | Nástroje pro psychohygienu pedagogů | Hlubučková, A. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 3
+17. | BP | Závěr kariéry učitelů středních škol | Hlubučková, A. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 3
+18. | BP | Kariérové poradenství ve formálním vzdělávání | Jirsáková, J. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 4
+19. | BP | Kariérové poradenství ve středním odborném vzdělávání | Jirsáková, J. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 2
+20. | BP | Kariérového poradenství pro zvolenou skupinu klientů | Jirsáková, J. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 3
+21. | BP | Prevence rizikového chování na SOŠ/SOU | Jirsáková, J. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 4
+22. | BP | Analýza dokumentů se zaměřením na podmínky, průběh a výsledky v odborném vzdělávání | Němejc, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+23. | BP | Cestou do školy: povědomí žáků středních odborných škol o okolním přírodním prostředí | Němejc, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 2
+24. | BP | Evaluace v kariérovém poradenství a vzdělávání | Němejc, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 2
+25. | BP | Návrh na vybavení učebny pro realizaci vybraných vzdělávacích aktivit | Němejc, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 2
+26. | BP | Obecné dovednosti studentů kariérového poradenství a vzdělávání | Němejc, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 1
+27. | BP | Průřezové téma Člověk a životní prostředí se zaměřením na rostliny v interiéru vzdělávací instituce | Němejc, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+28. | BP | Role a potenciál kariérních center při vysokých školách v České republice | Němejc, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 1
+29. | BP | Soft skills studentů kariérového poradenství a vzdělávání | Němejc, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 1
+30. | BP | Vzdělávací potřeby pedagogů v odborném vzdělávání | Němejc, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+31. | BP | Zahrada jako prostředek výchovy a vzdělávání | Němejc, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+32. | BP | Aktivizační metody ve vybrané výukové jednotce | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 2
+33. | BP | Analýza vybraného tematického celku a tvorba pracovních listů | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 2
+34. | BP | Instruktor praktického vyučování u zaměstnavatele: požadavky na kvalifikaci podle NSK | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-UPV | -- | IVP | 0 / 2
+35. | BP | Kariérové poradenství_ distanční text | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 2
+36. | BP | Kariérový poradce pro zaměstnanost: požadavky na kvalifikaci podle NSK | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 1
+37. | BP | Požadavky na autorizovanou osobu a postup autorizace pro kvalifikaci Instruktor praktického vyučování u zaměstnavatele | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 1
+38. | BP | Požadavky na autorizovanou osobu a postup autorizace pro kvalifikaci Kariérový poradce pro zaměstnanost | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 1
+39. | BP | Přehled metod v práci kariérového poradce | Smékalová, L. | Katedra celoživotního vzdělávání a podpory studia (IVP) | B-KPV | -- | IVP | 0 / 1
+40. | BP | BP Vývoj materiální, technické a odborné vybavenosti středního odborného učiliště od počátku poloviny 20. stolení po současnost | Šedivý, J. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 2
+41. | BP | Návrh projektu vzdělávací akce | Šedivý, J. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 5
+42. | BP | Posouzení vlivu učitele odborného výcviku na rozvíjení pozitivního vztahu k práci u žáků středního odborného učiliště | Šedivý, J. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+43. | BP | Rozbor prověřování, hodnocení a klasifikace praktických dovedností při výuce předmětu odborný výcvik | Šedivý, J. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+44. | BP | Uplatnění absolventů na trhu práce ve vybraném regionu | Šedivý, J. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 2
+45. | BP | Zhodnocení materiální a technické vybavenosti střední odborné školy pro výuku praktických dovedností a návrh na zlepšení | Šedivý, J. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+46. | BP | Zhodnocení materiální a technické vybavenosti středního odborného učiliště pro výuku předmětu odborný výcvik a návrh na zlepšení | Šedivý, J. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+47. | BP | Aktivity neziskových organizací zaměřené na vzdělávání | Tomšíková, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+48. | BP | Didaktická analýza vybraného tematického celku | Tomšíková, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 1
+49. | BP | Firemní strategie rozvoje zaměstnanců | Tomšíková, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 4
+50. | BP | Názory pedagogů středních škol na vybrané problémy | Tomšíková, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 2
+51. | BP | Personální práce ve vybrané instituci | Tomšíková, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 1
+52. | BP | Uplatnění absolventů na trhu práce ve vybraném regionu | Tomšíková, K. | Katedra pedagogiky (IVP) | B-KPV | -- | IVP | 0 / 2
+53. | BP | Uplatnění absolventů na trhu práce ve vybraném regionu | Tomšíková, K. | Katedra pedagogiky (IVP) | B-UPV | -- | IVP | 0 / 2
+54. | BP | Aplikace distanční výuky v rámci odborného vzdělávání | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+55. | BP | Aplikace etických témat ve výuce odborných přdmětů | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+56. | BP | Kariérové poradenství na konci profesní dráhy | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1
+57. | BP | Kariérové poradenství pro klienty pečující o osoby blízké | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1
+58. | BP | Komparace českého systému kariérového poradenství s vybraným systémem v zahraničí | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1
+59. | BP | Možnosti integrace kariérového poradenství do výuky na střední škole | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1
+60. | BP | Návrh aplikace metod pro skupinové kariérové poradenství | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1
+61. | BP | Návrh audiovizuálních materiálů pro konkrétní obor vzdělání a předmět | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+62. | BP | Návrh digitálních učebních pomůcek pro konkrétní obor vzdělání a předmět | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+63. | BP | Návrh metod pro sebeřízené učení žáků v odborném vzdělávání | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+64. | BP | Návrh projektového vyučování pro konkrétní obor vzdělání a předmět | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-UPV | -- | IVP | 0 / 1
+65. | BP | Vyuižití narativního přístupu v kariérovém poradenství v období adolescence | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1
+66. | BP | Zkušenosti žáků středních odborných škol s kariérovým poradenstvím | Votava, J. | Katedra profesního a personálního rozvoje (IVP) | B-KPV | -- | IVP | 0 / 1

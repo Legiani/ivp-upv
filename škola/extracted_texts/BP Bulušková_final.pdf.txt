@@ -1,0 +1,1381 @@
+Česká zemědělská univerzita v Praze
+Institut vzdělávání a poradenství
+Katedra pedagogiky
+Názory pedagogů středních škol na vybrané problémy
+Bakalářská práce
+Autor: Ing. Kamila Bulušková
+Vedoucí práce: Ing. Kateřina Tomšíková, Ph.D.
+2023
+
+
+ČESTNÉ PROHLÁŠENÍ
+Prohlašuji, že jsem bakalářskou práci na téma:
+Názory pedagogů středních škol na vybrané problémy
+vypracovala samostatně a citovala jsem všechny informační zdroje, které jsem v práci 
+použila a které jsem rovněž uvedla na konci práce v seznamu použitých informačních 
+zdrojů. 
+Jsem si vědoma že, na moji bakalářskou práci se plně vztahuje zákon č. 121/2000 Sb., 
+o právu autorském, o právech souvisejících s právem autorským a o změně některých 
+zákonů, ve znění pozdějších předpisů, především ustanovení § 35 odst. 3 tohoto 
+zákona, tj. o užití tohoto díla.
+Jsem si vědoma, že odevzdáním bakalářské práce souhlasím s jejím zveřejněním dle 
+zákona č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů, ve 
+znění pozdějších předpisů, a to bez ohledu na výsledek její obhajoby.
+Svým podpisem rovněž prohlašuji, že elektronická verze práce je totožná s tištěnou a 
+že s údaji uvedenými v práci bylo nakládáno v souvislosti s GDPR. 
+V Praze dne ……………………
+……..……………………………..
+(podpis autora práce)
+PODĚKOVÁNÍ
+Ráda bych touto cestou poděkovala vedoucí práce, Ing. Kateřině Tomšíkové, Ph.D.,
+za vstřícný přístup, poskytnuté rady a materiály a odborné vedení mé závěrečné práce.
+Dále děkuji svému tatínkovi, pro něhož bylo učitelství celoživotním posláním, za 
+inspiraci ke studiu pedagogiky.
+Abstrakt
+Cílem této bakalářské práce bylo zmapovat názory středoškolských pedagogů na 
+transgender problematiku ve školství. Teoretická část práce se věnovala popisu 
+základních pojmů z oblasti vzdělávání, jako je vzdělávací soustava v České republice 
+nebo popis výchovně-vzdělávacího procesu, a to vše v prostředí středních škol. Dále 
+se pak tato práce věnovala vysvětlení základních pojmů z oblasti genderové identity, 
+kde byla akcentována zejména identita transgenderu a také transgender v prostředí 
+škol. Praktická část bakalářské práce byla zpracována na základě využití metody 
+dotazníkového šetření, zaměřeného na středoškolské pedagogy, za účelem získání 
+jejich názorů a podělení se o vlastní zkušenosti s problematikou transgenderu ve 
+školství. Dotazníkového šetření se zúčastnilo celkem 64 středoškolských pedagogů, 
+působících zejména ve školách v Pardubickém kraji. Výsledky dotazníkového šetření 
+přinesly cenné poznatky, ze kterých je patrné, že transgender problematika je velice 
+aktuálním tématem, které se ve školství vyskytuje čím dál tím častěji a je tedy třeba na 
+tuto situaci reagovat a co nejvíce usnadnit inkluzi dotyčných osob. Získané odpovědi 
+respondentů byly využity k sestavení vlastního doporučení autorky pro zlepšení 
+současného stavu této problematiky ve školství.
+Klíčová slova
+vzdělávání, střední školství, názory pedagogů, transgender, identita, inkluze, 
+vzdělávací systém, gender.
+Abstract
+The aim of the bachelor’s thesis is to encompass the sentiments of secondary schoollevel lecturers on the transgender topic in education. The theoretical section of the 
+work identified and outlined the essential concepts of the education field, such as the 
+Czech education system or the behavioural-educational processes, all in regard to
+secondary education. Furthermore, the thesis elaborated on the key points of gender 
+identity, emphasizing the identity of transgender people and transgender topic as such 
+in the sphere of schooling. The practical section of the bachelor’s thesis was 
+established based on the used research method, the questionnaire targeted on 
+secondary education lecturers. The method intended to determine their assumptions 
+towards transgender topic in education and their personal experiences. 64 educators 
+participated in the research, mainly coming from the educational institutions in 
+Pardubice region. The outcomes of the questionnaire highlighted some invaluable 
+discoveries, which suggest the currency of the transgender subject that is occurring in 
+education sphere with a significant frequency. Therefore, it is necessary to 
+acknowledge this situation and aid the inclusion of persons concerned. Obtained 
+responses were used to frame the author’s own proposition on enhancing the current 
+situation around the transgender issue in the field of education.
+Keywords
+Education, secondary education, lecturers’ opinions, transgender, identity, inclusion, 
+education system, gender.
+OBSAH
+ÚVOD.........................................................................................................................10
+TEORETICKÁ ČÁST
+1 Cíl a metodika......................................................................................................11
+2 ZÁKLADNÍ POJMY Z OBLASTI VZDĚLÁVÁNÍ..........................................12
+2.1 Vzdělávání................................................................................................... 12
+2.2 Vzdělávací soustava ČR.............................................................................. 12
+2.2.1. Střední vzdělávání................................................................................ 14
+2.3 Výchovně-vzdělávací proces ...................................................................... 15
+2.3.1. Cíle výchovně-vzdělávacího procesu .................................................. 15
+2.3.2. Prostředky výchovně-vzdělávacího procesu........................................ 16
+2.3.3. Lidské faktory ...................................................................................... 16
+3 ZÁKLADNÍ POJMY Z OBLASTI TRANSGENDERU....................................18
+3.1 Pohlaví......................................................................................................... 18
+3.2 Rod, gender ................................................................................................. 18
+3.3 Vztah pohlaví a genderu.............................................................................. 19
+3.4 Genderová role ............................................................................................ 20
+3.5 Genderová identita ...................................................................................... 20
+3.6 Jádrová pohlavní identita ............................................................................ 21
+3.7 Ne/binarita................................................................................................... 21
+3.8 Transgender identita.................................................................................... 22
+3.8.1. Pojmenování transgender osob ............................................................ 23
+3.8.2. Tranzice ............................................................................................... 23
+3.8.3. Legislativa týkající se změny pohlaví v ČR ........................................ 24
+3.8.4. Legislativa týkající se změny jména v ČR........................................... 25
+3.8.5. Právní problémy transgender osob ...................................................... 25
+3.8.6. Detranzice ............................................................................................ 26
+4 TRANSGENDER V PROSTŘEDÍ ŠKOL..........................................................27
+4.1 Tvorba respektujícího a bezpečného prostředí............................................ 27
+4.1.1. Vzdělávání pedagogických pracovníků ............................................... 28
+4.1.2. Úprava vzdělávacího kurikula ............................................................. 28
+4.1.3. Prevence šikany transgender žáků ....................................................... 29
+4.2 Podpůrná opatření ze strany školy .............................................................. 30
+4.2.1. Poradenská činnost .............................................................................. 31
+4.2.2. Přijetí informace o transgenderové identitě žáka................................. 31
+4.2.3. Oslovování transgender žáků............................................................... 32
+4.2.4. Úprava prostor segregovaných dle pohlaví žáků................................. 33
+4.2.5. Účast na genderově rozdělovaných předmětech a aktivitách .............. 34
+PRAKTICKÁ ČÁST
+5 Vlastní šetření......................................................................................................35
+5.1 Charakteristika místa šetření....................................................................... 35
+5.2 Realizace dotazníkového šetření................................................................. 35
+5.3 Zhodnocení výsledků dotazníkového šetření.............................................. 36
+6 Vlastní doporučení...............................................................................................47
+ZÁVĚR.......................................................................................................................50
+SEZNAM POUŽITÝCH ZDROJŮ............................................................................51
+SEZNAM GRAFŮ .....................................................................................................55
+SEZNAM PŘÍLOH.....................................................................................................56
+Příloha č. 1: Formulář dotazníku
+10
+ÚVOD
+Nejen ve společnosti a v médiích, ale také ve školách se stále častěji setkáváme 
+s problematikou LGBT+ osob. Tento fakt je způsoben mimo jiné neustálým 
+zvyšováním počtu osob, které se do této kategorie řadí a také čím dál tím otevřenějším 
+a méně konzervativním nahlížením mladší generace na svět.
+Tato bakalářská práce (BP) je zaměřena na zmapování názorů a přístupu pedagogů na 
+středních školách k problematice transgenderu a transgender žactvu samotnému.
+K výběru tohoto tématu mě přiměla skutečnost výskytu transgender osoby v mém 
+pracovním prostředí a uvědomění si problémů a komplikací, které transgender osoby 
+ve svém každodenním životě zažívají. Nejinak je tomu i ve školním prostředí, kde jsou 
+potřeby tímto způsobem se identifikujících osob ne vždy zcela pochopeny.
+Vzdělávání, respektive pravidelné docházení do vzdělávacích institucí, je součástí 
+života každého člověka. Domnívám se, že právě školní prostředí je ideálním prostorem 
+pro formování lidských postojů a příležitostí k učení žactva otevřenosti a připravenosti 
+na genderově rozličnou a mnohovrstevnou společnost. Právě učitelé jsou významnými 
+činiteli při formování postojů svých žáků, potažmo tvorbě bezpečného a inkluzivního 
+prostředí, proto pokládám za důležité zjistit, jakým způsobem k této problematice 
+přistupují a jaké kroky již jejich vzdělávací instituce podnikly k usnadnění života 
+svých transgender žáků a žákyň.
+Teoretická část obsahuje charakteristiku pojmů s tématem souvisejících. Nejprve je 
+popsána vzdělávací soustava ČR s akcentem na střední vzdělávání. Dále jsou popsány 
+jednotlivé složky výchovně-vzdělávacího procesu. V souladu se zaměřením BP byla 
+samostatná kapitola věnována základním pojmům z oblasti transgenderu, konkrétně 
+pak transgenderu v prostředí škol.
+V praktické části je nejprve představeno místo šetření, kterým byl Pardubický kraj. 
+Hlavní metodou použitou v této části práce bylo dotazníkové šetření. Na základě 
+analýzy informací získaných z tohoto šetření byla s využitím metody syntézy navržena 
+vlastní doporučení.
+11
+TEORETICKÁ ČÁST
+1 Cíl a metodika
+Hlavním cílem bakalářské práce bylo provedení analýzy názorů pedagogů středních 
+škol na aktuální problémy na tomto stupni školství a vyslovení vlastních doporučení, 
+která by mohla vést ke zlepšení současné situace.
+Hlavní metodou použitou v praktické části práce bylo dotazníkové šetření u pedagogů. 
+Na základě analýzy jejich odpovědí byla s využitím metody syntézy navržena vlastní 
+doporučení. V teoretické části práce byla použita metoda analýzy informací 
+z odborných monografií věnujících se dané problematice a adekvátních elektronických 
+zdrojů.
+12
+2 ZÁKLADNÍ POJMY Z OBLASTI VZDĚLÁVÁNÍ
+2.1 Vzdělávání
+Podle Votavy (2011, s. 39) hrálo vzdělávání významnou roli již ve starověkých 
+civilizacích, kde se znalost určitých informací a dovedností stala nezbytnou nejen pro 
+získání společenského postavení, ale i pro mnoho situací v praktickém životě člověka.
+Pojmem vzdělávání je v pedagogické teorii označován proces, při kterémž dochází 
+k záměrnému a organizovanému osvojování poznatků, dovedností, postojů aj., který 
+je typicky realizovaný prostřednictvím školního vyučování (Průcha, 2009, s. 17). 
+Výsledkem vzdělávání, je dosažení vzdělání. Podle Votavy (2011, s. 39) je „vzdělání 
+výsledkem formalizované aktivity, během níž si žák osvojí sumu znalostí a dovedností, 
+kterou společnost uznává a respektuje.“
+Podle Průchy (2009, s. 247) existují následující formy vzdělávání:
+1. Formální vzdělávání – jedná se o záměrné a soustavné vzdělávání, které 
+probíhá ve školských zařízeních a jeho úspěšné dokončení je doloženo 
+oficiálním certifikátem, např. vysvědčením nebo diplomem.
+2. Neformální vzdělávání – též se jedná o záměrné a soustavné vzdělávání, avšak 
+certifikáty získané tímto způsobem nemají status certifikátů z formálního 
+vzdělávání. Nejčastěji se jedná o různé kurzy, které mohou absolventům zvýšit 
+uplatnění na trhu práce.
+3. Informální učení – liší se od vzdělávání svou nesoustavností a příležitostnou 
+povahou. Není vedeno žádným pedagogem a spadá do něj například 
+samostudium či rozvojové zájmové činnosti.
+2.2 Vzdělávací soustava ČR
+Průcha (2009, s. 58) uvádí, že vzdělávací systém v České republice je členěn do 
+různých úrovní dle typu a náročnosti vzdělávání, poskytovaného školami. K přesnému 
+vymezování úrovní vzdělávání se používá mezinárodní standardní klasifikace 
+vzdělávání ISCED z roku 1997.
+Norma ISCED se dle evropské informační sítě Eurydice (2023) dělí na sedm úrovní:
+13
+ISCED 0: preprimární vzdělání – počáteční stupeň organizované výuky, zpravidla 
+slouží k uvádění dětí raného věku do školního prostředí. Dosažené vzdělání této 
+úrovně je rovněž přidělováno osobám bez dokončeného vzdělání odpovídajícího 1. 
+stupni základní školy.
+ISCED 1: primární vzdělání – jádrem této úrovně je vzdělávání dětí, jejichž obvyklý 
+vstupní věk je 5–7 let. Jedná se o poskytování pevného základního vzdělání ve čtení, 
+psaní, matematice spolu s elementárním porozuměním ostatním předmětům, jako je 
+dějepis, zeměpis, přírodní a společenské vědy, výtvarné umění a hudba. Dosažené 
+vzdělání této úrovně je také přidělováno osobám bez dokončeného základního 
+vzdělání (s dokončením 1. stupně základní školy).
+ISCED 2: nižší sekundární vzdělání – obsah vzdělávání na této úrovni je určen 
+k dokončení základního vzdělání. Cílem této úrovně je položit základy pro celoživotní 
+vzdělávání a rozvoj člověka a na této úrovni jsou vytvářeny základní dovednosti. 
+Dokončení této úrovně vzdělání se shoduje s ukončením povinné školní docházky, tzn. 
+odpovídá dokončenému 2. stupni základní školy.
+ISCED 3: vyšší sekundární vzdělání – začíná obvykle po dokončení povinné školní 
+docházky. Typický věk vstupu do tohoto stupně vzdělání je 15 až 16 let. Na tomto 
+stupni dochází k rozvoji vědomostí, dovedností, postojů a hodnot, získaných
+v základním vzdělávání. Žáci získávají širší všeobecné vzdělání (gymnázia, lycea) 
+nebo odborné vzdělání spojené se všeobecným vzděláním (odborné školy). Střední 
+vzdělávání dále vytváří předpoklady pro plnohodnotný osobní a občanský život, 
+samostatné získávání informací a celoživotní učení, pokračování v navazujícím 
+vzdělávání a přípravu pro výkon povolání.
+ISCED 4: postsekundární neterciární vzdělání – vzdělávání na této úrovni většinou 
+nemívá výrazně vyšší úroveň než programy úrovně ISCED 3, ale slouží pro 
+rozšiřování znalostí účastníků, kteří již ukončili studium programů úrovně ISCED 3.
+Typicky sem patří programy určené k přípravě na vysokoškolské (terciární) studium, 
+odborné tematické kurzy (např. počítačové, jazykové) nebo rekvalifikační kurzy.
+ISCED 5: terciární vzdělání – první stupeň – do této kategorie se zařazují programy, 
+které poskytují vzdělávací obsah vyšší úrovně než programy ISCED 3 a ISCED 4. 
+Terciární vzdělávání je poskytováno vysokými a vyššími odbornými školami. Vyšší 
+14
+odborné vzdělání lze získat v obvykle tříletých programech. Vysokoškolské 
+vzdělávání se na této úrovni uskutečňuje v programech prvního (bakalářského) 
+a druhého (magisterského) cyklu.
+ISCED 6: terciární vzdělání – druhý stupeň – tato úroveň je určena pro terciární 
+programy vzdělávání, které vedou k udělení diplomu vědeckého stupně. Programy 
+jsou proto věnovány prohloubenému studiu a původnímu výzkumu a nejsou založeny 
+pouze na výuce.
+2.2.1. Střední vzdělávání
+Střední vzdělávání navazuje na vzdělávání základní a rozvíjí vědomosti, dovednosti 
+a kompetence žáka. Dále směřuje k přípravě na další studium na vysokých a vyšších 
+odborných školách anebo na kvalifikovaný výkon povolání. Střední vzdělávání má 
+všeobecný nebo odborný charakter a je ukončeno maturitní zkouškou, výučním listem, 
+nebo závěrečnou zkouškou. Uskutečňuje se na gymnáziích, na středních odborných 
+školách, středních odborných učilištích a také na konzervatořích (NPI, 2023).
+Národní pedagogický institut (2023) definuje tři stupně středního vzdělání:
+1. Střední vzdělání – získané úspěšným ukončením vzdělávacího programu 
+v délce 1 roku nebo 2 let, ukončeno je závěrečnou zkouškou a absolvent obdrží 
+závěrečné vysvědčení.
+2. Střední vzdělání s výučním listem – získané úspěšným ukončením jednoho 
+ze dvou kategorií studia:
+a) Nižší střední odborné vzdělání: studium je tříleté nebo dvouleté, výstupem 
+je výuční list. Obory mají nižší nároky v oblasti všeobecného i obecně 
+odborného vzdělání a jsou určeny především pro žáky se speciálními 
+vzdělávacími potřebami a žáky, kteří ukončili povinnou školní docházku 
+v nižším než 9. ročníku základní školy. Obory připravují absolventy na
+výkon jednoduchých prací v rámci dělnických povolání a ve službách.
+b) Střední odborné vzdělání s výučním listem: tradiční učební obory s tříletou 
+přípravou ve středních odborných učilištích. Po získání výučního listu lze 
+pokračovat navazujícím nástavbovým studiem a získat i maturitu.
+15
+3. Střední vzdělání s maturitní zkouškou – získané úspěšným ukončením 
+jednoho ze čtyř kategorií studia:
+a) Úplné střední odborné vzdělání s maturitou: příprava má profesní charakter 
+a délka studia je 4 roky. Po maturitě lze pokračovat ve vzdělávání na 
+vysoké nebo vyšší odborné škole.
+b) Úplné střední odborné vzdělání s odborným výcvikem a maturitou:
+studium připravuje pro náročná dělnická povolání a nižší řídicí funkce. 
+V denní formě je 4leté a jeho významnou součástí je odborný 
+výcvik. Absolventi získávají maturitní vysvědčení a mohou pokračovat ve 
+vzdělávání na vysoké nebo vyšší odborné škole.
+c) Úplné střední všeobecné vzdělání: všeobecná příprava ve 4letých 
+a víceletých gymnáziích je neprofesní a připravuje především pro 
+vysokoškolské nebo vyšší odborné vzdělávání.
+d) Vyšší odborné vzdělání v konzervatoři: studium je podmíněno výrazným 
+talentem na umělecké obory. Absolventi obdrží vysvědčení o absolutoriu v 
+konzervatoři a diplom absolventa konzervatoře, navíc smějí používat 
+označení diplomovaný specialista (DiS.). Vzdělávání je možné ukončit 
+i vykonáním maturitní zkoušky.
+2.3 Výchovně-vzdělávací proces
+Výchovně-vzdělávací proces je záměrné a systematické působení na žáky, které se 
+uskutečňuje pod vedením pedagoga a jeho cílem je dosažení určitého, předem 
+stanoveného cíle (Maňák, 2003, s. 11).
+Mezi hlavní činitele výchovně-vzdělávacího procesu řadíme učitele, žáka a obsah 
+výuky (učivo). Tyto tři komponenty tvoří tzv. didaktický trojúhelník. Maňák (2003, s. 
+13) do didaktického trojúhelníku řadí ještě čtvrtý komponent, kterým jsou didaktické 
+prostředky.
+2.3.1. Cíle výchovně-vzdělávacího procesu
+Cílem výchovně-vzdělávacího procesu by měla být kvalitativní i kvantitativní změna 
+u jednotlivých žáků, a to v oblasti vzdělávací (kognitivní), postojové (afektivní)
+a výcvikové (psychomotorické), projevující se osvojením nových poznatků, 
+16
+dovedností a postojů žáků. Podle Skalkové (2007, s. 27) lze předpokládat, že spolu 
+s osvojením systému určitých vědomostí a dovedností chápe vzdělaný člověk vztahy 
+mezi poznatky a umí je používat při řešení úkolů a dalším sebevzdělávání. Současně 
+vzdělání zahrnuje i osvojení estetických a morálních hodnot a vytváření postoje ke 
+světu, společnosti i sobě samému.
+2.3.2. Prostředky výchovně-vzdělávacího procesu
+Prostředky výchovně-vzdělávacího procesu lze rozdělit na nemateriální (formy 
+a metody výuky) a na materiální didaktické prostředky.
+Formami výuky se dle pedagogického slovníku Průchy a kol. (2009, s. 79) rozumí 
+prostředky, způsoby uspořádání podmínek k realizaci obsahu vyučování v určitém 
+místě a čase. Formy výuky se dále dělí dle způsobu organizace vyučování a dle vztahu 
+k jednotlivci a ke skupině.
+Metody výuky definuje Průcha a kol. (2009, s. 153) jako záměrné a systematické 
+způsoby, postupy a činnosti učitele, kterými jsou žáci vedeni k osvojování učiva, 
+zajišťující splnění výchovně-vzdělávacích cílů. Mojžíšek (1988, s. 90-93) dělí metody 
+výuky na metody usměrňující zájem, metody expozice (podání) učiva, metody fixační 
+a metody diagnostické a klasifikační.
+Za materiální didaktické prostředky lze považovat veškeré materiály, které pedagog
+kromě mluveného slova ve vzdělávacím procesu použije (Slavík a kol., 2007, s. 7). 
+V kategorii materiálních didaktických prostředků je třeba rozlišovat učební pomůcky, 
+které jsou nosičem didaktické informace a didaktickou techniku, která je potřebná pro 
+prezentaci učební pomůcky.
+2.3.3. Lidské faktory
+Kromě formálních předpokladů, ke kterým patří odpovídající vzdělání a způsobilost, 
+by podle Slavíka a Millera (2012, s. 104) učitel měl k výkonu tohoto povolání splňovat 
+i osobnostní předpoklady. Mezi osobnostní předpoklady řadíme vysokou odbornost
+a utříděné široké vědomosti z oboru, pedagogickou připravenost a příznivé 
+charakterové a morální vlastnosti. 
+17
+Osobnost pedagoga, její vývoj a změny zkoumá pedagogická disciplína pedeutologie, 
+která se věnuje kladným a záporným vlastnostem učitele, jeho individuálním 
+možnostem, ale také ideálními kvalitami, kterými by měl disponovat (Průcha a kol., 
+2008, s. 162). Jůva (2001, s. 68) vyzdvihuje některé rysy pedagogovy osobnosti, které 
+kladně ovlivňují výchovně-vzdělávací proces. Jsou jimi zásadový morální postoj, 
+pedagogický optimismus, takt, klid, tvůrčí práce, pedagogické zaujetí, hluboký přístup 
+k žákům a smysl pro spravedlivost. Z hlediska základních předpokladů pak uvádí 
+komunikativní a rétorické dovednosti učitele.
+Své kompetence neboli způsobilost, učitel získává a rozvíjí v průběhu celé své profesní 
+kariéry.
+„Každý učitel by měl být svými žáky vnímán především jako osobnost s převážně 
+kladnými rysy“ (Kříž, 2020, s. 59).
+18
+3 ZÁKLADNÍ POJMY Z OBLASTI TRANSGENDERU
+Tato bakalářská práce se věnuje tématu transgender osob, studujících na českých 
+středních školách a názorům pedagogů středních škol na problematiku jejich inkluze 
+a na vytváření bezpečného prostředí. Pro snadnější pochopení problematiky se 
+následující kapitola bude věnovat základním pojmům z oblasti transgenderu a jejich 
+významu.
+3.1 Pohlaví
+Pojem pohlaví (anglicky „sex“) představuje primárně biologické rozdíly mezi mužem 
+a ženou. Jedná se o rozdíly, které jsou dány karyotypem daného jedince a které vznikají 
+již při početí (Janošová, 2008, s. 38-39).
+Nové medicínské technologie dokáží zjistit pohlaví plodu s co největší přesností již 
+před narozením (Fafejta, 2004, s. 31), lékaři či porodníci pak určují biologické pohlaví 
+na základě svého dojmu z tvaru jeho vnějšího genitálu po narození dítěte. Takto 
+přisouzené pohlaví pak do jisté míry určuje směr, jímž se nadále bude ubírat výchova 
+jedince (Kasten, 2006, s. 23).
+Janošová (2008, s. 39-40) popisuje vícesložkový charakter pohlaví, kdy lze sledovat 
+pohlaví chromozomální, gonadální, hormonální a fenotypové. Někteří autoři vnímají 
+myšlenku pohlaví jako problematickou, neboť tato kritéria nelze aplikovat na všechny 
+osoby a jednoznačně je tak zařadit do kategorie „muž“ či „žena“. Dreger (2009, s. 127)
+uvádí procentuální odhad množství jedinců v populaci, u kterých jsou některé složky 
+určující pohlaví v rozporu, na 1 až 1,7 %.
+3.2 Rod, gender
+Pojem rod (anglicky „gender“) vyjadřuje rozdíly mezi muži a ženami, jejichž podstata 
+spočívá v kulturních a sociálních stereotypech, tzn. vzorcích chování. Genderové 
+rozdíly mají proměnlivý charakter a jejich podoba je v různých společnostech velmi 
+rozmanitá. Vymezením „ženského“ a „mužského“ genderu daná kultura vypovídá 
+o stupni svého společenského vývoje (Janošová, 2008, s. 40).
+19
+Na genderu je podstatné, že je ho možno coby sociální konstrukt měnit. Není pevný, 
+je závazný pouze na základě sociálních norem (Fafejta, 2004, s. 30-31).
+K ženskému genderu neboli „feminitě“ bývají podle Janošové (2008, s. 39) 
+přiřazovány vlastnosti jako je pasivita a soucit, pocity odporu při kontaktu s něčím 
+nepříjemným, jemnost, čistota, emocionalita, silnější potřeba vyjadřovat pocity, takt, 
+upravenost a krása. Mužskému genderu neboli „maskulinitě“ jsou přisuzovány veskrze 
+opačné vlastnosti, jako je například potlačování emocí, orientace na práci, dominance, 
+aktivita, soutěživost a vyšší společenské postavení.
+3.3 Vztah pohlaví a genderu
+Mohlo by se zdát, že pojmy „pohlaví“ a „gender“ vyjadřují dva různé způsoby pohledu 
+na tutéž věc a že člověk, který patří například k ženskému pohlaví, bude automaticky 
+patřit k odpovídajícímu ženskému genderu. Skutečnost je však jiná a gender může být 
+zcela nezávislý na biologickém pohlaví (Oakley, 2000, s. 121-122).
+Rodiče dítěte často touží po tom, dozvědět se biologické pohlaví svého potomka ještě 
+před jeho narozením. Richards et. al. (2017, s. 23) vysvětluje toto počínání jako 
+potřebu přiřadit ještě ne zcela vyvinuté bytosti na základě biologického atributu gender 
+a na základě něj nakoupit oblečení a hračky a vymalovat dětský pokoj odpovídajícími 
+barvami a začít tak tvořit genderové prostředí, do kterého následně dítě vstoupí a začne 
+se učit přiřknutému genderu. Jedinec je tak zdánlivě přirozeně zařazen do společenskokulturního kontextu na základě své anatomické podoby.
+Ke zvýraznění projevů rozdílnosti mezi mladými ženami a muži dochází v období 
+tělesného dospívání a tehdy dochází i k posunu vnímání vlastní genderové příslušnosti. 
+Významnou roli hraje i sociální okolí, které často odlišuje očekávání a požadavky na 
+jednání dívek a chlapců (Janošová, 2008, s. 166).
+Podle Šmausové (2002, s. 17) ve společnosti jedinci „hrají“ genderové role, které 
+odpovídají genderovým stereotypům, normám a kontextu v rámci kultury, ve které 
+žijí.
+20
+3.4 Genderová role
+Role je soubor normativně vymezeného, očekávaného, dovoleného i vyžadovaného 
+chování (Vágnerová, 2004, s. 320). Genderová role se tedy dá specifikovat jako souhrn 
+představ o tom, jací by měli být muži a jaké by měly být ženy. Obsahem genderové 
+role jsou projevy a zájmy, které souvisí s vědomím příslušnosti ke skupině mužů či 
+žen. Do jisté míry se jedná o vyjádření rodové identity – jedinec v této roli vyjadřuje 
+to, kým se cítí být, i to, jak chce být vnímán (Janošová, 2008, s. 41).
+Osvojování genderových rolí začíná již ve věku jednoho až pěti let věku dítěte.
+Oakleyová (2000, s. 132-133) definuje čtyři fáze procesu vývoje genderových rolí:
+1. Formování činnostmi rodičů (nebo také „manipulace“) – Má trvalý efekt, 
+neboť dítě přejímá pohled rodiče na sebe sama. Příkladem je česání dcery nebo 
+její oblékání do dívčích šatů.
+2. Fáze zaměření pozornosti na určité objekty – dítě dostává hračky, které 
+odpovídají jeho pohlaví a je oceněno za obvyklé chování.
+3. Fáze vývinu genderové role prostřednictvím verbálního pojmenování –
+dítě se učí aspekty své genderové role pomocí toho, jak jej jeho okolí oslovuje.
+4. Fáze aktivit – dítě se setkává s tradičními činnostmi, které jsou diferencované 
+dle pohlaví.
+3.5 Genderová identita
+Genderová identita je vnitřní a zcela privátní složkou lidské osobnosti. Tvoří ji 
+genderové atributy, které jedinec prožívá jako sobě vlastní. Jedná se tedy 
+o sebeidentifikaci. Vědomí o pohlavní identitě určuje chování jedince, individuální 
+zájmy i styl, jak se bude prezentovat v sociálním světě (Janošová, 2008, s. 42).
+Podle Oakleyové (2000, s. 136-138) je zřejmé, že vývoj genderové identity silně 
+ovlivňuje relativní moc rodičů, způsob, jakým se každý z nich o dítě stará a metody 
+vynucování disciplíny. Při osvojování genderové identity má dítě tendenci imitovat 
+silnějšího rodiče (ať je to otec nebo matka) a ztotožňovat se s ním. Vnímání dítěte, 
+který z rodičů je dominantní, záleží často na ekonomických faktorech. Dominance 
+21
+však není v rodině jediným faktorem, který podněcuje určení genderových rolí. K silné 
+identifikaci vede i láskyplný a vřelý vztah dítěte a rodiče.
+Genderovou identitu ani genderovou roli si však dítě neosvojuje od rodiče 
+mechanicky, ale tím, že se s ním různými způsoby identifikuje. V zásadě se dítě chce 
+rodiči podobat, a to ho motivuje, aby se chovalo podobně, jako on (Oakleyová, 2000, 
+s. 135).
+3.6 Jádrová pohlavní identita
+Jádrová pohlavní identita je emoční souhlas s příslušností k jednomu či druhému rodu 
+a jedná se o nejhlubší součást ženské a mužské identity. Jádrová pohlavní identita patří 
+k nejzákladnějším složkám celkového sebepojetí a je jednou z prvních 
+sebeidentifikačních charakteristik dítěte (Janošová, 2008, s. 43).
+Na rozdíl od identity genderové, která je do určité míry tvárná, jádrovou pohlavní 
+identitu v průběhu života není možné změnit (Fafejta, 2004, s. 35).
+Komponenty, podílející se na celkové mužské a ženské identitě Smolík (1996, s. 397) 
+řadí následujícím sledu:
+1. biologické pohlaví
+2. jádrová pohlavní identita
+3. genderová identita
+4. genderová role
+3.7 Ne/binarita
+Nebinární identita je zastřešující kategorie pro osoby, které se neklasifikují výlučně do 
+mužské ani do ženské genderové identity a stojí tak mimo genderovou binaritu
+(Richards et. al., 2017, s. 45).
+Nebinární osoby jsou podle Výzkumu veřejného ochránce práv (2019, s. 7) definovány 
+jako osoby s genderovou identitou, která není výlučně mužská ani ženská. Mohou se 
+cítit být příslušníky obou pohlaví, žádného z nich anebo mají fluidní genderovou 
+identitu, tzn. v průběhu života se pohybují mezi oběma identitami.
+22
+Nebinární osoby se často setkávají s nepochopením společnosti, neboť jejich identita 
+je pro ni nesrozumitelná. Podle Richards et. al. (2017, s. 50) se tyto osoby obvykle
+nachází v situaci, kdy jsou vnímány jako někdo, kým nejsou či mohou být vnímány 
+autenticky, avšak čelit zpochybňování a mnohým stresujícím situacím.
+Richards et. al. (2017, s. 33) dále uvádějí, že přibližně 5 % LGBT+ osob se identifikuje 
+jako nebinární.
+3.8 Transgender identita
+Transgender je relativně nový termín, který se hojněji začal používat v devadesátých 
+letech minulého století a kterým se označují osoby, jejichž genderová identita se 
+neshoduje s jejich biologicky definovaným pohlavím (Fifková, 2008, s. 56). Ve starší 
+literatuře se nejčastěji při studiu tohoto tématu lze setkat s pojmem transsexualita, 
+který též označuje vrozený stav rozporu mezi biologickým a psychickým pohlavím 
+(Fifková, 2002, s. 21). Ze strany trans komunity je používání slova transsexualita 
+vnímáno negativně, přičemž jedním z důvodů je jeho odvození od slova „sex“, kterým 
+označujeme biologické pohlaví a které evokuje primárně tělesný aspekt a chirurgickou
+tranzici a upozaďuje sociální aspekt genderových rolí.
+V období posledních let dochází k růstu povědomí o tématu transgender osob a identit 
+a za poměrně krátkou dobu prošel náhled na toto téma výrazným vývojem.
+Popularizace tohoto tématu vede k většímu zviditelňování a zastoupení transgender 
+osob v médiích a společnosti a stejně tak ke zvýšení podpory jejich práv.
+Pro některé jedince je transgender identita dlouhodobým a konzistentním aspektem 
+jejich sebeidentifikace, u jiných jedinců se může jejich genderová identita v průběhu 
+života vyvíjet a měnit.
+Příčiny vzniku transsexuality nejsou zcela známy. V šedesátých letech minulého 
+stolení na tuto problematiku bylo nahlíženo jako na poruchu a transsexualita byla 
+podobně jako sexuální orientace neodpovídající standardu považována za nemoc
+(Fifková, 2008, s. 46-47).
+Transgenderová identita nemá nic společného se sexuální orientací. Jedinec, který se 
+identifikuje jako příslušník opačného pohlaví může mít defacto jakoukoli sexuální 
+23
+orientaci: asexuální (žádnou), heterosexuální, bisexuální nebo homosexuální (Heyer, 
+2020, s. 156).
+3.8.1. Pojmenování transgender osob
+Weiss (2010, s. 440) transgender osoby označuje následovně:
+Female to Male (FtM) – Tímto způsobem jsou označovány osoby, které jsou 
+biologicky ženami, ale po psychické stránce se cítí být muži.
+Male to Female (MtF) – Tímto termínem jsou označovány osoby, které jsou 
+biologicky muži, avšak po psychické stránce se cítí být ženami.
+Podle Beňové (2007, s. 14) byla v České republice po několik desetiletí zjišťována 
+výrazná převaha transsexuálních lidí FtM, avšak v posledních letech se tato situace 
+začíná měnit.
+3.8.2. Tranzice
+Transgender osoby se mohou rozhodnout pro změnu pohlaví, tzv. tranzici. Takováto 
+změna je důležitým krokem k proměně života transgender osob, která většinou vede 
+k autentičtějšímu projevu sebe samých, a to jak na úrovni sociální, tak i úřední. Touha 
+transgender osob po realizaci změny pohlaví je jedním z hlavních aspektů pro 
+posouzení a stanovení diagnózy transsexuality (TSQ, 2014).
+Podle Fifkové (2008, s. 68-70) v rámci diagnostického procesu neexistují žádné 
+nástroje, které by dokázaly spolehlivě identifikovat transgender osobu. Tato 
+skutečnost mnohdy vede k tomu, že lidé musí v rámci sexuologické intervence 
+opakovaně dokazovat svou transsexualitu, přičemž vyhodnocení skutečnosti je na 
+subjektivním posouzení lékaře. V České republice se hovoří o věkové hranici šestnácti 
+let, která určuje období, kdy je možné začít s hormonální terapií, která vede buď 
+k tělesné feminizaci (pomocí estrogenů) nebo maskulinizaci (pomocí androgenů). 
+Účinky užívání hormonální substance jsou částečně vratné, například co se týče tělesné 
+konstituce, avšak změny v podobě produkce tělesného ochlupení nebo zhrubnutí hlasu 
+mají nevratný charakter.
+Na nezletilé osoby bývá nahlíženo jako na nevyspělé a neschopné úsudku pro 
+dostatečné vyhodnocení toho, kým jsou a kým chtějí být. Hormonální „blokátory“ 
+24
+v tomto případě poskytují pozastavení normálního vývoje a prostor pro vyjasnění 
+a nalezení odpovědi na otázku, zda daná osoba chce podstoupit i chirurgickou změnu 
+pohlaví. V tomto období hrají důležitou roli zákonní zástupci nezletilého, bez jejichž 
+souhlasu nemůže být hormonální léčba poskytována (TSQ, 2014).
+Pokud se transgender osoba v rámci tranzice rozhodne pro chirurgickou změnu 
+pohlaví, existuje v České republice několik pravidel pro její výkon. Vzhledem ke 
+komplexnímu a nevratnému charakteru chirurgické změny pohlaví ji lze podstoupit až 
+na výjimky po dosažení osmnácti let věku a výkon této operace musí schválit tzv. 
+lékařská komise (Fifková, 2008, s. 84).
+3.8.3. Legislativa týkající se změny pohlaví v ČR
+O úřední změně pohlaví v České republice hovoří Zákon č. 89/2012 Sb. Občanský
+zákoník, který stanovuje, že ke změně pohlaví je nezbytné podstoupit chirurgický 
+zákrok při současném znemožnění reprodukční funkce a přeměně pohlavních orgánů 
+(MV ČR, 2023).
+Zákon o specifických zdravotních službách č. 373/2011 Sb. stejně jako předchozí 
+zmíněný Zákon určuje, že změnou pohlaví transsexuálních pacientů se rozumí 
+provedení zdravotních výkonů, jejichž účelem je provedení změny pohlaví 
+chirurgickým zákrokem při současném znemožnění reprodukční funkce. 
+Transsexuálním pacientem se rozumí osoba, u níž je trvalý nesoulad mezi psychickým 
+a tělesným pohlavím (dále jen „porucha sexuální identifikace“). Tento Zákon dále 
+stanovuje, že chirurgické výkony směřující ke změně pohlaví mohou být provedeny 
+pouze pacientům, u kterých byla jednoznačně stanovena porucha sexuální identifikace
+a prokázána schopnost trvale žít jako osoba opačného pohlaví (MZ ČR, 2023).
+Chirurgické výkony směřující ke změně pohlaví mohou být provedeny pacientovi, 
+který dovršil věku 18 let, a to na základě jeho písemné žádosti a kladného stanoviska 
+odborné komise. Odbornou komisi ustanovuje ministerstvo zdravotnictví a skládá se 
+ze zdravotního pracovníka, který je zaměstnancem státu zařazeným na ministerstvo, 
+lékaře se specializovanou způsobilostí v oboru sexuologie, lékaře se specializací
+v oblasti psychiatrie, klinického psychologa, lékaře se specializovanou způsobilostí 
+v oboru endokrinologie a diabetologie, lékaře se specializovanou způsobilostí v oboru 
+25
+urologie nebo gynekologie a porodnictví a právníka se znalostmi v oblasti 
+zdravotnického práva. Tato pravidla a nepřeberné množství dalších stanovuje Zákon
+č. 373/2011 Sb. o specifických zdravotních službách (MZ ČR, 2023).
+V závěru roku 2022 bylo ve Skotsku a Španělsku schváleno úřední uznání pohlaví na 
+základě sebeurčení a transgender lidé tak ke změně pohlaví nově nebudou potřebovat 
+ani lékařskou diagnózu (Redondo and Morton, 2022). Podobně je tomu tak u většiny 
+členských zemí Evropské unie.
+3.8.4. Legislativa týkající se změny jména v ČR
+Změnám jmen, nejen u pacientů podstupujících změnu pohlaví, se v České republice 
+věnuje Zákon č. 301/2000 Sb. Zákon o matrikách, jménu a příjmení. Po absolvování 
+chirurgické změny pohlaví je na základě potvrzení vydaného poskytovatelem
+zdravotních služeb proveden dodatečný záznam o změně pohlaví do knihy narození. 
+Dnem změny pohlaví je den uvedený v tomto potvrzení. Matriční úřad povolí na 
+základě žádosti dotyčné osoby a potvrzení poskytovatele zdravotních služeb změnu 
+jména, popřípadě jmen, a příjmení buď na neutrální jméno a příjmení, byla-li 
+u pacienta zahájena léčba pro změnu pohlaví, anebo na jiné jméno, byla-li změna 
+pohlaví dokončena. Nepožádá-li dotyčná osoba po změně pohlaví o změnu jména 
+a příjmení, matriční úřad uvede v knize narození její příjmení v souladu s pravidly 
+české mluvnice ve tvaru odpovídajícím novému pohlaví; jméno do knihy narození 
+nezapíše a učiní o tom oznámení soudu (MV ČR, 2023).
+Tématu nutnosti podstoupení chirurgické změny pohlaví za účelem možnosti získání 
+úřední změny jména se věnují mnozí autoři. Jedním z nich je Pavlica (2019, s. 46), 
+který uvádí, že podle výzkumu, organizovaného spolkem Transparent, z. s., lidé 
+podstupují sterilizující operace ze 74,7 % právě kvůli dosažení možnosti úřední změny
+pohlaví a jména.
+3.8.5. Právní problémy transgender osob
+V České republice by měla být uznávána právní kontinuita transsexuálních lidí, avšak 
+stále existuje řada situací, kdy toto právo není respektováno veřejnými či soukromými 
+subjekty. Problémem je mnohdy systém rodných čísel, kdy rodné číslo je základním 
+26
+nástrojem evidence obyvatel a které po podstoupení změny pohlaví musí být změněno, 
+neboť eviduje i pohlaví jedince. Celá řada subjektů bohužel není schopná tento fakt 
+akceptovat a na osoby, které prošly tranzicí, je nahlíženo jako na nově evidované
+jedince, čímž jsou mnohdy výrazně znevýhodňovány. Důsledkem toho je nutnost
+opětovného zaplacení poplatků za některé služby (zejména poplatky za registraci či za 
+vedení účtu), které již jednou zaplatili či jsou jim odpírány výhody, na které měly do 
+té doby právní nárok (například bankovní a pojišťovací služby vázané na předchozí 
+historii klienta). Může se stát, že těmto osobám je odmítnuto vystavení duplikátů 
+důležitých dokumentů, jako jsou doklady o získané praxi či odpracovaných letech, ale 
+například i vystavení potvrzení o udělení invalidního důchodu apod. V některých 
+případech pak musí složitě prokazovat svoji právní kontinuitu, což může být mnohdy
+zcela nemožné. Příčinou je neochota úředníků či celých institucí, která se často opírá 
+o informační systémy, které nepočítají s možností změny rodného čísla (Beňová, 2007, 
+s. 37-38).
+3.8.6. Detranzice
+Bohužel existují případy, kdy osoba, která podstoupila chirurgickou změnu pohlaví, 
+svého rozhodnutí později začala litovat. Příběhům takovýchto osob se věnuje kniha 
+autora Walta Heyera nesoucí název „Odvrácená tvář transgenderu“. Autor této knihy 
+sám prošel tranzicí a posléze i detranzicí.
+„Detranzice je proces, při kterém dochází k odstraňování účinků prodělané změny 
+pohlaví. Daný jedinec při detranzici opouští transgenderový život a vrací se k životu 
+podle svého původního pohlaví.“ (Heyer, 2020, s. 125). Nutno však podotknout, že 
+detranzicí nikdy nemůže být dosaženo navrácení funkčního pohlavního orgánu.
+27
+4 TRANSGENDER V PROSTŘEDÍ ŠKOL
+Školní prostředí je jedním z nejvýznamnějších socializačních činitelů jedince a velkou
+měrou ovlivňuje vývoj osobnosti.
+Podle Smetáčkové (2007, s. 14) ve školním prostředí mnohdy dochází k rozdílnému
+jednání s chlapci a s dívkami, ačkoli vyučující si tuto skutečnost častokrát 
+neuvědomují a mají pocit, že se všemi zachází stejně. Studie však prokázaly, že gender 
+hraje v pedagogické komunikaci významnou roli, neboť je strukturujícím elementem 
+společnosti. Rozdělení na ženy a muže ovlivňuje naše očekávání, prožívání i způsob 
+reakce v rozličných situacích.
+Období dospívání a rané dospělosti přináší hledání sebe sama a poznávání 
+a upevňování identity jedince. Transgender adolescenti v tomto období zažívají 
+pocity, které souvisí s konfliktem mezi jejich pohlavní identitou a tím, jaké pohlaví je 
+jim přiřazováno okolím. Tyto pocity jsou velmi intenzivní, a to především proto, že se 
+u nich již projevují tělesné znaky, patřící jejich biologickému pohlaví (Fifková, 2008, 
+str. 49-59).
+Transgender jedinci to ve školách nemají jednoduché. Na základě vyhodnocení 
+školního klimatu se buď skrývají pod genderovou identitou, se kterou se neztotožňují, 
+anebo, pokud školní prostředí vyhodnotí jako dostatečně přívětivé a naberou dost 
+odvahy, často po „coming outu“ čelí odmítání, posměchu, vyčlenění z kolektivu 
+a v nejhorších případech i šikaně. Následky nepřijetí v rámci školy (i mimo ni) vedou 
+podle Fifkové (2008, s. 42) ke zvýšenému riziku deprese, kázeňských přestupků, 
+poklesu koncentrace, narušení sociálních vztahů nebo problémům se zvládáním 
+školních povinností. Naopak otevřený a respektující přístup školy k transgender 
+žákům může mít významný dopad na jejich celkovou pohodu.
+4.1 Tvorba respektujícího a bezpečného prostředí
+Úkolem školy je poskytovat žákům mimo samotné výuky i bezpečný, otevřený,
+přívětivý prostor, podporovat rozvoj osobnosti studentů tak, aby byli schopni žít 
+plnohodnotný a sebevědomý život, nabízet rovné příležitosti a učit studenty toleranci 
+a respektu vůči rozmanitostem (Richards et al., 2017, s. 70). O možnostech, které 
+28
+mohou školy využít k tvorbě respektujícího a bezpečného prostředí pro transgender 
+žáky budou pojednávat následující podkapitoly.
+4.1.1. Vzdělávání pedagogických pracovníků
+Ve vzdělávacím systému je třeba se ve větší míře zaměřit na problematiku transgender
+osob a pomocí vhodných opatření přispět k tvorbě inkluzivního a bezpečného systému 
+vzdělávání. Konkrétně je potřeba posílit přítomnost témat, týkajících se transgenderu
+v agendách a ve vzdělávání školních psychologů, výchovných poradců, metodiků 
+prevence, ale také všech učitelů na všech stupních vzdělávání, zvlášť pak učitelů
+třídních, kteří pečují o vztahy v kolektivu (Česko, 2023b).
+Podle Beňové (2007, s. 53) se v praxi často jako problematická ukazuje nedostatečná 
+informovanost vyučujících spojená s ostychem při diskutování těchto témat se žáky.
+Metodici primární prevence na školách a zejména pak pracovníci a pracovnice 
+pedagogicko-psychologických poraden by se však v této problematice alespoň 
+částečně orientovat měli a měli by tak poskytnout podporu nejen žákům, kterých se 
+téma přímo dotýká, ale i pedagogům.
+Vzdělávání v této problematice by mělo začít již u přípravy studentů pedagogických 
+oborů na výkon budoucího povolání. Kancelář veřejného ochránce práv (2019, s. 83-
+84) doporučuje zařazení problematiky transgenderu a souvisejících měkkých 
+pedagogických dovedností do systému vzdělávání pedagogů základních a středních 
+škol.
+Aktuální a podrobné informace lze načerpat z externích zdrojů, jako jsou například 
+neziskové organizace, hnutí nebo centra primární prevence, které poskytují školení 
+v tématech menšinové sexuality, homofobie, transfobie a jejich následků, a to formou 
+seminářů, besed, přednášek, workshopů apod.
+4.1.2. Úprava vzdělávacího kurikula
+Kromě vytváření inkluzivního a bezpečného prostředí je potřeba zaměřit se i na 
+transformaci vzdělávacího kurikula, a to na všech jeho úrovních (rámcové vzdělávací 
+programy, školské vzdělávací programy i obsah výuky). Obsah učiva a učební 
+materiály jsou často genderově stereotypizující, příp. genderově slepé, ale v důsledku 
+29
+jsou také heteronormativní, což znamená, že zneviditelňují genderově nestandardní 
+jedince a jejich životy (Úřad vlády ČR, 2020, s. 39). Stejného názoru je i Smetáčková 
+(2007, s. 17), která upozorňuje na to, že bez patřičné reflexe se i to, co se ve škole 
+žákyně a žáci učí, může stát nástrojem pro množení genderových stereotypů. 
+Genderové vztahy a nerovnosti bývají opomíjeny jako téma a látka je prezentována 
+androcentricky (tzn. maskulinita je nadřazena nad feminitou).
+Vzhledem k nedostatečnému důrazu na téma transgenderu v rámcových vzdělávacích 
+programech se lze setkat s množstvím kritiky a vzniká tak tlak na nápravu aktuální 
+neuspokojivé situace. Hlavním cílem je sjednocení tohoto tématu v kurikulárních 
+dokumentech tak, aby vznikl jasný rámec toho, co má být součástí vzdělávání. 
+Kancelář veřejného ochránce práv doporučuje „Upravit rámcové vzdělávací programy 
+pro základní a střední vzdělávání tak, aby zde byla obsažena témata a výstupy 
+vzdělávání bezprostředně související s LGBT+ komunitou a specifiky jednotlivých 
+sexuálních minorit“ (Česko, 2023a).
+4.1.3. Prevence šikany transgender žáků
+Ve školách se setkáváme s různými druhy šikany, která podle Kabíčka (2014, s. 151) 
+pramení nejčastěji z domnělé odlišnosti jedince od většiny. Slovem šikana 
+vyjadřujeme opakované a záměrné fyzické či psychické ubližování. Šikana může 
+nabývat různých forem, například od zesměšňování, ponižování, roznášení pomluv, 
+izolování a zastrašování přes ničení osobních věcí až po fyzické bití, sexuální 
+obtěžování a zneužívání (Kabíček, 2014, s. 152).
+Častým spouštěčem šikany bývá domnělá nebo skutečná sexuální orientace studenta, 
+která je často založená na tom, že student nesplňuje genderové standardy. Šikana 
+směrem k transgender osobám se nazývá transfobie (Česká škola, 2016, s. 3).
+V Americké studii bylo podle Ryan (2003, s. 109) prokázáno, že studenti, kteří se 
+přihlásili k LGBT orientaci, se stali obětmi šikany až čtyřikrát častěji. 
+Je důležité zaměřit se ve školním prostředí na eliminaci transfobie, neboť dle 
+výzkumné zprávy České školy (2016, s. 5) se s transfobií setkáváme nejčastěji 
+v období puberty, a to vlivem rostoucího tlaku na genderovou konformitu. Janošová 
+(2008, s. 134) se ve své publikaci „Dívčí a chlapecká identita: vývoj a úskalí“ věnuje 
+30
+schopnosti různě starých žáků a studentů přijmout a respektovat odlišnost jedince.
+Popisuje, že v období adolescence (což odpovídá období studia na střední škole) bývají 
+naopak osoby v nejtolerantnějším věku a dokážou až na výjimky přijmout odlišného 
+jedince téměř bez problému.
+Kromě již zmiňované úpravy kurikula by se účinným nástrojem pro prevenci vzniku
+transfobie mohla stát reflexe různých genderových identit a rolí a eliminace 
+stereotypizace při běžném projevu vyučujících. Důležitá je též správně použitá 
+terminologie, včetně vymezení rozdílu mezi genderovou identitou a sexuální orientací.
+Škola má dle Školského zákona (č. 561/2004 Sb.) povinnost prevence vzniku sociálněpatologických jevů. Dle Kanceláře veřejného ochránce práv (2019, s. 80-81) by do
+školního řádu měly být uvedeny konkrétní podmínky ochrany před sociálněpatologickými jevy jako je nepřátelské, diskriminující nebo násilné jednání. Zároveň 
+pokud škola ví o jakýchkoli projevech šikany a nedojde ke včasné intervenci, stává se 
+zodpovědnou i za její případné nepříznivé dopady.
+Přijetí opatření, kdy škola otevřeně deklaruje negativní postoj školy ve vztahu
+k transfobii se ukazuje jako účinné a může velkou měrou přispět k usnadnění celého 
+procesu tranzice studentů. Aktuálně je však takových případů málo a podobná témata 
+ve školních dokumentech nejsou explicitně řešena (Česká škola, 2016, s. 12). Kancelář 
+veřejného ochránce práv (2019, s. 81) doporučuje středním školám zahrnutí tématu 
+řešení homofobní a transfobní šikany, včetně konkrétních cílů, forem a metod práce se 
+žáky do jejich minimálních preventivních programů. Minimální preventivní program 
+je dokument, který každá škola samostatně vypracovává a který vychází především 
+z Metodického doporučení k primární prevenci rizikového chování u dětí, žáků 
+a studentů ve školách a školských zařízeních, vydaného Ministerstvem školství, 
+mládeže a tělovýchovy v roce 2010.
+4.2 Podpůrná opatření ze strany školy
+Prostředí vzdělávacích institucí může být s ohledem na různorodé podmínky 
+v domácím prostředí v některých případech jediným místem, kde jsou transgender 
+osoby přijímány a respektovány takové, jaké jsou. Škola by proto vždy měla být 
+31
+transgender studujícím oporou. Následující podkapitoly se budou věnovat možným 
+opatřením, která školy v tomto směru mohou učinit.
+4.2.1. Poradenská činnost
+Každá škola by svým studentům měla poskytovat individuální podporu v podobě 
+možnosti svěřit se s palčivým tématem, prodiskutovat jej s erudovanou osobou 
+a případně společně najít varianty, jak studujícímu prostředí vzdělávací instituce co 
+možná nejvíce zpříjemnit. Základem je informovat žáky o tom, na koho se v rámci 
+školy mohou obrátit (California Safe Schools Coalition, 2017, s. 2).
+Podle Smetáčkové (2007, s. 51-52) z hlediska agendy jednotlivých zaměstnanců
+v rámci škol spadá toto téma nejvíce do oblasti výchovného poradenství. Výchovní 
+poradci se však ve školách musí věnovat poměrně široké škále témat, což vede 
+k nereálnosti zvládání všech relevantních oblastí. Vedle volby povolání jsou ve 
+výchovném poradenství často řešenými tématy specifické poruchy učení (SPU),
+nekázeň při vyučování nebo případně problematické vztahy se spolužáky a šikana. 
+Zástupci školy by však za každé situace měli být schopni poskytnout studujícím,
+případně jejich zákonným zástupcům relevantní kontakty na další instituce, organizace 
+či spolky, které se daným tématem zabývají. V České republice se jedná například 
+o spolek Transparent, z.s., který mimo jiné poskytuje prostor pro anonymní sdílení 
+pocitů či problémů transgender osob s mentory, kteří prošli podobným procesem.
+4.2.2. Přijetí informace o transgenderové identitě žáka
+Ve chvíli, kdy se žák či jeho zákonný zástupce obrátí na odpovědného pracovníka 
+školy a oznámí mu skutečnost týkající se jeho transgenderové identity, jedná se o velmi 
+specifickou situaci, se kterou si škola často neví rady, zvlášť pokud jde o první 
+takovýto případ. Škola v takovém případě někdy vyžaduje medicínské potvrzení či 
+důkazy a jejich absenci pokládá za nedostatečné prokázání této skutečnosti. Pokud 
+škola odmítá respektovat a přijmout transgenderovou identitu žáka, často se opírá 
+o oficiální údaje, uvedené v úředních dokladech žáka. O podmínkách získání nových 
+dokladů pojednávaly předchozí podkapitoly této práce a je z nich zřejmé, že získání 
+nových dokladů je v České republice před dosažením dospělosti téměř nemožné. Pro 
+32
+zmíněný argument neexistuje žádná právní opora, která by školám přímo nařizovala 
+při kontaktu se žákem používat jeho oficiální jméno nebo rod. Dle Školského zákona 
+(č. 561/2004 Sb.) je však výslovně zakázána diskriminace žáků, za kterou by se takové 
+odmítnutí dalo považovat.
+Pro vytvoření bezpečného a respektujícího prostředí je nezbytné, aby škola zaujala
+pozitivní postoj a stala se transgender žákům oporou.
+4.2.3. Oslovování transgender žáků
+V mnoha jazycích je rozlišován jmenný rod, konkrétně rod mužský, ženský a střední. 
+Některé jazyky na tento jev kladou menší či téměř žádný důraz (např. němčina 
+a angličtina), čeština je však jedním z jazyků, kde je na jmenný rod kladen důraz
+značný. Tato gramatická predispozice se tak může stát jednou z překážek začleňování 
+dítěte s genderovou odlišností.
+Podle Gender Inclusive Schools (2023) je používání vybraného jména (a rodu) při 
+komunikaci s transgender žákem významným prvkem, který podává zprávu 
+o autenticitě a genderovém prožívání daného jedince. Stejný zdroj dále uvádí, že
+v případě záměrného používání nesprávného oslovování se jedná o mikroagresi. 
+V případě, že ke „coming outu“ transgender žáka došlo v době studia na dané škole 
+a onen žák býval dříve ve škole znám pod jiným jménem, může docházet 
+k nezáměrnému oslovování původním jménem. Každé nesprávné oslovení může být 
+pro transgender osobu či osobu procházející tranzicí až fyzicky bolestivé, a proto by 
+měli být učitelé a další personál školy při oslovování transgender žáka, pokud možno 
+co nejvíce opatrní.
+Školy ve věci oslovování studentů nemusí dodržovat ani psychologická doporučení, 
+neboť v Česku neexistuje žádná legislativa, kterou by se musely řídit. „Školská 
+legislativa změnu pohlaví neřeší. Způsob oslovování, používání toalet, šaten a další 
+praktické náležitosti je vždy potřeba řešit po dohodě se žákem a také podle konkrétních 
+podmínek dané školy“ (Kolovrátková, 2019). Nejvíce inkluzivním řešením je 
+respektování přání transgender žáka a jeho oslovování jím zvoleným jménem.
+33
+4.2.4. Úprava prostor segregovaných dle pohlaví žáků
+Ve školách, stejně jako v dalších veřejných prostorech, bývá zvykem oddělovat 
+některá místa, jako jsou toalety či šatny, podle genderu. Vzhledem k automatickému 
+spojování pohlaví s genderem bývá tato segregace vysvětlována jako přirozená 
+a založená na biologických rozdílech mezi muži a ženami. Tyto prostory dle West 
+a Zimmerman (2008, s. 11) bývají vybaveny dimorfním zařízením, jako jsou pisoáry 
+na mužských toaletách anebo komplexní zázemí pro péči o zevnějšek u žen, a to 
+i přesto, že u obou pohlaví může být dosaženo stejného cíle za pomoci stejných 
+prostředků, jako je tomu například i v domácím prostředí.
+Pavlica (2019, s. 16) uvádí, že návštěva veřejných genderově segregovaných míst se
+v každodenním životě transgender osoby stává jednou z nejvíce stresujících situací.
+Transgender žáci se ve škole v případě existence dvou genderových variant prostor 
+toalet a šaten potýkají s nutností rozhodnout se, která zařízení využívat.
+Vzdělávací instituce v ohledu využívání preferovaných toalet a šaten může relativně 
+snadno transgender žactvu vyjít vstříc. Jednou z variant je respektování volby daného 
+jedince a umožnění využívání těchto prostor dle jeho vlastní preference. Americký 
+portál Gender Inclusive Schools (2023) uvádí, že zavedení pravidel, umožňujících 
+využívání genderově segregovaných prostor dle vlastní volby, s sebou nenese žádné 
+problémy, o kterých se někdy v tomto ohledu mluví a většinou se jedná jen 
+o předsudky, pramenící z neporozumění transgender tématice. 
+Druhou variantou je v případě potřeby zvýšeného soukromí vyčlenění speciálního 
+prostoru, vyhovujícího potřebám žactva. Genderově neutrální (nebo též „nebinární“)
+toalety v dnešní době nejsou ničím neobvyklým a vyskytují se v prostorách několika
+českých škol a univerzit, záleží však na možnostech, které budova školy nabízí.
+Využity mohou být například bezbariérové prostory, které nebývají genderově 
+rozdělené, anebo prostory učitelské. Dle portálu Gender Inclusive Schools (2023) by 
+však transgender žactvo nikdy nemělo být k využívání takto separovaných prostor
+nuceno, pokud se nejedná o jejich vlastní volbu.
+34
+4.2.5. Účast na genderově rozdělovaných předmětech a aktivitách
+S rozdělováním kolektivu podle pohlaví se v českých školách při výuce některých 
+předmětů setkáváme zcela běžně. Transgender žactvo může být při takovémto 
+rozdělování vystaveno stresu a nepříjemným nebo trapným pocitům. Gender Inclusive 
+Schools (2023) doporučuje rozdělování třídního kolektivu podle genderu omezit na 
+nezbytné minimum. V případě, že je takové rozdělování praktikováno, označuje za 
+vhodné nechat transgender studenty samotné na základě jejich genderové identity 
+rozhodnout, do které skupiny se zařadí.
+Často jsou takovýmto způsobem rozdělovány hodiny tělesné výchovy. Mnohdy se 
+stává, že aby se transgender žák vyvaroval nutnosti převlékání se a cvičení ve skupině, 
+která nepřísluší jeho genderové identitě, nechá se z hodin tělesné výchovy omluvit 
+ošetřujícím lékařem a neúčastní se jich. Je nutné mít na paměti, že absolvování hodin 
+tělesné výchovy je zásadní pro rozvoj optimálního zdraví žáků, seberozvoje a duševní 
+pohody, a proto je na místě respektovat preference transgender žáků a nechat volbu 
+skupiny na nich či hodiny tělesné výchovy dle pohlaví vůbec nerozdělovat.
+Dalšími situacemi, kdy je třeba řešit problémy genderové segregace, je účast na 
+školních zájezdech, sportovních kurzech, výletech nebo školách v přírodě, kde se 
+zůstává přes noc. V takovýchto případech bývá při rozdělování pokojů kolektiv 
+segregován na dívčí a chlapeckou skupinu a vzájemný kontakt těchto dvou skupin 
+bývá přísně hlídán. I v tomto případě je dle Gender Inclusive Schools (2023) správné 
+nechat možnost volby skupiny na daném jedinci či v případě, že to kapacita 
+ubytovacího zařízení dovoluje, variantou může být též samostatný pokoj, který žákovi 
+poskytne dostatek soukromí. Nedostatečná vstřícnost a ohleduplnost by mohla vést 
+k vynechávání takových akcí a vyčleňování transgender žáka z plnohodnotné 
+participace na školních aktivitách.
+35
+PRAKTICKÁ ČÁST
+5 Vlastní šetření
+5.1 Charakteristika místa šetření
+Jako místo šetření byl zvolen Pardubický kraj. Ten leží ve východní oblasti Čech, 
+zahrnuje ale i severozápadní okraj území Moravy. Dle rozlohy (4 519 km2) se jedná 
+o pátý nejmenší kraj v České republice, skládající se ze čtyř okresů: Chrudim, 
+Pardubice, Svitavy a Ústí nad Orlicí. Výhodou tohoto kraje je jeho poloha z hlediska 
+dopravního spojení. K 31.12.2021 v Pardubickém kraji žilo 514 518 obyvatel. Podíl 
+nezaměstnaných osob byl koncem roku 2021 nejnižší mezi kraji a činil 2,45 %, naproti 
+tomu průměrná hrubá měsíční mzda zaměstnanců byla třetí nejnižší v republice, a to 
+34 082 Kč. V oblasti vzdělávání bylo v roce 2021 v Pardubickém kraji provozováno 
+320 mateřských škol, 251 základních škol, 20 gymnázií, 62 středních škol a 6 vyšších 
+odborných škol. Vysoké školství v kraji zastupuje Univerzita Pardubice (ČSÚ, 2023).
+5.2 Realizace dotazníkového šetření
+Dotazníkové šetření je metoda sběru dat, používaná zejména při sociologickém 
+výzkumu, během které jsou respondentům položeny určité otázky. Jejich odpovědi 
+jsou zaznamenávány a následně vyhodnocovány (Petrusek, 1996, s. 24).
+Výhodami dotazníkového šetření jsou jeho široká využitelnost pro sběr informací na
+rozličná témata, možnost získání velkého množství dat, standardizovanost sběru dat 
+a anonymita respondentů, což může vést k větší otevřenosti při poskytování odpovědí.
+Rizikem při využití metody dotazníkového šetření je omezená škála odpovědí (tzn. 
+odpovědi nemusí odpovídat přesnému názoru respondenta), či zkreslenost výsledků 
+při využití nevyváženého vzorku respondentů. Odpovědi je možné analyzovat pomocí 
+matematických modulů či statistických technik (Gavora, 2010, s. 99).
+Podle Gavory (2010, s. 99-100) by měl dotazník mít předem promyšlenou strukturu
+a při jeho přípravě je třeba základní problém nejprve rozdělit do několika okruhů
+(podproblémů), přičemž každý z nich je následně naplňován otázkami. Dotazník se 
+obvykle skládá ze tří částí. Vstupní část popisuje účel dotazníku a také zdůrazňuje 
+36
+význam respondentových odpovědí při řešení dané problematiky. Druhá část se skládá 
+z vlastních otázek, přičemž na prvních místech bývají otázky jednodušší a přitažlivější,
+aby nedošlo k odrazení respondenta. Na konci dotazníku bývají pak otázky 
+osobnějšího charakteru. V závěrečné části je zvykem uvést poděkování respondentům.
+K vytvoření dotazníku jsem použila webový formulář „Google Forms“. Tento 
+internetový server automaticky zaznamenává odpovědi a z výsledků dotazníku vytváří 
+statistické grafy. Dotazník obsahoval celkem sedmnáct otázek, z čehož většina z nich 
+byla uzavřeného charakteru (tzn. respondent vybíral z předem připravených 
+odpovědí). V případě, kdy bylo třeba dovysvětlení odpovědi, měl respondent možnost 
+upřesnit svůj názor formou odpovědi otevřené. Na úplném závěru dotazníku měl 
+respondent prostor pro vyjádření vlastního názoru na danou tématiku, což se pro 
+vyhodnocení dotazníku ukázalo být velmi cenným podkladem.
+Dotazník byl distribuován elektronicky, formou e-mailu. Cílil na středoškolské 
+pedagogy a jeho podstatou bylo získání jejich názorů na tématiku transgenderu ve 
+školství. K distribuci dotazníku vlastním zaměstnancům byly osloveny zejména 
+střední školy sídlící v Pardubickém kraji. Sběr dat probíhal v období mezi 13.02.2023 
+– 26.02.2023 a povedlo se nasbírat celkem 64 odpovědí.
+5.3 Zhodnocení výsledků dotazníkového šetření
+Do dotazníkového šetření se zapojilo celkem 64 pedagogických pracovníků, 
+působících na středních školách. Z toho v 37 případech se jednalo o respondentky
+ženského pohlaví (57,8 %) a 27 respondentů uvedlo pohlaví mužské (42,2 %).
+Otázka směřující na věk respondentů potvrdila, že vzorek oslovených pedagogických 
+pracovníků byl vybrán správně, neboť zastoupení každé z věkových skupin se ukázalo 
+být relativně rovnoměrné. Nejpočetněji zastoupená věková skupina pedagogů byla 
+v rozmezí 41-50 let věku (28,1 %), následovaná pedagogy ve věku 51-60 let (23,4 %) 
+a skupinou pedagogů ve věku 31-40 let (18,8 %). Zbývající respondenti byli ve věku 
+převyšujícím 61 let (17,2 %) a respondenti do 30 let (12,5 %).
+37
+Graf 1: Věk oslovených pedagogických pracovníků
+Zdroj: vlastní šetření, 2023
+Podobně rovnoměrné odpovědi uváděli respondenti i na otázku směřující na délku 
+jejich pedagogické praxe. Nejčastěji na dotazník odpověděli respondenti 
+s pedagogickou praxí delší, než 31 let (26,6 %), následováni skupinou pedagogů 
+s praxí mezi 16-25 lety (20,3 %). 18,8 % respondentů se pak řadilo do skupiny s délkou 
+praxe v rozmezí 2–6 let a 17,2 % spadalo do kategorie s délkou praxe mezi 7-15 lety. 
+Méně často (9,4 % případů) se jednalo o začínající pedagogy s praxí do 2 let a nejméně
+pedagogů (7,8 %) zapadalo do kategorie pedagogů s 26 až 30 lety praxe.
+Graf 2: Délka pedagogické praxe respondentů
+Zdroj: vlastní šetření, 2023
+38
+Následující otázka směřovala na to, zda pedagogičtí pracovníci ve školách vnímají
+rozdílné zacházení se žáky a žákyněmi na základě jejich pohlaví. 35,9 % respondentů 
+odpovědělo, že v prostředí školy nevnímá v přístupu k žákům a žákyním žádné 
+rozdíly. Dalších 50 % rozdílné zacházení také spíše nevnímá. 3,1 % respondentů se 
+vyjádřilo neutrálně (nebyli si jisti), 9,4 % pak vnímalo určité rozdíly a 1,6 % (což 
+odpovídá jednomu respondentovi) vnímalo rozdílné zacházení s chlapci a dívkami na 
+základě pohlaví jako značné.
+Tuto otázku měli respondenti možnost slovně okomentovat, tzn. vysvětlit v čem dle 
+jejich názoru a zkušeností rozdílné zacházení s chlapci a dívkami ve školách spočívá. 
+Doplňující informace poskytlo 9 respondentů, přičemž hned 5 z nich zmínilo 
+zlehčování podmínek pohlaví, které je v menšině, typicky dívek, studujících technické 
+obory. Další dva respondenti zmínili rozdílnou zátěž u dívek a chlapců při praktickém 
+vyučování.
+Graf 3: Vnímání rozdílného zacházení se žáky a žákyněmi na základě pohlaví
+Zdroj: vlastní šetření, 2023
+Další otázka cílila na názor pedagogických pracovníků na genderovou stereotypnost 
+učiva a učebních materiálů. Převážná většina respondentů byla toho názoru, či měla
+takovou zkušenost, že učivo a učební materiály genderově stereotypizující určitě
+nejsou. S tímto názorem se plně ztotožňuje 28,1 % respondentů, dalších 50 % mělo
+podobný pocit, a vyjádřilo se ve smyslu, že učivo a učební materiály spíše nejsou 
+genderově stereotypizující. 14,1 % respondentů si nebylo jisto či na dané téma nemělo 
+názor. 6,3 % respondentů považovalo učivo a učební materiály za lehce 
+39
+stereotypizující a 1,6 % pak považovalo učivo a učební materiály za silně 
+stereotypizující. 
+I u této otázky měli respondenti možnost okomentovat a vysvětlit čím jsou dle jejich 
+názoru učební materiály a učivo stereotypizující. Tuto možnost využilo 5 respondentů.
+Jednou z odpovědí bylo prosazování tradiční rodiny (tzn. matka, otec, potomstvo), 
+s čímž se částečně ztotožnil i respondent, který uvedl svou zkušenost se zastáváním 
+většinového názoru společnosti. Další z respondentů uvádí, že například v učebnicích 
+českého jazyka je stereotypizace patrná například již jen z použitých ukázek –
+vydělávající muž v pozici živitele rodiny, matka pečující o děti, v roli úspěšných 
+sportovců bývají uváděni zejména muži, dívkám je vnucováno mateřství. Opačnou 
+zkušenost měl však další respondent, který uvedl, že například učebnice přírodních 
+věd bývají orientovány na určitý problém/dílo/tezi a málokdy bývají orientovány na 
+člověka, a tudíž genderově stereotypní zpravidla nebývají.
+Graf 4: Vnímání učiva a učebních materiálů jako genderově stereotypizujících
+Zdroj: vlastní šetření, 2023
+Účelem následující otázky bylo získání názorů pedagogů na dostatečnost komunikace 
+transgender problematiky na veřejnosti (např. v médiích). Nadpoloviční většina 
+respondentů (57,9 %) označila transgender problematiku za dostatečně 
+komunikovanou (konkrétně 39,1 % odpovědělo „spíše ano“; 18,8 % pak „určitě ano“). 
+9,4 % respondentů si nebylo jisto či nemělo na daný dotaz názor. Zbývajících 32,7 % 
+respondentů (součet odpovědí „určitě ne“ a „spíše ne“) bylo však toho názoru, že 
+40
+zmiňované problematice by bylo třeba při komunikaci s veřejností či v médiích 
+věnovat více pozornosti.
+Graf 5: Vnímání transgender problematiky jako dostatečně komunikované
+Zdroj: vlastní šetření, 2023
+Další otázka řešila názory pedagogů na bezpečnost prostředí školy pro transgender 
+žactvo. Nejvíce odpovědí (46,9 %) bylo zaznamenáno u odpovědi „spíše ano“ a většina
+respondentů tedy považuje prostředí školy pro transgender žactvo za převážně 
+bezpečné. Jako zcela bezpečné (odpověď „určitě ano“) vnímalo prostředí školy pro 
+transgender žactvo také dalších 18,8 % respondentů. 9,4 % si při odpovídání nebylo 
+jisto či nemělo na dané téma utvořený názor. 20,3 % respondentů vnímalo prostředí 
+školy pro transgender žactvo jako poněkud rizikové a zbývajících 4,7 % respondentů
+dokonce jako nebezpečné.
+Graf 6: Bezpečnost školního prostředí pro transgender žactvo
+Zdroj: vlastní šetření, 2023
+41
+Cílem této otázky bylo zjistit, zda se respondenti během své pedagogické praxe setkali
+s případem transgender žáka nebo žákyně. S takovýmto případem se na případu 
+studentů na jejich škole přímo setkalo 65,6 % respondentů. Dalších 26,6 % si nebylo 
+zcela jisto. S případem transgenderu se během své praxe zcela jistě nikdy nesetkalo 
+pouze 7,8 % respondentů.
+Dotazník dále pokračoval konkrétnějšími otázkami pro ty respondenty, kteří 
+odpověděli „ano“ a s případem transgender žáka se již setkali. Do následující části 
+dotazníku tedy pokračovalo 42 respondentů.
+Graf 7: Výskyt transgender žáka/žákyně ve škole
+Zdroj: vlastní šetření, 2023
+Respondentům, na jejichž pracovišti se vyskytl případ transgender žáka/žákyně byla 
+dále položena otázka na způsob přijetí informace o genderové nekonformitě daného 
+žáka/žákyně ze strany pedagogických pracovníků školy. Dvě nejvíce zastoupené 
+odpovědi (celkem 71,4 %) byly pozitivního charakteru, kdy pedagogičtí pracovníci 
+přijali tuto informaci o svém žáku/žákyni vesměs bez problémů. V dalších 21,4 % 
+případech se vyskytly drobné výhrady pedagogických pracovníků, avšak informace 
+stále byla z jejich strany akceptována. 4,8 % respondentů si reakcemi svých kolegů 
+nebylo jisto a ve zbývajícím 2,4 % (odpovídá 1 respondentovi) došlo k větším 
+problémům a nepřijetí této informace ze strany pedagogického sboru.
+42
+Graf 8: Akceptace informace o genderové nekonformitě žáka/žákyně ze strany 
+školy a pedagogických pracovníků
+Zdroj: vlastní šetření, 2023
+Následující otázka se týkala přijetí nastalé situace respondentem samým. 59,5 % 
+respondentů nemělo žádný problém akceptovat skutečnost, a to ani například ve 
+smyslu oslovování žáka či vlastního přijetí. 38,1 % respondentů mělo v nastalé situaci 
+malé problémy, jinak ji však akceptovali. 2,4 % (1 respondent) si nebyl jist.
+Graf 9: Akceptace informace o genderové nekonformitě žáka/žákyně ze strany 
+respondenta
+Zdroj: vlastní šetření, 2023
+Následující otázka se věnovala zkušenosti pedagogů se šikanou transgender 
+žáka/žákyně. Většina respondentů (59,5 %) uvedlo, že nebyla ve škole vůči 
+transgender žáku/žákyni pozorována žádná šikana. Dalších 38,1 % si touto informací 
+43
+nebylo zcela jisto. Šikana transgender žáka/žákyně se vyskytla pouze ve 2,4 % případů 
+(odpovídá 1 respondentovi).
+Graf 10: Výskyt šikany vůči transgender žáku/žákyni
+Zdroj: vlastní šetření, 2023
+Další otázka cílila na získání informací o krocích, které daná škola podnikla 
+k usnadnění inkluze transgender žáka/žákyně. Většina respondentů (59,5 %) uvedla, 
+že jejich škola podnikla určité kroky k usnadnění inkluze. 33,3 % respondentů si 
+nebylo reakcí školy jisto a 7,1 % respondentů uvedlo, že jejich škola žádná usnadňující 
+opatření nepodnikla.
+Ti respondenti, kteří označili odpověď „ano“ (celkem 25) měli možnost doplnit, o jaké 
+kroky se jednalo. 15 respondentů uvedlo, že jejich škola poskytla dotyčnému 
+žáku/žákyni (či zákonným zástupcům) poradenství. 12 respondentů informovalo, že 
+jejich škola přijala nové jméno dotyčného žáka/žákyně. V 11 případech byli 
+o skutečnosti výskytu transgender případu ve škole citlivě informováni spolužáci 
+dotyčné osoby. V 9 případech škola umožnila dotyčné osobě větší soukromí, a to 
+například vyhrazením samostatného WC nebo šatny. 7 respondentů odpovědělo, že 
+jejich škola zrealizovala speciální školení pro pedagogy.
+44
+Graf 11: Uskutečněné kroky k usnadnění inkluze dotyčného žáka/žákyně
+Zdroj: vlastní šetření, 2023
+Poslední otázka dotazníku byla otevřeného charakteru. Možnost odpovědět dostali 
+všichni respondenti, bez ohledu na to, zda se sami během své pedagogické praxe 
+setkali s případem transgender žáka/žákyně. Otázka se týkala vyjádření jejich 
+osobního názoru na transgender problematiku žáků/žákyň středních škol.
+Názory jednotlivých pedagogů na danou tématiku jsou přirozeně různé. Zajímavý je 
+například fakt, že někteří z respondentů považují transgender problematiku za 
+relativně nové a prozatím nezmapované téma a jiní naopak za téma zcela běžné. Tento 
+fakt přisuzuji poměrně velkému rozptylu věku respondentů, kdy byl dotazník 
+zaslán osobám, spadajícím věkově do různých generací.
+V několika případech se však názory jednotlivých respondentů shodovaly. Společným 
+názorem bezmála dvou desítek respondentů bylo, že transgender je v dnešní době 
+svým způsobem módní záležitostí, příležitostí ke zviditelnění se či způsobem 
+vymanění se ze stereotypů a je mnohdy těžké odlišit seriózní případy od těch, které se 
+snaží o způsobení jakési senzace. Opravdový problém s pohlavím má podle nich jen 
+zlomek řešících. 
+Několikrát se opakoval také názor na složitější přijetí skutečnosti ze strany starších 
+pedagogů, neboť dané téma nebylo nijak akcentováno v době, kdy sami byli studenty, 
+o tématu se nic moc nevědělo a nemluvilo se o něm. Současná mladá generace je 
+otevřenější a situaci lépe chápe, přijímá ji jako přirozenou věc. 
+45
+Dle několika respondentů je v této problematice nutné zajistit další vzdělávání 
+pedagogů, a to nejen o podstatě problému, ale také zaměřené na dovednosti 
+komunikace tématu se studenty. Transgender žákům je třeba zajistit bezpečné, 
+otevřené a férové prostředí ve třídním kolektivu i ve škole celkově a předejít tak vzniku 
+možné šikany.
+Někteří respondenti zdůrazňovali nutnost konzultací transgender žactva s psychology, 
+výchovnými poradci, či nejlépe osobami, kterým dotyčný věří. Pokud by se totiž daná 
+osoba rozhodla přistoupit k vlastní změně pohlaví, jednalo by se o závažný a těžko 
+zvrátitelný zásah do organismu, a proto je nutné, aby si dotyčná osoba nejprve 
+uvědomila, zda je její vnitřní nesoulad s biologickým pohlavím „opravdový“. Jeden 
+respondent k tomuto tématu dále doplnil, že rozhodne-li se student pro operativní 
+změnu pohlaví, jedná se pak o velmi statečný krok a takovému člověku je pak třeba 
+poskytnout veškerou možnou podporu. 
+Dle názoru jednoho respondenta by měla být zvýšena hranice pro rozhodnutí se 
+k tranzici na nejméně 21 let věku dané osoby.
+Jeden z respondentů se v rámci otevřené odpovědi rozhodl sdílet vlastní zkušenost, 
+kdy se na něho obrátila osoba (absolvent/ka) školy, jež po vykonání maturitní zkoušky 
+prošla procesem změny pohlaví. Dotyčná osoba měla při získání povolání problém 
+s doložením dosaženého vzdělání, neboť na maturitním vysvědčení bylo uvedeno 
+původní jméno a pohlaví dotyčné osoby. Respondent tehdy dle svých slov velmi 
+důsledně komunikoval s CERMATem, aby umožnil vydání opisu vysvědčení po 
+podstoupené změně, kterou osoba naprosto správně podložila doklady z matriky. 
+Jednalo se o první takovýto případ v ČR od zavedeni CERMATu a informační systém 
+se s tím neuměl technicky vypořádat. Respondent tedy pravděpodobně velkou měrou 
+přispěl k tomu, že byl následně systém přeprogramován a nyní již snad podobné 
+případy pro transgender osoby nejsou takovým problémem.
+Mezi obdrženými odpověďmi se nevyskytla žádná reakce negativního či nenávistného 
+charakteru vůči transgender osobám a problematice obecně. Naprostá většina 
+respondentů přistupovala k tomuto tématu s otevřenou myslí a respektem. Dále se 
+vyskytlo několik případů, kdy respondenti neměli na danou problematiku vyhraněný 
+46
+názor a skutečnost, že se jejich žák/žákyně identifikuje jako osoba opačného pohlaví 
+nijak neovlivňuje jejich přístup k dané osobě a její rozhodnutí čistě jen respektují.
+47
+6 Vlastní doporučení
+Na základě dotazníkového šetření bylo zjištěno, že postoje pedagogů k problematice 
+transgender osob ve školství jsou vesměs pozitivní, neboť žádný z respondentů se 
+k dané tématice nestavěl vyloženě odmítavě. Tato skutečnost je nesmírně důležitá, 
+dalo by se říct, že snad i základní a hodnotím ji velice pozitivně. Pozitivní a otevřený 
+přístup pedagogů však samotný nestačí. Vzhledem k tomu, že při zpracování literární 
+rešerše jsem narazila na fakt, že do dnešního dne neexistuje pro školy jasně stanovená 
+metodika pro správné zacházení s transgender žactvem, je v tuto chvíli vhodné posílit 
+vzdělávání v problematice transgenderu nejen u školních psychologů, výchovných 
+poradců nebo metodiků prevence, ale také u učitelů tak, aby byli schopni pro 
+transgender žactvo vytvářet ve školách co nejpřívětivější a nejbezpečnější prostředí.
+Přednášky a třeba i jednodenní online kurzy na téma inkluze transgender žactva ve 
+školním prostředí a zásad respektující komunikace nabízí například spolek 
+Transparent, z. s.
+Mezi odpověďmi respondentů se objevilo pár názorů o genderové stereotypii obsahu 
+učiva a vzdělávacích materiálů. Jednalo se zejména o učivo a materiály zaměřené na 
+výuku sociálních věd. Na místě je eliminace učiva, které by podporovalo vytváření 
+genderových stereotypů a také úprava kurikula tak, aby obsahovalo témata související 
+s LGBT+ komunitou a jednotlivými minoritami. Respondenti též zmínili rozdílnou 
+fyzickou zátěž u chlapců a dívek při výkonu praktického výcviku. Ta je dána pravidly 
+bezpečnosti, a nejen k transgender žactvu, ale i ke všem ostatním žákům a žákyním by 
+mělo být přistupováno individuálně, s ohledem na jejich fyzické možnosti a zdravotní 
+stav.
+Za pomoci obdržených odpovědí se též podařilo vytvořit si určitý obrázek 
+o komplikacích při přijetí informace o transgenderové identitě ze strany zaměstnanců 
+škol. Potěšující je skutečnost, že nadpoloviční většina respondentů neměla během své 
+praxe žádný problém s akceptací genderové nekonformity svého žactva. Vyskytly-li 
+se v rámci přijetí této skutečnosti nějaké problémy, byly jen malého charakteru, a to 
+například při navyknutí si na oslovování dotyčné/ho žáka/žákyně odlišným jménem 
+a rodem. Co se týče samotného oslovování transgender žactva, jak již bylo zmíněno 
+v předchozích kapitolách, v České republice neexistuje žádná legislativa, která by pro 
+48
+něj stanovovala jasná pravidla. Nejvíce inkluzivním řešením, které v tomto ohledu 
+doporučuji, je respektování přání dotyčné/ho transgender žáka/žákyně a jeho/její 
+oslovování zvoleným jménem.
+Dotazníkové šetření, které bylo v rámci této práce provedeno, odhalilo minimální
+přítomnost šikany transgender žactva ve školním prostředí. Je však nutné zmínit, že 
+poměrně vysoké procento respondentů si výskytem šikany nebylo jisto (38,1 %) 
+a nelze ji tak zcela vyloučit. Pokládám tedy za vhodné učinit ve školách preventivní 
+opatření, proti vzniku šikany, a to například již zmiňovanou úpravou kurikula, anebo 
+reflexí různých genderových identit a eliminací stereotypizace při běžném projevu 
+vyučujících. Tématika transgenderu by též měla být zahrnuta do minimálního 
+preventivního programu každé školy. Škola by též měla zaujmout negativní postoj 
+k jakémukoli projevu transfobie ze strany žáků a zejména pedagogických pracovníků.
+Výsledky dotazníku ukázaly, že nadpoloviční většina škol již přijala určitá opatření 
+pro usnadnění inkluze transgender žactva. Nejčastějším zmiňovaným krokem 
+k usnadnění inkluze dotyčných osob bylo poskytování poradenské činnosti 
+transgender žactvu samotnému, či jejich zákonným zástupcům. To je dle mého názoru 
+velmi pozitivní fakt a zároveň úplné minimum toho, co pro své žactvo škola může 
+udělat. Na místě je také poskytnutí kontaktů na relevantní spolky a organizace, které 
+se danou problematikou zabývají. V České republice je v této tématice asi nejznámější 
+organizací spolek Transparent, z. s., který například nabízí službu (i anonymního)
+mentoringu pro transgender osoby.
+Dalším opatřením pro usnadnění inkluze, které respondenti ve svých odpovědích 
+zmiňovali, byla úprava školních prostor, segregovaných podle pohlaví žactva.
+V několika případech vzdělávací instituce dotyčným transgender studujícím vyšly 
+vstříc tím, že jim vyčlenily samostatné prostory – například toalety, anebo prostory 
+pro převlékání na hodiny tělesné výchovy či praktického výcviku. V tomto ohledu je 
+nejinkluzivnějším řešením vyslyšení přání dotyčných osob, respektování jejich volby
+a umožnění využívání prostor dle jejich vlastní preference.
+Mé doporučení pro zlepšení stávající situace by se dalo shrnout jednoduše tak, že 
+způsobem, jak lze transgender žactvu co nejvíce usnadnit jejich studium a přispět 
+k tvorbě přátelského, respektujícího a inkluzivního prostředí, je být vnímavý vůči 
+49
+jejich potřebám, respektovat jejich přání a volby a snažit se jim maximálně vyjít vstříc
+a pomoci jim v jejich nelehké životní situaci.
+50
+ZÁVĚR
+Bakalářská práce na téma „Názory pedagogů středních škol na vybrané problémy“ 
+byla zaměřena na problematiku transgender studujících v prostředí středních škol
+a názory pedagogů, související s touto tématikou.
+V teoretické části jsou nejprve stručně popsány základní pojmy z oblasti vzdělávání, 
+jako je vzdělávací soustava v České republice nebo popis výchovně-vzdělávacího 
+procesu, a to vše zejména v prostředí středních škol. Teoretická část práce se dále
+věnuje vysvětlení pojmů z oblasti genderové identity, kde byla akcentována zejména
+identita transgenderu a také transgender v prostředí škol.
+Praktická část bakalářské práce se věnuje vyhodnocení dotazníkového šetření, které se 
+uskutečnilo na vybraných středních školách a bylo zaměřeno na názory a vlastní 
+zkušenosti pedagogů s problematikou transgenderu. Výsledky dotazníkového šetření 
+přinesly cenné poznatky, ze kterých byla sestavena vlastní doporučení autorky.
+Vzhledem k tomu, že transgender problematika je ve společnosti čím dál tím 
+aktuálnější a silněji komunikované téma, došlo v průběhu psaní závěrečné práce 
+k několika významným skutečnostem. Výbor pro práva LGBTI+ lidí, který vznikl 
+v rámci Rady vlády ČR pro lidská práva, mimo jiná usnesení v prosinci roku 2022 
+vyzval Ministerstvo školství, mládeže a tělovýchovy k přípravě metodiky pro inkluzi 
+trans studujících v českých školách, která by se do budoucna mohla stát v této 
+problematice převratným dokumentem. Dále výše zmiňovaný Výbor vyzval MŠMT 
+k zajištění systémového vzdělávání vyučujících, metodiků prevence a školních 
+psychologů v práci s trans studujícími. Tato usnesení autorka vnímá jako velmi 
+důležitá, neboť při zpracovávání literární rešerše a studia tohoto tématu narazila na 
+absenci jakýchkoli metodik, podpůrných materiálů nebo doporučení o tom, jak by 
+školy měly k transgender osobám přistupovat. Doposud tak vše záviselo na vedení 
+každé školy, což by se realizací těchto usnesení mohlo do budoucna změnit a inkluze 
+transgender žactva by tak mohla být významně zjednodušena.
+51
+SEZNAM POUŽITÝCH ZDROJŮ
+Tištěné monografie
+BEŇOVÁ, Kateřina. Analýza situace lesbické, gay, bisexuální a transgender menšiny 
+v ČR. Praha: Úřad vlády ČR, 2007. ISBN 978-80-87041-33-8.
+ČESKÁ ŠKOLA. České školy pod lupou: výzkum homofobie a transfobie na školách: 
+Czech schools through the looking glass: national research on homophobia and 
+transphobia. Praha: Platforma pro rovnoprávnost, uznání a diverzitu, 2016. Výzkumné 
+zprávy (Platforma pro rovnoprávnost, uznání a diverzitu). ISBN 978-80-88175-03-2.
+DREGER, Alice Domurat. Hermafroditi a medicínská konstrukce pohlaví. Vyd. 2. 
+Praha: Triton, 2009. ISBN 978-80-7387-040-9.
+FAFEJTA, Martin. Úvod do sociologie pohlaví a sexuality. Ve Věrovanech: Jan 
+Piszkiewicz, 2004. ISBN 80-86768-06-6.
+FIFKOVÁ, Hana. Transsexualita a jiné poruchy pohlavní identity. Vyd. 2. Praha: 
+Grada, 2008. ISBN 978-80-247-1696-1.
+FIFKOVÁ, Hana. Transsexualita: diagnostika a léčba. Praha: Grada, 2002. ISBN 80-
+247-0333-5.
+HEYER, Walt. Odvrácená tvář transgenderu. Přeložil Vítězslav ŠŤASTNÝ. Praha: 
+Klika, 2020. Otevřeno. ISBN 978-80-7666-003-8.
+JANOŠOVÁ, Pavlína. Dívčí a chlapecká identita: vývoj a úskalí. Praha: Grada, 2008. 
+Psyché (Grada). ISBN 978-80-247-2284-9.
+JŮVA, Vladimír. Základy pedagogiky pro doplňující pedagogické studium. Brno: 
+Paido, 2001. ISBN 80-8593-195-8.
+KABÍČEK, Pavel, Ladislav CSÉMY a Jana HAMANOVÁ. Rizikové chování v 
+dospívání a jeho vztah ke zdraví. Praha: Triton, 2014. ISBN 978-80-7387-793-4.
+KASTEN, Hartmut. Ženy – muži: [genderové role, jejich původ a vývoj]. Praha: 
+Portál, 2006. Spektrum (Portál). ISBN 80-7367-145-x.
+KNOTOVÁ, Dana. Školní poradenství. Praha: Grada, 2014. Pedagogika (Grada). 
+ISBN 978-80-247-4502-2.
+52
+MAŇÁK, Josef. Nárys didaktiky. 3. vyd. Brno: Masarykova univerzita, 2003. ISBN 
+80-210-3123-9.
+MOJŽÍŠEK, Lubomír. Didaktika: teorie vzdělání a vyučování. Praha: Státní 
+pedagogické nakladatelství, 1988.
+OAKLEY, Ann. Pohlaví, gender a společnost. Praha: Portál, 2000. ISBN 
+8071784036.
+PAVLICA, Karel. et al. Obavy a přání trans lidí: Výsledná zpráva z výzkumu 
+realizovaného spolkem Transparent z.s. v roce 2018. Praha: Transparent, z. s., 2019.
+PETRUSEK, Miloslav, Hana MAŘÍKOVÁ a Alena VODÁKOVÁ. Velký 
+sociologický slovník. Praha: Karolinum, 1996. ISBN 80-7184164-1.
+PRŮCHA, Jan, ed. Pedagogická encyklopedie. Praha: Portál, 2009. ISBN 978-80-
+7367-546-2.
+RICHARDS, Christina, BOUMAN, Walter Pierre, BARKER, Meg-John. 
+Genderqueer and Non-Binary Genders. London: Palgrave Macmillan, 2017. ISBN 
+978-1-137-51053-2.
+RYAN, Caitlin, RIVERS, Ian. Lesbian, Gay, Bisexual and Transgender Youth: 
+Victimization and Its Correlates in the USA and UK. Culture, Health & Sexuality 5, 
+no. 2 (2003): 103–19.
+SKALKOVÁ, Jarmila. Obecná didaktika: vyučovací proces, učivo a jeho výběr, 
+metody, organizační formy vyučování. Praha: Grada, 2007. Pedagogika (Grada). ISBN 
+978-80-247-1821-7.
+SLAVÍK, M., HUSA, J. MILLER, I. Materiální didaktické prostředky a technologie 
+jejich využívání. 1. vydání. Textová studijní opora. ČZU v Praze, IVP, 2007. ISBN 
+978-80-213-1705-5 
+SLAVÍK, M., MILLER, I. Oborová didaktika pro zemědělství, lesnictví a příbuzné 
+obory. 3. vydání. Textová studijní opora. Praha: ČZU v Praze, IVP, 2012. ISBN 978-
+80-213-2277-6
+SMETÁČKOVÁ, Irena. Příručka pro genderově citlivé vedení škol. Praha: Otevřená 
+společnost, 2007. ISBN: 978-80-87110-01-0.
+53
+SMOLÍK, Petr. Duševní a behaviorální poruchy: průvodce klasifikací: nástin 
+nozologie: diagnostika. Praha: Maxdorf-Jessenius, 1996. ISBN 80-85800-33-0.
+ŠMAUSOVÁ, Gerlinda. Proti tvrdošíjné představě o ontické povaze gender a pohlaví.
+In. Sborník prací Fakulty sociálních studií brněnské univerzity. Sociální studia 7.
+Brno: Masarykova univerzita, 2002., s. 15-27. ISSN 1212-365X.
+VÁGNEROVÁ, Marie. Základy psychologie. Praha: Karolinum, 2004. ISBN 80-246-
+0841-3.
+VOTAVA, Jiří. Úvod do pedagogiky: (ianua scholae reserata). V Praze: Česká 
+zemědělská univerzita, Institut vzdělávání a poradenství, 2011. ISBN 978-80-213-
+2229-5.
+WEISS, Petr. Sexuologie. Praha: Grada, 2010. ISBN 978-80-247-2492-8.
+Elektronické zdroje
+ČESKO. ÚŘAD VLÁDY ČR. Vládní strategie rovnosti a odstraňování bariér 
+důstojného života LGBTI+ lidí v ČR 2021–2026 [online]. [cit. 2023b-26-01]. Dostupné 
+z: https://alipro.cz/wp-content/uploads/2021/04/Vladni-strategie-rovnosti-aodstranovani-barier-dustojneho-zivota-LGBTI.pdf
+ČESKO. KANCELÁŘ VEŘEJNÉHO OCHRÁNCE PRÁV. Být LGBT+ v Česku: 
+Zkušenosti LGBT+ lidí s předsudky, diskriminací, obtěžováním a násilím z nenávisti: 
+Výzkum veřejného ochránce práv [online]. [cit. 2023a-26-01] Dostupné z: 
+https://www.ochrance.cz/uploads-import/DISKRIMINACE/Vyzkum/VyzkumLGBT.pdf
+ČESKÝ STATISTICKÝ ÚŘAD. Charakteristika Pardubického kraje (údaje za rok 
+2021). [online]. [cit. 2023-02-17]. Dostupné z: 
+https://www.czso.cz/csu/xe/charakteristika-pardubickeho-kraje-udaje-za-rok-2021
+EURYDICE. Vzdělávací systém v ČR. [online]. [cit. 2023-01-30]. Dostupné z: 
+https://eacea.ec.europa.eu/national-policies/eurydice/content/czech-republic_cs
+GAVORA, Peter. Úvod do pedagogického výzkumu. [online]. [cit. 2023-02-17]. 
+Dostupné z: https://docplayer.cz/46262871-Uvod-do-pedagogickeho-vyzkumu-petergavora.html
+54
+GENDER INCLUSIVE SCHOOLS. Names and Pronouns. 
+Gengerinclusiveschools.org [online]. ©2018-2023 [cit. 2023-01-28]. Dostupné z: 
+https://www.genderinclusiveschools.org/names-and-pronouns
+KOLOVRÁTKOVÁ, Eva. Sexuologové: Přibývá žáků, kteří mění pohlaví. Školy si s 
+nimi často nevědí rady. [online]. [cit. 2023-01-29]. Dostupné z: 
+https://ct24.ceskatelevize.cz/domaci/2937914-sexuologove-pribyva-zaku-kterimenipohlavi-skoly-si-s-nimi-ale-casto-nevi-rady
+MŠMT. Zákon č. 561/2004 Sb. Školský zákon. [online]. [cit. 2023-01-28]. Dostupné z:
+https://www.zakonyprolidi.cz/cs/2004-561
+MVČR. Zákon č. 89/2012 Sb. Občanský zákoník. [online]. [cit. 2023-01-29]. Dostupné 
+z: 89/2012 Sb. Občanský zákoník (nový) (zakonyprolidi.cz)
+MVČR. Zákon č. 301/2000 Sb. Zákon o matrikách, jménu a příjmení. [online]. [cit. 
+2023-01-29]. Dostupné z: https://www.zakonyprolidi.cz/cs/2000-301
+MZČR. Zákon č. 373/2011 Sb. Zákon o specifických zdravotních službách. [online].
+[cit. 2023-01-29]. Dostupné z: https://www.zakonyprolidi.cz/cs/2011-373
+NPI – Národní pedagogický institut. Střední vzdělávání. [online]. [cit. 2023-01-30]. 
+Dostupné z: https://archiv-nuv.npi.cz/t/stredni-vzdelavani.html
+REDONDO, Raquel, MORTON, Elise. Gender self-determinatoin to be granted in 
+Spain, Scotland. APNews [online]. [cit. 2023-01-29]. Dostupné z: 
+https://apnews.com/article/spain-children-gender6dbd1a1726e38f7bde9044c1be5bf959
+TSQ. Transgender Studies Quarterly. Durham: Duke University Press, 2014, 1(1-2) 
+[online]. [cit. 2023-01-27]. Dostupné z: https://read.dukeupress.edu/tsq/issue/1/1-2
+WEST, Candance, ZIMMERMAN, Don H. Dělat gender. Sociální studia [online]. [cit. 
+2023-01-27]. Brno: Fakulta sociálních studií MU, 2008, 5(1), s. 99-120. ISSN 1803-
+6104. Dostupné z: https://journals.muni.cz/socialni_studia/article/view/5635/4731
+55
+SEZNAM GRAFŮ
+Graf 1: Věk oslovených pedagogických pracovníků................................................. 37
+Graf 2: Délka pedagogické praxe respondentů.......................................................... 37
+Graf 3: Vnímání rozdílného zacházení se žáky a žákyněmi na základě pohlaví....... 38
+Graf 4: Vnímání učiva a učebních materiálů jako genderově stereotypizujících ...... 39
+Graf 5: Vnímání transgender problematiky jako dostatečně komunikované ............ 40
+Graf 6: Bezpečnost školního prostředí pro transgender žactvo ................................. 40
+Graf 7: Výskyt transgender žáka/žákyně ve škole..................................................... 41
+Graf 8: Akceptace informace o genderové nekonformitě žáka/žákyně ze strany školy 
+a pedagogických pracovníků .............................................................................. 42
+Graf 9: Akceptace informace o genderové nekonformitě žáka/žákyně ze strany 
+respondenta......................................................................................................... 42
+Graf 10: Výskyt šikany vůči transgender žáku/žákyni .............................................. 43
+Graf 11: Uskutečněné kroky k usnadnění inkluze dotyčného žáka/žákyně............... 44
+56
+SEZNAM PŘÍLOH
+Příloha č. 1: Formulář dotazníku
+Příloha 1: Formulář dotazníku
+Vážené kolegyně, vážení kolegové,
+cílem tohoto dotazníku je především získání objektivních informací a názorů členů 
+pedagogického sboru na poměrně novou problematiku transgender.
+Vaše odpovědi poslouží jako podklad pro mou bakalářskou práci na téma „Názory 
+pedagogů středních škol na vybrané problémy“, kterou zpracovávám v rámci studia 
+programu Učitelství praktického vyučování na Institutu vzdělávání a poradenství 
+České zemědělské univerzity v Praze.
+Dotazník je anonymní a získané informace pouze pro účely této práce.
+1. Uveďte své pohlaví.
+O žena
+O muž
+2. Jaký je Váš věk?
+O do 30 let
+O 31-40 let
+O 41-50 let 
+O 51-60 let 
+O nad 61 let
+3. Jaká je délka Vaší pedagogické praxe?
+O do 2 let
+O 2-6 let
+O 7-15 let
+O 16-25 let 
+O 26-30 let 
+O nad 31 let
+4. Jaká je délka Vaší praxe na této škole?
+O do 2 let
+O 2-6 let
+O 7-15 let
+O 16-25 let 
+O 26-30 let 
+O nad 31 let
+5. Vnímáte ve škole rozdílné zacházení se žáky a žákyněmi na základě jejich 
+pohlaví?
+O určitě ano
+O spíše ano
+O spíše ne
+O určitě ne
+O nevím
+6. Pokud jste na předchozí otázku odpověděl/a ano, uveďte prosím, v čem dle 
+Vašeho názoru rozdílné zacházení se žáky a žákyněmi spočívá?
+7. Máte pocit, že současný obsah učiva a učební materiály (např. učebnice) jsou 
+genderově stereotypizující?
+O určitě ano
+O spíše ano
+O spíše ne
+O určitě ne
+O nevím
+8. Pokud jste na předchozí otázku odpověděl/a ano, uveďte prosím, v čem dle 
+Vašeho názoru genderová stereotypizace spočívá?
+9. Máte pocit, že se transgender problematice věnuje dostatečná pozornost 
+(např. v médiích, v komunikaci s veřejností)?
+O určitě ano
+O spíše ano
+O spíše ne
+O určitě ne
+O nevím
+10. Vnímáte prostředí školy jako bezpečné pro transgender žactvo?
+O určitě ano
+O spíše ano
+O spíše ne
+O určitě ne
+O nevím
+11. Vyskytnul se u vás ve škole případ transgender žáka/žákyně?
+O ano 
+O ne
+O nevím
+Pokud jste na předchozí otázku odpověděl/a ano, uveďte:
+12. Jakým způsobem byla informace o genderové nekonformitě daného 
+žáka/žákyně přijata dle Vašeho názoru ze strany školy a pedagogických 
+pracovníků?
+O zcela bezproblémově, akceptovali to
+O akceptovali to
+O akceptovali to s drobnými výhradami
+O akceptovali to s výraznými výhradami
+O neakceptovali to
+O nevím
+13. Máte (měl/a jste) Vy osobně nějaký problém akceptovat tuto situaci 
+(nepříklad ve smyslu oslovování žáka nebo přijetí vlastní skutečnosti)?
+O akceptoval/a jsem to bez problémů
+O akceptoval/a jsem to s malými problémy
+O akceptoval/a jsem to s výraznými problémy
+O neakceptoval/a jsem to
+O nevím
+14. Vyskytla se ve škole vůči dotyčnému žáku/žákyni šikana?
+O ano
+O ne
+O nevím
+15. Podnikla škola nějaké kroky k usnadnění inkluze daného žáka/žákyně?
+O ano 
+O ne
+O nevím
+Pokud jste na předchozí otázku odpověděl/a ano, uveďte:
+16. Jakým způsobem škola přispěla k usnadnění inkluze daného žáky/žákyně
+(můžete uvést více odpovědí)
+O zrealizovala školení pro pedagogy
+O seznámila žáky s danou problematikou
+O poskytla dotyčnému žáku/žákyni poradenství
+O poskytla dotyčnému žáku/žákyni i jeho zákonným zástupcům poradenství
+O umožnila dotyčnému žáku/žákyni větší soukromí (samostatnou šatnu, WC)
+O jinou pomoc, uveďte jakou …………………………………………………
+17. Mohl/a byste uvést vlastní názor na transgender problematiku u žáků 
+středních škol?
+Děkuji za Váš čas.

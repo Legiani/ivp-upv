@@ -1,0 +1,1967 @@
+PSYCHOLOGIE
+Contents
+1.Charakterizujte předmět psychologie, vývoj, disciplíny, metody. Význam psychologie v pedagogické praxi.3
+2.Zařaďte procesy vnímání a představování do struktury psychických jevů, popište je. Objasněte jejich funkci ve výchovně vzdělávacím procesu.5
+3.Zaveďte proces myšlení do struktury psychických jevů, popište jeho formy, druhy, poruchy a vysvětlete jejich význam v procesu učení.8
+4.Popište význam a funkci paměti se zaměřením na důležitost jejích jednotlivých fází v procesu učení.10
+5.Vysvětlete pojem psychický stav. Zaneste jej do struktury psychických jevů, zaměřte se na objasnění stavu pozornosti, její druhy a možnosti navození a udržení pozornosti ve vyučování.11
+6.Vysvětlete význam citových procesů v životě člověka. Uveďte klasifikaci citů a možnosti jejich rozvoje ve výchovně vzdělávacím procesu. Objasněte pojem emoční inteligence.13
+7.Zařaďte volní procesy do struktury psychických jevů, vysvětlete pojem vůle a její význam v životě člověka. Popište možnosti rozvoje volních vlastností ve výchovně vzdělávacím procesu.16
+8.Popište faktory utvářející osobnost a vysvětlete jejich vzájemný vztah. Charakterizujte proces interiorizace a objasněte jeho význam.17
+9.Pojednejte o složkách struktury osobnosti žáka střední školy a o možnostech jejich ovlivňování ve výchovně vzdělávacím procesu. Uveďte výhody a nevýhody jednotlivých typů temperamentu.18
+10.Objasněte pojem charakter, přiřaďte jej do systému psychických jevů, uveďte některou z charakterových typologií. Popište možnosti rozvoje morálních vlastností žáků střední školy.22
+11.Vysvětlete psychologický základ motivace, vnitřní a vnější motivy, jejich vzájemné souvislosti a využití ve výchovně vzdělávacím procesu.25
+12.Popište význam sociální psychologie v systému psychologických věd, vysvětlete pojmy interakce a vztahy a uveďte jejich vzájemné souvislosti.28
+13.Vysvětlete pojem sociální skupina, její charakteristiky třídění. Charakterizujte školní třídu jako sociální skupinu a vysvětlete možnosti pedagoga při poznávání a formování třídní skupiny.30
+14.Uveďte hlavní zásady komunikace „učitel – žák“ během výchovně vzdělávacího procesu. Popište význam jednotlivých složek komunikačního procesu a naznačte možné bariéry v komunikaci a možnosti jejich odstranění.38
+15.Charakterizujte druhy náročných situací. Vysvětlete jejich význam v životě člověka, popište metody jejich zvládání, řešení problémových situací. Objasněte pojem stres a zaměřte se na možnosti minimalizace stresoru ve vyučování.40
+16.Vysvětlete pojmy: sociální status, sociální pozice, sociální role, individuální systém rolí. Popište role učitele a žáka ve výchovně vzdělávacím procesu.42
+17.Popište rodinu jako primární sociální skupinu, její význam pro socializaci jedince. Charakterizujte základní funkce rodiny.46
+18.Charakterizujte dysfunkční rodinu, uveďte některé typy dysfunkčních rodin. Popište, jak se dysfunkce projeví na rozvoji dítěte. Charakterizujte přístupy učitele k žákům z dysfunkčních rodin.48
+19.Popište předmět pedagogické psychologie. Objasněte základní pojmy: vývoj, výchova, učení, vyučování. Vysvětlete trendy ve vyučování od osobnosti k týmové práci a od znalostí ke kompetencím.50
+20.Vyjmenujte druhy učení se zaměřením na učení senzomotorické. Popište změny, ke kterým v jeho průběhu dochází, uveďte co je výsledkem.54
+21.Srovnejte učení se poznatkům s učením se metodám řešení problému. Popište, které psychické jevy se na těchto druzích učení podílejí a co je jejich výsledkem. Vysvětlete pojem učení ve spirále.56
+22.Popište proces výchovné prostředky a metody, objasněte pojem obrácená socializace a její důsledky, vysvětlete princip technik modifikace chování.57
+23.Charakterizujte učitele v roli poradce, popište jeho základní kvality, přístup k žákovi, uveďte možné chyby, kterých by se měl učitel v roli poradce vyvarovat.60
+24.Vysvětlete pojem metoda výuky. Uveďte příklady metod, popište z jakých činností učitele a žáka se skládají. Vysvětlete souvislosti mezi metodami výuky, poznávacími procesy žáka a jejich motivaci. Vysvětlete pojem aktivizační metoda, uveďte příklady aktivizujících metod a jejich využití ve výuce.61
+25.Popište projevy některých poruch socializace – například lhaní, krádeže, záškoláctví. Vysvětlete jejich příčiny, naznačte možnost nápravy. Zaměřte se na agresivní poruchy chování, šikanu, její průběh, stádia, druhy a možnosti prevence.65
+26.Charakterizujte prenatální, novorozenecké a kojenecké období podle různých vývojových teorií (Piaget, Freud, Erikson). Uveďte klíčová témata psychického, sociálního a somatického vývoje. Vysvětlete teorii citové vazby.71
+27.Charakterizujte batolecí a předškolní období podle různých vývojových teorií (Piaget, Freud, Erikson, Kohlberg). Uveďte klíčová témata psychického, sociálního a tělesného vývoje – zejména vývoj řeči a dětské hry.74
+28.Charakterizujte mladší a střední školní věk podle různých vývojových teorií (Piaget, Freud, Erikson, Kohlberg). Uveďte klíčová témata psychického, sociálního a tělesného vývoje – zejména problematiku školní zralosti.78
+29.Charakterizujte dospívání, pubescenci a adolescenci podle vývojových teorií (Piaget, Freud, Erikson, Kohlberg). Uveďte klíčová témata psychického, sociálního a tělesného vývoje.81
+30.Charakterizujte stádia dospělosti a stáří. Vysvětlete problematiku rodičovské a profesní role, krize středního věku a kvality života. Stádia dle Eriksona, post formální myšlení, post konvenční morálka podle Kohlberga, stádia přijetí smrtelnosti dle Kubler-Rossové.83
+Charakterizujte předmět psychologie, vývoj, disciplíny, metody. Význam psychologie v pedagogické praxi.
+Psychologie:
+–nauka o duši – z řečtiny – tradiční nástroj, který přesně odděluje tělo a duši
+-od filozofie se odděluje mnohem později než např. biologie
+-1.  psychologická laboratoř v r.1878 v Lipsku – univerzita -  W. Wundt – poprvé použil
+metodu experimentu
+-začátek 20. stol. – psychologieve školách, ve zdravotnictví,v průmyslu
+-podle WHO (světová zdravotnická organizace)  – věda o člověku
+dříve řazena mezi vědy společenské, nyní na pomezí společensko-přírodní
+zkoumá člověka jako celek
+V 19. století se psychologie formovala jako samostatná věda usilující o nezávislost na neprokázaných filozofických předpokladech. Hledala nové vymezení svého předmětu a k tomu používala zejména termíny vědomí a prožívání, později se ukázalo, že takové vymezení nestačí a že psychologie zkoumá mnohem víc.
+Vědomí – jedna (velmi důležitá) z psychických vlastností. Umožňuje člověku vytyčovat cíle, plánovat a kontrolovat průběh činnosti. Je spjato s řečí, je jedním ze znaků, kterými se člověk liší od zvířat. Všechny psychické jevy nejsou vědomé, jsou i jevy polovědomé nebo nevědomé.
+Prožívání – (subjektivní „vnitřní život člověka“) – termín, který vymezuje aspekt činnosti, který není přímo přístupný druhým lidem. Jedinec ho projevuje prostřednictvím vnějšího chování, výrazem (mimikou) a řečí.
+Chování – termín, který označuje aspekt činnosti člověka nebo zvířete, který je objektivně přístupný pozorovatelům z okolí.
+Třídění psychických jevů:
+-psychické procesy – děj, části lidské činnosti, mají většinou poměrně krátké trvání
+psychické stavy – stav, charakteristika jedince po určitou dobu, má delší trvání a působení (hodinu,  den i déle)
+specifické získané dispozice – předpoklad k jedné nebo několika málo činnostem, proměnlivější než psychická vlastnost
+psychické vlastnosti – vlastnosti jedince (osobnosti) charakterizující jedince celá léta, někdy i celý život, předpoklad k většímu počtu činností, méně proměnlivý než specificky získaná dispozice
+Psychologie je jedna věda, která se člení na různé  disciplíny:
+-obecná – zabývá se čistou psychologií
+aplikovaná – zaměřená na jednotlivé  obory
+Obecná psychologie – zpracovává základní teoretické otázky a podává celkový psychologický obraz o člověku, k tomu účelu uskutečňuje vlastní výzkum a také zobecňuje poznatky z ostatních psychologických odvětví
+Dějiny psychologie a psychologická metodologie – těsně souvisejí s obecnou psychologií, jsou důležité vzhledem k významu teoretických i metodologických otázek
+Psychologie osobnosti – zkoumá osobnost, její strukturu, formování osobnosti a rozdíly mezi lidmi. Někdy chápána jako samostatná někdy jako součást obecné psychologie
+Psychofyziologie – hraniční disciplína, zahrnuje styčné otázky psychologie a fyziologie, fyziologické aspekty ve vnímání, učení, emocích apod.
+Sociální psychologie – vysvětluje společenské aspekty v psychologické problematice, styčné otázky psychologie a společenských věd, působení společnosti na formování osobnosti apod.
+Vývojová psychologie – zkoumá vývoj psychiky zvířat, vznik lidské psychiky, psychické změny v historickém vývoji lidstva, hlavně psychické změny lidského jedince od narození přes jednotlivá stadia vývoje až do stáří
+Psychopatologie – zabývá se psychickými poruchami, jejich druhy, vznikem a vývojem – k diagnostice, terapii i jako prevence
+Aplikovaná:
+psychologie práce – u nás 1., která se začala rozvíjet mezi válkami a po ní sportovní
+forenzní – soudní – doporučí řešení
+vojenská
+lékařská – napomáhá nemocnému
+pedagogická – psychologie výchovy a vyučování
+Pedagogická psychologie je odvětví psychologie, která zkoumá otázky výchovně vzdělávací praxe z psychologického hlediska. Psychologicky analyzuje průběh, podmínky a výsledky výchovy a vyučování. Zkoumá člověka (hlavně děti a mládež), jejich činnosti, učení a formování osobnosti s hlavním zřetelem na působení výchovy. Přihlíží k vnějším i vnitřním podmínkám.
+V širším pojetí zkoumá všechny situace, během nichž dochází k záměrnému působení na člověka. V užším pojetí se zabývá psychologickými zákonitostmi učení, výchovy, psychosociálními i psychohygienickými podmínkami výchovného a vzdělávacího procesu.
+Využívá aplikaci psychologických poznatků v pedagogické praxi – tj. ve výchově a vzdělávání dětí, mládeže i dospělých.
+Zařaďte procesy vnímání a představování do struktury psychických jevů, popište je. Objasněte jejich funkci ve výchovně vzdělávacím procesu.
+Psychické procesy – jedná se o děje, části činností, mají jen krátké trvání
+Dělíme je:
+procesy poznávací - (vnímání, představování,  myšlení)
+procesy paměti - (zapamatování, uchování,  vybavení)
+motivační procesy - (procesy citové a volní)
+Procesy poznávací
+Jsou to procesy, které umožňují člověku poznávat svět kolem sebe i v sobě
+Vnímání
+psychický proces poznávací, jedná se o bezprostřední poznání světa, zařazujeme jej jako poznávací proces nižší.
+je to proces, kdy si za pomoci smyslových orgánů uvědomujeme různé údaje o vnějším světě i o
+sobě
+Při vnímání probíhá:
+smyslová analýza
+korová analýza
+korová syntéza
+– výsledkem je VJEM neboli „obraz“ o světě vně i uvnitř.
+Příjem informací z vnějšího i vnitřního světa zajišťují ANALYZÁTORY: Exteroanalyzátory – vnější svět (pět lidských smyslů) Interoanalyzátory – vnitřní svět (např. bolest)
+Kombinace činnosti různých analyzátorů vede ke vnímání např. prostorových kvalit (poloha, směr, velikost, vzdálenost, hloubka, trojrozměrné vnímání), pohybu objektů, času, tvarů, jednoduchých i složitých dějů
+Vlastnosti vnímání:
+Celistvost – schopnost na základě minulé zkušenosti dokončit tvar, který je naznačen, melodii atd. Celistvost vnímání umožňuje přijímat svět vcelku, přestože nejsou k dispozici vždy všechny informace.
+Výběrovost – schopnost nervové soustavy si z množství podnětů vybírat a nezpracovávat všechny stejně intenzivně, naše nervová soustava se tak brání přetížení, proto nereaguje na všechny podněty stejně (nikdy nepotřebujeme vnímat všechny podněty dopadající z vnějšího i vnitřního světa). V souvislosti s výběrovostí vnímání hovoříme o figuře a pozadí.
+FIGURA – podněty v centru vnímán
+POZADÍ – podněty, které vnímáme  pouze okrajově
+Poznatky z oblasti výběrovosti vnímání lze velmi dobře aplikovat do situace vyučování, kdy je třeba, aby proces vyučování se všemi svými atributy byl pro žáky po co nejdelší dobu figurou, tím bude zajištěna jeho efektivita.
+Významovost – vlastnost vnímání projevující se tím, že vnímáme objekty a děje kolem sebe z hlediska významu, jako nositele určitého významu (např. bílý plášť).
+Významovost je podmíněna minulou zkušeností, ale i celkovou sociokulturní úrovní společnosti. Při poruše nebo snížené funkci některého analyzátoru ostatní částečně funkci přejímají – kompenzují. Schopnost kompenzace je důkazem toho, že se vnímání může rozvíjet a zdokonalovat činností a učením (např. pod vlivem vůle nebo charakterových
+vlastností). Dokladem toho může být např. zlepšování hudebního sluchu, rozvoj schopnosti rozeznávat chutě, barvy, vůně atd.
+Poruchy vnímání:
+Kvantitativní - Zvýšená nebo snížená vnímavost  (např. vlivem stáří)
+Kvalitativní:
+Klamy – vjem neodpovídá skutečnosti díky nedokonalosti našich smyslů či vlivem fyzikálních zákonů (hůl do vody ponořená zdá se jako přeražená), klamy vnímají všichni lidé stejně
+Pareidolie – vjem, do něhož vkládáme vlastní význam např. pod vlivem nálady, z nestrukturované, nekonkrétní situace tvoříme strukturovanou a konkrétní (např. mraky na nebi)
+Paobrazy - doznívající vjem (např. obraz vlákna žárovky ve chvíli, kdy už nesvítí) Iluze- vjem, který neodpovídá skutečnosti, vzniká pod vlivem silné emoce (např. větve stromu ve větru v noci, kdy je člověk sám a má strach)
+Halucinace – chorobný vjem pod vlivem  horečnatých stavů nebo intoxikace  drogou.
+Vnímání je první a základní rovina poznání světa – nepřetváříme jej, ale vstupuje k nám takový, jaký je – vnímání umožňuje orientaci a adaptaci v současných životních podmínkách.
+Představování
+Psychický proces poznávací, navazuje na vnímání. Jedná se opět o bezprostřední poznání světa. Jeho výsledkem je představa.
+Představa je:
+• Názorný obraz předmětů a jevů, které nejsou v daném okamžiku v dosahu smyslů • Představa je obraz objektivní skutečnosti bez přítomnosti konkrétního podnětu
+Vzniká aktivací paměťové stopy po předchozím vjemu
+Zobrazuje podstatnější skutečnosti,  není tak detailní  jako vjem
+Druhy představ:
+• Podle analyzátoru – vizuální,  sluchové,  čichové, …… kombinované
+Podle shody s vnímanou skutečností – dochované paměťové
+– fantazijní  – příklady (marťan)
+Další:
+perseverační – vtíravé (po jednotvárné práci např. sběru brambor se těžko této představy zbavujeme
+eidetické – výrazně barevné a detailní (mívají je děti v souvislosti se silnými zážitky, umělci)
+Dochované paměťové představy
+Představy kopírující předešlý vjem, jsou méně detailní, dochovávají podstatnější vlastnosti předmětů a jevů – uplatnění paměti. Jsou přechodem k myšlení, jsou „materiálem“ k myšlenkovému zpracování světa. Převážně s těmito představami pracujeme ve vyučovacím procesu. Je nutné, abychom žákům vytvořili dostatek dobrých a kvalitních představ tohoto typu. Pak se na ně můžeme při další výuce odvolávat a žáci je dokáží dále myšlenkově zpracovávat.
+Fantazijní představy
+Obrazy toho, co jsme v minulosti nevnímali vcelku – uplatnění tvořivé činnosti člověka, nedají se vysvětlit pouze zkušeností a pamětí. Části dříve vnímané reality jsou netradičně, tvořivě spojeny v nové celky.
+Rekonstrukční fantazie – obrazy vznikající na základě slovního popisu, schémat, výkresů, atd. Konstrukční (tvořivá) fantazie – tvorba nových originálních obrazů, které dosud neexistovaly (architekti, designeři, kuchaři, floristé……………)
+Bdělé snění – představy vztahující se k vlastní vytoužené budoucnosti (představy vysokých výher, dosažení pozic, setkání s milovanou osobou………)
+Halucinace – choroba, intoxikace
+Procesy vnímání a představování jsou dva základní psychické jevy, které jsou součástí naší mentální struktury a zároveň se podílejí na našem vnímání světa a našeho chování. Tyto procesy jsou rozděleny do dvou hlavních kategorií: senzorické a kognitivní.
+Senzorické procesy jsou primárními procesy vnímání, které umožňují
+informacím z našich smyslů vstoupit do naší psychiky. Patří sem procesy jako vidění, slyšení, hmatání, chuť a čich. Tyto procesy jsou důležité pro vnímání světa kolem nás a poskytují nám základní informace, které nás informují o
+okolním prostředí.
+Kognitivní procesy jsou procesy, které následují po senzorických procesech a umožňují nám interpretovat a porozumět informacím, které jsme získali. Mezi tyto procesy patří především procesy vnímání a představování.
+Proces vnímání je proces, kterým se informace z našeho okolí stávají součástí našeho vědomí. Vnímání zahrnuje interpretaci informací, které jsou získány z našich smyslů, a převádí je do vnitřního reprezentace světa, kterou můžeme porozumět a dále zpracovávat.
+Proces představování je proces, kterým si vytváříme mentální obrazy, které jsou reprezentací určitých předmětů, událostí nebo myšlenek v naší mysli. Tyto mentální obrazy jsou klíčové pro naše schopnosti porozumět, uchovávat a zpracovávat informace.
+Senzorické a kognitivní procesy jsou vzájemně propojené a navzájem se
+ovlivňují. Vnáší do našeho života zkušenosti a umožňují nám přizpůsobit se různým situacím, učit se a růst.
+Procesy vnímání a představování jsou klíčovými psychickými jevy, které hrají důležitou roli ve výchovně vzdělávacím procesu. Správné vnímání a představování jsou nezbytné pro pochopení a uchopení učiva, vyvození správných závěrů a tvorbu nových myšlenek.
+Ve vzdělávání je vnímání důležité pro přijímání informací, při čtení textu, poslechu výkladu nebo pozorování prezentace. Proces vnímání umožňuje žákům reagovat na podněty a informace, které jsou jim prezentovány, a tak si lépe uchovat učivo. Pokud je vnímání narušeno, může to mít negativní dopad na výkon žáka. Proto je důležité, aby učitelé poskytovali vhodné prostředí pro vnímání a aby se snažili minimalizovat rušivé faktory, jako jsou hluk nebo nevhodné osvětlení.
+Představování hraje důležitou roli při tvorbě mentálních obrazů a myšlenek. Představování umožňuje žákům vizualizovat a porozumět učivu, a také si vytvořit své vlastní myšlenky a nápady. Když žák přemýšlí o učivu, snaží se vytvořit si vlastní mentální obraz, což mu umožňuje lépe pochopit a zapamatovat si informace. Pokud jsou představování a mentální obrazy vytvářeny správně, mohou pomoci žákovi řešit problémy a tvořit nové nápady.
+Učitelé mohou pomoci žákům s procesy vnímání a představování tím, že využijí vhodné metody výuky a komunikace. Například mohou používat vizuální pomůcky, aby zlepšili vnímání, nebo používat výklad, aby žáci vytvořili mentální obrazy. Učitelé by měli také umět rozpoznat, když jsou procesy vnímání a představování narušeny, a snažit se tyto rušivé faktory minimalizovat. Mohou například poskytnout dodatečné vysvětlení nebo využít různé strategie, jako je kladení otázek a zdůrazňování klíčových bodů.
+Zaveďte proces myšlení do struktury psychických jevů, popište jeho formy, druhy, poruchy a vysvětlete jejich význam v procesu učení.
+Myšlení
+Myšlení je poznávací proces, který se liší od vnímání  a představování  tím, že se jedná o
+zprostředkované a zobecňující poznání světa. Nejde už jen o pouhý obraz světa, tak, jak jej vnímáme či si jej představujeme na základě dříve proběhnuvšího vnímání, ale za pomoci rozumových operací jej přetváříme, modifikujeme, řešíme problémy a odhalujeme neznámé. Myšlení pomáhá člověku přizpůsobovat se složitějším životním podmínkám, umožňuje jít za vnímatelné hranice světa. Má integrační funkci a není možné bez součinnosti všech ostatních poznávacích procesů.
+Umožňuje
+• chápat vztahy
+• vytvářet pojmy, soudy (vztahy mezi pojmy) a úsudky (vztahy mezi soudy)
+• řešit problémy
+Myšlení a řeč
+S myšlením těsně souvisí řeč. Je vyjádřením výsledků myšlení. Rozeznáváme řeč:
+vnější (psanou nebo mluvenou, přičemž mluvenou řeč si člověk osvojuje dříve), jí se obracíme na základě použití nějakého jazyka k druhým lidem, slouží k přenosu informací mezi lidmi
+vnitřní, řeč „pro sebe“, je rychlejší, úspornější, navenek pouhým okem sluchem neznatelná Charakteristika myšlení, myšlenkové operace
+Rozdíl mezi názorným poznáním světa a myšlením je zřetelný při srovnání např. představy s pojmem. Představu můžeme mít každý jinou, zahrnuje v sobě též individuální a nepodstatné znaky předmětů a jevů (pes, vrata, rybník…), kdežto pojem je pouze jeden.
+Zahrnuje v sobě pouze zobrazení obecných a podstatných znaků určité skupiny jevů.
+Myšlení uskutečňujeme za pomoci myšlenkových operací:
+analýza – rozkládání věcí a jevů na části
+syntéza – skládání částí v celek
+srovnávání – něčeho nového s něčím známým, zjištění rozdílů a shod, případně zařazení nového do nějaké třídy jevů (třídění)
+abstrakce (z latinského abstrahere = odtáhnout), abstrakcí pomineme některé znaky jevů a můžeme se soustředit na ty, které jsou podstatné
+konkretizace, opačná operace jíž docházíme od obecných pojmů ke konkrétním příkladům (živý organismus - obratlovec - savec - šelma - pes - jezevčík ....)
+indukce – vyvozování obecného tvrzení z jednotlivých případů
+dedukce – aplikace obecného poznatku na konkrétní příklad
+analogie - využívání podobnosti některých jevů k objasnění jevu neznámého (je to jako .....)
+Druhy myšlení
+Podle stupně abstrakce:
+Problémy lze řešit na různém stupni abstraktnosti a obecnosti. Pokud dochází současně s procesem myšlení k praktické činnosti, např. zkouším uvést do pohybu nějaké zařízení tak, že praktikuji metodu pokusu a omylu – která páčka je ta pravá, pak se jedná o myšlení praktické, přímo spojené s činností (význam stavebnic pro děti – rozvíjejí praktické myšlení).
+Myšlenkový proces probíhající za použití názorných obrazů a představ je myšlení konkrétně abstraktní (příkladem může být rozestavění nábytku v místnosti za pomoci představ)
+Proces probíhající pouze v myšlenkové činnosti za využití abstraktních pojmů a symbolů je myšlení abstraktní (např. řešení matematických úloh).
+Podle směru:
+• Konvergentní (sbíhavé) – celá myšlenková práce se zaměřuje jedním směrem, k jednomu cíli – nalézt určité řešení (u úkolů, které mají jen jedno řešení – matematické úlohy
+•Divergentní(rozbíhavé)–hledávšechnamožnářešení,vybíránejvhodnější,spojeno
+tvořivostí
+Řešení problému
+Pokus a omyl – náhodné hledání řešení, zprvu chaotické, vylučují se řešení nevedoucí k úspěchu
+Vhled – „AHA“ zážitek přichází náhle, momentální uvedení nového obsahu do logických a uspořádaných struktur
+Rozumová analýza – řešení pomocí myšlenkových operací
+Vedle pokusu a omylu, jak je charakteristické pro myšlení konkrétní, lze dojít k řešení též vhledem neboli intuitivně. Tento jev nastává ve chvíli nahromadění poznatků a jejich náhlým propojením do logických vazeb, vhlédnutím do problému. Toto proniknutí do problému bývá velmi často doprovázeno silným pozitivním intelektovým citem a slovním doprovodem („Aha!!!“). Nejrozšířenější a žádoucí formou je řešení problému na základě rozumové analýzy (seznámení s problémem, příprava a strategie řešení, vlastní řešení za využití myšlenkových operací, nalezení řešení či konstatování neúspěchu, kontrola a zlepšení nalezeného řešení).
+Inteligence:
+Míra rozumových schopností (hledat vztahy, řešit problémy, uplatňovat myšlenkové operace…….), schopnost chápání souvislostí, schopnost rychlé a efektivní adaptace na měnící
+se podmínky
+Význam myšlení:
+Umožňuje člověku účelně a dlouhodobě plánovat a zaměřovat své vlastní  jednání.
+Celý postup probíhá nejprve v hlavě a posléze je konkrétně realizován – úspora času, energie, materiálu ……
+Integrační funkce, spojuje všechny psychické procesy, propojuje minulost  s budoucností.
+Poruchy myšlení
+Ve školní praxi se můžeme setkat s některými poruchami myšlení:
+zpomalené myšlení – nepružné, obsahově chudé, vyznačuje se nedokončenými soudy, příčinou mohou být horečnaté stavy, počínající onemocnění, nadměrná psychická či fyzická únava, intoxikace, depresivní nálady
+překotné myšlení – myšlenkový trysk, kdy řečová produkce nestačí rychle ubíhajícím myšlenkám, příčinou mohou být euforické nálady, radostné zážitky, úzkost, lehké drogové opojení, manické nálady
+roztržité myšlení – do logického proudu myšlenek zasahuje cizorodý proud, dominující ovládavá myšlenka, toto myšlení nemusí být známkou poruchy nervových procesů, ale nadměrného soustředění se na nějakou věc, stav, jev (náhlá starost v rodině, zamilovanost, akutní nevyřešený problém)
+zabíhavé myšlení – nerozlišuje podstatné od nepodstatného, neudrží logickou „nit“ hovoru, rozvláčné, zdlouhavé, těžko se vrací k podstatě věci, vyskytuje se u dětí s nižšími mentálními schopnostmi, u lidí bez vyjadřovacích schopností a bez sebekázně, ve vysokém věku je spojeno s demencí
+ulpívavé myšlení – vyznačuje se obtížemi při hledání správného výrazu, opakováním již pronesené myšlenky, příčinou může být únava, ospalost, alkoholové opojení, ve vyšším věku arterioskleróza nebo demence
+myšlenkový záraz – náhlá zástava myšlenkového proudu, možných příčin je mnoho, včetně
+epileptického záchvatu, u zdravých osob může nastat z únavy
+Popište význam a funkci paměti se zaměřením na důležitost jejích jednotlivých fází v procesu učení.
+Paměť: Je schopnost organismu ukládat a dále využívat získané informace a návyky jež jsem získali dřívější činností. Má tedy funkci osvojit, zapamatovat, uchovat a vybavit.
+Základní procesy paměti:
+Zapamatování – vštípení, uložení do paměti = Vytvoření paměťové stopy
+Uchování – přebývání v paměti = je časový úsek od vštípení k vybavení. Je důležité opakování, aby myšlenková stopa nebyla zapomenuta.
+Vybavení – znovu vybaveni = Proces aktivizace – sami si nedokážeme věc vybavit, ale bezpečně ji umíme vybrat z nabízeného souboru
+Zapomínání vyhasínání, vymazání paměťových stop. K tomu dochází, když se paměťová stopa dostatečně neopakuje.
+Druhy paměti: Máme několik druhů paměti, které dělíme z různých hledisek.
+Názorná
+Je spojená s tím, co jsme už někdy vnímali.
+Vnímá vjemy zrakové, sluchové, pohybové nebo čichové. U každého člověka si lépe pamatuje jiný vjem.
+Mechanická
+Je proces osvojení bez snahy o pochopení nebo logického pochopení.
+Logická
+Využívá myšlení, snaží se o zpracování zásadních logických vztahů.
+Krátkodobá (časná)
+Zajišťuje zapamatování na několik minut po splnění úkolu se neuchová.
+Dlouhodobá (trvalá)
+Závisí na motivaci, zpracování a opakování.
+Úmyslná – Záměrná
+Je na ní cíleně vynaložená energie.
+Bezděčná
+Bez vynaložení energie si zapamatuje to, co nás výrazně upoutá a je spojeno se silným emočním zážitkem.
+Vysvětlete pojem psychický stav. Zaneste jej do struktury psychických jevů, zaměřte se na objasnění stavu pozornosti, její druhy a možnosti navození a udržení pozornosti ve vyučování.
+Psychický stav
+jak je jedinec připraven či v jakém je jedinec duševním stavu
+Jsou vnitřní podmínkou, připraveností k určitému jednání
+Jde především o:
+Stavy pozornosti
+Pozornost = stav aktivace CNS, zajišťuje na určitou dobu soustředění člověka na jeden jen nebo činnosti
+Citové stavy – nálady
+Psychické stavy
+vyjadřují celkové prožívání člověka v určitém okamžiku nebo delším časovém úseku
+Psychické stavy mají vliv na psychické procesy (únava omezuje tělesné i mentální výkony).
+jsou přechodné, mění se podle času a situace
+různé stupně psychických stavů závisí na úrovni aktivace
+dělíme je:
+Stavy pozornosti
+Nízká–spánek
+Snížená–přechod mezi bděním a spánkem
+Střední– bez problémů soustředění
+Zvýšená– zvýšená pozornost
+Vysoká– vysoké napětí organismu
+–celkový stav organismu se neustále mění, a to v závislosti na střídání odpočinku a činností
+Emoční stavy–nálada (trvalejší citový vztah který může ovlivnit okolí, stav organismu nebo činnost) a vášeň (citový vztah který se zaměřuje jednání člověka)
+Stavy vědomí–slouží k uvědomění si vlastní existence, své chování a prožívání–2 základní úrovně vědomí–vědomí a nevědomí (podvědomí)
+Struktura psychických jevů
+Pozornost
+Je nejdůležitějším duševním stavem, který ovlivňuje aktuální funkční zdatnost jedince
+Působí silně na průběh a výsledky jeho činností, uplatňuje se i v poznávání.  
+Z fyziologického hlediska jde o stav aktivace.
+Pozornost je psychický stav, který zajišťuje na určitou dobu soustředění člověka na jeden jev nebo jednu činnost.
+Stavy pozornosti:
+Citové stavy (nálady)- viz citové procesy.
+Aktuální stavy (před zkouškové, tréma…) 
+Psychický stav člověka, projevující se zaměřeností a soustředěním vědomí.  
+Druhy pozornosti: 
+Bezděčná – bez vůle
+Záměrná – vyvoláváme a udržujeme vůlí, je náročnější, více vyčerpává
+Poruchy pozornosti
+Roztržitost – neschopnost se dlouhodobě koncentrovat
+Rozptýlenost – neschopnost udržet pozornost v daném směru
+ADHD – porucha pozornosti spojená s hyperaktivitou
+ADH – porucha pozornosti bez hyperaktivity
+Vysvětlete význam citových procesů v životě člověka. Uveďte klasifikaci citů a možnosti jejich rozvoje ve výchovně vzdělávacím procesu. Objasněte pojem emoční inteligence.
+Procesy citové:
+Emoce 
+jsou vnitřní hnutí vznikající na zásah přímo z vnějšího prostředí nebo zprostředkovaně na základě představ a vzpomínek z paměti. 
+Emoce mohou chování člověka aktivovat nebo brzdit. 
+Emoce provází vegetativní změny (změna tlaku, zrychlení dechu, pocení, zrudnutí …) a průvodní vnější projevy (mimika, gesta, tón hlasu, postoje …).
+Základní emoce  Kladné (radost).  Záporné (strach, smutek, vztek).
+City 
+Trvalejší emoční vztahy člověka ke skutečnosti. 
+Jsou trvalejší, hlubší, vývojově pokročilejší než emoce.
+Mají delší vývoj (láska, nenávist, náklonnost, soucit, vášeň …).
+Apatie 
+Apatii můžeme definovat jako kompletní nedostatek emocí a motivace, netečnost a lhostejnost, pasivitu, zeslabení zájmů a reakcí vůči vjemům, snížení afektivní a pudové stránky života.
+Poruchy emocí:
+emoční labilita – citová nestálost, značná proměnlivost emocí
+fobie – chorobný strach, nelze potlačit vůlí – arachnofobie (pavouci), klaustrofobie (uzavřené prostory), agorafobie (otevřené prostory)
+deprese – stav projevující se smutkem, plačtivostí, zpomaleností, nic nemá smysl
+maniodeprese – střídání depresivních a manických stavů (manie = plný energie, nadšení, veselí, aktivity)
+Emoční inteligence (EQ) představuje dovednost ovládat vlastní emoce, rozpoznat je a rozumět jim. To samé pak platí o emocích ostatních lidí.
+Emoční inteligence nám pomáhá porozumět sobě samému, našim pocitům a ovládat se za jakékoliv situace. Zároveň díky ní odhalujeme snadněji emoční rozpoložení ostatních a rozumíme jejich záměrům, řešení problémů a podobně.
+Klasifikace
+a) všeobecná charakteristika citů 
+CITY = Jsou prožitek subjektivního stavu  (jak se cítíme), libost, nelibost  
+= vyjadřujeme vztah k předmětům, osobám, situacím..
+= schopnost reagovat na situace, podněty.. prožitkem 
+- dispozice k emočnímu prožitku je vrozená 
+- souvisí s temperamentem 
+- emoční reakce – ovlivněny socio-kulturně (v průběhu socializace) 
+b) znaky citů 
+Znaky citů: 
+polarita – protikladnost citů, od + k – 
+ambivalence – smíšenost citů, v rámci jedné situace zažíváme různé city (láska=smutek)
+aktuálnost – jedinečnost: to, co prožívám teď už se nikdy ve stejné podobě nezopakuje
+trvalost – dlouhodobé = láska
+                   – krátkodobé = hněv, strach, radost 
+5. nakažlivost – city se přenáší z jednoho na druhého 
+6. stereotypnost – city trvají i když podnět už nepůsobí 
+7. citová adaptace – když se některý podnět opakuje, citová reakce se může oslabovat,   
+                                 nebo také zesilovat 
+8.intenzita – síla, některé cit. reakce jsou silné = afekt, slabší = nálady 
+c) individuální zvláštnosti lidských citů 
+Individuální zvláštnosti citů:
+citlivost = u někoho tato emoce vzniká rychle, u někoho pomaleji (jak snadno mám vztek/radost) 
+citovost = šířka, rozpětí emocí (radostné očekávání, optimismus, lítost, zklamání..)
+náladovost = přechod, střídání citů, někdy označováno jak citová labilita
+intenzita = síla, hloubka citů, stejná situace v někom vyvolá velmi silnou reakci  (dárek) 
+sugestibilita = ovlivnitelnost, člověk snadno podléhá emocím druhého (někdo nám  vypráví smutný příběh, vypravěč je z toho taky smutný 
+zranitelnost = přecitlivělost, snížená odolnost proti nepříjemným podmětům (doléhá na nás – hádka, konflikt) vzbuzuje to nepříjemné emoce 
+schopnost ovládat své city = (seberegulace), něco nás naštve, ale nenecháme své emoce vyjít na povrh, potlačujeme je (vztek)
+výraznost = jak se naše emoce vyjadřují na venek (tréma, strach) 
+převaha optimismu / pesimismu = radostné vidění, černé vidění okolí 
+NEMOCI, PORUCHA CITŮ: 
+Deprese – dlouhodobá převaha smutné nálady, bez závažného důvodu. Sklon k reagování smutkem. 
+Fobie – chorobný strach z něčeho, sitiofobie – strach z jídla, nekrofobie – z mrtvol
+d) druhy citů 
+DRUHY CITŮ:
+PODLE INTENZITY: 
+nálady – slabší citové projevy (př. smutná nálada)
+afekt – extrémně silné citové reakce, snadno vzniká a zaniká (výbuch), člověk se neovládá, nepřemýšlí o následcích
+vášně – dlouhodobější city, velmi silné a hluboké, + vliv – vášnivý sportovec, - vliv –   hazardní hry, alkohol... 
+PODLE DÉLKY TRVÁNÍ:
+citové reakce – krátkodobé odpovědi na podněty (př. afekty, obranná cit. reakce)
+citové stavy – dlouhodobější city (nálady, vášně, frustrace, deprivace) 
+citové vztahy – dlouhodobé city, vyjadřujeme vztah k něčemu, někomu (láska, nenávist)
+3. DLE ÚROVNĚ:
+1. nižší (emoce) 
+2. vyšší 
+nižší 
+= souvisí s uspokojováním základních biologických potřeb (hlad, žízeň)
+radost – reakce na úspěch, ocenění, jiný příjemný zážitek 
+smutek – reakce na ztrátu blízké osoby, odloučení, neúspěch
+strach – reakce na nebezpečí, souvisí s ním i emoce úzkosti
+hněv, zlost – reakce na překážky 
+ od těchto základních emocí se odvozují další emoce, emoce jsou doprovázeny vnějšími projevy: 
+- změna krevního tlaku -> zčervenání, zblednutí 
+- změna zorniček
+- svalové napětí 
+- bušení srdce
+vyšší 
+= specificky lidské, utváří se v průběhu života, jsou důležité ve společnosti 
+intelektuální = souvisí s radostí , poznáváním, zvědavost, získávání nových informací, radost z dobře vypracovaného úkolu 
+estetické = radost z krásna, vztah ke kráse, k uměleckým dílům, odpor k umění, ke kýči
+etické (morální) = vztah k morálce, jaké pocity prožíváme při dodržování nebo nedodržování norem 
+sociální = vztahy k druhým lidem (odpor, sociální fobie...) 
+Možnosti jejich rozvoje ve výchovně vzdělávacím procesu
+Viz také: Morální vývoj (Kohlbergova stupnice morálního vývoje), Výchova k charakteru, Výchova k hodnotám
+Zařaďte volní procesy do struktury psychických jevů, vysvětlete pojem vůle a její význam v životě člověka. Popište možnosti rozvoje volních vlastností ve výchovně vzdělávacím procesu.
+Struktura psychických jevů
+Volní procesy 
+psychické procesy v osobnosti související s rozhodováním. 
+Vyskytují ve všech fázích lidské činnosti. 
+Základní fáze volního procesu jsou fáze rozhodovací a fáze realizační
+Fáze rozhodovací
+V přípravné fázi je to uvědomění si vnější pobídky a vnitřního motivu, následuje volba cíle, rozhodování (řešení konfliktu), rozhodování zahrnuje také poznávací procesy (shromažďování informací, jejich analýza a syntéza)
+Fáze realizační
+V průběhu činnosti snaha realizovat vytyčený cíl svědomitě a vytrvale, mnohdy je nezbytné překonávat překážky (to usnadňují dovednosti a návyky)
+Pro volní procesy je důležitý motiv nebo vlastní zájem.
+Člověk musí vědět co chce dělat, jak to chce získat, proč to chce získat. Pokud si toto všechno uvědomuje, udělá to. Mělo by to člověku přinést radost či uspokojení.
+Popište faktory utvářející osobnost a vysvětlete jejich vzájemný vztah. Charakterizujte proces interiorizace a objasněte jeho význam.
+Osobnost
+jádro naší bytosti, naše já, vědomí sebe, sjednocující, integrující rámec, jedinečnost, individualita
+osobnost tvoří bio-psycho-sociální jednotu
+druhy vlivů:
+Vnější = exogenní (podmínky prostředí)
+Dědičná – dědíme po rodičích, prarodičích
+Genová – co je dáno od obou konkrétních rodičů jejich dítěti
+Vrozená – postižení dítěte během těhotenství, kdy bylo vyloučeno poškození a+b
+Konstituční – během porodu nebo krátce po něm
+2) Vnější = exogenní (podmínky prostředí)
+Fyzikální – podnebí, potrava, civilizační jevy
+Psychologické – podle rozsahu dělíme 
+mikroprostředí (rodina)
+mezoprostředí (třída, kroužek) 
+makroprostředí (vlastní společnost, kultura)
+Proces interiorizace
+Psychologické a sociologické označení procesu, během kterého si člověk internalizuje (vnitřně osvojuje) objektivní svět, aby byl schopný přežít v lidské společnosti.
+Jde tedy především o období dětství, kdy si jedinec pomocí rodiny osvojuje hodnotový systém společnosti, ve které žije.
+tři skupiny faktorů na sebe navzájem působí a dochází k interiorizaci vnějších vlivů a postupnému rozvoji osobnosti, 
+vnitřní faktory
+1. Dědičné a vrozené dispozice – je to vklad od rodičů, který je základem osobnosti.
+vnější faktory
+2.Prostředí – do něhož se jedinec během života dostává, v jakých rodinných podmínkách žije.
+3.Výchova – působí na jedince záměrně a cílevědomě.
+Pojednejte o složkách struktury osobnosti žáka střední školy a o možnostech jejich ovlivňování ve výchovně vzdělávacím procesu. Uveďte výhody a nevýhody jednotlivých typů temperamentu.
+Strukturou označujeme jevy trvalejšího rázu, málo a pomalu se měnící, pro osobnost typické a charakteristické. Soustavou pojmů patřících do struktury osobnosti můžeme popsat každého jednotlivce z hlediska jeho individuálních charakteristik i skupiny lidí se společným výskytem některých např. vlastností.
+Struktura osobnosti
+tvoří základ osobnosti - „kostru“. Je to (s výjimkou vloh) soubor vlastností, které lze pomocí psychodiagnostiky zjišťovat i měřit. Struktura osobnosti vypovídá o tom, „jaký člověk je“. Lze ji dále dělit na jednotlivé substruktury, skupiny vlastností vytvářející určité složky osobnosti.
+Vlohy, dispozice
+Nejedná se v pravém slova smyslu o psychické vlastnosti. Jsou to vnitřní podmínky získané dědičně či vrozeně, tvořící základ rozvoje osobnosti. Jsou charakterizovány jako anatomicko-fyziologické zvláštnosti nervového systému, na jejichž základě a ve spojení s působením prostředí (výchovy) dochází k rozvoji schopností a dalších skupin vlastností. Ne u všech skupin vlastností je dědičná složka rozhodující.
+Schopnosti
+Jsou to psychické vlastnosti a jsou základem pro vytváření změn probíhajících na základě učení. Schopnosti je možno rozvíjet. Proto je velmi důležité poskytnout dítěti příznivé prostředí pro rozvoj jeho schopností. Jedná se o prostředí bohaté na podněty, aktivní, podporující, spolupracující, motivující.
+Schopnosti lze dělit jak kvalitativně, tak i kvantitativně.
+Podle druhu rozeznáváme schopnosti:
+intelektové
+senzomotorické
+umělecké
+nadání
+talent
+genialitu
+Intelektové schopnosti jsou schopnosti umožňující člověku naučit se zvládat intelektové činnosti jako např. logické myšlení. Řešení nejrůznějších problémů a úloh např. v matematice, chemii, fyzice, naučit se cizímu jazyku apod. Jsou rozvíjeny v aktivitách vztahujících se k výše uvedeným činnostem. Podstatou rozvoje intelektových schopností a zvládnutí (interiorizace) na ně navazujících činností je cvičení – aktivní provádění těchto činností. Pouze v činnosti může dojít k interiorizaci – osvojení intelektové dovednosti.
+Senzomotorické schopnosti jsou schopnosti smyslově pohybové. Je možno hovořit o každé této kategorii těchto schopností zvlášť. Stejně tak jako u intelektových schopností je podstatou jejich rozvoje a vytváření senzomotorických dovedností činnost.V tomto případě činnost praktická, neboli nácvik jednotlivých senzomotorických dovedností. Pouhá informace o tom „jak se to dělá“ k vytvoření dovednosti vést nemůže.
+Umělecké schopnosti jsou schopnosti velmi individuální, zvláštní, integrující v sobě jak intelektové, tak senzomotorické schopnosti. Podílí se na nich též emoční složky osobnosti. Jsou základem k osvojení uměleckých činností.
+Nadání je taková míra schopnosti, která umožní člověku naučit se dobře (příp. rychle  ) nějakou činnost.
+Talent je vyšší míra nadání, u níž hovoříme o tzv. sdružení podobných schopností tedy o hudebním či sportovním talentu.
+Genialita je míra schopnosti vyznačující se velkou dávkou aktivity.  Geniální člověk se se svou 
+schopností prosadí díky jakémusi „puzení“ k činnosti i v nepříznivých a nepodnětných vnějších podmínkách.
+Rysy osobnosti
+Jedná se relativně stálé vlastnosti osobnosti, které jsou nazývány „povahovými vlastnostmi“. Veselost, družnost, laskavost, rozhodnost to jsou jen některé z nich. V rámci populace se rysy osobnosti objevují v párových dvojicích. S velkou pravděpodobností se některé z nich vzájemně podmiňují, jiné vylučují. V souvislosti s rysy se hovoří také o kvantitě, množství, velikosti. Jsou měřitelné a každý jedinec se pohybuje na škále mezi krajními hodnotami např. dominance – submise.
+Temperament
+Temperament je soubor vlastností projevující se jak v chování člověka, tak v jeho prožívání. Zvláštním způsobem se podílí na vzniku, průběhu a projevu citových procesů. Tato substruktura osobnosti je z hlediskaovlivňování či změnyvelmistabilní.  Pro školní praxi je důležité vědět, že temperamentnelzenijak zásadně měnit,ale spíše působit ve směru tlumení některých ve škole nežádoucíchprojevů, či aktivizace žáků, kteří nemají potřebu sebeprosazení a komunikace v rámci vyučování.
+Typy a typologie:
+Nejznámější – šťávová typologie (podle Hippokrata a Galenose), rozlišuječtyři základní
+temperamentové typy podle poměru tělesných tekutin:
+sanguinik, cholerik, melancholik a flegmatik
+Carl Gustav Jung hovoří o dvou formách lidskéosobnosti: introvertovanéa extravertované.
+Introvertovaná osobnost (introvert)se vyznačujenekomunikativním, váhavým,  do sebe
+ponořeným chováním, obtížně navazuje kontakty,nedůvěřuje,  spíše pozoruje, je vždy trochu v
+defenzivě, vyčkává v pozadí.
+Extravertovaná osobnost (extrovert)je otevřená,komunikativní, vstřícná, rychle se zapojuje
+do sociálních situací, je bezstarostná,důvěřivá, snadno navazuje kontakty.
+Hans a Jürgen Eysenck využívá Jungovy typologie a rozšiřujeji o další osobnostní dimenzi -neuroticismus.  Ten je charakterizován dvěma póly – stabilitou a labilitou.
+Labilní jedinec má vysoký stupeň neuroticismu, nemusí být neurotik, ale neuróza u něj může vzniknout snáze než u stabilního jedince. Labilní lidé mají velmi citlivou nervovou soustavu, snadno dochází k jejímu podráždění, takže labilní jedinec reaguje na podněty podstatně nižší intenzity než jedinec stabilní.
+Stabilní jedinec má nízkou míru neuroticismu, méně dráždivou nervovou soustavu, reaguje na podněty vyšší intenzity.
+Stručné charakteristiky jednotlivých typů:
+Cholerik - nedůtklivý,neklidný  agresivní,  vznětlivý,  impulsivní,  měnící postoje
+Sanguinik – optimistický, společenský, přístupný, hovorný, nenucený, živě reagující, nenucený bezstarostný vede, řídí
+Flegmatik - pasivní,pečlivý, rozvážný, mírumilovný, ovládá se, spolehlivý, vyrovnaný, klidný Melancholik - náladový, úzkostlivý, rigidní, střízlivý, pesimistický, rezervovaný, společenský
+Ernst Kretschmer vyslovil souvislosti mezi tělesnou stavbou a temperamentovým projevem. Vychází z předpokladu, že přechod mezi „normálem“ a „psychickou nemocí“ je plynulý. Tyto přechody zachytil pomocí pojmů:
+cyklothym
+schizothym
+viskózní typ
+Takto stanovené projevy temperamentu přiřadil k již dříve charakterizovaným somatotypům
+cyklothym – pyknik
+schizothym – astenik (leptosom)
+viskózní typ – atletik
+Stručné charakteristiky Kretchmerových typů:
+pyknik - malá postava, kulatá hlava, krátké končetiny, převládající tuková tkáň
+astenik (leptosom) - štíhlý až hubený, vysoká postava, dlouhé končetiny, vpadlý hrudník, podlouhlá hlava
+atletik – rovnoměrně harmonicky vyvinutá postava
+cyklotym – veselý, družný, otevřený, komunikativní, praktického založení, optimistický schizotym - uzavřený, rezervovaný, teoreticky zaměřený, rigidní, až asketický viskózní typ - klidný, rozvážný, nepřizpůsobivý, pomalý, někdy agresivní
+Charakter
+V užším, psychologickém, smyslu slova se jedná o soubor vlastností s „morálním významem“. Je tato substruktura výrazně závislá na vnějších faktorech utvářejících osobnost, zejména na výchově. Morální vlastnosti tvořící charakter se projevují ve vztazích k okolní skutečnosti.
+Vztahy k člověku, lidem, majetku, kulturnímu dědictví, přírodě, práci, sobě samému a další se pohybují na pólech plus – minus, kladný – záporný. Zodpovědnost v dodržování pravidel, jimiž se tyto vztahy řídí, udává míru a kvalitu morálních vlastností jedince. Na rozdíl od osobnostních rysů lze tyto vlastnosti jen velmi těžko měřit. Souvisí s rozvojem nejvyššího autoregulačního mechanismu osobnosti, kterým je svědomí. Míra interiorizace svědomí a morálních norem udává dle Pecka pět základních charakterových typů (na rozdíl od typologií temperamentových, kde vylučujeme hodnotící hledisko dobře – špatně) se u typů charakterových jedná o vývoj od méně kvalitního ke kvalitnějšímu.
+Charakterové typy dle Pecka:
+amorální
+účelově zaměřený
+konformní
+iracionální  svědomí
+racionálně  altruistický
+Amorální – typ „bez svědomí“. Není schopen hodnotit své chování z hlediska morálních norem. Nerozezná případnou nebezpečnost svého chování. U zdravé populace se nevyskytuje. Účelově zaměřený – typ charakteru jedná tak, aby měl ze svého chování prospěch. Z vývojového hlediska se jedná o stadium, jímž je nutno projít. Zde se začínají dítěti vštěpovat morální normy direktivním způsobem. Používáme apely typu: smíš – nesmíš, správně - špatně. Účelem, který dítě sleduje, není uvědomělé hodnocení morální kvality svého chování, ale pochvala (trest), láska (odmítnutí), pozitivní či negativní hodnocení od osob, které má rádo, které jsou pro něj autoritou. Ustrnutí na tomto vývojovém stupni charakteru není v dospělém věku známkou rozvoje a přijetí morálních norem.
+Konformní typ charakteru je z vývojového hlediska též stadiem, kterým je nutno projít. Zde už výchovné apely nejsou tak striktní jako v předešlém případě. Formujeme zde morální vlastnosti srovnáváním s chováním lidí kolem dítěte. „Viděl jsi někdy, že bychom něco takového dělali?“
+„Chovej se k ostatním tak, jak chceš, aby se oni chovali k tobě.“ atd. Zde už necháváme určitý prostor pro vlastní aktivitu dítěte. Samo si může vybírat z podnětů prostředí a hodnotit na základě srovnání s autoritou.
+Iracionální svědomí – typ charakteru lze považovat za určitou formu interiorizace morálních norem. Jedinec je zná, osvojil si je, avšak někdy není schopen jich využívat dobře a pružně v kontextu situace. Může se stát, že svou „pravdou“ ublíží, protože ji říká v nevhodnou chvíli.
+Racionálně altruistický typ charakteru je již oproštěn od případných chyb předešlého typu. Morální normy jsou plně interiorizovány. Jedinec se chová v kontextu situace, akcentuje ve svých rozhodnutích vysokou míru altruismu.
+Objasněte pojem charakter, přiřaďte jej do systému psychických jevů, uveďte některou z charakterových typologií. Popište možnosti rozvoje morálních vlastností žáků střední školy.
+Charakter 
+jedná se o soubor vlastností s morálním významem
+morální vlastnosti se projevují ve vztazích k člověku, lidem, majetku, přírodě, práci a k sobě samému.
+Tyto vlastnosti lze jen těžko měřit.
+Pecka udává 5 základních charakterových typů:
+Amorální
+Účelově zaměřený
+Konformní
+Iracionální svědomí
+Racionálně altruistický
+Amorální
+lze považovat za typ,,bez svědomí´´
+není schopen hodnotit své chování z hlediska morálních norem
+nerozezná případnou nebezpečnost svého chování
+                     
+Účelově zaměřený
+tento typ charakteru jedná tak, aby ze svého chování měl prospěch.
+Používáme apely typu:
+smíš/nesmíš, správně/nesprávně….
+Konformní
+formujeme zde morální vlastnosti srovnáváním s chováním lidí kolem dítěte: Viděl jsi někdy, že bychom něco takového udělali?
+Chovej se k ostatním tak, jak chceš, aby se chovali oni k tobě.
+Iracionální svědomí
+jedinec zná své morální normy, ale mnohdy není schopen je vhodně využít
+může se stát, že svou pravdou ublíží, protože jí říká v nevhodnou chvíli.
+Racionálně altruistický
+je již oproštěn od případných chyb, akcentuje ve svých rozhodnutích vysokou míru altruismu.
+Psychické jevy
+lidská psychika je souhrn psychických jevů
+má biologickou a sociální podmíněnost 
+Biologická
+pro pochopení je třeba chápat činnost mozku, znát stavbu a činnost nervové soustavy.
+Psychické jevy souvisí s činností soustavy žláz s vnitřním sekrecí (vyměšováním).       
+                                                                                                              Sociální
+lidská psychika se formuje v lidské společnosti vlivem sociálního prostředí, jednotlivců a sociálních skupin.
+Psychické jevy dělíme:                                                                                                     
+psychické procesy                                                                                                              
+psychické stavy                                                                                                                
+dílčí získané psychické předpoklady                                                                             
+psychické vlastnosti  
+Psychické procesy: 
+poznávací (vnímání,představy a fantazie, myšlení, řeč)
+paměťové (paměťové procesy-zapamatování, učení se, chování...) 
+motivační (city,emoce/afekt, nálada/, vůle, motiv)
+Psychické stavy:  
+citové stavy (nálady- klidná,smutná,radostná..)
+pozornost (bezděčná, záměrná, trvalá, hluboká, roztržitá......)
+aktivační úroveň (silně vzrušená, zvýšená, střední, snížená, nízká 
+stavy vědomí (bdění, spánek...)
+Dílčí získané psychické předpoklady:  
+postoje, zájmy, návyky, dovednosti, vědomosti
+Psychické vlastnosti: 
+temperament (melancholik, flegmatik, cholerik, sangvinik) 
+schopnosti (nadání, talent, inteligence)
+charakter (vztah k morálce) 
+Všechny psychické jevy spolu souvisí a navzájem se ovlivňují. 
+V průběhu života se vyvíjejí a je možné na ně výchovně působit.
+Psychologie výchovy  
+zaměřuje se na zkoumání vnitřní psychologické podstaty výchovného procesu
+zkoumá proces vzniku nových útvarů osobnosti – rysů charakteru, motivů, způsobů chování, nových citů a vztahů, které se objevují pod vlivem výchovného a vzdělávacího působení. 
+Základní výchovné prostředky
+kladení požadavků a jejich plnění
+odměny a tresty
+povzbuzení
+slovní působení
+přesvědčování
+model, příklad (mám být)
+Výchova 
+je proces ovlivňování osobnosti, který je komplexní (týká se všech složek osobnosti) a je celoživotní
+výsledkem výchovy je harmonicky rozvinutá osobnost, což je optimální stav
+narušená výchova může vést k disharmonickému vývoji osobnosti.
+Kladení a kontrola požadavků
+Požadavky 
+jsou součástí širšího spektra požadavků kladených na člověka životem.
+Míra požadavků 
+má být střední, mírně překračující přítomné předpoklady dítěte
+postupně by se měly mírně zvyšovat. 
+Optimální rozvoj dítěte zajistíme jeho rozvojem, věkem a individuálními zvláštnostmi.
+Odměna a trest
+Odměna
+posiluje žádoucí chování, je projevem uznání učitele
+odměna je prožívána, jako pocit uspokojení, radosti.
+Trest
+tlumí nežádoucí chování, je projevem nespokojenosti učitele
+je prožíván nelibě jako pocit viny.
+Funkce odměna trestů
+jsou informační a motivační.
+Povzbuzení
+proces, který se soustředí na úspěch žáků
+projevovat důvěru ve zvládnutí nového
+soustřeďovat se na dobré nápady žáka
+vytyčovat reálně dílčí dosažitelné cíle
+Výchovné vedení a poradenství
+vlastnosti a zkušenosti vychovatelů
+vlastnosti a zkušenosti vychovávaným
+sociokulturní podmínky
+události a změny v nejbližším okolí dítěte
+vzájemné vztahy a interakce mezi vychovávajícím a vychovávaným
+Učitel v roli poradce
+když se řekne učitel, obvykle se vybaví člověk spjatý s procesem výchovy a vzdělávání, přesněji profesionál
+očekává se od něj, že dokáže vytvořit takové podmínky, které umožňují rozvíjet maximum vnitřních potencialit každého žáka ve spolupráci s ním i ostatními žáky
+už to není pouze ten, kdo předává své znalosti žákům.
+Způsoby zvládání školní třídy
+patří k nim pravidla daná shora (např. školním řádem), tak i pravidla demokraticky utvořená spolu se žáky
+aby taková pravidla plnila svůj účel, nestačí, aby jen visela na stěně školní třídy
+je třeba s nimi průběžně pracovat, odkazovat na ně, sankcionovat pozitivně i negativně chování žáků a pravidla aktualizovat.
+Vysvětlete psychologický základ motivace, vnitřní a vnější motivy, jejich vzájemné souvislosti a využití ve výchovně vzdělávacím procesu.
+Motivace
+pomáhá porozumět lidskému chování, soubor motivů, odpovídá na otázku PROČ?
+Motiv je základní složka motivace
+která vede a nebo brání činnosti (aktivovat žádoucí – tlumit nežádoucí účinky)
+Chceme-li pochopit chování, musíme znát motiv
+Motivace = aktivita člověka vyvolaná motivem, který určuje směr, intenzitu a délku trvání chování 
+končící realizací (uspokojením) motivu (v případě učení se jedná o vnitřní zájem o učení)
+dělení podle místa odkud působí 
+motivace vnitřní
+hybnou silou jednání a chování člověka (ovšem platí, že ne každý motiv se projeví chováním)
+motivace vnější 
+vyvolává ho vnitřní motiv (potřebu) - pobídka v podobě peněz, vedoucí k uspokojení vnitřní potřeby hladu
+Motivace – souvisí s potřebami a pudy
+Nižší– fyziologické potřeby, potřeby bezpečí
+Vyšší–potřeba lásky a sounáležitosti, potřeba úcty a uznání 
+Potřeba seberealizace 
+City– citové motivy
+Vůlí–volní motivy
+4 krokový model motivace – nejznámější
+Potřeba
+Stanovení cílů
+Podniknutí cílů – realizace
+Dosažení cíle - uspokojení
+Psychologické základy motivace žáka
+Motivace ve škole
+učení je vnitřní aktivitou jedince
+vyučování je vnější proces, který má navozovat a řídit proces učení, ale především jej aktivizovat  
+vnější motivy (učitele) by neměly být hlavní motivací 
+důležité působit tak, aby žáci vnější motivaci přijali za svou (zvnitřnění)
+Jak probouzet zájem žáků?
+sami projevovat zájem o obor (nadšenci) 
+ukazovat význam oboru ve skutečném světě (žáci se učí to, co se jim hodí)
+aktivní zapojení žáků do výuky, zábavná forma 
+pravidelná obměna činnosti
+zadávání soutěživých a problémových úloh, nestandardní metody výuky a situace
+zadávání hádanek (na konci sdělit správnou odpověď)
+propojení učení s tím, co žáky zajímá (i mimo školu)
+zadávat společnou práci, kde bez spolupráce nedojdou k výsledku (sociální potřeby) 
+Způsoby motivace:
+děti se zpočátku učí kvůli rodičům – musí působit na děti tak, aby považovali učení za důležité (např. kvůli jejich budoucímu životu, vysněnému povolání)
+jistou motivující i demotivující funkci může mít kauzální atribuce 
+Trest – na některé žáky platí pouze veliké tresty (navíc krátkodobě)
+vedou k nezájmu o předmět, averzi vůči škole nebo učiteli (mohou mít však i pozitivní efekt, že se tomu dítě postaví a bude to chtít změnit)
+přesné stanovení kritéria, za co bude dítě potrestáno (učitel stanoví hranice, kam až dítě může)
+velikost trestu úměrná velikosti prohřešku
+Odměna – pochvala, uznání (může mít však i negativní efekt = usnout na vavřínech) 
+vedou k většímu úsilí, snaze dosahovat lepších výsledků
+bezprostředně spojovat pochvalu s provedenou činností
+frekvence a velikost pochval přiměřená (široký repertoár – úsměv ano, dobře, správně, výborně, skvěle, fantastické...)
+Cíle vyučování – pokud jsou cíle formulovány tak, aby jim žáci rozuměli
+když vidí smysl v tom, že splněním vnějších cílů dosáhnou svého cíle, přání
+Zpětná vazba – poskytuje informace o výsledcích učení
+pokud jsou špatné, motivuje to ke zvýšení úsilí a pokud jsou dobré, znamená to pocit uspokojení (prestiž, uznání)
+vnější (od učitele) nebo vnitřní (sám sobě), průběžná (během učení) či výsledná (na konci)
+Aspirační úroveň – na základě sebepoznání a sebehodnocení žák očekává nějaký výkon díky předchozím úspěchům (pozitivní motivace) či neúspěchům.
+Popište význam sociální psychologie v systému psychologických věd, vysvětlete pojmy interakce a vztahy a uveďte jejich vzájemné souvislosti.
+Základní pojmy sociální psychologie
+se zabývá vlivem sociálních faktorů na psychiku jedince v sociálních situacích. 
+Doménou sociální psychologie jsou
+- sociální interakce, postoje, role, chování, význam a dynamika sociálních skupin
+Je to věda o chování, prožívání a zkušenostech jednotlivce v sociálních situacích ve společnosti.
+Interakce a vztahy
+Sociální interakce 
+interakce je vzájemné působení osobnosti na druhou – vzájemná interakce
+zahrnuje také interpersonální (mezilidské) vztahy – vzájemné působení, během něhož se snažíme druhému něco sdělit
+sociální interakce a komunikace jsou neoddělitelné a jsou základními předpoklady pro vytvoření procesu socializace jedince
+sociální interakce může být charakterem formální (vyučování ve škole) nebo neformální (setkání 2 lidí na ulici)
+v moderní společnosti na rozdíl od tradičních neustále vstupujeme do interakce s neznámými lidmi
+Příklady sociální interakce:
+Vnější podmínky 
+rodina, vrstevníci, škola, lokalita, národnostní a jiné skupiny, životní prostředí 
+Vnitřní podmínky 
+biologické podmínky, psychické procesy a stavy, psychické vlastnosti
+Druhy sociální interakce
+přímá interakce – uskutečňuje se přímým kontaktem tváří v tvář
+nepřímá interakce – probíhá zprostředkovaně třetí osobou či komunikačními prostředky – např. médii či mluvčími
+záměrná interakce – úsilí, nejčastěji rodičů a učitelů, ovlivňovat, vyučovat a vychovávat dítě
+nezáměrná interakce – probíhá každodenním vlivem osob v neformálních situacích, kdy jedinec pozoruje sociální model a s ním se ztotožňuje
+Formy sociální interakce
+Koakce – individuální nezávislá práce ve skupině
+Kooperace (spolupráce) –součinnost spolupůsobení lidí kteří jsou zainteresováni na efektivním výsledném produktu svých společných aktivit– členové skupiny spolupracují při dosahování určitého cíle
+Rivalita –členové skupiny se snaží zvýšit nejen svoje dosavadní výsledky, ale zároveň se snaží snížit zásluhy partnera, respektive všech ostatních
+Soutěžení (kompetice) –vzniká při usilování o vlastní zisky, povaha vztahu je nulová (někdo ztratí jiný získá), uplatňují se zde různé strategie (podvádění, poranění, vyprovokování soupeře)
+Vztahy 
+vztah probíhá současně ve třech oblastech.
+Perceptivní oblast (sociální percepce) 
+aktéři neustále vnímají vývoj vztahu.
+Komunikativní oblast- (sociální komunikace) 
+mezi aktéry neustálá výměna informací.
+Interaktivní oblast- (sociální interakce) 
+mezi aktéry dochází k neustálé výměně podnětů a reakcí na ně.
+Vysvětlete pojem sociální skupina, její charakteristiky třídění. Charakterizujte školní třídu jako sociální skupinu a vysvětlete možnosti pedagoga při poznávání a formování třídní skupiny.
+Sociální skupina 
+je určitý počet lidí, navzájem spojených relativně trvalými vztahy, kteří si uvědomují sounáležitost „my“
+Každá skupina má tři základní znaky: 
+členové skupiny jsou ve vzájemné interakci, probíhá mezi nimi komunikace a skupina má organizaci.
+Sociální skupina 
+je určitý počet jedinců, kteří tvoří vnitřně propojený celek, mají společný cíl, jsou na sobě vzájemně závislí, jsou v interakci, mají vědomí My.
+Sociální skupinu lze charakterizovat jako soubor lidí, kteří splňují kritéria:
+Interakce: skupina je soubor osob, mezi nimiž probíhá vzájemná interakce. 
+Vzájemná závislost: skupina je seskupení vzájemně závislých osob.
+Percepce: skupina je určitý počet lidí, kteří sami sebe vnímají jako členy skupiny.
+Motivace: skupina slouží jako prostor pro uspokojování potřeb.
+Cíle: skupina je seskupení osob, které mají společný cíl.
+Organizace: skupina se vyznačuje určitou strukturovaností vztahů, propojeností sociálních rolí.
+Normy: skupina se řídí stejnými pravidly a normami.
+Vzájemná interakce je prvním a nejdůležitějším kritériem sociální skupiny. 
+Z hlediska významnosti následují kritéria vzájemné závislosti a percepce.
+Sociální skupina není množina lidí, kteří sice mají něco společného, ale netvoří vnitřně funkčně propojený celek, chybí u nich základní kritéria sociální skupiny. 
+Do sociální skupiny nepatří:
+Seskupení (agregáty) jsou shluky lidí, které vyvolávají dojem celku jen na základě vnějších okolností (fyzická blízkost), např. lidé v tramvaji, spojují je jen situační okolnosti.
+Sociální kategorie jsou množiny lidí, kteří mají nějaký společný znak: 
+věk, pohlaví, vlastnosti…
+Význam sociálních skupin
+prostřednictvím sociálních skupin působí na jedince makrosociálního prostředí
+důležitý je formativní vliv sociálních skupin zejména při utváření sociálních dovedností
+v sociálních skupinách si jedinci uspokojují sociální potřeby (sounáležitost, akceptaci, uznání, seberealizaci)
+účast v sociální skupině posiluje sociální identitu.
+Sociální skupina poskytuje:
+prostředí pro socializaci
+prostor pro vlastní aktivitu
+vzorce chování
+zpětnou vazbu
+pocit bezpečí
+možnost srovnávání s ostatními
+korektivní zkušenost (možnosti terapeutického využití)
+Sdružování lidí do skupin a život v sociálních skupinách má své výhody i nevýhody.
+Výhody fungování ve skupině jsou uspokojování sociálních potřeb, spolupráce, snazší získávání zdrojů, pocit sounáležitosti, vzájemná opora, komunikace, získávání zkušeností, zábava, ochrana, seberealizace, rozložení odpovědnosti.
+Sociálními potřebami se zabýval A. Maslow, známá je jeho hierarchie potřeb, ve které jsou sociální potřeby zahrnuty.
+Nevýhody fungování ve skupině
+Čím je skupina větší, tím složitější je její organizace, rozložení odpovědnosti, větší anonymita a menší podíl na aktivitách skupiny, menší spolupráce, vznikají podskupiny – frakce, zvyšují se bariéry v komunikaci.
+Výhody fungování mimo skupinu
+Jedinec se nemusí dělit, nemusí plnit příkazy, nepodléhá pravidlům.
+Psychologie národů: Wilhelm Wundt – psychologie národů, srovnání národů z hlediska kulturních fenoménů
+Psychologie davu: Gustave Le Bon – duše davu, znaky hromadného chování (šíření afektu v agitovaných davech)
+Teorie instinktu – úvod do sociální psychologie
+1897 J. M. Baldwin použil termín sociální psychologie
+1908 první dvě učebnice (W. McDougall: Úvod do sociální psychologie, E. A. Ross: Sociální psychologie)
+Dělení sociálních skupin: 
+A) podle velikosti:
+malé (do 20 členů);
+nejmenší malá soc. skupina – dyáda;
+velké;
+specifický agregát dav: demonstrující;
+rabující;
+terorizující;
+B) podle vztahů ve skupině a intimity vazby:
+Primární skupina 
+sdružení osob vyznačující se kontaktem členů tváří v tvář (face to face); 
+mezi členy těsné citové vazby dlouhého trvání, nezanikají dosažením cíle (rodina),
+je nejdůležitější z hlediska vývoje jedince;
+Sekundární skupina 
+vztahy jsou důsledkem určitého zájmu, či úkolu, nikoli citovými pouty (např. třída);
+C) podle způsobu vzniku skupiny:
+Formální skupina 
+vzniká podle předem daných pravidel určovaných zvnějšku a řídí se jimi, nevzniká z vlastní vůle, ale organizuje ji instituce (škola, armáda);
+vedená určitým cíle, které nemusí mít dlouhé trvání;
+Neformální skupina 
+pravidla vzájemného soužití a normy chování vznikají uvnitř skupiny a jsou vyjádřením přirozených potřeb členů;
+D) podle vztahu člena skupiny k vlastní skupině:
+Vlastní skupina 
+do níž jedinec reálně patří, vytvářejí se v ní představy o této skupině (idealizované) a rovněž o jiných skupinách, srovnávání a různá úroveň vztahů k vlastní skupině;
+Cizí skupina 
+do níž jedinec nepatří, ale má na ni názor;
+E) podle vztahu člena skupiny k vnějšímu okolí:
+Referenční skupina (vztažná) 
+do níž chce jedinec patřit a s jejímiž hodnotami a normami chování se ztotožňuje; 
+pozitivně referenční (chce být členem); 
+negativně referenční (jedinec k ní přísluší nerad);
+Členská skupina 
+skupina, jíž je jedinec členem; 
+ideální stav je-li členská skupina současně referenční;
+Nominální skupina 
+vytvořená dle nějakého znaku
+Sociální prostředí školní třídy 
+a školy
+Teoretická východiska
+učení a chování žáků není pouze individuální záležitostí
+je ovlivňováno mikrosociálním prostředím, v němž se žáci pohybují (prostředí konkrétní školy,
+konkrétního učitelského sboru, 
+konkrétní školní třídy
+konkrétní skupině vrstevníků s níž se žák či žákyně kamarádí, na jejíž mínění dá atp.)
+Proč se zajímat o sociální prostředí?
+škola jako prostředí
+vývojově psychologický pohled
+sociální učení 
+prožívání tohoto prostředí žákem 
+vliv na výkon
+vliv na další vzdělávací dráhu 
+Sociální klima v souvislostech
+Historicky je dáváno souvislosti
+efektivitou a kvalitou výuky, 
+školní úspěšností žáků, 
+akademickými aspiracemi žáků, 
+problémovým chováním…
+Z historických důvodů se liší 
+organizace výuky ve střední Evropě a v anglosaských zemích
+U nás 
+žáci se většinou účastní výuky v jedné skupině (školní třída); diferenciace podle výkonu probíhá uvnitř třídy a třída je proto velmi důležitým faktorem ovlivňujícím vnímání 
+vzdělávací reality žáky i vnímání žáků učiteli (kontext třídy)
+V USA 
+jsou žáci děleni do výuky podle výsledků (kurzy pro začátečníky a pokročilé) a mají větší možnost volby kurzů; 
+kontext školy jako celku 
+je pak mnohem důležitější (i jako label)
+Praktické využití poznatků
+úspěšná práce v prostředí konkrétní školy, 
+Předpokládá nejméně tři relativně samostatné činnosti:
+získat dostatečné teoretické znalosti o sociálně psychologických jevech, které se ve školství vyskytují
+umět diagnostikovat klima školní třídy, klima školy, příp. klima učitelského sboru
+umět (na základě zjištěných skutečností) navrhnout a provést vhodnou intervenci, která by pomohla jak žákům, tak učitelům.
+Klima školy vs. kultura školy
+Klima školy
+tradiční, vychází z kvantitativních postupů a metod
+zaměřuje se na hodnocení prvků prostředí a interakcí, která jsou agregované do ukazatelů
+výzkum klimatu školy je prostě levobočkem výzkumu klimatu organizace a výzkumu efektivity vzdělávání
+škola jako součást vzdělávacího systému je především formální organizací;
+vnímání ředitele a jeho stylu vedení jako jedné klíčových proměnných sociálního klimatu;
+akcent na výkon žáka či studenta, či výkon žáka a jeho ovlivnění efektivitou učitelovy práce
+pozitivní klima školy bylo nakonec potvrzeno jako jedna z charakteristik „efektivních škol“
+Kultura školy
+odlišná výzkumná tradice (kvalitativní přístup)
+etnografický přístup, idiografický přístup
+Sociální klima
+metafora, která se pokouší postihnout individuálně-emotivní i sociální rozměr (subjektivní hodnocení; postoj k) 
+institucionálního vzdělávání (zahrnuje tedy i kurikulum a skryté kurikulum)
+Poprvé použito J. Withallem (1949) (Journal of Experimental 
+Education, 17, s. 347-361)
+Proč nejsou srovnatelné třídy stejně školsky úspěšné?
+Terminologické otázky
+experti užívají při popisu a rozboru sociálně psychologických jevů ve škole různé termíny:
+prostředí, klima, atmosféra, charakter, étos (celé školy, učitelského sboru, jedné třídy, výuky v dané třídě, komunikace v dané třídě)
+připojují i různé přívlastky (edukační, učební, výukový, sociální, psychosociální, sociálně psychologický, sociálně-emocionální atd.) 
+Vývoj do současnosti
+rozlišuje sociálně-psychologické jevy ve škole podle rozsahu, měnlivosti, délky trvání, obecnosti. (Mareš, Lašek, 1990/91, Mareš, Křivohlavý, 1995)
+prostředí je nejobecnější termín, netýká se jenom aspektů sociálně psychologických
+Termín atmosféra 
+má poměrně úzký rozsah
+vyjadřuje proměnlivost a krátké trvání.
+Termín sociální klima 
+označuje jevy dlouhodobé
+jsou typické pro danou třídu a daného učitele (školu, zaměstnance, žáky) po několik měsíců či let.
+Teoretické otázky
+Klima ve třídě nelze pochopit izolovaně od environmentálních, sociálně psychologických, sociologických a kulturních souvislostí.
+Příklady různých taxonomií, které se snažily uspořádat do určitých 
+hierarchických souvislostí:
+Rozlišuje čtyři hierarchické úrovně dle Tagiuri (1968) a Anderson (1982)
+Příklad:
+ A)
+1. ekologie
+charakteristika budovy, v níž se výuka odehrává
+2. prostředí (milieu)
+charakteristiky učitelů (délka praxe, platové zařazení, ap.)
+žáků (věk, pohlaví, sociální status, ap.)
+3. sociální systém (skupinové 
+charakteristiky)
+vztahy mezi klíčovými účastníky sociální komunikace podíl na rozhodování 
+příležitost k účasti na sociálním dění ve skupině
+4. kultura
+hodnoty a hodnotové systémy, jež účastníci považují za významné učitelova angažovanost na rozvoji žáků
+důraz na kooperaci
+důraz na činnosti související se školou 
+očekávání účastníků
+jasnost a konzistentnost cílů
+B)
+Sedm úrovní dle Knowles (1985)
+1. podmínky klimatu
+fyzikální prostředí,
+architektonické koncipování učebny a způsob jejího vybavení
+psychologické prostředí,
+vzájemné respektování účastníků,
+spolupráce účastníků,
+možnost vzájemného spolehnutí,
+vzájemná podpora, pomoc,
+otevřenost a autentičnost jednání,
+potěšení a radost ze společenství,
+humánnost, lidskost v jednání
+2. zaangažovanost žáků na
+    společné tvorbě plánů, 3.  na diagnostice vlastních potřeb, 4.  na  definování cílů učení
+5.  na návrhu postupů při učení, 6. pomoc žákům uskutečňovat  navržený postup učení
+7.  na hodnocení průběhu a výsledků  vlastního učení
+Teoretické úrovně uvažování o 
+klimatu – Proč mě vlastně zajímá?
+Celkem nejméně pět teoretických úrovní – možných perspektiv reflexe klimatu: 
+První 
+je úroveň ekologická a lidé jsou v ní přítomni spíše zprostředkovaně (prostředí školní budovy, učebny, laboratoře, studovny atd., tedy prostor, v nichž žáci a učitelé žijí část svého života, vyučují a učí se).
+Druhá 
+je úroveň jedinců (jednotlivých učitelů, jednotlivých žáků atp.).
+Třetí 
+je úroveň malých sociálních skupin (školní třídy ap.). 
+Čtvrtá 
+je úroveň větších sociálních skupin (klima školy).
+Pátá 
+je úroveň velkých sociálních skupin, např. úroveň školství dané země, zvláštností její kultury
+Sociální klima
+Klima školní třídy
+Konkrétnější (i z pohledu dotazovaných), 
+v praxi častěji používané, řada metod (MCI, CES, SORAD, sociometrie)
+Klima školy
+Obecnější
+nutnost reflexe ze strany aktérů, v současnosti spíše výzkumně, i když je prodávána celá řada metod 
+Typologie přístupů ke klimatu
+podle stupně školy
+podle typu školy
+podle koncepce výuky
+podle zvláštností žáků
+podle zvláštností učitelů
+podle zvláštností vyučovacích předmětů
+podle zvláštností prostředí, v němž se výuka odehrává
+podle zvláštností komunikace, která zprostředkovává sociální kontakt
+Současné přístupy ke zkoumání 
+klimatu třídy 
+Sociometrický přístup
+objektem studia je školní třída jako sociální skupina, nikoli učitel.
+Organizačně-sociologický přístup
+objektem studia je školní třída jako organizační jednotka a učitel jako řídící pracovník.
+Interakční přístup
+objektem studia je školní třída a učitel
+zajímám se o interakce mezi učitelem a žáky v průběhu vyučovací hodiny.
+Pedagogicko-psychologický přístup
+objektem studia je školní třída a učitel
+zajímá nás spolupráce ve třídě, kooperativní učení v malých skupinách. 
+Současné přístupy ke zkoumání 
+klimatu třídy 
+Školně-etnografický přístup
+objektem studia je školní třída, učitelé a celý přirozený život školy. 
+Vývojově psychologický přístup
+objektem studia je žák jako osobnost a školní třída jako sociální prostředí, v němž se má osobnost rozvíjet.
+Sociálně-psychologický a environmentalistický 
+přístup
+objektem studia je školní třída chápaná jako prostředí pro učení, žáci dané třídy a vyučující, kteří v této třídě působí. (aktuální podoba klimatu, preferovaná podoba klimatu)
+Metody zkoumání klimatu
+Metody
+postoje k různým aspektům školního prostředí (autoři mluví o percepci) 
+současné přístupy k postojům akcentují zejména prvek hodnocení
+Pozorování
+Rozhovory (individuální, focus groups)
+Sociometrie
+Nominační techniky
+Posuzovací škály
+Dotazníky
+Metody
+Určené: 
+žákům, učitelům, vedení školy, rodičům.
+Formy
+Aktuální – „jak je to teď“
+Preferované – „jak by se mi to líbilo“
+Problémy
+nejsme zvyklí o prostředí uvažovat, když je v pořádku“; 
+nutné cílené vedení k reflexi
+Dotazníky (třída) – příklad (CES)
+Škály: 
+učitelova pomoc, orientace žáků, vztahy mezi žáky, zájem o výuku, klid a pořádek, jasnost pravidel
+Dotazník CES – forma A
+(Classroom Environment Scale)
+Dotazníky (třída) – příklad (ICEQ)
+Škály: Personalizace,Participace, Nezávislost, Bádání, Diferenciace
+Dotazník ICEQ (Individualized Classroom Environment Questionnaire)
+Uveďte hlavní zásady komunikace „učitel – žák“ během výchovně vzdělávacího procesu. Popište význam jednotlivých složek komunikačního procesu a naznačte možné bariéry v komunikaci a možnosti jejich odstranění.
+Hlavní zásady komunikace mezi učitelem a žákem v rámci výchovně vzdělávacího procesu jsou: 
+Jasná a přesná komunikace: Komunikace by měla být jasná a přesná, aby byla pro žáka snadno srozumitelná. Učitel by měl být schopen vysvětlit složité koncepty a pojmy srozumitelným způsobem. 
+Empatie: Učitel by měl být schopen porozumět žákovým potřebám a emocím, aby mohl přizpůsobit svou komunikaci a vzdělávání pro každého jednotlivého žáka. 
+Otevřená a pozitivní atmosféra: Komunikace by měla probíhat v otevřené a pozitivní atmosféře, která podporuje aktivní účast a spolupráci žáků. 
+Respekt a důvěra: Učitel by měl respektovat názory a zkušenosti žáků a vytvářet důvěru mezi sebou a žáky. 
+Zpětná vazba: Učitel by měl poskytovat průběžnou zpětnou vazbu žákům, aby mohli zlepšovat své výsledky a rozvíjet své schopnosti. 
+Komunikační proces se skládá z několika složek: 
+Sender (odesílatel): To je osoba, která zahajuje komunikaci, v tomto případě učitel. 
+Zpráva: To je obsah komunikace, což mohou být slova, gesta, obrazy a další formy sdělování informací. 
+Kódování: To zahrnuje způsob, jakým je zpráva zakódována pro přenos, například výslovnost slov, gesta atd. 
+Kanál: To je médium, kterým se zpráva přenáší, například mluvené slovo, písemné texty, vizuální prezentace atd. 
+Dekódování: To je proces, kdy žák interpretuje a porozumí zprávě, kterou mu učitel posílá. 
+Feedback (zpětná vazba): To zahrnuje reakci žáka na zprávu, kterou obdržel, a případné dotazy nebo reakce učitele na něj. 
+Bariéry v komunikaci mohou zahrnovat špatné dorozumívání, nejasnosti v komunikaci, nedostatek empatie, kulturní rozdíly, nevhodné tóny a mnoho dalších faktorů. Tyto bariéry mohou vést k nedorozumění a snížení efektivity vzdělávání. Některé z možností, jak překonat tyto bariéry, jsou například: 
+Zlepšení komunikačních dovedností: Učitelé by měli pracovat na zlepšení svých komunikačních dovedností a způsobů, jak sdělit informace žákům. 
+Poslouchání: Učitelé by měli aktivně poslouchat a snažit se porozumět žákům, což zlepší porozumění jejich potřebám a problémům. 
+Zpětná vazba: Učitelé by měli poskytovat průběžnou zpětnou vazbu žákům a snažit se pochopit, jaké jsou jejich reakce na vzdělávací proces. 
+Přizpůsobení se potřebám žáků: Učitelé by měli být schopni přizpůsobit svou komunikaci a vzdělávání pro každého jednotlivého žáka. 
+Emocionální inteligence: Učitelé by měli mít vysokou úroveň emocionální inteligence, aby mohli rozumět a reagovat na emoce a potřeby žáků. 
+Otevřená a přátelská atmosféra: Učitelé by měli vytvářet otevřenou a přátelskou atmosféru, která podporuje aktivní účast a spolupráci žáků. 
+Zpětná vazba od žáků: Učitelé by měli také brát v úvahu zpětnou vazbu od žáků a snažit se na ni reagovat, aby mohli vylepšit své vzdělávací procesy a metody. 
+ 
+ 
+Charakterizujte druhy náročných situací. Vysvětlete jejich význam v životě člověka, popište metody jejich zvládání, řešení problémových situací. Objasněte pojem stres a zaměřte se na možnosti minimalizace stresoru ve vyučování.
+POTŘEBA x PŘEKÁŽKA x CÍL
+Překážka je překonatelná (tato situace člověka rozvíjí, otužuje, je li přiměřená, žádoucí)
+Překážka je nepřekonatelná (nemotivuje, nerozvíjí osobnost)
+Náročné životní situace jsou v základním rozdělení tyto:
+FRUSTRACE
+DEPRIVACE
+STRES
+KONFLIKT
+Frustrace = psychický stav vyvolaný překážkou, která stojí v cestě k uspokojení potřeby nebo dosažení cíle. 
+Frustrační tolerance – odolnost vůči frustraci, závisí na temperamentu
+Stupně frustrace: 
+Každodenní
+Životní
+Existenční
+Obranné frustrační mechanismy – útok, únik, agrese, útěk do snění, alkohol, drogy
+Deprivace = psychický stav, kdy není dlouhodobě uspokojená potřeba nebo člověk nedosahuje důležitého vytyčeného cíle.
+Druhy: 
+Fyzická
+Psychická
+Sociální
+Čím je člověk mladší, a čím déle deprivace trvá, tím jsou následky horší.
+Stres = reakce organismu na ohrožení, v pocitech se projevuje spíše úzkostí – strach, sevřené hrdlo, červenání, třes rukou, pocení rukou, vysychání v hrdle, třes hlasu
+Faktory, které spouští stresové situace se nazývají stresory – (fyzikálně chemické stresory, úkolové stresory, myšlenkové stresory, sociální stresory). 
+Dále stresory dělíme na dlouhodobé X krátkodobé 
+Typy stresu: 
+Prospěšný (člověka motivuje, aktivuje k výkonům)
+Škodlivý (tento typ stresu člověka paralyzuje, cítí strach, negativní zážitek)
+Chronický stres (spojen s dnešní hektickou dobou, dlouhodobý)
+Akutní stres (vzniká při nastalé mimořádné události)
+Důsledky stresu – mnoho zdravotních potíží – vysoký krevní tlak, vysoký cukr, bušení srdce, srdeční arytmie, migrény, vyrážky, svalové napětí
+Emocionální, citové příznaky stresu – změny nálad, neschopnost empatie, pocity únavy
+Behaviorální důsledky – nerozhodnost, sklony k návykovým látkám, snížená obranyschopnost, změny spánkového rytmu
+Syndrom vyhoření (BURNOUT) – (nadšení ----stagnace------frustrace-------apatie)
+Důležitá psychohygiena, pocit životního štěstí, spokojenosti, správný denní řád, odpočinek, spánek, správné hospodaření s časem, správná životospráva, pohyb ( ve zdravém těle zdravý duch)
+1/3 tělesných nemocí vzniká z poruch duševní rovnováhy
+Možnosti minimalizace stresu ve škole
+Důležité vytvořit vhodné klima ve třídě
+Jasně stanovená pravidla
+Žák by se měl cítit součástí vzdělání a třídního kolektivu
+Může realizovat své nápady
+Svobodně se ptát
+Cítit se ve škole bezpečně
+Žádné fyzické a ni psychické násilí
+Hezké a čisté prostředí třídy
+Případně využití školního psychologa atd……okecat
+Vysvětlete pojmy: sociální status, sociální pozice, sociální role, individuální systém rolí. Popište role učitele a žáka ve výchovně vzdělávacím procesu.
+Sociální pozice
+je místo, které jedinec zaujímá ve struktuře společnosti jako celku. Své místo získává podle toho, jak ostatní členové skupiny oceňují jeho přínos pro plnění společného cíle
+Je výsledkem procesu socializace
+Konkrétní místo ve struktuře společnosti, kterému společnost přiřazuje určitá práva a povinnosti prostřednictvím hodnot a norem
+Student, policista, rodič, dítě
+Lidé zaujímají více pozic najednou
+Je s ní spojen výkon určité sociální role
+Sociální status
+souvisí se společenskou prestiží, vážností – určuje, jaké chování budou druzí od držitele statusu očekávat.
+Hodnocení pozice, společenská vážnost– prestiž
+Vrozený (muž a žena) 
+Získaný v závorkách student gymnázia)
+Připsaný– přidělený společností (lékař)
+Je ovlivněn:
+- Vlastnictvím– majetek, hmotné statky
+- Vzděláním–výše SŠ, VŠ
+- podílem moci
+Může být konzistentní či inkonzistentní
+Statusový symbol– vnější znak statusu (uniforma, osobní automobil)
+Sociální role
+je komplex chování, který souvisí s určitou pozicí nebo činností. Jde často o chování normativně vymezené, v této pozici očekávané, dovolené i vyžadované. 
+Chování očekávané společnosti od jednotlivce v dané sociální pozici spojené s možností realizovat daná práva a povinnosti
+Lékař, učitel, duchovní, horník atd.
+Popište role učitele a žáka ve výchovně vzdělávacím procesu.
+Podmínky učení se týkají všech jeho aspektů: učícího se žáka, učitele, jejich vztahu, cílů, učiva, procesu učení, metody učení, prostředí, ve kterém učení probíhá
+Vnitřní podmínky učení (ve vztahu k žáku)
+motivace – proč se učím, k čemu mi to je, čeho chci dosáhnout?
+předchozí znalosti a dovednosti
+pozornost – dokážu se soustředit?
+paměť – kolik si toho zapamatuji?
+inteligence – jak hluboko proniknu do probírané látky, jak jí rozumím?
+osobnostní vlastnosti (zejména volní)
+kompetence k učení – umím se učit?
+styl učení
+Vnější podmínky učení (prostředí – kde se učím)
+Prostředí – kde se učím? – rodinné, školní…
+fyzické vlastnosti prostředí,
+sociální aspekty, včetně klimatu
+v rodině
+ve škole: klima školy, klima třídy; součástí klimatu třídy je vztah učitel – žák
+Pedagogické podmínky – učitel a jím používané metody a formy výuky
+Učivo – jeho obsah, přiměřenost, smysluplnost, srozumitelnost
+Doba a čas – kdy se učím a kolik na to mám času?
+Vnější faktory motivace – incentivy, motivační situace
+Jedinec v průběhu života vrůstá do různých sociálních skupin a zaujímá v nich sociální pozice, hraje sociální role a má určitý sociální status. V průběhu socializace se učíme sociálním rolím. Všichni členové ve společnosti zastávají mnoho pozic a vykonávají v nich očekávané role. Sociální pozice, status a role jsou podmíněny kulturně a sociálně a mají sociální vliv na jedince. Jedinec tak, jak role chápe a hraje, je současně vytváří.
+Pozice, status a role jsou klíčové pojmy v sociální psychologii. Pozice se týká místa, které jednotlivec zaujímá v rámci sociální struktury, zatímco status se týká hodnoty, která je s touto pozicí spojena. Role se týká očekávání, jaké jsou spojena s konkrétní pozicí.
+Sociální pozice
+Sociální pozice je poloha, místo jedince ve struktuře určité skupiny nebo organizace
+Kritériem pozice ve skupině je míra přitažlivosti a míra osobní moci.
+Pozice jedince ve skupině podle míry sociální přitažlivosti: populární osoby, oblíbené osoby, akceptované osoby, trpěné osoby, mimostojící osoby
+Pozice jedince ve skupině podle míry osobní moci: vůdce, pomocníci, souputníci, osoby pasivní, periferní osoby (krajní)
+Sociální status
+Status je souhrnné vyjádření pozice člověka v určité společnosti, skupině, spojené s mírou ocenění ze strany druhých. Souvisí se společenskou vážností, s prestiží.
+Typy statusu:
+Vrozený – status biologicky přidělený jako je pohlaví, rasa, věk
+Připsaný – status, který člověk získá bez vlastní zásluhy, v důsledku sociální okolnosti, např. dědictví
+Získaný – vzdělání, profese….
+Snaha zviditelnit vlastní sociální status vede k užívání statusových symbolů (značka auta, lokalita bydliště, značka oděvů, členství v klubech…)
+Sociální role
+S pozicí člena ve skupině jsou spojena očekávání, jak se má tento člen ve skupině chovat. Soubor očekávání, týkající se chování jednotlivce spjatého s určitou pozicí ve skupině je sociální role.
+Obsah role má formu modelů, vzorů, ty jsou součástí historické zkušenosti, generačně se předávají, jsou obsaženy i v hodnotách a ideálech, normách společnosti a ve zvyklostech a tradicích. Modely jsou: přímé – pozorované chování lidí, symbolické (umění, věda, náboženství, ekonomika)
+Individuální systém rolí
+Vzhledem k tomu, že každý jedinec zastává v životě více pozic, nutně se od něj očekává i více rolí. To, co si můžeme dovolit v roli jedné je neakceptovatelné v roli jiné (jako učitel si nemůžu dovolit některé chování, ale mohu se tak chovat mezi kamarády).
+Typy rolí:
+Připsané – pohlaví, věk, národnost, zděděný majetek
+Získané -  prestiž, nezděděná privilegia
+Vnucené – vojenská služba(nedobrovolná),nezaměstnanost, výkon trestu
+Volitelné – zaměstnání, studium, záliby
+Krátkodobé – omezená doba
+Dlouhodobé delší doba nebo celoživotní
+Falešné – např. úspěšný podnikatel, ale podvodník
+Popište role učitele a žáka ve výchovně vzdělávacím procesu
+Sociální vztahy jsou vztahy nezávislé na konkrétních jedincích. Jedná se o vztahy mezi společenskými pozicemi (ředitel- náměstek, učitel -žák). Jsou závislé na uspořádání společnosti a tvoří např. organizační strukturu podniků.
+Vztah mezi učitelem a žákem je základem vzdělávacího procesu. Učitel a žáci představují základní činitele výchovně vzdělávacího procesu (kvalita, kvantita, výsledky.) Jsou nositeli vyučování, které bez nich není možné a vzniká jejich reciproční interakcí. Prvotní podoba vztahu – jako vztah rodičů a dětí, kdy informace původně předávali rodiče.
+Vztah žáka k učiteli ovlivňuje
+Ze začátku je u žáků nekritický postoj, (v první třídě).
+S postupem věku přibývají kritické výhrady, vztah k učitelům se diferencuje, racionalizuje.
+Kladný postoj formuje se např.podle toho, zda-li žák nachází u učitele vlastnosti, které mu „vyhovují“. Dále sem můžeme zařadit sociální prostředí, kamarády, veřejné mínění třídy apod.
+Záporný vztah k učiteli může vyústit v negativní vyladění žáka k učivu, mezi učitelem a žákem je negativní duševní rovnováha.
+Vztah učitele k žákovi je spoluurčován následujícími faktory
+Postojem učitele k vlastní roli.
+Jeho přizpůsobením učitelskému povolání.
+Osobnostními vlastnostmi.
+Osobní situací.
+Věkem, pohlavím.
+Rodiči žáka.
+Dovednostmi učitele k harmonickému formování osobnosti žáka.
+Popište rodinu jako primární sociální skupinu, její význam pro socializaci jedince. Charakterizujte základní funkce rodiny.
+Rodina – základní společenská jednotka, z hlediska klasifikace sociálních skupin je rodina skupina malá, primární, formalin i neformální, členská, referenční, vlastní skupina. Nejvýznamnější organizace soukromého života. Historicky se mění podoba, ale základ je společný:
+vztahy partnerské – vztahy mezi mužem a ženou, primární rodinná dyáda (tyto vztahy jsou základem pro vznik rodiny, ale není to manželství ani rodina)
+vztahy příbuzenské – r vztah rodičovský, sourozenecký a jiné příbuzenské vztahy (podle toho, kdo v rodině všechno žije)
+Definice rodiny: rodina je institucionalizovaná biopsychosociální skupina, tvořená přinejmenším ze dvou členů opačného pohlaví, mezi nimiž neexistují pokrevní pouta a z jejich dětí.
+Specifičnost spočívá v tom, že pro dítě je rodina nezastupitelnou primární sociální skupinou, která má největší význam pro zprostředkování všech společenských vlivů v jeho psychice.
+Z kvality soužití v rodině vycházejí první dětské vzorce sociálních reakcí. V rodině děti postupně přejímají životní role, osvojují si kulturní vzorce, zprvu především tím, že je přijímají od svých rodičů.
+Základní znaky rodiny:
+silná, trvalá citová vazba
+spolupráce a vzájemná propojenost rolí
+společné vedení domácnosti
+projevování vzájemné úcty
+Funkce rodiny
+Primární funkce:
+-biologicko-reprodukční funkce – produkce dětí (reprodukční funkce je nenahraditelná)
+ekonomická (materiální) funkce  –  vytváření  materiálního  zázemí,  funkce  zcela  nahraditelná (systém podpor)
+výchovná funkce – rodina poskytuje základní orientaci ve světě a vše potřebné pro plynulé zařazení dítěte do společnosti, snaha o podmínky umožňující všestranný rozvoj, do 3 let nenahraditelná funkce, os 3 let částečně nahraditelná (MŠ), dynamika probíhající v rodině vytváří jedinečné prostředí pro formování postojů k sobě i ke světu, hodnotovou orientaci, formování vlastního Já, koncepci vlastního života
+psychologická funkce – uspokojování sociálních potřeb je nenahraditelná funkce, rodina umožňuje vytvořit pevné sociální vazby, nabízí prostor pro další vývoj jedince, formují se
+modely chování, regulační činitelé (interiorizace norem), proces identifikace a přijímání rolí, rozvoj komunikace, dovedností atd., rodina také dává odpověď na otázky po smyslu života
+Sekundární funkce:
+ty, které rodina může, ale nemusí plnit, např. rekreační, odpočinková, vzdělávací, zájmová
+Rodina uspokojuje potřeby všech jednotlivých členů rodiny. Ve funkční rodině je při uspokojování potřeb upřednostňováno dítě.
+Postoje rodičů k dětem a výchovné styly, které rodiče ve výchově uplatňují, výrazně ovlivňují nedospělé členy rodiny. Bylo prokázáno, že existuje souvislost mezi postoji rodičů vůči dětem a stupněm jejich vzdělání, jejich osobnostními vlastnostmi, úrovní schopnosti rezidovat vůči náročným životním situacím a událostem, rezultující často v chronický stres atd. Neurotizovaní rodiče, kteří často prožívají pocity nejistoty, nižšího sebevědomí, jsou pronásledováni obavami z různých druhů nebezpečí ze svého okolí atd., uplatňují častěji ve vztahu ke svým dětem autoritativní metody a tresty, než rodiče bez těchto obtíží.
+Charakterizujte dysfunkční rodinu, uveďte některé typy dysfunkčních rodin. Popište, jak se dysfunkce projeví na rozvoji dítěte. Charakterizujte přístupy učitele k žákům z dysfunkčních rodin.
+Dysfunkční rodina
+Dysfunkční rodiny – Ohrožená rodina
+Neúplná
+Zastoupená
+Ale i úplná
+Typy:
+Nezralá – neplánované rodičovství
+Odkládající – u babičky, u tety, bez zázemí a zodpovědnosti za výchovu
+Autoritativní – partner je hozen na úroveň dětí
+Ambiciózní – rodiče si chtějí dohnat vlastní nedosažené ambice, dobře ek. zabezpečená, „budeme tě mít rádi, jen když budeš úspěšný“
+Přetížená – po rozvodu, nemoci – na dítě kladeny větší nároky (musí pomáhat, starat se o sourozence), výsledkem změny chování, prospěchu
+Protekcionistická – příliš velká ochrana
+Rodinné konstelace (koalice)
+Spojenectví mezi určitými členy rodiny. Bývá funkční i dysfunkční. Funkční koalice je koalice manželů (spojenectví nejsilnějším článkem v rodině).
+Schizmatická – buď relativně slabá, či chybějící manželská koalice, ale silné spojenectví napříč generacemi a mezi odlišnými pohlavími.
+Asymetrická – jeden člen rodiny je poněkud izolován od ostatních, kteří tvoří velmi soudržnou koalici.
+Generační – manželé na jedné straně a potomci na druhé straně
+.-
+Pseudodemokratická:
+všechny vztahy mají přibližně stejný význam, manželská
+koalice a rodič, role jsou dobře diferencované.
+-  Totální, tzv.  enmeshed
+rodiny – osobnostní hranice jsou nejasné, nezřetelné.  Rodiny
+s
+propletenými, těsnými
+vazbami, kdy jednání a pocity jednoho člena  okamžitě
+zasahují druhé členy.
+Dysfunkční rodina – vyskytují se zde vážnější poruchy jedné, nebo více funkcí, které bezprostředně ohrožují nebo poškozují rodinu jako celek, zvláště pak prospěch a vývoj dítěte. Dochází také k vnitřnímu rozkladu rodiny.
+Dysfunkční rodina vyžaduje soustavnou pomoc
+Přístup učitele k žákům z dysfunkčních rodin
+Zásadou je kompenzovat dysfunkci (nadměrný nebo nedostatečný vliv rodiny)
+Dítěti, které nemá řád a pevně srovnané hodnoty jej dodat
+Dítěti, které je drženo pevnou rukou ukázat, že jsou možné i jiné, demokratičtější přístupy
+Pokud se při práci s žákem vyskytuje nepříznivé chování, je vhodné si vést záznamy (portfolio) o výukových pokrocích (pozitivních aspektech), stejně tak o negativních aspektech (např. zesilující se přestupky).
+Toto portfolio slouží také pro zpětnou vazbu žákovi či rodičům.
+Hojně využívanými a osvědčenými metodami je rozbor interakcí nebo chování za pomoci následujících metod:
+-videotrénink interakcí – po souhlasu s rodiči a učitelem se pořizuje záznam z výuky, jež se odborníkem analyzuje.
+funkční analýza chování – jestliže se vyskytne nepříznivé chování, analyzuje se jeho příčina a okolnosti vzniku, aby se lépe takovému chování porozumělo. Odstranění podnětů, které takovéto chování spouští a podporují je vhodné.
+-diagnostika vycházející z činnosti – zejména ze hry nebo učení. Sleduje se reakce a průběh.
+-reakce na intervenci – učitel přistupuje k chování žáků běžným způsobem v souladu s požadavky školy, věkem a složení žáků.
+Popište předmět pedagogické psychologie. Objasněte základní pojmy: vývoj, výchova, učení, vyučování. Vysvětlete trendy ve vyučování od osobnosti k týmové práci a od znalostí ke kompetencím.
+Předmět – Pedagogická psychologie se zabývá procesem učení, jeho dopady na utváření lidské osobnosti a rozvoj jedince pod vlivem formativních procesů, probíhajících uvnitř skupin jako je např. rodina, školní třída, sportovní oddíl apod.
+Je to samostatná psychologická disciplína, která zkoumá psychologické aspekty vzdělávání a výchovy (souhrnně řečeno edukace) lidí různého věku, nejen dětí a mládeže. (Čáp)
+(Je sama svou podstatou mezioborová-od svého začátku až doposud čerpá poznatky z věd o prožívání, myšlení, chování, výchově a vzdělávání i z řady jiných oborů. Nejbližší jí jsou vědy pedagogika, sociální a lékařské vědy)
+(Podle Z. Heluse – pedag. Pracovník neponechává dítě či dospívajícího napospas jeho potížím, ale spolu s ním situaci reflektuje, aby byly odhaleny cesty ke zlepšení a vyvozena odpovídající opatření. Tímto způsobem se maximalizuje šance jedinců dosahovat co nejlepších výsledků).
+Předmětem zájmu jsou:
+Zvláštnosti vývoje osobnosti v souvislosti s výchovně vzdělávacím procesem;
+psychologické problémy vyučovacího procesu (včetně procesu učení), účinnosti didaktických postupů, motivace ve vyučování v souvislosti se zájmy a potřebami žáků;
+problémy poznávací činnosti a jejího rozvoje ve výchovně vzdělávacím procesu;
+základy výchovy (jde o výchovu mravní, estetickou, intelektuální, volní, citovou);
+problémy žákovského kolektivu (školní třídy, utváření, vývoj třídy, vztahy ve třídě a jejich vliv na jedince, zvláštnosti procesu socializace);
+zvláštnosti vztahů mezi učiteli, žáky a jejich rodiči.
+Předmět pedagogické psychologie
+Značné změny psychiky a osobnosti se týkají: 
+• vědomostí, znalostí, návyků a dovedností
+• postojů
+• hodnotových orientací
+• životního stylu
+Využití v praxi
+Otázky poznávání žáků – dětí a dospělých, zvláštnosti jednotlivých vývojových etap osobnosti ve vztahu k vzdělávání a výchově, problémy vyučovacího procesu, účinnost didaktických postupů, motivace v pedagogickém procesu – význam potřeb, problémy poznávací činnosti a jejího rozvoje ve VVP, problémy výchovy tělesné, intelektuální, estetické, volní, mravní, citové, problémy kázně, problémy kolektivu, skupiny – jeho utváření, vývoj, směr, vliv základních činitelů vývoje na osobnost – dědičnost, prostředí, výchova, sebevýchova, mechanismy socializace, učení.
+(Studium pedagogické psychologie by mělo přispět k zvýšení kvality učitelova působení. Mělo by pomoci při řešení problémů v rámci jeho učitelské profese. Pochopení psychologických aspektů edukace umožní efektivnější projektování i realizaci výuky, optimalizaci podmínek, zlepšení procesu rozvoje osobnosti žáka. Spolu s tím by mělo dojít u učitele samotného k vyšší míře osobního uspokojení z vlastní pedagogické profese).
+Pouze malé změny lze očekávat v takových vlastnostech osobnosti jako jsou:
+• temperament
+• inteligence
+• neuroticismus
+• psychoticismus
+Vývoj pedagogické psychologie
+Pedagogická psychologie patří mezi nejstarší psychologické obory. Začala se rozvíjet už ke konci 19.století. Vztah mezi pedagogickou psychologií a pedagogikou prošel dlouhodobým vývojem. V počátcích byl pouze jednosměrně orientovaný, kdy pedagogika využívala poznatků psychologie. Posléze se určitou dobu vyvíjely obě disciplíny odděleně. Výsledkem těchto proměn je vztah vzájemné spolupráce ovlivňování.
+Vývoj se dělí do tří velkých etap:
+• 1890-1920 (nejstarší vývojové období, reprezentuje ho 6 osobností: W. James, A. Binet, J. Dewey, E. L. Thorndike, L.M. Terman, M. Montessoriová 
+• 1920-1960 (střední vývojové období, ovlivnilo ho 5 osobností: L.S. Vygotskij, B.F. Skinner, J.Piaget, L.J. Cronbach, R.M. Gagné
+• od roku 1960 do současnosti, reprezentují: B.S. Bloom, N.L. Gage, J. Bruner, A. Bandura, A.L. Brownová
+Výchova
+Výchova je záměrné a cílevědomé působení, které se projevuje všestranným formováním osobnosti.
+Má adaptační, anticipační a permanentní charakter.
+Adaptační charakter – znamená orientovat výchovný proces na současné potřeby jedince.
+Anticipační charakter – je předvídání kvalit, které je nutné na člověka rozvinout.
+Permanentní charakter – znamená, že výchova působí na člověka nepřetržitě.
+(jev typicky lidský, probíhá prostřednictvím druhých lidí, celoživotní proces, v užším pojetí dobré chování, respektování hodnot, postojů či norem) 
+Učení
+Učení je celoživotní proces týkající se celoživotního vývoje a rozvoje formování psychiky a osobnosti. Učení je intencionální a funkcionální.
+(V psychologii je Učení je proces, kterým prochází pouze ten, co se učí. V běžném užití má dvojí význam: učit někoho a učit se. Je to proces získávání /osvojování/ individuální zkušenosti. Je to opak vrozeného, dědičného).
+Učení intencionální – je vědomé a záměrné.
+Učení funkcionální – bývá nevědomé, podvědomé a nezáměrné.
+Výsledkem učení jsou:
+Vědomosti: osvojené soustavy informací, představ a pojmů 
+Dovednosti (senzomotorické, intelektuální, sociální): předpoklady pro vykonávání určité činnosti nebo její části 
+Návyky: učením získaná pobídka chovat se určitým způsobem v dané situaci, obsahuje motivační prvek 
+Postoje, vlastnosti 
+Kompetence 
+Zahrnují všechny výše uvedené; zdůrazňována praktičnost a provázanost s běžným životem
+Vyučování
+Je cílevědomý, záměrný, organizovaný a plánovitý proces, při kterém dochází k rozvoji schopností a dovedností.
+Času na výuku nového pojetí vzdělávání je velmi málo. Některé metody jsou časově náročné a nabízených nových aktivit je veliké množství. Jen málo metodických příruček je vlídných k učitelům v tom smyslu, že by členily nabídku metod na ty, které jsou top (snadno realizovatelné, efektivní, časově nenáročné, dají se použít v různých situacích opakovaně, nevyžadují přípravu náročných pomůcek), na nabídku metod náročnějších a přehled těch, které jsou spíše bonbónky na didaktickém dortu.
+Já bych hrozně ráda používala nové metody, ale také musím žáky něco naučit! 
+Někteří učitelé se stále domnívají, že nejlepší didaktika je mluvit do tiché třídy. Pokud ale učitel získá posluchače tak, že mu visí na rtech, ve třídě je ticho, že by bylo slyšet špendlík spadnout a záměrem učitele je prožitek, který v dětech zůstane natrvalo, pak metoda, kterou zvolil, je ta nejlepší, byť klasická a více než 400 let stará. Pokud jeho záměrem je sdílení zážitků z poslechu, tak velmi dobrou metodou může být novější Poslední slovo patří mně a pokud je cílem jeho výuky psaný záznam vyprávěného, pak může pracovat novými postupy prostřednictvím hodnotících kritérií, která vypracují sami žáci a na tomto základě každý žák ohodnotí úroveň své práce. Všechny použité metody jsou ne-li nejlepší, tak velmi dobré.
+Vyjmenujte druhy učení se zaměřením na učení senzomotorické. Popište změny, ke kterým v jeho průběhu dochází, uveďte co je výsledkem.
+Senzomotorickým učením rozumíme osvojování pohybových dovedností, celých pohybových struktur. Závisí na zvláštnostech osobnosti jedince, jeho pohybových předpokladech, výkonnostních faktorech a způsobu osvojování. Naučné pohybové dovednosti bývají zaměřeny na plnění určitého úkolu a na dosahování stanovených cílů.
+Druhy senzomotorického učení
+Imitační učení (Cvič podle mě!) – Vhodné používat u začátečníků nebo malých dětí především u nácviku nových dovedností a u dovedností které vyžadují přesnost a přemýšlení. Fixace optimálního provedení činnosti se uskutečňuje jejím mechanickým opakováním
+Instrukční učení (Cvič podle pokynů!) – Používá se především u složitějších pohybových struktur, je tedy vhodné spíše pro děti nad 10 let, dospívající a dospělé. Při nácviku se žák nejprve musí naučit potřebné poznatky a terminologii. Nácvik pak postupuje podle slovních instrukcí; nejdříve podrobných, a nakonec jen stručně korigujících a hodnotících.
+Zpětnovazební učení (Uč se ze svých chyb!) - Vychází z principu pokus-omyl, tj. metody řešení problémů či provádění určité činnosti, při níž jedinec náhodně zkouší různé postupy, které buď vedou k úspěchu či neúspěchu a následně fixuje ty, které k úspěchu vedou. Podle úspěšnosti a neúspěšnosti během cvičení provádí jedinec tedy korekce a zpřesňuje provedení činnosti. V některých případech může být užitečný rozbor videozáznamu nacvičované činnosti jedincem.
+Problémové učení (Hledej sám řešení úkolu!) – Druh učení spočívající v myšlenkové analýze osvojované činnosti a formulaci hypotéz ohledně jejího optimálního provedení, které jsou posléze podle výsledků v dané činnosti přijaty či zamítnuty. Vyžaduje tvořivost a samostatnost.
+Ideomotorické učení (Uč se pohybu i ve svých představách!) – Spočívá v představování si provedení dané senzomotorické činnosti v mysli - za uplatnění imaginace. Vychází z myšlenky, že zlepšení nenastává pouze cvičením, ale i představováním si činnosti, např. lezec si představuje konkrétní pohyby, kterými vyleze na skálu, aniž by je zkoušel. K tomuto druhu učení je zapotřebí předchozí zkušenosti s danou činností nebo také a zároveň adekvátní míra obrazotvornosti.
+V průběhu senzomotorického učení dochází k těmto změnám:
+Zvýšení přesnosti a úspornosti. Začátečník dělá obvykle mnoho zbytečných pohybů, kterými se brzy unaví. Např. žák první třídy používá zpočátku při psaní celé tělo, zatímco dospělý hybe pouze rukou, a i tou velmi úsporně.
+Ustálení a standardizace pohybů. Např. vyšívání, při kterém za začátku nejsou dodrženy velikosti stehů.
+Spojení jednotlivých pohybů v plynulou činnost či ve větší celek. Po jednotlivých pohybech odpadá nutnost přemýšlet o dalším pohybu. Např. při hraní na hudební nástroj
+Zlepšení rytmu v opakovaných pohybech. Např. běh
+Zdokonalení vnímání. Jde o zvýšení citlivosti a schopnosti rozeznávat drobné rozdíly. Např. automechanik odhalí závadu auta podle změny jeho zvuku.
+Změny v úloze jednotlivých druhů vnímání. Při vykonávání nových činností se zpočátku spoléháme zpravidla na zrak, časem získávají na důležitosti další smysly podle druhu
+vykonávané činnosti. Např. Při praní na klávesnici (ze začátku ji musíme sledovat, časem jen kontrolujeme správnost na monitoru.
+Zdokonalení senzomotorické koordinace. U některých činností nezáleží pouze na zdokonalení pohybů a vnímání, nutná je jejich vzájemná koordinace. Např. ke zdokonalení vystřihování složitých tvarů nůžkami musí dítě umět stříhat a zároveň dobře sledovat své pohyby
+Koordinace vnitřních orgánů s pohyby. U namáhavých činnosti záleží také na tom, aby srdeční činnost, dýchání a ostatní vnitřní procesy napomáhaly ke zvýšení svalového výkonu. Např. při běhání bývá zpočátku obtížné dýchat tak, aby nedocházelo k píchání v boku, postupně se jedinec naučí dýchat a jeho sportovní výkon se zvyšuje.
+Automatizace úkonů a pohybů. Zpočátku provádíme činnosti vědomě, s postupem času se zautomatizují. Např. při řízení auta
+Překonávání interference dílčích úkolů. Ke správnému vykonávání senzomotorických úloh je třeba se soustředit na několik požadavků najednou, přičemž pro jeden je pro začátečníka snadné zapomenout na druhý. Cvikem se toto vzájemné rušení překoná.
+Přizpůsobení pohybů proměnlivým podmínkám. Náročné senzomotorické činnosti nestačí mechanicky opakovat, nutné je přizpůsobit se aktuálním podmínkám. Jedinec volí mezi pohyby v reakci na podmínky. Např. zkušený barista připravuje několik káv najednou, přičemž jeho pohyby se mění podle druhu objednané kávy
+Podle Čápa (2001) poznáme, že je dovednost správně naučena podle:
+kvality průběhu činnosti a jejich výsledků (žák provede činnost s minimem chyb, dosáhne stanoveného cíle)
+rychlost provedení a zvýšení výkonu (žák provede činnost ve stanoveném tempu)
+ekonomičnost provedení (žák provede činnost úsporně, bez velkého úsilí)
+způsob provedení, správná metoda vykonávané činnosti
+Srovnejte učení se poznatkům s učením se metodám řešení problému. Popište, které psychické jevy se na těchto druzích učení podílejí a co je jejich výsledkem. Vysvětlete pojem učení ve spirále.
+Učení se poznatkům a učení se metodám řešení problému jsou dva různé přístupy k učení, které se liší v cílech a metodách učení.
+Učení se poznatkům se soustředí na učení fakta, konceptů a informací. Tento přístup k učení je často spojován s tradičním vzdělávacím modelem, ve kterém je student pasivním příjemcem informací. V učení se poznatkům se studenti učí například názvy a charakteristiky různých jevů, historické události, matematické vzorce a další podobné informace.
+Na druhé straně, učení se metodám řešení problému se zaměřuje na rozvoj schopnosti studentů řešit nové problémy a situace, které nejsou předem definovány. Tento přístup k učení vyzdvihuje aktivní zapojení studentů do procesu učení a rozvoj kritického myšlení. V rámci učení se metodám řešení problému se studenti učí například strategie pro řešení matematických problémů, hledání různých přístupů k řešení problému, identifikaci různých možných řešení a kritickému hodnocení výsledků.
+Psychické jevy, které se na těchto druzích učení podílejí, se mohou lišit. Učení se poznatkům je často spojeno s procesy jako je zapamatování, kódování, porovnávání a klasifikace informací, což se týká procesů paměti. V učení se metodám řešení problému jsou důležité procesy jako identifikace problému, generování nápadů, volba strategií a hodnocení řešení, což se týká procesů kognitivního myšlení.
+Výsledkem učení se poznatkům může být naučení se nového faktu, pochopení konceptu nebo schopnost reprodukovat informace. Výsledkem učení se metodám řešení problému může být rozvoj kognitivních a kreativních schopností, zlepšení schopnosti řešit problémy a zvýšení schopnosti řešit nové situace.
+Učení ve spirále je koncept, který popisuje, jak se učení postupně prohlubuje a rozšiřuje. Základní myšlenkou učení ve spirále je, že žák nejprve získá základní znalosti a poté se tato znalost postupně rozvíjí, aby mohl porozumět složitějším konceptům. Jak žák získává nové znalosti, stává se schopnějším aplikovat je na různé situace, což opět vede k prohlubování a rozšiřování jeho znalostí.
+Učení se poznatkům a učení se metodám řešení problému nejsou navzájem vylučující se procesy a často se vzájemně prolínají. Učení ve spirále se snaží spojit tyto dva přístupy a podporovat učení, které je postupně prohlubováno a rozšiřováno, a to prostřednictvím jak učení se poznatkům, tak učení se řešení problémů
+Popište proces výchovné prostředky a metody, objasněte pojem obrácená socializace a její důsledky, vysvětlete princip technik modifikace chování.
+Výchovné prostředky a metody – Výchovné prostředky a metody se používají k dosažení výchovného cíle.
+Výchovné metody – Jsou způsoby, které se používají při rozvoji kladných vlastností a návyků u žáků.
+Můžeme je dělit dle charakteru působení na lidskou stránku:
+Působení na rozum
+Působení na cit
+Působení na vůli
+Dále se dělí na Přímé (vysvětlování, hodnocení, cvičení …) a Nepřímé (vliv učitele) Podle prostředku působení slovní, názorné a činné.
+Mezi výchovné metody patří např.: vysvětlování, kladení požadavků, přesvědčování, vzor, hodnoc ení, hraní rolí …
+Výchovné prostředky – používají se při výchově a rozvoji osobnosti člověka, pro dosažení kladných výsledků.
+Základní výchovné prostředky
+Kladení požadavků a jejich
+Odměny a tresty
+Povzbuzení
+Slovní působení – přesvědčování
+Model, příklad
+Kladení a kontrola požadavků
+Požadavky jsou součástí širšího spektra požadavků kladených na člověka životem.
+Mira požadavků má být střední, mírně překračující přítomné předpoklady dítěte. Postupně by se měly mírně zvyšovat. Optimální rozvoj dítěte zajistíme jeho rozvojem, věkem a individuálními zvláštnostmi.
+Odměna a trest
+Odměna posiluje žádoucí chování, je projevem uznání učitele. Odměna je prožívána jako pocit uspokojení, radosti.
+Trest
+tlumí nežádoucí chovaní, je projevem nespokojenosti učitele. Je prožíván nelibě jako pocit viny. Funkce odměna trestů jsou informační a motivační.
+Povzbuzeni
+Povzbuzení je proces, který se soustředí na úspěch žáků.
+Projevovat důvěru ve zvládnuti nového Soustřeďovat se na dobré nápady žáka Vytyčovat reálně dílčí dosažitelné cíle
+Výchovné vedeni a poradenství
+Vlastnosti a zkušenosti vychovatelů
+Vlastnosti a zkušenosti vychovávaným Sociokulturní podmínky
+Události a změny v nejbližším okolí dítěte
+Vzájemné vztahy a interakce mezi vychovávajícím a vychovávaným
+Učitel v roli poradce
+Když se řekne učitel, obvykle se vybaví člověk spjatý s procesem výchovy a vzdělávání, přesněji profesionál. Očekává se od něj, že dokáže vytvořit takové podmínky, které umožňují rozvíjet maximum vnitřních potencialit každého žáka ve spolupráci s ním i ostatními žáky. Už to není pouze ten, kdo předává své znalosti žákům.
+Obrácená socializace – je proces, kde se plně integrovaný člověk ve společnosti, postupně stává izolovanější a má menší sociální interakci se společností. Tento proces může vzniknout například v důsledku zdravotních problémů, stárnutí nebo při změně pracovního místa.
+Při obrácené socializaci se jedinec stává méně schopným se adaptovat na nové situace a přizpůsobovat se novým lidem.
+Obrácená socializace může mít negativní dopad na zdravý jedince z důvodu nedostatečné sociální interakce která je důležitá pro psychické i fyzické zdraví. Je důležité, aby jedinci, kteří si tímto procesem procházejí našli způsob, jak zůstat zapojeni ve společnosti a udrželi si sociální
+kontakt. To mohou například prostřednictvím svých zájmů, komunikačních skupin a dalších volnočasových aktivit.
+Techniky modifikace chování – jsou založeny na teorii, že chování, které je upevňováno a odměňováno se bude pravděpodobně opakovat častěji. Chování, které upevňováno není bude ubývat.
+Technika odměna a trest:
+Odměna posiluje u žáka žádoucí chování a je projevem uznání učitele. U odměny převládají pozitivní pocity jako radosti a uspokojení.
+Trest tlumí nežádoucí chování a je projevem nespokojenosti učitele. U trestu převládají negativní pocity jako například pocit viny.
+Charakterizujte učitele v roli poradce, popište jeho základní kvality, přístup k žákovi, uveďte možné chyby, kterých by se měl učitel v roli poradce vyvarovat.
+Pokud jde o roli poradce žáka, základními kvalitami jsou empatie, schopnost poslouchat a porozumět problémům žáků, ochota pomoci, otevřenost, respekt a důvěryhodnost.
+Poradce by měl být schopen pomoci žákovi pochopit jeho problémy a přemýšlet o různých možnostech řešení. Měl by podporovat žáka, aby si uvědomil své silné stránky a mohl rozvíjet svůj potenciál. Měl by také umět předat žákovi informace a rady, které mu pomohou v řešení jeho problémů.
+Přístup k žákovi by měl být respektující a neodsuzující, učitel by měl být schopen poslouchat a dávat žákům čas na sdílení svých myšlenek a obav. Učitel by měl být schopen pomoci žákům objevit své zájmy a talenty, a pomoci jim najít cestu ke splnění svých cílů.
+Mezi možné chyby, kterých se učitelé v roli poradce mohou dopouštět, patří například nedostatečné naslouchání žákovi, nedostatek empatie, předsudky a stereotypy, neúplné nebo chybné informace, neochota akceptovat odlišné názory a nápady žáků, znevažování problémů žáků nebo jejich pocitů a potíží nebo přílišná snaha ovlivňovat rozhodnutí žáka.
+Učitelé by se měli vyvarovat toho, aby se stávali příliš osobními, vychovávali žáky nebo je soudili. Měli by se spíše snažit být objektivními a pomáhat žákům najít vlastní řešení a cestu ke svým cílům.
+Učitelé by měli mít na paměti, že role poradce je důležitou a zodpovědnou funkcí, která vyžaduje citlivost, takt a otevřenost. Poradce by měl respektovat individualitu každého žáka a pomáhat mu najít vlastní cestu k úspěchu.
+Vysvětlete pojem metoda výuky. Uveďte příklady metod, popište z jakých činností učitele a žáka se skládají. Vysvětlete souvislosti mezi metodami výuky, poznávacími procesy žáka a jejich motivaci. Vysvětlete pojem aktivizační metoda, uveďte příklady aktivizujících metod a jejich využití ve výuce.
+Pojem metoda výuky: je systém vyučovacích činností učitele a učebních aktivit žáků směřujících k dosažení daných výukových cílů. Metoda výuky tedy zprostředkovává žákům učivo, je nápomocná jejich učení, je soustavou kroků, které vedou k danému cíli. Plní tak funkci regulace (řízení) učení žáků.
+Příklady: (viz. ot.č.9 Tomšíková didaktika)
+Třídění metod výuky lze provádět podle různých hledisek: např. podle míry aktivní účasti žáků, podle úrovně kognitivních operací,
+podle fází vyučovací hodiny, v nichž může být daná metoda použita, či podle zdroje, z něhož žáci při výuce čerpají poznatky.
+Podle míry aktivní účasti žáků rozlišujeme:
+– Metody vyžadující malý podíl aktivity žáků (sdělovací metody)
+– Metody vyžadující větší podíl aktivity žáků (aktivizující metody)
+Příklad: p.s. (zde lze použít didaktický trojúhelník !!!)
+Metody výuky s malým podílem žákovy aktivity
+Monologické metody: Učitel předkládá žákům hotovou látku - vykládá, vysvětluje, vypráví, demonstruje, znázorňuje, ukazuje, předvádí…, žák přijímá - poslouchá, dívá se, zpracovává, zapisuje si… (ale ani při pouhém přijímání není jeho aktivita nulová!)
+Metody výuky s velkým podílem žákovy aktivity
+Dialogické, aktivizující a komplexní metody: Učitel vede žáky tak, že se dobírají nových poznatků s menším či větším podílem vlastní aktivní účasti - učitel klade otázky, odpovídá na otázky žáků, diskutuje, řídí samostatnou práci žáků, radí…, žák odpovídá na otázky učitele, klade otázky, diskutuje, dělá pokusy, vyvozuje, řeší problémy, navrhuje, vysvětluje spolužákům…
+Lze říci, že čím je míra aktivní účasti žáků při určité metodě výuky vyšší, tím je tato metoda zpravidla náročnější na to, aby s ní byl učitel dobře seznámen, aby byl na výuku dobře připraven a aby metodu dokázal ve výuce prakticky velmi dobře zvládnout.
+Vysvětlete souvislosti mezi metodami výuky, poznávacími procesy žáka a jejich motivaci 
+Psychické procesy poznávací:
+Psychické procesy
+Vědomé i nevědomé mentální děje (myšlení, snění, imaginace, učení), které vedou ke vzniku relativně rychle se měnících psychických obsahů. 
+Příkladem psychického obsahu jsou myšlenky, názory a vědomosti (důsledek procesu myšlení), pocity (důsledek emočního procesu), sny a přání (důsledek snění), vzpomínky, představy, vjemy, ...
+Psychické procesy jsou spojené s prožíváním a dále se dělí na procesy:
+Poznávací (kognitivní) - slouží k získávání a zpracování informací (čití, vnímání, pozornost, představy, fantazie, myšlení, řeč)
+Paměťové – zapamatování, uchování, vybavení
+Motivační (snahové) - aktivizují a usměrňují chování, jde o procesy (emoce, vůle, význam konfliktu)
+Psychické procesy poznávací:
+Pozornost – je stav, který souvisí s vědomím, ale i proces soustředěné jeho vnímání
+bezděčná – (pasivní) - změna prostředí – rychle upoutá, rychle pomíjí
+záměrná –(aktivní) - závislá na cíli-motivaci a vůli-sebevýchova
+- v průběhu dětství se prodlužuje. !!! - motivace, přestávky, střídání činností, vysoká aktivace
+Čití – nervová soustava – mozek
+Počitky
+-zrak–světle růžová barva růže
+–čich–vůně růže 
+–hmat–trn růže
+–sluch–teče voda
+–kožní analyzátor–teplo zima
+Vnímání – je psychický proces, při kterém naše smyslové orgány (zrak, čich, chuť, hmat atd.) zachycují podněty, které působí z vnějšího i z vnitřního prostředí organismů.
+Vjem – CELÝ KOMPLEX POČITKŮ, OVLIVNĚNÝ NAŠIM MYŠLENÍM – celkový obraz předmětu zpracovaný nejen smysly, ale i myšlením konkrétního člověka se subjektivní zkušeností 
+Představa – je názorný obraz něčeho, co jsme dříve vnímali, znovu vybavený vjem (podle smyslových orgánů: zrakové, sluchové, hmatové, čichové, podle obsahu: konkrétní, abstraktní představy, podle podnětu: paměťové, fantazijní)
+Fantazie – je schopnost rozkládat nejrůznější informace do prvků, ze kterých vznikly a pak je skládat do zcela nových obrazů.
+Myšlení – proces řešení problémů – kognitivní (poznávací) proces dochází ke zpracovávání a využívání informací
+MYŠLENKOVÉ OPERACE
+- třídění – srovnávání, uspořádání
+- analýza – rozbor (rozčlenění celků na části)
+- syntéza – skládání (spojování částí v celek)
+- abstrakce – výběr nejdůležitější informací
+- generalizace – zobecňování (spojování společenských vlastností)
+- indukce – vyvozování obecných tvrzení z jednotlivých případů
+- dedukce – opak indukce, aplikace obecných poznatků na konkrétní případ
+Řeč – nástroj myšlení, umožňuje komunikaci
+PORUCHY ŘEČI
+- afázie – ztráta řeči
+- mutismus – oněmění
+- koktavost – porucha plynulosti řeči
+dyslalie – dětská patlavost, porucha výslovnosti
+Aktivizující metody výuky se vyznačují velkým podílem aktivní účasti žáků.
+Při používání aktivizujících metod se zdůrazňuje hlavně jejich
+přínos k všestrannému rozvoji osobnosti žáka, k rozvoji jeho samostatnosti,
+zodpovědnosti a tvořivosti.
+Patří mezi ně např.: opět viz Tomšíková ot. č.9
+• řešení problémů (problémová metoda),
+• heuristické metody (metody objevování, badatelské metody),
+• projektová metoda,
+• skupinová, kooperativní výuka,
+• situační metody (řešení problému vycházejícího z reálné události),
+• inscenační metody (hraní rolí),
+• didaktické hry
+Příklad:
+Metoda výuky postavená na řešení problémů, problémová metoda – začleňování problémů do výuky, které řeší, více či méně samostatně, žáci. Jedním z hlavních vzdělávacích cílů, pro které je problémová metoda výuky aplikována, je rozvíjení vyšších kognitivních dovedností žáka (analytického a syntetického myšlení, hodnocení, tvořivého myšlení).
+Problémová metoda je rovněž základem pro rozvíjení jedné z klíčových kompetencí podle
+Rámcového vzdělávacího programu pro základní i gymnaziální vzdělávání:
+Kompetence k řešení problémů (podle RVP G)
+Žák:
+• rozpozná problém, objasní jeho podstatu, rozčlení ho na části;
+• vytváří hypotézy, navrhuje postupné kroky, zvažuje využití různých postupů při řešení problému
+• ověřuje hypotézy;
+• uplatňuje při řešení problémů vhodné metody a dříve získané vědomosti a dovednosti, kromě analytického a kritického myšlení využívá i myšlení tvořivé s použitím představivosti a intuice;
+• kriticky interpretuje získané poznatky a zjištění a ověřuje je, pro své tvrzení nachází 
+argumenty a důkazy, formuluje a obhajuje podložené závěry;
+• je otevřený k využití různých postupů při řešení problémů, nahlíží problém z různých stran;
+• zvažuje možné klady a zápory jednotlivých variant řešení, včetně posouzení jejich rizik a
+důsledků.
+→ Kompetence k řešení problémů odráží hlavní kroky strategie řešení problémů.
+→ Je nadpředmětová, kroskurikulární, měla by se promítat do všech vzdělávacích oblastí, nicméně v matematice a geometrii, přírodních a technických oborech a v informatice je pro její rozvíjení asi největší prostor.
+Popište projevy některých poruch socializace – například lhaní, krádeže, záškoláctví. Vysvětlete jejich příčiny, naznačte možnost nápravy. Zaměřte se na agresivní poruchy chování, šikanu, její průběh, stádia, druhy a možnosti prevence.
+PORUCHY CHOVÁNÍ
+jedinec porušuje společenské normy
+ Speciální pedagogická disciplína etopedie 
+ Systém péče: 
+specializovaná středisková pracoviště výchovné péče, diagnostické ústavy pro děti a mládež (do 15 a od 15 let), dětské domovy, zařízení ústavní výchovy (školního typu, pracovní zařazení)
+SPECIFIKA DIAGNOSTIKY PORUCH
+CHOVÁNÍ
+podstatná je intenzita a závažnost problému, nebo variabilita problémového chování
+Osobní historie jedince, vývoj problematického chování, okolnosti jeho realizace (promyšlenost, impulzivnost, zda dítě jedná ve skupině nebo samostatně)
+CHARAKTERISTICKÉ OSOBNOSTNÍ RYSY
+snížená schopnost empatie neobjevují se pocity viny, 
+výčitky svědomí,
+příčiny svých obtíží spatřují v okolí, 
+zvýšená míra egoismu,
+snížená úroveň prosociálního cítění, 
+zaměření na okamžité uspokojování potřeb (impulzivní jednání),
+potíže s autoregulací,
+snížená frustrační tolerance,
+mívají více konfliktů s ostatními, 
+jejich vztahy jsou povrchní, 
+druhým nedůvěřují, 
+nebo se na ně naopak nezdravě fixují
+PŘÍČINY PORUCH CHOVÁNÍ
+vnitřní
+vnější
+VNITŘNÍ PŘÍČINY PORUCH CHOVÁNÍ
+nervová a psychická onemocnění – porucha chování je průvodním jevem epileptici, kteří jsou agresivní, když mají nepoznané a neléčené vady (nedoslýchavost, špatný zrak, poruchy hybnosti, poruchy v citové oblasti - vrozená anomálie), 
+snížená inteligence, žák nedokáže domyslet důsledky, je sugestivní (snadno zneužitelný),
+vrozené dispozice,
+citová deprivace. 
+VNĚJŠÍ PŘÍČINY PORUCH CHOVÁNÍ
+rodina, když je neúplná, rozvrácená s konflikty, nebo rozvedená, 
+nesprávné styly výchovy – rodina + škola, kdy se dítě hodně trestá, nebo moc rozmazluje (nízká frustrační tolerance),
+dále, že je výchova příliš tvrdá, liberální, rodiče nemají na dítě čas, nedostatek materiálních prostředků v rodině, nebo naopak příliš opečovávající matka, nedůsledná, 
+nejednotná výchova (matka řekne ano, ale otec řekne ne), 
+nedostatek lásky,
+patologické vlivy – drogy, alkohol, závislost, kriminalita,
+vrstevníci a kamarádi, kdy mají na dítě vliv hlavně v době dospívání, snižují autoritu dospělých,
+společnost jako celek, hlavně možnost zajímavého vyžití, 
+vliv médií-internet, televize, právní systém, 
+jak moc času je zvykem věnovat dětem…
+KLASIFIKACE PORUCH CHOVÁNÍ
+třídění dle závažnosti a společenské nebezpečnosti,
+Poruchy disociální (dificilní), například drobné přestupky proti školnímu řádu, proti normám(pozdní příchod, lhaní), afektivní výbuchy,
+tyto poruchy se zlepší drobnými výchovnými prostředky. 
+Poruchy asociální, kdy chování neodpovídá společenským normám, ale ještě nevystupuje proti ostatním, nechce nikomu ublížit. 
+jsou sice nebezpečnější, ale nejsou namířeny proti ostatním, 
+hlavním př. jsou: dětské úniky, sebepoškozování, toxikománie, sebevražedné pokusy, negativismus-aktivně odmítá plnit požadavky.
+Poruchy antisociální, kdy je chování namířeno proti ostatním a chtějí jim ublížit.
+v této poruše je častá delikvence, kdy se může jednat o přestupek, příčinu, nebo soudní čin,
+delikventi jsou stejně trestaní, jako dospělý-za závažné krádeže, fyzické ubližování, závažné falšování podpisů. 
+Další třídění dle přítomnosti agresivity: 
+agresivní formy poruch chování (násilné porušování a omezování práva ostatních-přepadení, týrání,
+vandalismus), 
+neagresivní formy poruch chování (porušování norem bez agresivity-útěky, záškoláctví)
+FORMY A VARIANTY AGRESIVNÍHO CHOVÁNÍ
+extrapunitivní, kdy je agresivita zaměřená navenek proti ostatním lidem, nebo věcem 
+intrapunitivní, kdy je agresivita zaměřená vůči vlastní osobě, nadávky k sobě, 
+fyzická, například různé fyzické napadení, nebo ničení věcí,
+psychická, jako jsou nadávky, nebo výhrůžky.
+Varianty agresivního chování: 
+agresivním dětem toto chování přináší radost a uspokojení, 
+nebo může být agresivita jakýmsi prostředkem uspokojování nějaké potřeby, ne pro radost, ale jen pro peníze či pozornost.
+PŘÍČINY AGRESIVNÍHO CHOVÁNÍ
+vlivy prostředí (obranný postoj, reakce na tlak prostředí, sociální model, psychická deprivace), 
+dědičné dispozice,
+poškození mozku (například po úrazech hlavy, EPI, ADHD, aj.), 
+forma psychózy, která je častá u schizofreniků,
+disharmonický vývoj osobnosti
+JAK ZACHÁZET S AGRESIVNÍM ŽÁKEM?
+vybitím jiným způsobem, pokud je možno respektovat pravidla (sport)
+trest, kdy převahu musí mít dospělý, dítě se musí naučit, co se dělá a nedělá,
+způsob, kdy vytyčujeme mantinely – musíme říci, co budeme dělat a důsledně kontrolovat – logické důsledky,
+Základní podmínka: 
+pozitivní a nehodnotící vztah,
+poskytnout oporu, 
+u mladších žáků udržovat fyzický kontakt
+ZÁŠKOLÁCTVÍ A ODPOR KE ŠKOLE
+ Záškoláctví
+je velmi časté únikové chování obranného mechanismu, kdy jsou příčiny v rodině, škole, osobnosti dítěte,
+dítě s touto poruchou odolává zátěžovým situacím hůře,
+na začátku bývá jeho chování impulzivní, vede k dalším prohřeškům-lži, podvody…
+Zde je nutné odhalit a postihovat, protože čím dříve se projeví a čím je častější a plánovitější, tím je náprava obtížnější
+ostatní žáci často chtějí napodobovat – lákavý sociální model.
+ Nejčastější forma je tzv. skryté záškoláctví,
+kdy žák předstírá nemoc, schválně se vyhne škole, i když tam míří, často bývá přítomno v souvislosti s problémy ve škole.
+ Méně časté je tzv. plánované záškoláctví,
+které se vyskytuje většinou u starších žáků. 
+Tento typ může být realizován i ve skupině, kdy je dítě pod tlakem party.
+ÚTĚKY A TOULÁNÍ
+tato porucha chování je závažná varianta únikového chování.
+Hlavními druhy útěků a toulání jsou
+ reaktivní a impulsivní 
+Útěky jsou zkratkovitá reakce na nějaké nepříjemnosti doma či ve škole s cílem pomstít se rodičům.
+větší výskyt je v pubertě v souvislosti s pomstou a strachem, tyto útěky jsou nepromyšlené, žák nemá cíl kam jít a strach mají rodiče. 
+Další druh útěku a toulání jsou
+plánované a připravované útěky, 
+kdy je výskyt v rodině s opakovanými problémy, většinou však v adolescenci, dítě má přesný cíl kam jít, většinou se nechtějí vrátit, často v rozvedených rodinách. 
+opakované útěky, 
+což je stereotypní reakce na chronický konflikt, většinou problém v chování rodičů, ale i v osobnosti dítěte, které se většinou po útěku změní, jako i rodiče – protože nechtějí o své dítě přijít. 
+chorobné útěky, které jsou výrazné při onemocnění – duševní (psychóza), epilepsie (choriomanický záchvat, kdy neví po záchvatu, co se v okolí děje ani nic neví po probrání), většinou impulzivní ráz bez důvodu.
+Toulání je 
+dlouhotrvající opuštění domova, které navazuje na záškoláctví a útěky.
+Hlavní sklon mají děti: 
+psychopatické, 
+citově chladné, 
+psychotici (duševně nemocní). 
+Nemají citový vztah k lidem ani k určitému zázemí, hlavně nebezpečné se spojením s kriminalitou.
+LHANÍ
+pravá lež se většinou objevuje ve školním věku, je to jakési podstatné vědomí nepravdivosti a sledování nějakého účelu. 
+Významná je frekvence = jak často žák lže a situace, za jaké lže. 
+Důležitý je také účel, za jakým lže. 
+Hlavním účelem je lež jako obranný mechanismus, objevuje se často při zátěžových situacích a je snadno odhalitelná. Častý je objev ve spojitosti se školními známkami.
+Dalším účelem je dosažení osobního prospěchu bez ohledu na ostatní, kdy se tato porucha musí ihned řešit, protože může poškodit druhé. Tento účel je spojen s egoismem, agresivitou, sobectvím a dalšími negativními projevy.
+KRÁDEŽE
+při posuzování krádeže bereme v úvahu místo, způsob, cíle a frekvenci, ke krádežím se uchylují většinou děti ze slabšího sociálního prostředí, kdy kradou mimo domov, často nemají právní vědomí a trest často vidí jako nespravedlnost. 
+Závažná forma krádeže je plánovaná a předem promyšlená, která je častější u žáků staršího věku, vyskytuje se v partě či samostatně. Prognóza je o to horší, když se objeví časně. 
+bývá spojena s dalšími poruchami chování, jako je toulání, fetování, prostituce, ... 
+Krádež může být i organizovaná, která často přeroste v delikventní činnost. 
+Cíl krádeže:
+krade pro druhé, krade pro sebe tzv. kleptománie, zdánlivě impulzivní, nesmyslné a nevysvětlitelné krádeže věcí, a to vše bez výběru, či přísně výběrové (barva, květiny) - žák má silné nutkání ke krádeži, které nedokáže překonat příčinou krádeží mohou být i psychotická onemocnění, mentálního onemocnění, nebo může být toto nutkavé chování spojeno s neurózou.
+ŠIKANA
+je násilné ponižující chování jedince či skupiny vůči slabšímu, který nemůže ze situace uniknout a není schopen se účinně bránit. 
+Bezmocnost a slabost oběti stimuluje a posiluje šikanátora ještě k intenzivnějšímu šikanování. Šikanování má negativní dopad na žáka, který je její obětí i jejím vykonavatelem – nejčastěji ve smyslu snížené sebedůvěry, narušeného vztahu k ostatními lidmi kolem sebe. 
+Šikanování zanechává výrazné stopy, často šikanují původně šikanovaní. 
+Typy šikanování
+šikanování tzv. skryté, tzv. sociální izolace, 
+šikanování zjevné, jako fyzické násilí a ponižování či psychické,
+ponižování a vydírání,
+destruktivní aktivita založena na majetek, jako je lámání tužek, vysypání penálu, braní svačiny a krádež peněz-vydírání.
+Šikanovaný je zpravidla odlišný jedinec, od pohledu slabší, bezbrannější, nechá sebou manipulovat a je úzkostlivý.
+Šikanovatel je většinou problémová osoba, která ukazuje svoji moc nad někým slabším, mají málo rozvinutou empatii, jsou citově tupí, velmi agresivní, při aktu šikany zažívají uspokojení. Nejdůležitější je správná prevence. 
+Význam vztahu mezi učitelem a žákem tvoří základ ve výchovně vzdělávacích procesech
+kvalita, kvantita, výsledky musí umět žáka motivovat, vést, respektovat, poradit, prosazovat pravidla..
+vztahy jsou tzv. nositeli vyučování, které bez nich není možné, 
+kvalita vztahu je významná při formování postoje žáka k učení
+Co ovlivňuje vztah žáka k učiteli?
+zpočátku je postoj žáka k učiteli nekritickým obdivem,
+posléze se stává neutrálním,
+s postupem věku přibývá k učiteli kritika a vztah je diferencovaný,
+význam hraje sociální prostředí (klima školy), ve kterém se vyučuje, postavení učitele ve společnosti, dívky mívají k učiteli a ke škole obecně lepší vztah než chlapci.
+Problémoví žáci
+mají většinou problémy rázu zdravotního, sociálního či psychického mohou mít disharmonický, či disociální vývoj obtíže s koncentrací pozornosti
+snížené nadání, 
+poruchy učení, 
+úzkosti, 
+neurózy, hraniční poruchy osobnosti,
+zanedbávání, týrání, nebo zneužívání, 
+sociokulturní prostředí rodiny, vliv vrstevnické skupiny.
+Problémoví učitelé
+Konfliktní osobnosti, 
+Neurózy,
+Snížená frustrační tolerance,
+Syndrom vyhoření, 
+Alkoholismus,
+Obtížná životní situace,
+Vysoké nároky na žáky. 
+Charakterizujte prenatální, novorozenecké a kojenecké období podle různých vývojových teorií (Piaget, Freud, Erikson). Uveďte klíčová témata psychického, sociálního a somatického vývoje. Vysvětlete teorii citové vazby.
+PRENATÁLNÍ OBDOBÍ
+trvá 9 kalendářních měsíců po 28 dnech
+je to doba od oplození vajíčka do narození dítěte
+jde především o biologický vývoj.
+Prenatální období se běžně člení na 3 fáze:
+Fáze oplození, uhnízdění blastocysty a vytvoření 3 zárodečných listů, které trvá přibližně 3 týdny
+již koncem 3. týdne vzniká nervová trubice, která je základem nervového systému.
+Embryonální období, kdy se vytvářejí všechny hlavní orgánové základy.
+trvá od 4. do 12. týdne
+vzhledem k intenzivnímu růstu je v tomto časovém úseku embryo citlivé na působení různých teratogenních faktorů, které mohou být příčinou vzniku závažné vývojové vady.
+Fetální období, které je charakteristické dokončováním vývoje orgánových systémů, z nichž některé již začínají fungovat
+toto období trvá od 12. týdne do narození.
+Plod je schopen nejjednodušších forem učení
+Například hledá takovou polohu, která by mu nejvíce vyhovovala. Lze předpokládat, že i plod je, přinejmenším v posledním trimestru, vybaven vrozenou schopností reagovat specifickým způsobem na nové a neznámé podněty (tj. orientačně pátracím reflexem).
+naučí např. diferencovaně reagovat na různé zvuky: na hudbu, na hlasy známých bytostí
+Pro rozvoj plodu je důležité spojení s mateřským organismem
+NOVOROZENECKÉ OBDOBÍ
+Lidský plod se rodí v 38. – 42. týdnu těhotenství. Má průměrnou porodní hmotnost 3300–3400 g a měří v průměru 50 cm
+Novorozenecké období trvá přibližně 1 měsíc
+Je to doba adaptace, během níž se dítě přizpůsobuje podmínkám nového prostředí
+Novorozenec reaguje na základě reflexů a vrozených způsobů chování
+Chování novorozence má několik základních znaků:
+biorytmus novorozence je charakteristický krátkými časovými úseky bdění
+novorozenec je vybaven celou řadou různých reflexů, které mají rozdílný význam:
+Reflexy, které slouží k jeho přežití (např. sací reflex)
+Reflexy, které nejsou pro prvotní adaptaci malého dítěte významné – v průběhu prvních měsíců mizí (např. reflexní vybavení plovacích pohybů)
+Novorozenec je vybaven i vrozenými způsoby chování (patří sem např. tendence vnímat své okolí, reagovat křikem)
+rozvoj novorozence závisí na vývojově a individuálně přiměřeném přísunu podnětů
+smyslové vnímání:
+Novorozené dítě má značný rozsah slyšení, dovede dobře rozlišovat vysoké tóny
+Novorozenec dovede vnímat a rozlišovat dotek, teplotu a změny polohy
+pro učení mají velký význam primární projevy koncentrace pozornosti. Soustředění novorozence je ovšem velice krátké, převážně v řádu sekund
+učení je v raném věku spojeno se základními smyslovými informacemi
+Učení je již v raném věku typické tendencí integrovat získané zkušenosti. 
+To znamená, že dítě spojuje různé smyslové informace s určitým objektem nebo situací, resp. s již existující zkušeností.
+Učení novorozence je aktivizováno především v rámci sociální interakce (Novorozenec má např. vrozené dispozice naučit se rozeznat vlastní matku. Děje se tak čichem, sluchem i zrakem.)
+KOJENECKÝ VĚK
+První rok života je nepřesně označován jako kojenecký věk (většina dětí ovšem není kojena až do jednoho roku).
+V průběhu kojeneckého období se projeví individuální rozdíly v chování, prožívání 
+a celkovém vývojovém trendu. 
+Kojenecké období je označováno jako fáze receptivity – otevřenosti k okolnímu světu.
+Základním úkolem kojeneckého věku je získání důvěry ve vztahu ke světu. 
+V tomto věku má značný význam potřeba stimulace a s ní související potřeba učení, tj. získávání zkušeností.
+několika variant rodičovského přístupu ke stimulaci, např. prostřednictvím hraček (obdobný mechanismus se projevuje i v sociálním kontaktu):
+a) Chaotická stimulace – rodiče mají tendenci předvádět dítěti více hraček najednou aniž mu ukážou, co se s hračkou dá dělat, aniž je nechají, aby si hračku užilo způsobem, jakým potřebuje. V sociální oblasti by pro tuto variantu bylo typické střídání většího počtu osob v krátkodobém kontaktu.
+b) Stimulace zahrnující převahu manipulace jinou osobou – rodiče s hračkou před dítětem manipulují, ale nenechají je, aby s ní dělalo, co samo chce. Neustále je přerušují a nutí je dělat to, co považují za vhodné. Umožňují tak dítěti pouze roli pasivního příjemce. V sociální oblasti by této variantě odpovídal model převažující aktivity dospělých, kteří v komunikaci s dítětem nečekají na jeho reakci 
+a případně ji ani příliš nerespektují.
+c) Stimulace s možností neřízené, spontánní manipulace – rodiče nechávají hračky v dosahu dítěte libovolně dlouhou dobu, aby se s nimi zabývalo, jak chce, na úrovni svých aktuálních kompetencí. V sociální oblasti by šlo o variantu možnosti dítěte iniciovat kontakt s lidmi, kteří jsou v jeho blízkosti, reagují na jeho chování, ale sami komunikaci tak často nestimulují.
+d) Variabilní stimulace s možností vlastní manipulace – rodiče dítěti předvádějí hračku, ukazují mu, co se s ní dá dělat, a podporují i jeho vlastní aktivitu. V sociálním kontaktu by byl příkladem model chování dospělých, kteří iniciují a rozvíjejí aktivní komunikační chování dítěte. Dítě je za těchto okolností respektovaným partnerem.
+Vývoj smyslů:
+Pasivní řeč dítě používá již kolem půl roku, reaguje na naši mimiku, gesta, výzvy (kdepak máš očička, medvídka? - ukáže)
+přípravní období – do 9. měsíce (předřečové) - Nejdříve neartikulované znaky (broukání, vrnění, mlaskání…), potom – žvatlání (první lidské hlasy – 
+p, b, t, d, i, ú + slabiky pa ta ba…) – vše formou nápodoby – proto je problém, pokud se na dítě šišlá
+Od 5. měsíce sleduje předměty kolem sebe i barevnost
+Kolem 2. měsíce hledá, odkud zvuk přichází (očima i otočení hlavy)
+Zpočátku rozlišuje chuť sladkou a mléčnou
+Kolem šestého měsíce se změnou jídelníčku rozlišuje postupně další chutě
+Velmi citlivě reaguje na chlad, teplo (termoregulace)
+Okolo třetího měsíce se objevuje mimovolní sahání po předmětech
+V devátém měsíci uchopí předmět (palec v opozici)
+Prostředkem socializace je sociální učení, tj. učení, k němuž dochází v rámci mezilidské interakce
+Komunikační význam má i pláč, který je jedním z nejčastějších afektivních projevů tohoto věku.
+V této době se vytváří základ pro učení nápodobou.
+Strach z cizích lidí a neznámých situací, který se objevuje přibližně v 7. – 8. měsíci, je jedním z nejdůležitějších signálů normálního vývoje
+Vysvětlete teorii citové vazby.
+Uveďte klíčová témata psychického, sociálního a somatického vývoje.
+Charakterizujte batolecí a předškolní období podle různých vývojových teorií (Piaget, Freud, Erikson, Kohlberg). Uveďte klíčová témata psychického, sociálního a tělesného vývoje – zejména vývoj řeči a dětské hry.
+Batole
+Od chůze a řeči do cca tří let. Významná expanze do širšího světa. 
+Základní charakteristikou 
+je fenomenální rozvoj řeči
+dochází k rozvoji sociálního učení, jehož převládající formou je napodobování (slova, činnosti).
+E. Erikson: autonomie proti studu a pochybám
+S. Freud: anální období
+J. J. Piaget: předoperační
+Diferencuje se sluch a zrak, dítě vnímá a opakuje říkanky a melodie. 
+Z hlediska paměti klademe do tohoto období první dětské vzpomínky, které se mohou stát zážitkem na celý život. 
+Rozvíjí se představivost a velká fantazie, dochází k personifikaci, dítě přiřazuje lidské vlastnosti předmětům. 
+Z hlediska hrubé motoriky je významným mezníkem chůze po schodech a první malůvky v podobě mazanic, kdy dítě sleduje stopy kreslícího nástroje. Jemnější motorika se projevuje snahou po listování knížkou, správným uchopením lžičky nebo zapínáním knoflíků. V tomto období již rozlišujeme praváka a leváka. 
+Batolecí věk (1-3 let)
+charakteristickým znakem této fáze je osamostatnění a uvolňování z různých vazeb, spojené s expanzí do širšího světa
+Je to období tzv. první emancipace
+E.Erikson nazval tento věk obdobím autonomie – vhodnější název je autonomizace
+Vývoj a význam motorických dovedností
+batolata se svými pohybovými kompetencemi různým způsobem experimentují
+schopnost ovládat vlastní tělo je jednou z forem autoregulace vlastního jednání
+motorické dovednosti jsou pro dítě prostředkem k uspokojení jiných potřeb – např. orientace v prostředí
+rozvoj motoriky zahrnuje kosterní svalstvo a svěrače
+z hlediska psych. jsou důležité dva druhy pohybu:
+retence – udržení něčeho, setrvání někde
+eliminace – tendence pustit, zahodit, opustit to, co už nechce nebo kde už nechce být
+Význam rozvoje pohybových aktivit 
+ve vztahu k vlastnímu tělu schopnost ovládat vyměšování – důležitý vývojový mezník, dítě se naučí udržovat čistotu, kdy je schopné ovládat obě funkce svěračů – retenci i eliminaci;
+nadměrná zátěž v oblasti nezralé a nedostatečně zafixované dovednosti se může stát zdrojem neurotizace
+rozvoj pohybové aktivity přispívá ke zpřesňování vlastního tělového schématu
+Význam rozvoje pohybových aktivit 
+ve vztahu k okolnímu světu
+rozvoj samostatné lokomoce
+motorický vývoj umožňuje samostatnější uspokojování potřeby stimulace
+expanze do prostředí závisí i na kognitivní úrovni (na urč. předběžné informaci o tomto prostředí)
+lokomoce má také svůj sociální význam – je pojímána jako symbol úspěšného vývoje
+generalizující anticipace – nechodící dítě je ve všech složkách posuzováno jako kojenec a rodiče nejsou nijak motivováni měnit svoje chování a očekávání, která k němu mají
+motorický vývoj nějakým způsobem souvisí s potřebou aktivity, která je v tomto věku uspokojována především pohybem
+snížení potřeby aktivity má vždycky nějaký význam 
+neuspokojená potřeba aktivity, tj. nečinnost, vyvolává napětí (záchvaty vzteku)
+protože je potřeba činnosti spojena s potřebou stimulace, mívá takové chování dost často autostimulační charakter (např. dumlání prstů)
+násilné omezování aktivity = neurotizační faktor
+Rozvoj řeči v batolecím věku
+Já to cukrovám, gumím, štětkuju, lod jsem jel po mořovi, teta mluvila spisovatelně, dědeček bumá na bubínek, král má královnu a dudák dudovnu, válec to utvrdoval, peškem se peskuje a Broučci se modlili k Pámbuchovi.
+řeč základním nástrojem sociálního přizpůsobení a velmi citlivým ukazatelem kvality výchovného působení rodiny
+oblíbenou aktivitou batolat je hra s řečí
+v této době je řečová aktivita cílem i prostředkem zároveň
+Sémantický vývoj
+jazyk je znakový systém, který slouží jako prostředkem poznávání, resp. zpracování a uchování informací
+tendence učit se názvy objektů je v tomto věku spojena s rozvojem pochopení trvalosti těchto objektů
+v batolecím věku se velmi rychle rozvíjí sémantická složka řeči, tj. slovník dítěte
+pasivní slovník
+aktivní slovník
+Rozvoj aktivního řečového projevu
+ve 14-15 měsících.: jeden slovní výraz – př. “ham“ (jídlo i pití)
+ve 2 letech: dvouslovná sdělení – primární věty
+daný řečový projev je nazýván telegrafický
+většina prvních sdělení zachycuje zkušenost z pozorování světa
+pokus orientovat se v něm a porozumět mu prostřednictvím verbálního popisu 
+atribute – Velký pes; činnost – Mimi hajá.; majetnictví – Mámy čepice
+první řečové projevy jsou agramatické
+děti se mohou lišit ve způsobu užívání řeči, v důrazu na různé jazykové funkce
+Základní jazykové styly:
+kognitivní, referenční styl – popis reality
+expresivní, emotivně-regulační styl – vyjádření pocitů, vztahu, příkazů…
+Předškolní věk
+Období cca od tří let končící nástupem do školy, který může být individuální.
+E. Erikson: iniciativa proti vině
+S. Freud: falické období
+J. J. Piaget: názorné, intuitivní myšlení
+Typické znaky tohoto období je možné vyjádřit čtyřmi základními znaky:
+Egocentrismus 
+se projevuje ulpíváním na subjektivním pohledu a tendencí zkreslovat na základě vlastních preferencí (dítě si zakrývá oči, když chce, aby jej druzí neviděli).
+Fenomenismus 
+je důraz na určitou podobu světa
+je fixováno na nějaký obraz reality, který není schopno opustit
+příkladem může být odmítání takového sdělení, že velryba není ryba nebo scéna z filmu (Na samotě u lesa, velká žížala je had).
+Magičnost 
+je tendence pomáhat si při interpretacích reálných situací vlastní fantazií
+dítě v mladším školním věku nemá pevnou hranici mezi realem a fantazií.
+Absolutismus 
+je přesvědčení, že každé poznání musí být definitivní a mít jednoznačnou platnost
+je to projev dětské potřeby jistoty
+relativita názorů dospělých je v tomto věku pro dítě nepochopitelná
+příkladem může být reakce předškolního chlapce na reklamu o nejlepší zubní pastě(chlapec tuto pastu odmítal, protože minule to byla jiná)
+Dítě předškolního věku 
+vyjadřuje svůj názor na svět zejména v kresbě, vyprávění nebo ve hře
+kresba je jednou ze symbolických funkcí, v níž se projeví tendence zobrazit realitu tak, jak ji dítě chápe (postavy s dlouhýma nohama – předškolák se dívá na dospělého z podhledu).
+Rozvoj dětské identity v předškolním věku
+rozvoj poznávacích procesů ovlivňuje i
+sebepojetí = vznik vědomí vlastní identity
+tělové schéma (obraz vlastního těla) má vizuální charakter
+sebehodnocení stále závislé na názoru jiných osob, zejména rodičů 
+(rodiče je ovlivňují
+emočně – svou citovou vřelostí; svými požadavky a spokojeností s mírou jejich naplnění; svým chováním a zejména verbálním vyjádřením svého názoru na dítě
+přejímá názor dospělých na sebe sama nekriticky, tak jak je mu prezentován
+o sobě uvažuje egocentrický – egocentrický, kdy si potvrzuje vlastní významnosti; magičností uvažování – zkreslení skutečnosti
+nezralost sebepojetí = majetnické sklony, nekritičnost a důraz na sebe sama, sklon k vychloubání
+ztotožnění s rodiči slouží jako obohacení dětské identity, posiluje jeho sebevědomí
+osobní teritorium – lidé, k nimž má nějaký vztah; věci, kt. mu patří; prostředí, v němž žije
+důležitou složkou dětské identity je vlastnictví – moje maminka, můj pes – moje je součástí já
+součástí identity jsou i všechny soc. role, které má – žák MŠ, kámoš ve skupině
+gender role – jejíž vymezení se diferencuje právě v tomto věku
+Identifikace s mužskou a ženskou rolí
+rozdíl obsahu mužské a ženské role má své sociální vymezení – vycházející ze stereotypů jako soc. očekávání (chování, oblékání)
+Vývoj verbálních schopností v předškolním věku
+otázky typu „proč“
+děti se učí mluvit prostřednictvím nápodoby verbálního projevu dospělých lidí (případně starších dětí), s nimiž žijí a komunikují; avšak nápodoba řeči má selektivní charakter – naučí se to, čemu rozumí
+nápodobou se učí i gramatická pravidla – ale v jejich projevech se objevují nepřesnosti a agramatismy 
+v průběhu vývoje se nejprve diferencují různé řečové funkce a teprve mnohem později, v souvislosti s jejich zaměřením, se začne měnit i jejich struktura
+egocentrická řeč – expresivní –
+dítě bez ohledu na posluchače vyjadřuje slovně své pocity
+regulační – dítě řídí slovními pokyny své vlastní jednání (teď nemůžu papat bonbonek, maminka by se zlobila); egoc. řeč je prostředkem myšlení
+Rozvoj dětské identity v předškolním věku
+rozvoj poznávacích procesů ovlivňuje i sebepojetí = vznik vědomí vlastní identity
+tělové schéma (obraz vlastního těla) má vizuální charakter
+sebehodnocení stále závislé na názoru jiných osob, zejména rodičů (rodiče je ovlivňují emočně – svou citovou vřelostí; svými požadavky a spokojeností s mírou jejich naplnění; svým chováním a zejména verbálním vyjádřením svého názoru na dítě
+přejímá názor dospělých na sebe sama nekriticky, tak jak je mu prezentován
+Charakterizujte mladší a střední školní věk podle různých vývojových teorií (Piaget, Freud, Erikson, Kohlberg). Uveďte klíčová témata psychického, sociálního a tělesného vývoje – zejména problematiku školní zralosti.
+3 hlavní oblasti psychického vývoje:
+Biosociální vývoj – tělesný vývoj a veškeré proměny s ním spojené; faktory, které jej ovlivňují, společnost (viz ideál štíhlosti, v baroku naopak☺)
+Kognitivní vývoj – proměna způsobu uvažování v průběhu života
+Psychosociální vývoj – proměny způsobu prožívání, osobnostních charakteristik a mezilidských vztahů, resp. sociální pozice; faktory sociokulturní – rodina a spol. (je nutné vzít v potaz, že člověk je směsice všeho zmíněného)
+ŠKOLNÍ VĚK
+nástup do školy lze chápat jako jednu fázi v procesu odpoutávání ze závislosti na rodině, kdy je její vliv postupně nahrazován působením jiných sociálních skupin
+Období základní školy, lze rozdělit na tři dílčí fáze:
+Raný školní věk 
+trvá od nástupu do školy, tj. přibližně od 6–7 let do 8–9 let
+je charakteristický změnou životní situace a různými vývojovými změnami, které se projevují především ve vztahu ke škole
+v tomto období začínají děti uvažovat jiným způsobem než dřív.
+Piaget, Fází konkrétních logických operací.
+nazval způsob myšlení, typický pro mladší školní věk,
+Konkrétní logické myšlení je charakteristické:
+respektováním základních zákonů logiky
+respektováním konkrétní reality
+Erikson, Období aktivity a sebeprosazení
+škola dítě rozvíjí i v oblasti socializace
+ve věku 6-7 let dochází k různým vývojovým změnám
+Kompetence k přijatelné zvládnutí šk. požadavků – školní zralost, školní připravenost
+Dominantní činností je plnění školních povinností
+NOVÁ ROLE – žáka
+Pro dítě 
+nové společenské postavení, odpoutávání se od rodiny, 
+zájem o sebe a o úspěch ve škole, později zájem o kolektiv ve třídě, 
+pocit odpovědnosti, 
+rozvoj kamarádských vztahů, trvalých přátelství
+Oddělené chlapecké a dívčí skupiny 
+rozdílné aktivity
+Vztah k učiteli – zpočátku velmi nekritický – obdiv, náklonnost, ale i strach
+POTŘEBY DÍTĚTE
+v mladším školním věku oproti obdobím předchozím výrazně mění
+řadě oblasti stává samostatným a potřebuje, aby rodič vhodné situace především vytvářel a dával k nim prostor
+pro dítě potřebná iniciativa, která je základním prostředkem individuálního a sociálního vývoje
+děti s rodiči tráví méně času než dříve
+rodiče působí jako supervizoři – rodiče více dohlížejí, než že by si s nimi hráli … – dohlížejí na školní povinnosti atd.
+Ve školním období je typická rivalita 
+často tuto rivalitu ovlivňují rodiče, kteří mají tendenci děti srovnávat
+pro děti v tomto věku je typické, že rádi soutěží
+je ideální vyrůstat v kompletní a funkční rodině
+měla být stoprocentně dokončena pravolevá orientace – dítě by mělo být schopno ukázat levou a pravou stranu nejen na sobě, ale i na druhém člověku
+Mezi pátým a sedmým rokem u dítěte dochází k dozrávání sluchové a zrakové vnímání – ostrosti
+Střední školní věk 
+trvá od 8–9 let do 11–12 let, tj. do doby, kdy dítě přechází na 2. stupeň základní školy a začíná dospívat
+v průběhu této fáze dochází k mnoha změnám, které jsou podmíněny nejen sociálně, ale i biologicky
+lze je považovat za přípravu na dobu dospívání.
+Upřednostňováni jsou takoví vrstevníci, kteří se dítěti podobají, nebo se alespoň výrazně neliší
+Zatímco předškolák má mnoho kamarádů, k nimž má nediferencovaný postoj, školní dítě mívá už několik dobrých kamarádů
+Vztahy k vrstevníkům
+Oblíbené děti – prosociální – mají většinou dobré známky, jsou kooperativní, naplňují jakýsi ideál dítěte, jsou sociálně zdatné, přiměřeně asertivní, když se chtějí začlenit do skupiny, adoptují její chování
+Oblíbení děti – populární – jsou to většinou chlapci, nemusí mít nejlepší známky, často vykazují antisociální známky chování. Přesto jsou v kolektivu oblíbené
+Odmítané – agresivní děti – jsou typické vysokou mírou konfliktnosti, děti nevím, jak s nimi mají jednat, jakou zvolit interakci
+Odmítané – pasivní děti –jsou anxiózní, od ostatních očekávají jen špatné; cítí se nešťastně, často si najdou nepopulárního kamaráda
+Kontroverzní dítě – vykazují jak pozitivní, tak negativní sociální chování; tyto děti stojí mezi oblíbenými a neoblíbenými dětmi
+Přehlížené děti – mají stejné sociální schopnosti jako ostatní, ale z nějakého důvodu jsou přehlíženy – jiné oblečení atd …
+Dítě středního školního věku má již vyhraněný postoj ke škole. 
+Jeho vztah k učiteli je neutrálnější, než byl dříve.
+Ve vztahu ke zvířeti se projevuje i potřeba pečovatelského chování. Tímto způsobem se rozvíjejí kompetence, které jsou nedílnou součástí budoucí rodičovské role.
+Uveďte klíčová témata psychického, sociálního a tělesného vývoje – zejména problematiku školní zralosti.
+Střední školní věk
+doba vyrovnané konsolidace, citová vyrovnanost (Erikson), 
+Freud – fáze latence (klidový stav) 
+doba klidu a pohody; dítě se plynule rozvíjí fáze přípravy na další, vývojově dynamičtější období dospívání; je realista; extravertované, obrácené ke světu, optimista – má sklon interpretovat veškeré dění spíše pozitivním způsobem
+Role žáka ve středním školním věku
+role žáka získává postupně jiný význam
+názor je stabilnější a méně ovlivnitelný okamžitým výsledkem či situací
+jakmile se dítě adaptuje, mění se i jeho postoj k učiteli
+1. děti kladou důraz na společně sdílené aktivity, ale i na schopnost vzájemné solidarity a pomoci
+2. jsou preferovány stejně staré děti, které dosahují obdobné vývojové úrovně
+3. potřeba identifikace se skupinou dětí stejného pohlaví 
+děti středního šk. věku hodnotí svoje vrstevníky podle zjevných projevů, ve vztahu k očekávání, ale i podle toho, zda jsou jim jejich projevy příjemné
+populární děti bývají sociálně zdatné; imponují svými schopnostmi a bez problémů stačí v běžných skupinových aktivitách
+nepopulárními se stávají děti, které jsou ostatním nějak nepříjemné, ruší je a nestačí jejich požadavkům 
+Charakterizujte dospívání, pubescenci a adolescenci podle vývojových teorií (Piaget, Freud, Erikson, Kohlberg). Uveďte klíčová témata psychického, sociálního a tělesného vývoje.
+Jedná se o dobou mezi dětstvím a dospělostí.
+Dochází v něm ke komplexní proměně všech složek osobnosti dospívajícího. (Bio psycho socio, podle WHO)
+Nejnápadnější je tělesné dospívání, spojené s pohlavním dozráváním.
+Klíčový biologický mezník
+sekulární akcelerace, čím dál tím více se posouvají příznaky puberty do mladšího věku, 
+jedná se o individualitu – u každého začíná puberta v jiném věku
+V tomto období dochází na je změnu a přijetí vlastní identity, která by byla potvrzena dosažením nové, přijatelné pozice ve společnosti
+větší zaměření pozornosti na vlastní tělo, ale i na oblečení a na celkovou úpravu.
+Tělo schéma je sociálním reprezentantem vlastní identity – pubescent může být na své dospívající tělo pyšný, ale také se může stydět
+Individuálně rozdílné tempo dospívání může vést k frustraci jedince, který se od ostatních vrstevníků nějak liší
+CITOVÝ VÝVOJ
+Labilita 
+proměnlivost citů, mají afektivní ráz (náhle vzniknou, jsou prudké, krátkodobé), často střídání nálad (agresivita, hlučnost – nezájem, apatie)
+Chování 
+výbušné, stačí nepatrný podnět – intenzivní reakce vzteku, smíchu, smutku, chtějí být akceptování (rodiči)
+hormonální změny,vesměs i větší či menší kolísavost emočního ladění, větší labilitu a tendenci reagovat přecitlivěle i na běžné podněty
+Citlivost vůči nespravedlnosti a kritice 
+zejména od rodičů
+Pubescence
+(starší školní věk, 11-15 let)
+PIAGET, Abstraktních operací (starší školní věk)  
+schopnost abstraktně myslet
+chápe v plném rozsahu abstraktní pojmy (např. chápe slovo pověra, atd.)
+FREUD, Genitální stadium (starší školní věk) 
+zónou opět pohlavní orgány, dozrává sexuální aktivita  
+ERIKSON, Fáze identity proti zmatení rolí – od 12 do 19 let.
+s příchodem puberty se více zajímá o to, jak se jeví v očích ostatních
+nebezpečí konfúzí rolí hrozí především těm, kteří máji již z dřívějška pocit nejistoty.  
+KOHLBERG, Postkonvenční morálka (starší školní věk)  
+orientace na společenskou smlouvu – dítě si zvnitřňuje normy a pravidla společnosti  
+má potřebu vážit si sám sebe 
+orientace na společenské principy – jedná dle pravidel, jelikož je považuje za správné      
+Adolescence 
+(16-20 let)
+ERIKSON, Fáze identity proti zmatení rolí – od 12 do 19 let.
+s příchodem puberty se více zajímá o to, jak se jeví v očích ostatních
+nebezpečí konfúzí rolí hrozí především těm, kteří máji již z dřívějška pocit nejistoty.  
+Fáze intimity proti izolaci – od 19 do 25 let.
+nově nabytá identita je připravena splynout s identitou ostatních
+pokud se cítí ohrožen ostatními projevují se sklony k izolaci.  
+Uveďte klíčová témata 
+Psychický vývoj
+Za hlavní činitele psychického vývoje jedince jsou považovány:  
+dědičnost  
+vliv vnitřního prostředí (prenatální období)  
+vnějšího prostředí (jeho kvalita, intenzita a doba působení)
+vliv prostředí – obecné sociokulturní vlivy (normy a hodnoty dané doby, způsoby uvažování a chování) jsou jedinci interpretovány
+ 
+Psychické procesy:
+poznávací (kognitivní) – vnímání, fantazie...
+paměť – zapamatování, uchovávání...
+volné – vůle, motivace
+emocionální
+Psychické stavy:
+stav pozornosti
+citový stav – nálady, afekt
+Vlastnosti osobnosti:
+charakter – morální vlastnosti
+temperament – síla, rychlost, vzrušivost reakcí
+zaměřenost
+inteligence
+schopnosti a dovednosti určující výkon
+Sociální vývoj
+Socializace 
+vrůstání do společnosti, zespolečenšťování se, zařazování se
+celoživotní proces, 
+novorozeněte se stává lidská bytost
+ONTOGENEZE = vývoj jedince (prenatální – postnatální)
+INTERAKCE 
+vzájemné působení jedné osoby na druhou  
+Sociální determinace je určena sociálním prostředím:
+lidé a vztahy mezi nimi – rozhodující jsou osobní vztahy, citová deprivace má tvrdý dopad na osobnost
+vztah k sociální skupině – rodina, třída, parta, kamarádi, zájmové organizace, vztahy mezi skupinami, vliv skupiny na jednotlivce, kultura, výchova
+Tělesný vývoj
+BIOLOGICKÉ ZNAKY
+Jedná se o samotný organismus člověka:
+stavba těla, činnost nervové soustavy
+biologické potřeby, tělesný stav, růst organismu
+vliv dědičnosti = geny, vrozené dispozice (dědičně je ovlivněna struktura temperamentu, až z 80 % inteligence, tělesné znaky... → vliv dědičnosti je značný)
+Charakterizujte stádia dospělosti a stáří. Vysvětlete problematiku rodičovské a profesní role, krize středního věku a kvality života. Stádia dle Eriksona, post formální myšlení, post konvenční morálka podle Kohlberga, stádia přijetí smrtelnosti dle Kubler-Rossové.
+DOSPĚLOST
+Mladá dospělost 20–35 let
+zvládat určité vývojové úkoly:
+profesní roli, u ženy volba mezi rolí matky a profesionální kariérou
+stabilní partnerství (resp. manželství), (krize po 4 letech vztahu)
+rodičovství.
+Rozvoj myšlení ovlivňuje především zkušenost, tj. vnější vlivy (a nikoliv zrání, jak tomu bylo v období dospívání
+Kognitivní úroveň rané dospělosti charakterizuje fáze postformálního myšlení
+je sebekritický
+dovede pracovat s protiklady
+je ve svém uvažování pragmatičtější…
+30.let -potřeba generativity, tj. vytvoření něčeho hodnotného, smysl vlastního života. Tato tendence se projevuje ve vztahu k profesní roli i ve vztahu k partnerovi a dětem.
+Střední dospělost 35–45 let
+roste tendence zabývat se sám sebou
+krize středního věku
+hodnocení svého dosavadního života
+tendenci dohánět to, o čem se domnívají, že mají poslední šanci prožit právě teď (výměna partnera, střídání partnerů, různé extravagantní úpravy zevnějšku, sportování …)
+dochází ke změně i v oblasti intimity a generativity.
+Může se objevit RIGIDITA – stereotypnost– pravidelný režim dne, týdne -> určitá neochota něco měnit, učit se něco nového
+Sebekritičnost, sebeprosazování, optimismus
+Velká odolnost, nadšení, velká pracovní výkonnost, pragmatismus, adaptibilita, potřeba perspektivy
+Koncem období se zhoršuje paměť, především v oblasti vštěpování a vybavování nových 
+Dochází k předávání zkušeností dětem, ne vždy děti přijímají tyto rady – jsou to zásahy X mohou se vyskytovat problémy v manželství, které mohou končit rozvodem – velké trauma pro děti
+Starší dospělost 45–60 let
+pozvolný úpadek všech tělesných funkcí. Zhoršení syslových fcí – zrak, sluch
+Klesá tělesná síla a pohybová koordinace, zpomaluje se rychlost a pohotovost reakcí
+Mění se postoj k vlastnímu tělu a k jeho somatickým funkcím
+Fáze prvních signálů stárnutí
+Fáze smlouvání, připouští, že stárne, ale rád by si udržel pocit přijatelně dobrých funkcí a tělesné svěžesti co nejdéle, srovnání s vrstevníky. 
+Fáze přijetí reality tělesného úpadku - může jít až o rezignaci.
+45.–55. rok je fází klimakteria
+Ženy – klimakterium – špatně se vyrovnávají s odchodem svých dětí z domova -> pocit osamělosti
+Postihuje muže i ženy
+Fáze prázdného hnízda
+Nová role – prarodič, kompenzace odchodu a separace vlastních dětí (potřeba lásky, citové odezvy)
+Jde o období bilancování –odpověď na otázku, zda to, čeho dosáhl, a zda dosavadní výsledky mohou být ještě budovány a završeny
+Identitu ovlivňuje úpadek a posléze smrt vlastních rodičů, kteří jsou z tohoto pohledu jakýmsi biologickým zrcadlem. Stárnoucí člověk vidí jejich prostřednictvím i svou vlastní budoucnost. Smrtí rodičů se definitivně ztrácí vazba na původní dětskou identitu. Za těchto okolností se posouvá generační příslušnost – stárnoucí lidé se náhle stanou příslušníky nejstarší generace
+STÁŘÍ
+Po stránce psychologického dělení:
+Mladší (rané) stáří – 60 až 74 let
+Pokročilé (pravé) stáří – 75 let a více
+Období raného stáří
+ageismus – postoj, který vyjadřuje obecně sdílené přesvědčení o nízké hodnotě a nekompetentnosti stáří a projevuje se podceňováním, odmítáním, event. až odporem ke starým lidem
+Z hlediska ageismu je stáří obdobím ztrát, celkového úpadku a zhoršené kvality života
+Staří lidé mají nízký sociální status, jsou jim přičítány převážně negativní osobnostní vlastnosti a nízké kompetence
+hlavním vývojovým úkolem stáří dosáhnout integrity v pojetí vlastního života
+Starý člověk je ve větší míře zaměřen do minulosti
+Staří lidé bývají citově labilnější a hůře své emoční projevy ovládají
+Čas odchodu do důchodu (důchod je mezník, možné obavy ztráty společenského kreditu)
+Přibývá volného času na realizaci koníčků a zálib
+Větší výskyt nemocí, pozvolný úbytek sil
+Ve stáří dochází k celkovému zpomalení psychických procesů, zhoršuje se koncentrace pozornosti i paměťové funkce
+Jedním z problémů, které přináší stáří, je ztráta mnoha sociálních kontaktů.
+Staří lidé bývají rigidní, odmítají změny i v oblasti hodnot a norem chování.
+Stáří je typické úbytkem a proměnou sociálních rolí.
+Staří manželé jsou nuceni strávit spolu mnohem více času, než byli zvyklí. S postupujícím věkem vzrůstá význam manželského partnera: je hlavním zdrojem pocitu jistoty a bezpečí
+Kontakt s dětmi a vnuky uspokojuje mnohé psychické potřeby starého člověka
+Pravé stáří
+moc starších lidí se ho nedožívá, starý člověk ohrožen zvýšeným různých zátěžových situací
+Typické zátěžové situace tohoto období lze shrnout do několika bodů:
+Nemoc a úmrtí partnera, event. dalších blízkých lidí z vrstevnické skupiny, sociální izolace a opuštěnost.
+Zhoršení zdravotního stavu, úbytek tělesných i psychických schopností, spojený s postupnou ztrátou soběstačnosti a očekáváním smrti.
+Ztráta jistoty soukromí a vynucená změna životního stylu (častá hospitalizace, event. přemístění do ústavní péče, např. do domova důchodců nebo LDN).
+Lidé, kteří prodělali cévní mozkovou příhodu, se mění i psychicky. Závažným problémem stáří je demence, která postihuje 20 % lidí starších 80 let. 
+Staří lidé trpí často depresí, v tomto období se zvyšuje počet dokonaných sebevražd.
+Staří lidé nemívají obvykle strach ze smrti, ale bojí se umírání: bezmocnosti a dlouhého trvání takového utrpení. S postupujícím věkem strach ze smrti ubývá.
+Erikson – Stádia vývoje osobnosti
+(1902–1994)
+ - jediná periodizace od narození do smrti, vychází ze sociálního vývoje  
+Vycházel z předpokladu, že jedinec musí vyřešit psychosociální konflikt – krizi v každé vývojové etapě (věku)
+K prvním pěti stádiím shodných s Freudem přidal další 3
+8 stádií duševního vývoje Eriksona:
+Fáze základní důvěry v život proti základní nedůvěře – 0–1 rok.
+Dítě se učí jednak důvěřovat, že se ostatní postarají o jeho potřeby, včetně výživy, tepla, čistoty a fyzického kontaktu, a jednak se učí ztrácet důvěru v péči od ostatních
+Fáze autonomie proti studu a pochybám – od 1 do 3 let.
+stud znamená, že si je člověk vědom, že je vystaven okolí. Uvědomění si přední a zadní strany a s tím vznik pochybností
+Fáze iniciativy proti pocitům viny – od 3 do 6 let.
+k autonomii je přidána vlastní iniciativa. Dítě plánuje, pouští se do nových aktivit. Možnost vzniku pocitu viny. Zahanbení při nedostatečném oceněni. 
+Fáze snaživosti proti pocitu méněcennosti – od 6 do 12 let.
+Hodnocení výkonnosti dítěte. Poznává účel a produktivitu, učí se vytrvalé a systematické práci, píli. Dítě je ohroženo pocitem méněcennosti. 
+Fáze identity proti zmatení rolí – od 12 do 19 let.
+S příchodem puberty se více zajímá o to, jak se jeví v očích ostatních. Nebezpečí konfúzí rolí hrozí především těm, kteří máji již z dřívějška pocit nejistoty. 
+Fáze intimity proti izolaci – od 19 do 25 let.
+Nově nabytá identita je připravena splynout s identitou ostatních. Pokud se cítí ohrožen ostatními projevují se sklony k izolaci. 
+Fáze generativity proti stagnaci – od 25 do 50 let.
+Zájem o oplození. Dospělý potřebuje cítit, že je užitečný. Tuto potřebu uspokojí péčí o novou generaci.
+Fáze integrity proti zoufalství – od 50 let.
+Ten, kdo úspěšně zvládl předchozí stádia, si uvědomuje smysluplnost toho, co celý život dělal a dosahuje moudrosti a integrity já
+Erikson: ,, Zdravé děti se nebudou bát života, jestliže jejich předkové budou mít dost integrity, aby se nebáli smrti“
+KOHLBERG – Koncepce vývoje osobnosti morálky
+- vývoj morálky (morálních norem jedince), navázal na Piageta
+vytvořil koncepci morálního vývoje
+navázal na Piageta a definoval 6 hlavních stádií vývoje morálky
+zabýval se především schopností lidí uvažovat mravně v abstraktních situacích
+podle něj musí člověk procházet postupně stádii, jak jdou za sebou a žádné nemůže přeskočit
+6 vývojových stádií (každé má 2 stupně) Kohlberga:
+Předkonvenční morálka (předškolní věk) 
+Orientace na trest – dítě se chová dle zákonů společnosti (morálky) ne proto, že je uznává, se chce vyhnout trestu 
+Orientace na odměnu – dítě dodržuje pravidla ne proto, že je schvaluje, ale že čeká odměnu 
+Konvenční morálka (mladší školní věk) 
+Orientace být hodné dítě – chová se dle pravidel kolektivu, společnosti
+Orientace na autoritu - snaha zavděčit se rodičům, učiteli,…  
+Postkonvenční morálka (starší školní věk) 
+Orientace na společenskou smlouvu –zvnitřňuje normy a pravidla společnosti - má potřebu vážit si sám sebe 
+Orientace na společenské principy – jedná dle pravidel, jelikož je považuje za správné     
+Stádia přijetí smrtelnosti dle Kubler-Rossové
+5 fází smutku nebo 5 fází umírání
+Popírání (to musí být omyl)
+Hněv / agrese (to není fér)
+Smlouvání (chci se dožít svých vnuků)
+Deprese (ztratila jsem milovanou osobu – proč žít dál – strach, úzkost, beznaděj)
+Smíření (psychické uvolnění, přistupujeme s rozumem)

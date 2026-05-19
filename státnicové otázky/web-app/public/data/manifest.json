@@ -1,0 +1,72 @@
+{
+  "A": {
+    "name": "Pedagogika",
+    "docs": [
+      "PES-01-03_pedagogika-vychova-vzdelavani.md",
+      "PES-04-05_ucitel-komensky.md",
+      "PES-06-07_environment-skola.md",
+      "PES-08-10_proces-vyuky.md",
+      "PES-11-13_dejiny-reformy-kurikulum.md",
+      "PES-14-16_koncepce-vzdelavani.md",
+      "PES-17-18_hodnoceni-cile.md",
+      "PES-19-21_teorie-osobnost-spolecnost.md",
+      "PES-22-25_kooperace-projekty-zkusenost.md",
+      "PES-26-30_vychova-klima-diagnostika-svp.md"
+    ],
+    "audio": [
+      "01_Prvních_pět_otázek_ze_státnic_z_pedagogiky.m4a",
+      "02_Od_tovární_linky_k_umělé_inteligenci.m4a",
+      "03_Jak_se_v_hlavě_skutečně_staví_vědomosti.m4a",
+      "04_Učitel_jako_architekt_situací_a_zážitků.m4a"
+    ],
+    "video": [
+      "Moderní_pedagog_a_Komenský.mp4",
+      "Základy_pedagogiky.mp4"
+    ]
+  },
+  "B": {
+    "name": "Oborová didaktika",
+    "docs": [
+      "ODIP-01-05_kurikulum-rvp-svp.md",
+      "ODIP-06-10_metody-teoreticke-vyuky.md",
+      "ODIP-11-15_priprava-hospitace-analyza.md",
+      "ODIP-16-20_ucitel-praxe-dovednosti.md",
+      "ODIP-21-25_formy-praxe-ucebni-den.md",
+      "ODIP-26-30_hodnoceni-priprava-bozp.md"
+    ],
+    "audio": [
+      "05_Jak_úspěšně_učit_řemeslo_a_odborné_předměty.m4a",
+      "06_Jak_mistři_plánují_a_učí_řemeslo.m4a",
+      "07_Jak_se_v_dílnách_učí_řemeslo.m4a"
+    ],
+    "video": []
+  },
+  "C": {
+    "name": "Psychologie",
+    "docs": [
+      "PSY-01-03_zaklady-vnimani-mysleni.md",
+      "PSY-04-07_pamet-pozornost-emoce-vule.md",
+      "PSY-08-10_osobnost-temperament-charakter.md",
+      "PSY-11-12_motivace-socialni-psychologie.md",
+      "PSY-13-14_socialni-skupina-komunikace.md",
+      "PSY-15-16_narocne-situace-role.md",
+      "PSY-17-18_rodina-dysfunkcni-rodina.md",
+      "PSY-19-22_pedagogicka-psychologie-uceni.md",
+      "PSY-23-25_ucitel-poradce-sikana.md",
+      "PSY-26-30_vyvojova-psychologie.md"
+    ],
+    "audio": [
+      "08_Psychologický_manuál_k_lidskému_mozku.m4a",
+      "09_Temperament_charakter_a_vnitřní_motivace_v_učení.m4a",
+      "10_Jak_rodina_a_vztahy_formují_žáky.m4a",
+      "11_Mechanika_učení_a_mrazivá_anatomie_šikany.m4a",
+      "12_Mapy_lidského_vývoje_od_narození_po_smrt.m4a"
+    ],
+    "video": []
+  },
+  "TISK": [
+    "01_Pedagogika_TISK.md",
+    "02_Oborova_didaktika_TISK.md",
+    "03_Psychologie_TISK.md"
+  ]
+}

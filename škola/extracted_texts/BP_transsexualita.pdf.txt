@@ -1,0 +1,2802 @@
+Jihočeská univerzita v Českých Budějovicích
+Pedagogická fakulta
+Katedra pedagogiky a psychologie
+Bakalářská práce
+Transsexualita
+Vypracovala: Jitka Štanglová
+Vedoucí práce: PhDr. Marta Franclová, Ph.D.
+České Budějovice 2019
+Prohlášení
+Prohlašuji, že svoji bakalářskou práci jsem vypracovala samostatně pouze s 
+použitím pramenů a literatury uvedených v seznamu citované literatury.
+Prohlašuji, že v souladu s § 47b zákona č. 111/1998 Sb. v platném znění 
+souhlasím se zveřejněním své bakalářské práce, a to v nezkrácené podobě fakultou 
+elektronickou cestou ve veřejně přístupné části databáze STAG provozované 
+Jihočeskou univerzitou v Českých Budějovicích na jejích internetových stránkách, a to 
+se zachováním mého autorského práva k odevzdanému textu této kvalifikační práce. 
+Souhlasím dále s tím, aby toutéž elektronickou cestou byly v souladu s uvedeným 
+ustanovením zákona č. 111/1998 Sb. zveřejněny posudky školitele a oponentů práce i 
+záznam o průběhu a výsledku obhajoby kvalifikační práce. Rovněž souhlasím s 
+porovnáním textu mé kvalifikační práce s databází kvalifikačních prací Theses.cz 
+provozovanou Národním registrem vysokoškolských kvalifikačních prací a systémem na 
+odhalování plagiátů.
+V Českých Budějovicích dne 12.7. 2019
+…………………………………………….
+Jitka Štanglová
+Poděkování
+Na tomto místě bych chtěla poděkovat PhDr. Martě Franclové, Ph.D. za vedení, 
+pomoc a rady, jež mi byly poskytnuty během tvorby mé bakalářské práce.
+Dále bych chtěla poděkovat Mgr. Tomáši Mrhálkovi a Mgr. Aleně Nohavové, 
+Ph.D. za doporučení a cenné připomínky, které mi pomohly při sestavování praktické 
+části.
+V neposlední řadě bych chtěla poděkovat všem účastníkům výzkumu, za jejich 
+spolupráci i vstřícné chování, které mě doprovázelo po celou dobu naší spolupráce a 
+ochotu velmi otevřeně se podělit se o své životní příběhy.
+Abstrakt
+Název práce: Transsexualita
+Autor práce: Jitka Štanglová
+Vedoucí práce: PhDr. Marta Franclová, Ph.D.
+Bakalářská práce je zaměřena na popis životní cesty transsexuálních mužů od jejich 
+dětství, přes změnu pohlaví, až po reakce okolí na jejich novou identitu. Výzkumu se 
+také účastnili rodinní příslušníci a blízká kamarádka transsexuálů, kteří doplňují 
+výzkumné šetření o své pohledy na konverzi pohlaví. Teoretická část práce se věnuje 
+vymezením pojmů z oblasti transsexuality, kterými jsou pohlaví, gender a pohlavní 
+identita. Následně se práce zabývá klasifikací poruch pohlavní identity, v krátkosti je 
+představena historie a etiologie transgenderu. Dále následuje podrobný popis 
+jednotlivých etap konverze pohlaví a v konečné části se práce věnuje zastoupením 
+transsexuálních jedinců v populaci. V empirické části je popsán život transsexuálních 
+mužů v oblastech dětství a dospívání, prvního uvědomení, průběhu konverze pohlaví a 
+reakce okolí na jejich novou identitu. Výzkum je obohacen o výpovědi rodiny a blízké 
+kamarádky, kteří se vyjadřují ke změně pohlaví daných respondentů. Výzkumného 
+šetření se účastnilo celkem 5 osob, u nichž byly provedeny hloubkové rozhory a jako 
+výzkumná metoda byla zvolena narativní analýza.
+Klíčová slova: transsexualita, transgender, female to male, konverze pohlaví 
+Abstract
+Thesis Title: Transsexuality
+Thesis Author: Jitka Štanglová
+Thesis Supervisor: PhDr. Marta Franclová, Ph.D.
+The bachelor thesis is focused on the description of the life path of transsexual men 
+from their childhood, through the change of sex, to the reaction of the neighbourhood 
+to their new identity. The research was also attended by family members and close 
+friends of transsexuals, who supplement their research with their views on gender 
+conversion. The theoretical part of the thesis deals with the definition of terms from 
+the field of transsexuality, which are sex, gender and gender identity. Subsequently, 
+the thesis deals with the classification of gender identity disorders, the history and 
+etiology of transgender. Then, a detailed description of the individual stages of sex 
+conversion follows and in the final part, the work deals with the representation of 
+transsexual individuals in the population. The empirical part describes the life of 
+transsexual men in the areas of childhood and adolescence, the first consciousness, 
+the course of gender conversion and the reaction of the neighbourhood to their new 
+identity. The research is enriched by the statements of the family and close friends 
+who comment on the sex change of the respondents. A total of 5 people participated 
+in the research, and in-depth interviews were conducted and narrative analysis was 
+chosen as a research method.
+Keywords: transsexuality, transgender, female to male, sex conversion
+Obsah
+Úvod.................................................................................................................................. 8
+I. TEORETICKÁ ČÁST...................................................................................................... 9
+1. Definice pojmů ...................................................................................................... 9
+1.1.1. Pohlaví ........................................................................................................ 9
+1.1.2. Gender........................................................................................................ 9
+1.1.3. Pohlavní identita....................................................................................... 10
+1.1.4. Poruchy pohlavní identity......................................................................... 11
+1.2. Historie............................................................................................................. 13
+1.3. Etiologie transsexualismu ................................................................................ 14
+1.3.1. Biologická teorie ....................................................................................... 14
+1.3.2. Psychologická teorie................................................................................. 15
+1.4. Etapy konverze pohlaví.................................................................................... 16
+1.4.1. Diagnostika ............................................................................................... 16
+1.4.2. Psychodiagnostické testy.......................................................................... 17
+1.4.3. Fáze rozhodovací ...................................................................................... 21
+1.4.4. Real Life Test, Real Life Experience .......................................................... 21
+1.4.5. Hormonální terapie .................................................................................. 22
+1.4.6. Chirurgické zákroky .................................................................................. 23
+1.4.7. Pooperační období ................................................................................... 25
+1.5. Výskyt v populaci ............................................................................................. 25
+II. EMPIRICKÁ ČÁST...................................................................................................... 28
+1.6. Cíl výzkumu a výzkumné okruhy...................................................................... 28
+1.7. Metodologie výzkumu ..................................................................................... 28
+1.8. Výzkumný soubor............................................................................................. 28
+1.9. Sběr a analýza dat............................................................................................ 30
+1.10. Narativní analýza.......................................................................................... 30
+1.11. Denis (21 let) ................................................................................................ 33
+1.12. Pohled Hynka (18 let)................................................................................... 39
+1.13. Pohled matky Lucie (47 let).......................................................................... 43
+1.14. Ota (22 let) ................................................................................................... 48
+1.15. Pohled Julie (20 let)...................................................................................... 57
+Výzkumná zjištění ....................................................................................................... 59
+1.16. Dětství a dospívání ....................................................................................... 59
+1.17. Uvědomění si................................................................................................ 62
+1.18. Změna........................................................................................................... 64
+1.19. Reakce okolí ................................................................................................. 67
+1.20. Milostný život............................................................................................... 76
+Diskuze ........................................................................................................................ 78
+Závěr ........................................................................................................................... 82
+Seznam použitých zdrojů a literatury ......................................................................... 84
+Přílohy ......................................................................................................................... 86
+8
+Úvod
+Problematika transsexuality vyvolává v naší společnosti stále určitou kontroverzi, 
+protože výskyt těchto osob je v populaci poměrně malý a většina lidí během svého 
+života neměla možnost přijít do kontaktu s jedincem, jež by trpěl poruchou pohlavní 
+identity. Nevědomost společnosti o této problematice staví transsexuály do 
+nepříjemné pozice, kdy se setkávají s nepochopením a bývají slovně či fyzicky 
+napadáni.
+Většina lidé si neuvědomuje, že pohlaví jedince je určeno ihned po jeho narození na 
+základě primární pohlavních znaků a od této chvíle je každá osoba zařazena buďto do 
+kategorie muž či žena. Jenomže v průběhu lidského vývoje může dojít k tomu, že 
+někteří jedinci nabydou dojmu, že se neztotožňují s rodem, který jim byl automaticky 
+přiřazen a sami sebe vnímají, jako příslušníky opačného pohlaví. Jinými slovy se muž 
+cítí být ženou a žena se chce stát mužem. 
+Z důvodu, že i já jsem patřila mezi ty osoby, které se za svůj dosavadní život nesetkaly 
+s transsexuálním člověkem, jsem se rozhodla toto změnit a rozšířit si své obzory o tuto 
+problematiku. 
+V teoretické části práce se věnuji pojmům, jež jsou spojeny s problematikou 
+transsexuality, dále je popsána klasifikace poruch pohlavní identity a v neposlední řadě 
+se věnuji jednotlivým etapám změny pohlaví.
+Empirická část popisuje život transsexuálních mužů, kteří si prošli změnou pohlaví. Tito 
+jedinci líčí své dětství, první uvědomení si své odlišnosti od většiny, dále se vyjadřují 
+k etapám změny pohlaví a k reakcím okolí na jejich novou identitu. Jejich příběhy jsou 
+obohaceny o pohledy rodiny a blízké kamarádky.
+9
+I. TEORETICKÁ ČÁST
+1. Definice pojmů
+V následující kapitole se budeme věnovat základní pojmům z oblasti transsexuality 
+pro lepší pochopení této problematiky.
+1.1.1. Pohlaví
+Biologické rozdíly mezi mužem a ženou nastávají již při samotném početí, kdy dojde 
+ke splynutí vajíčka a spermie. Ženské pohlaví vznikne, pokud dojde ke spárování 
+chromozomů XX a mužské pohlaví se vytvoří při spojení chromozomu X 
+s chromozomem Y. Lékaři či porodníci určují u novorozence jeho biologické pohlaví na 
+základě jeho zevního genitálu (Karsten, 2006). Psychické pohlaví stanovuje, zda se 
+člověk cítí být mužem nebo ženou (Weiss & Fifková, 2010).
+Po narození je nám určeno, zda jsme zástupci mužského nebo ženského pohlaví. 
+Pokud je naše psychické pohlaví v rozporu s naší biologickou determinací se ukáže až 
+v pozdějším věku. 
+1.1.2. Gender 
+Je anglický výraz, který můžeme přeložit do češtiny jako „ rod“, ale také jako 
+„sociální chování“. Gender nám ukazuje rozdíly mezi ženami a muži, jenž jsou ovlivněny 
+kulturními a sociálními vzorci chován. Tyto vzorce se v historii neustále proměňují a 
+jejich podobu určuje společnost (Janošová, 2008). „K ženskosti neboli feminitě bývají 
+přiřazovány vlastnosti, jako je pasivita soucit, pocity odporu při kontaktu s něčím 
+nepříjemným, čistota, jemnost, emocionalita, závislost, takt, silnější potřeba vyjádřit 
+pocity, klid, upravenost a krása. Mužnost či maskulinita zahrnuje vlastnosti veskrze 
+opačné, jako například potlačování emocí, orientaci na práci, aktivitu, dominanci, 
+soutěživost a vyšší společenské postavení.“ (Janošová, 2008, s. 39) Mezi typicky mužské 
+záliby můžeme řadit sport a technický um. Naproti tomu ženy jsou přiřazovány 
+k uměleckým a domacím činnostem (Nakonečný, 1995).
+10
+Gendre udává ve společnosti určitý vzorec chování a předpokládá se, že muži či 
+ženy budou tyto pravidla v chování do jisté míry dodržovat. Transsexuální jedinci 
+v tomto ohledu naraží na velký společenský problém, protože se chovají opačným 
+způsobem, než-li se od nich očekává.
+1.1.3. Pohlavní identita
+Jedná se o prvotní sebeidentifikaci. Vědomí o pohlavní identitě určuje naše 
+chování, individuální zájmy i styl, jak se budeme prezentovat v sociálním světě. 
+(Janošová, 2008)
+Počátky pohlavní identity jsou identifikovány již u dětí, které se nacházejí na 
+konci kojeneckého období, protože jsou schopny přiřadit určité atributy (vzhled a 
+hlasovou intonaci) k ženě či k muži. V batolecím období se tyto znalosti velmi rychlým 
+tempem prohlubují a dítě zjišťuje, že pohlavní příslušnost spolu s věkem patří 
+k nejzákladnějším lidským charakteristikám. (Janošová, 2008)
+Dítě postupně zjišťuje, že existuje mužský a ženský svět. Do těchto dvou světů patří 
+odlišné hračky, preference jiných barev, oblečení a aktivity. Dítě také odhalí 
+indiferentní pravidlo, které mužský a ženský svět spojuje. (Janošová, 2008)
+Pohlavní identita je tvořena: 
+Biologické pohlaví (rovněž anatomické pohlaví): Pohlaví určujeme podle primárních 
+pohlavních znaků 
+Jádrová pohlavní identita: Jedinec si je vědom své příslušnosti buďto k mužskému 
+nebo ženskému pohlaví.
+Pohlavní identita: Jedinec se definuje jako muž nebo jako žena.
+Pohlavní role: Je zůsob, jakým se jedinec vyjadřuje vůči sobě nebo jiným lidem. 
+Dokazuje svému okolí, do jaké míry je mužem či ženou (Smolík, 1996).
+Pro utovření pohlavní identity je potřeba, aby se jedinec dokázal identitofikovat, zda je 
+muž či žena. Jedinec zjišťuje, jestliže je v souladu jeho biologické pohlaví, jádrová 
+identita, pohlavní identita a role. 
+11
+1.1.4. Poruchy pohlavní identity
+Poruchy pohlavní identity jsou způsobeny tým, že je narušený vývoj normálního 
+prožívání mužství nebo ženství (Smolík, 1996).
+Klasifikace poruch pohlavní identity dle MKN-10
+Podle klasifikace MKN-10 lze identifikovat pět diagnóz pro poruchy pohlavní identity.
+Transsexualitu (F64.0) lze definovat jako stav, kdy dochází k nesouladu mezí 
+tím, jak se jedinec psychicky cítí a jaké má po biologické stránce pohlaví. Přeje si být 
+trvale příslušníkem opačného pohlaví (Matsumoto, 2009). Tento jedice je ochotý 
+podtoupit hormonální léčbu a chirurgické zákroky, aby se jeho či její tělo, co možná 
+nejvíce podobalo preferovanému pohlaví. Transsexuální identita by měla přetrvávat 
+nejméně dva roky a nesmí být příčinou duševní poruchy (schizofrenie), dále nesmí být 
+ve spojitosti s intersexuální, genetickou nebo chromozomální abnormalitou (Weiss, 
+2010). 
+Transvestitismus dvojí role (F64.1) znamená, že dotyčná osoba nosí šaty 
+opačného pohlaví, ale pouze dočasnou dobu. Její touha nespočívá v tom být trvale 
+příslušníkem opačného pohlaví (Weiss, 2010).
+Jiné poruchy pohlavní identity (F64.8) se vyznačují itersexuálními stavy, 
+přechodným převlékáním do šatů opačného pohlaví při pociťování stresu, myšlenky 
+směřující ke kastraci nebo penektomii. Nevyskytuje se v tomto případě touha po 
+sexuálních charakteristikách opačného pohlaví (Smolík, 1996). 
+Nespecifikované poruchy pohlavní identity „nemají specifické kritéria.“ 
+(Weiss, 2010, s. 441)
+Porucha pohlavní identity v dětství (64.2) má rozdílná kritéria pro dívky a chlapce.
+Kritéria pro dívky
+Dívka se neustále cítí být nespokojená ve svém těle a pociťuje intenzivní 
+utrpení. Její velkou touhou je stát se chlapcem nebo trvá na tom, aby se k ní ostatní 
+lidé v jejím okolí chovali jako k chlapci (Weiss, 2010).
+12
+Ukazatele trassexuálních dívek:
+ „Zřetelné a přetrvávající averze k normálním ženským šatům
+ Vyžadování stereotypního maskulinního oblečení
+ Přetvávající odmítání ženských anatomických struktur, což by mělo být doloženo 
+jedním z následujích:
+ Dívka trvdí, že má nebo jí naroste penis
+ Odmítá močit vsedě
+ Prohlašuje, že nechce, aby jí narostla prsa, a že nechce menstruovat
+ Dívka ještě nedosáhla puberty
+ Porucha musí trvat nejméně 6 měsíců.“ (Weiss, 2010, s. 440)
+Kritéria pro chlapce
+Chlapec se neustále cítí být nespokojený ve svém těle a pociťuje intenzivní 
+utrpení. Jeho velkou touhou je stát se dívkou a trvá na tom, aby se k němu ostatní lidé 
+v jeho okolí chovali jako k dívce (Weiss, 2010).
+Ukazatele transsexuálních chlapců:
+ „Zaujetí pro stereotypní ženské aktivity, o čemž svědčí vyhledávaný cross-dressing 
+(oblékání se do dívčího oblečení) nebo imitování ženského oděvu
+ Silné přání účastnit se dívčích her a zábavy
+ Odmítání stereotypních mužských hraček, her a aktivit
+ Přetrvávající odmítání mužských anatomických struktur, což by mělo být doloženo 
+jedním z následujících opakujících se tvrzení:
+ Vyroste a bude ženou (ne pouze v roli ženy)
+ Jeho penis a varlata jsou odporné, zmizí
+ Bylo by lepší nemít penis a varlata
+ Chlapec ještě nedosáhl puberty
+Porucha musí trvat nejméně 6 měsíců.“ (Weiss, 2010, s. 440) 
+Pokud děti trpí poruchou pohlaví identity, můžou svému okolí dávat svou 
+nespokojenost ve svém těle okázale najevo. 
+13
+Pojmenování transsexuálních osob
+Female to male (FtM) 
+Tímto způsobem se označuje osoba, která je biologicky ženou, ale po psychické 
+stránce se cítí a chce se stát mužem (Weiss, 2010).
+Male to female (MtF)
+Tímto způsobem se označuje osoba, která je biologicky muž, ale po psychické 
+stránce se cítí a chce se stát ženou (Weiss, 2010).
+1.2. Historie
+První zmínky o transsexuálech sahají do poloviny třetího tisíciletí př.n.l., kdy se 
+do dnešní doby dochovaly mezopotámské spisy, v nichž jsou popsány osoby, které 
+bychom dnes mohly označit jako transsexuály MtF. V té době byly v roli kněžek a měly 
+velice významnou pozici. Nacházíme se v matriarchální době, kdy ve vůdčí pozici se 
+nacházely ženy a kněžky měly významnou pozici při uctívání tehdejší bohyně, jež se 
+nazývala Velká Matka. Při starodávných, posvátných, náboženských rituálech 
+transsexuální kněžky podstupovaly kastraci (Feinberg, 2000).
+Velká Matka byla uctívána v zemích Blízkého východu, severní Afriky, v Evropě a v 
+západní Asii. Bohyně je popisována jako intersexuální božstvo, v němž nedošlo k 
+oddělení pohlaví.
+V Anatolii, na území dnešního Turecka, se transsexuální kněžky nazývaly 
+„Galloi“, kdy posláním „Galloi“ bylo sloužit bohyni Kybele. Dobové dokumenty ukazují, 
+že počet „Galloi“ v jednotlivých městech dosahoval až pěti tisíc (Feinberg, 2000).
+Názory historiků na transgender v minulosti se liší. Na jedné straně je toto chování 
+považováno za tradici té doby, na druhé straně se diskutuje, zda se muži chtěli dostat 
+k moci, protože se nacházíme v matriarchální době a byli ochotni podstoupit i kastraci, 
+aby se přiblížili vůdcovské pozici (Feinberg, 2000).
+Řecké mytologie vyprávějí o Amazonkách, které vedly boje s Řeky a jsou 
+popisovány jako maskulinní ženy projevující se jako muži. Většina z amazonských 
+bojovnic si nechávaly odstraňovat jedno nebo obě prsa, aby jim nepřekážely v boji
+(Feinberg, 2000).
+14
+Za velmi významnou historickou „trans-osobnost“ můžeme považovat Johanku 
+z Arku, která se již od útlého věku odívala do chlapeckého oblečení a projevovaly se u 
+ní vojevůdcovské schopnosti, jimiž velmi významně ovlivnila vznik francouzského 
+národního státu. Johanka byla zajata a obviněna svatou inkvizicí za nošení oděvu 
+opačného pohlaví a z čarodějnictví. Pro nedostatek důkazů, inkvizice od obžaloby 
+z čarodějnictví upustila, ale stále tu byl problém kvůli mužskému odívání. Johanka 
+odmítla upustit od svých transgeder projevů, což znamenalo, že se vzpouzela Božímu 
+zákonu, proto byla odsouzena k upálení ve věku devatenácti let. Její mrtvé tělo bylo 
+vystavováno, aby bylo vidět, že Johanka byla opravdu ženou a zapudily se díky tomu 
+jakékoli pochybnosti, které mohly komukoli vyvstat na mysl (Feinberg, 2000).
+Přítomnost transgenderu byl popisován v mytologiích, ale i v historii, kdy 
+můžeme vidět, že transsexuální osoby byly velice významnými osobami té doby. 
+1.3. Etiologie transsexualismu
+Termín transsexuál se poprvé objevil v odborné literatuře v díle Hirschfelda v 
+roce 1923. V jeho práci ještě nebyl učiněn rozdíl mezi transvestitismem, 
+homosexualitou a transsexualismem. Začátkem čtyřicátých let se termín začal používán 
+ve smyslu, který nyní známe. Označuje jedince, kteří chtějí žít trvale v sociální roli 
+opačného pohlaví a chtějí podstoupit změnu pohlaví (Cohen-Kettenis, 1999).
+Příčiny transsexualismu jsou stále nejasné. Předpokládá se, že se jedná se o 
+multifaktoriální působení vrozených, organických a zevních determinant (Malá, 2003).
+1.3.1. Biologická teorie
+Dörner (1991) a Gooren (1990) se domnívají, že za vnikem transsexuality stojí 
+hormony. Hypotalamus a amygdala patří mezi nejvýznamnější oblasti mozku 
+zodpovídající za procesy sexuální diferenciace a v těchto místech se nacházejí tři 
+samostatná centra:
+ centrum pro maskulinní nebo femininní typ sekcere gonadotropinů
+ centrum pro sexuální orientaci
+ centrum pro sexiální roli 
+15
+Heterosexualita, homosexualita a transsexualita zřejmně způsobuje rozdílné 
+programování mozku v prenatálním období.
+Tyto oblasti jsou závislé na hladině pohlavních hormonů a neurotransmiterů, kdy se 
+dítě, během nitroděložního života nachází v tzv. kritickém vývojovém období. Pokud 
+dojde ke změnám hladin specifických pohlavních hormonů, ovlivní trvale strukturální či 
+biochemické oblasti mozku, jenž jsou spojeny s celoživotními variacemi chování 
+v pohlavní roli nebo se sexuální orientací. Za mužskou orientaci sexuálního mozku je 
+zodpovědná hladina androgenů. Pokud nastane situace v nitroděložním vývoji ženské 
+plodu, že nadledvinky začnou nadprodukovat androgeny, můte to zapříčinit mužsky 
+orientovaný mozek. Naproti tomu varlata mužeské plodu mnou produkovat znatělně 
+méně androgenů a to může být důvod, proč bude mozek žensky orinetovaný.
+Naprodukce nebo nižší produkce může způsobovat nedostatek enzymů, což 
+ovlivňuje mateřský stres v kritických obdobích prenatálního vývoje (Weiss, 2010).
+Biologická teorie pracuje s tím, že heterosexualita, homosexualita a transsexualita 
+se vytváří již v prenatálním období, kdy pod vlivem hormonů dochází v mozku k 
+procesům, jenž jsou pro naši sexuální orientaci či pro poruchy pohlavní identity 
+stěžejní. 
+1.3.2. Psychologická teorie
+V 50. a 60. letech byly uznávané teorie lidského vývoje vycházejících 
+z psychoanalytické teorie nebo z behavioristických teorií učení. Z obou konceptů 
+vyplývá, že vývoj osobnosti je zcela naučený a ustálený v prvních pěti letech života, kdy 
+základem je výchova a rodičovské vztahy. Pohlavní identita, ať už byla transsexuální či 
+netranssexuální byla také ovlivněna obdobným způsobem, tedy vnějšími vlivy 
+působících během prvních let života (McConaghy, 1993).
+Money a jeho společníci zkoumali imprintig, což je vtištění, jednorázové 
+naučení, kdy se dítě nachází ve vývojově kritických fází, tedy ve věku 1,5 a 4,5.
+Výsledkem imprintignu je osvojení si mužské či ženské sexuální role v oblastech 
+chování, mluvení a vystupování. Z této představy můžeme usuzovat, že sexuální 
+identita, role a orientace je výsledkem učení a po uplynutí kritické fáze je zcela 
+nezměnitelná (Money,1955 In Fifková 2008). 
+16
+Money (1975) na základě své teorie provedl přeměnu pohlaví u 7 měsíčního 
+chlapec, z páru jednovaječných dvojčat, který přišel o penis kvůli nezdařilé obřízce. 
+Chlapec užíval ženské hormony a zdánlivě se jevilo, že přizpůsobení do ženské role 
+proběhlo úspěšně Diamond (1982) ověřil vývoj tohoto chlapce v dospělém věku a 
+z výsledků vyplývá, že chlapec velice těžce snášel roli ženy. V té době se tyto důkazy 
+zřejmě zatajily, aby neohrozily imprintingovou teorii.
+Bancroft uvádí, že základem sexuální identity jsou vrozené determinanty, ale 
+hraje zde i koncept sebeobrazu muže či ženy, jenž se vytváří v procesu sociálního, tak i 
+specificky lidského kognitivního učení (Bancroft, 1989 In Fifková, 2008).
+Dřívější psychologické teorie se jeví jakožto chybné, protože jinými výzkumy 
+bylo vyvráceno, že by pouze vliv výchovy udával u dítěte jeho pohlavní identitu. Jedná 
+se o velice složitý proces, u kterého se dodnes přesně neví, co způsobuje 
+transsexualismu.
+ 
+1.4. Etapy konverze pohlaví
+Pokud se transsexuální klient rozhodne pro změnu pohlaví, čeká ho dlouhá 
+cesta, která započne diagnostikou, bude pokračovat rozhodovací fází, následuje real 
+life test/real life experience, hormonální terapie a operativní výkony.
+1.4.1. Diagnostika
+Diagnostická etapa u každého klienta trvá odlišnou dobu. Jsou případy, kdy 
+jedinci již při prvním sezení vědí, jaká je jejich pohlavní příslušnost a diagnóza v těchto 
+případech slouží pouze jako potvrzující nástroj. Nicméně se vyskytnou i situace, kdy se 
+klienti hledají několik let a diagnostická fáze, v tomto případě, nejde žádným způsobem 
+urychlit (Fifková, 2002). 
+Transsexualita má vymezenou klinickou definici, jenž je založena na 
+pregnantních charakteristikách. Mezi ně patří přesvědčení, že daný jedinec se cítí být 
+příslušníkem opačného pohlaví, obléká se a vystupuje v roli opačného pohlaví, pociťuje 
+averzi vůči vlastním genitáliím a přeje si jejich změnu. Dále je ochoten podstoupit 
+operativní změny pohlaví (Roberto, 1983).
+17
+V diagnostické praxi se v rámci psychologického vyšetření používají tři druhy 
+vyšetřovacích metod. Mezi tyto metody řadíme: psychodiagnostické testy, 
+psychofyziologické diagnostické metody a anamnestický rozhovor (Fifková, 2002).
+1.4.2. Psychodiagnostické testy
+Transsexuálním jedincům vychází v těchto testech neurotická a depresivní 
+symptomatika, která je způsobena životem v nepreferované pohlavní roli, z čehož 
+vyplývají problémy, se kterými se tyto jedinci musí potýkat v každodenním životě
+(Fifková, 2002).
+Psychofyziologické diagnostické metody
+Tyto metody patří k nejvýznamnějším v procesu diagnostiky transsexuality. 
+Jedná se o přístrojové metody PPG (phaloplethysmografie) a VPG 
+(vulvoplethysmografie), které nám podávají informace o změně prokrvení genitálu 
+v závislosti na předkládaných vizuálních či auditivních erotických stimulech. Tichý ve 
+svém výzkumu srovnával sexuální reakce mezi 25 transsexuálními kienty FtM a 50 
+homosexuálními ženami. Z výsledků vyplývá, že transsexuální klienti FtM shledávali 
+jako vzrušující heterosexuální aktivity a pro homosexuální ženy byly stimulující podněty 
+s lesbickou tématikou (Tichý, 1994 In Fifková, 2002).
+Metoda anamnestického rozhovoru 
+Pro psychology a lékaře je nejspolehlivější metodou, v určení možného 
+odchýleného vývoje pohlavní identity, anamnestický rozhovor. Pomocí anamnestické 
+explorace zjišťujeme u transsexuálních osob údaje o zvláštnostech jejich 
+psychosexuálního vývoje.
+Rozhovor zahrnuje následující základní diagnostická vodítka:
+a) Preference hraček a her v předškolním věku 
+Děti, které mají poruchu sexuální identity, mají tendenci již od raného věku 
+preferovat hračky a hry opačného pohlaví. Chlapci si hrají s panenkami a nevidí libost 
+v typicky soutěživých hrách, zatímco děvčata si hrají s autíčky, stavebnicemi a mezi 
+18
+jejich koníčky může patřit třeba fotbal. Dalším ukazatelem je, že tyto děti chtějí být 
+v kolektivu podle svého psychického pohlaví. To znamená, že chlapci preferují být 
+v holčičím kolektivu a dívky se cítí lépe v chlapeckých skupinách (Fifková, 2002).
+Preference hraček a her v předškolním věku slouží spíše jako pomocné kritérium a 
+nemusí ihned znamenat, že dané dítě trpí poruchou pohlavní identity.
+b) Oblečení
+Již v raném věku se transsexuálové stylizují do oděvů opačného pohlaví. U FtM se 
+setkáváme s odporem k nošení sukní nebo šatů a svůj postoj dávají okázale najevo i 
+přes to, že z něj vyplývají konflikty s rodiči. MtF mohou procházet obdobím 
+fetišistického transvestitismu nebo transvestitismu dvojí role, kdy jedinec pociťuje 
+sexuální vzrušení, když se převlékne do šatů opačného pohlaví a případně je tento akt 
+doprovázen masturbací. Autoerotická aktivita se vyskytuje u jedinců narcistického 
+typu, kdy je sexuálně vzrušuje pohled do zrcadla na sebe sama v preferovaném 
+oblečení. Sexuální charakter cross-dressingu, se u těchto lidí časem začne ztrácet a 
+objeví se úleva, když se tito jedinci obléknou do ženských šatů. U FtM se sexuální 
+vzrušení při převlékání nevyskytuje (Fifková, 2002).
+c) Odpor k primárním a sekundárním pohlavním znakům a jiným biologickým 
+projevům dospívání
+Velmi psychicky náročná doba pro transsexuální klienty nastává v období puberty, 
+kdy začíná rozvoj sekundárních pohlavních znaků. Pro FtM je velmi těžké, když započne 
+růst prsou a dostaví se menses. FtM se snaží tyto změny potlačit stahováním hrudníku 
+a nošením volných košilí s velkými kapsami. MtF špatně snáší růst vousů, zvěstný podíl 
+tělesného ochlupení a v neposlední řadě se začínají objevovat erekce penisu a 
+ejakulace. MtF se vypořádávají se sekundárními znaky tím, že se velmi důkladně 
+depilují, líčí se a lakují si nehty (Fifková, 2002).
+d) Neerotické sny a denní fantazie
+Transsexuálové se vidí ve svých fantaziích v těle, které odpovídá jejich psychické 
+identitě a v odpovídající roli. FtM sní například o tom, že jdou jako otcové na procházku 
+se svou rodinou (Fifková, 2002).
+19
+e) Masturbační fantazie a erotické sny
+V těchto fantaziích a snech si transsexuální jedinec představuje sám sebe jako 
+příslušníka opačného biologického pohlaví při sexuálním styku. FtM fantazírují o tom, 
+že mají penis a mají pohlavní styk s ženou. MtF si představují, že jsou v ženském těle se 
+všemi atributy, které k tělu náleží, jako jsou prsa a ženské genitálie a milují se s mužem. 
+U homosexuálně orientovaných transsexuálních jedinců jsou tyto fantazie a sny 
+obdobné s tím rozdílem, že partner je stejného psychického pohlaví (Fifková, 2002).
+f) Zamilovanost a partnerské vztahy
+K dospívání patří první zamilovanost a ta se nevyhýbá ani transsexuálním klientům. 
+Objektem jejich zamilovanosti bývají spolužáci, kamarádi nebo učitelé, kteří mají stejné 
+biologické pohlaví, pokud se nejedná o homosexuálně orientované transsexuální 
+jedince. Klienti nabývají v tomto období dojmu, že jsou homosexuálové, ale v tomto 
+případě nejde o homosexualitu v pravém slova smyslu, jelikož se cítí být příslušníky 
+opačného pohlaví.
+Ve většině případů jsou transsexuální lidé heterosexuálně orientovaní, tedy je 
+přitahují jedinci stejného biologického pohlaví. V případě výskytu homosexuálně 
+orientovaných klientů se jedná o libost v opačném biologickém pohlaví. 
+FtM v heterosexuálním partnerském vztahu vystupují jednoznačně v roli muže a někdy 
+se jim úspěšně daří skrývat svou biologickou identitu. 
+Jsou případy, kdy FtM klienti mají odmítavý postoj ke svému tělu a ten jim brání 
+v navázání partnerských vztahů, protože se potýkají s nedostatečnou sebedůvěrou, 
+poruchami sebehodnocení, neurotickými a depresivními reakcemi, které jsou součástí 
+procesu adaptace.
+Existuje i skupina FtM, kdy se klienti snaží přizpůsobit svému biologické pohlaví 
+a v ženské roli navazují vztahy s muži. Pro tyto vztahy je charakteristická krátkodobost 
+a bez uskutečnění koitu, kdy tyto zkušenosti vedou k zanechání pokusů o tento typ 
+vztahu. Ve velmi výjimečných případech se FtM provdali, zplodili a porodili potomka a 
+poté započali změnu pohlaví. 
+MtF jsou ve větší míře orientováni na osoby stejného psychologického pohlaví, 
+tedy na ženy. MtFm orientovaní na muže si někdy procházejí homosexuální obdobím, 
+20
+kdy dochází k i rozvoji homosexuální identity a celkovému životnímu stylu gaye. 
+V těchto vztazích se chovají výrazně feminně, odmítají anální styk a nevyhledávají felaci 
+prováděnou partnerem. Homosexuální partner si nepřeje, aby došlo ke změně pohlaví.
+Pro MtF nastává velice obtížná situace, kdy se snaží navázat vztah s 
+heterosexuálně orientovaným mužem v průběhu proměny, protože heterosexuálové 
+nejsou ochotni přijmout, že by jejich potenciální partnerka měla mít dočasně mužské 
+tělo (Fifková, 2002). 
+g) Sexuální aktivity
+Pro transsexuální klienty je obvyklé, že ke svým biologickým pohlavním znakům 
+chovají odpor. Jak tedy u nich vypadá masturbace?
+Transsexuální jedinci kvůli odporu vůči vlastním genitáliím masturbují velmi zřídka 
+anebo onanování přestanou praktikovat úplně.
+Pokud je masturbace praktikována, FtM klienti se uspokojují pomocí stimulace 
+klitorisu, ale nedochází ke stimulaci pochvy. Klitoris vnímají jako zdroj sexuálního 
+vzrušení a po přeměně se ujišťuje, zda jeho funkčnost zůstane zachována.
+MtF se uspokojují třením penisu o podložku nebo stiskají penis mezi stehny, snaží se co 
+nejméně přijít do kontaktu s penisem a ejakulátem.
+Pokud se FtM klientům podaří navázat partnerský vztah, během sexuálních 
+aktivit se odmítají úplně svlékat a zůstávají ve spodním pádle a tričku. Nejsou jim 
+příjemné doteky na prsou a genitáliích. Někdy dosáhnou orgasmu pomocí dráždění 
+klitorisu, ale potřebují k tomu být v klidném, dlouhodobém a chápajícím vztahu. 
+Většina pozornosti se zaměřuje na uspokojení partnerky než-li na vlastní spokojení.
+Homosexuální FtM mají za partnery gaye, kdy uspokojení probíhá prostřednictvím 
+análního styku, který je pro ně částečně přijatelný (Fifková, 2002).
+h) Pohlavní role
+Pro transsexuální jedince je důležité, aby mohli naplňovat sociální aspekty 
+vytoužené pohlavní role, méně jsou pro ně důležité sexuální aspekty. Vyhledávají 
+obvykle profese, které jsou typické pro pohlaví, s nímž se identifikují. FtM vyhledávají 
+zaměstnání, kde jsou předepsané uniformy, protože potlačují ženské rysy. Proto se 
+21
+s nimi můžeme setkat u příslušníků policie či bezpečnostních služeb, mohou dělat 
+montéry či řidiče. MtF pracují jako prodavačky, cukrářky atd.
+Velmi významnou aktivitou se pro ně stává návštěva toalet, kdy FtM mohou močit 
+ve stoje a MtF zase vsedě. Také zájmy se řídí podle jejich psychické identity, FtM sledují 
+fotbal a MtF jsou zaujaté módou a kosmetikou (Fifková, 2002).
+1.4.3. Fáze rozhodovací
+Tato fáze probíhá po potvrzení diagnózy, ale klienti, ve většině případů, 
+vyhledávají sexuologa, když už mají jasnou představu o dalším postupu a cílech léčby. 
+Proto se snaží tento čas, co možná nejvíce minimalizovat. I když se klient jeví, že je se 
+vším seznámen, povinností každého terapeuta je i přesto podat informace o 
+možnostech terapie, výhodách a nevýhodách jednotlivých postupů a o možných 
+rizicích s nimi spojených. Setkáme se i s případy, kdy klient potřebuje více času na 
+rozhodnutí. Terapeut opět zajišťuje informace o této problematice a spolupráce s 
+klientem má podpůrný charakter, přičemž terapeut by měl do rozhodování klienta 
+zasahovat co možná nejméně (Fifková, 2008).
+1.4.4. Real Life Test, Real Life Experience
+Termíny Real Life Test (Test v reálném životě) a Real Life Experience (Zkušenost 
+reálného života) se většinou používají jako synonyma (Barrett, 2007).
+Jedná se o fázi, kdy si klient vyzkouší žít v roli harmonizující s jeho psychickou 
+identitou a postupně se tak projevuje ve všech oblastech svého života (Weiss, 2010). 
+Tato zkušenost má poskytnout klientovi příležitost k tomu, aby zjistil, zda konverze 
+pohlavní role mu zlepšuje jeho kvalitu života a zda se cítí uspokojivě v nové roli. Jedná 
+se o krok v terapii, o kterém si klient rozhoduje, z pohledu času, zcela podle svého 
+uvážení. Někteří klienti přicházejí poprvé do ordinací a již žijí nějaký čas jako jejich 
+vytoužené pohlaví a Real Life Test, Real Life Experience postupují bez předchozího 
+vyzvání sexuologa (Rowland, 2008). 
+V průběhu této fáze léčby dochází také ke změně jména a příjmení na tvar 
+neutrální (Fifková, 2002). Český jazyk je díky své rozmanitosti v tomto ohledu trochu 
+22
+problematický, protože pomocí přechylování příjmení se určuje rod dané osoby. Aby se 
+klienti lépe sžili se svojí novou rolí, volí se neutrální tvar jména (Knappová, 2008).
+Při výběru neutrálního jména se doporučuje, aby zvolené jméno bylo vhodné pro obě 
+pohlaví (např.: Míša, Jindra, René, Nikola). Inspiraci můžeme hledat i ve jménech, která 
+mají jiný rod v cizině. Příklady takový jmen mohou být Andrea a Robin. Andrea je 
+italské jméno pro muže a jméno Robin se dává ženám v anglicky mluvících zemí
+(Fifková, 2002). Jako neutrální příjmení je přijímán tzv. neskolnný tvar, kdy se původní 
+příjmení doplní koncovkou –ů, ých (Nováků, Novotných). Jinou volbou je tradičně 
+nesklonné příjmení (Krejčí, Janů) či příjmení cizí (Wilde) (Fifková, 2002, s.45) 
+1.4.5. Hormonální terapie
+Hormonální léčba je podstatnou součástí konverze pohlaví a tento krok je řízen 
+ošetřujícím sexuologem. Transsexuální klienti musí před zahájením hormonální terapie 
+podstoupit endokrinologické vyšetření, při němž mu bude také vysvětleno, jak budou 
+probíhat hormonální děje a změny.
+Hormonální terapie pomáhá v tom, aby se transsexuální klient, co možná 
+nejvíce přiblížil zevnějškem svému kýženému pohlaví.
+Klienti by se v této fázi měli také informovat o nejrůznějších lékařských a 
+nemedicínských službách, které dopomůžou k vytouženému zevnějšku. U MtF se jedná 
+o odstranění vousů a ochlupení, ale také možnosti plastické chirurgie jako je liposukce 
+(odstranění tuku), rhinoplastika (úprava nosu), augmentace (zvětšení) prsou či redukce 
+štítné chrupavky. Dále je velice podstatná foniatrická péče, kde se MtF klienty naučí, 
+jak pracovat se svým hlasem, aby dokázaly navodit žensky hlas. FtM klienti využívají 
+sportovní zařízení, aby jejich postava více zmohutněla (Fifková, 2008).
+1.4.5.1. Hormonální léčba u MtF
+MtF užívají během hormonální terapie estrogeny a antiandrogeny. 
+Antiandrogeny jsou látky, která brání androgenu ve vazbě na receptor a tím brání ve 
+stimulaci buňky. Androgeny vznikají ve varlatech a jedná se o mužské pohlavní 
+hormony. Estrogeny způsobují zmenšování varlat, zvětšení poprsí, může způsobovat 
+23
+žlutohnědé skvrny na obličeji, zvýšenou pigmentaci prsních bradavek a občasně se 
+vyskytuje ztmavění linie na přední straně břicha. Dále se díky estrogenu začíná 
+redukovat ochlupení, zvyšuje se tónina hlasu, mění se rozložení tuku jako je tomu u 
+ženské postavy a redukuje se svalová hmota. Centrální nervovou soustavu ovlivňují 
+hormony tím, že dojde ke snížení libida, erekce, rozvine se impotence a začnou 
+poruchy s ejakulací. 
+Růst prsních žláz skončí po dvou letech terapie, kdy necelá polovina MtF své 
+poprsí hodnotí uspokojivě. 
+Pokud se hormonální léčba započne brzy po pubertě, vyvinou se u MtF více 
+femininní rysy. Dojde ke snížení svalové hmoty, snížený růst chloupků na obličeji a 
+vyhnou se plešatění, pozoruje se menší penis a testes. Naproti tomu dojde k většímu 
+zvětšení prsních žláz než-li u těch klientů, kteří podstoupili hormonální terapii ve 
+vyšším věku (Fifková, 2008).
+1.4.5.2. Hormonální léčba u FtM 
+FtM užívají během hormonální terapie androgeny, které zapříčiní zvětšení 
+klitorisu maximálně do 4 cm a také může dojít ke zmenšení velkých stydkých pysků. Při 
+užívání androgenů se během několika týdnů dá pozorovat zhrubnutí hlasu, zmenší se 
+anebo úplně vymizí menstruační cyklus, dojde ke zvětšení svalové hmoty, zvýší se 
+ochlupení celého těla včetně vousů. Dále se zvýší aktivita mazových žláz a jako 
+nežádoucí účinek může být zhoršení akné. Hormonální léčba u FtM má vliv na 
+psychické ladění, kdy se zvyšuje rozhodnost a agresivita.
+Androgeny neovlivňují zmenšení mléčných žláz, tento krok se může řešit pouze 
+operativní cestou a také neovlivní vzrůst a šíři kyčlí (Fifková, 2008).
+1.4.6. Chirurgické zákroky
+Transsexuální klienty čeká během přeměny pohlaví několik náročných operací. 
+Operace se provádí na základě souhlasu sexuologa, který vychází z podrobného a 
+dlouhodobého psychologického sledování.
+24
+K chirurgickým zákrokům se může přikročit po dvou až třech letech od zahájení 
+terapie, kdy výsledkem těchto zákroků by mělo být, aby se transsexuální klient, co 
+možná nejvíce vzhledově přiblížil opačnému pohlaví (Skoblík, 2006). Ideální věkové 
+rozpěntí pro operace je mezi 19.- 21. rokem života, kdy se zaručuje nejlepší rozvoj 
+nových sexuálních pooperačních funkcí (Malá, 2003).
+1.4.6.1. Operace u FtM
+Zákroky, kterými FtM prcházejí jsou mammaplatika, hysterektomie, 
+rekonstrukce penisu uretry a skrota.
+FtM jedinci prodělávají mammaplastiku, což je úprava ženského poprsí, kdy cílem 
+operace je odstranit mléčné žlázy a zachovat vitalitu, tvar dvorce a bradavky (Měšťák, 
+2015). Následuje hysterektomie s exstirpací (úplné vyjmutí) vaječníků a vejcovodů 
+(Skoblík, 2006). Tyto dva chirurgické zákroky musejí podtoupit všichni klienti, kteří se 
+rozhodli pro konverzi pohlaví. Další částí přeměny je rekonstrukce penisu, ale tento 
+krok podstupuje pouze část klinetů (Měšťák, 2015).
+Pro úpravu zevního genitálu se v dnešní době nejvíce používá technika laloků 
+tříselných krajin, při níž dochází k rekonstrukci penisu pomocí křídlovitých kožních 
+laloků o rozměru 11x24 cm. Vytvořený penis umožňuje klientovi mikci (močení) vestoje 
+a je zachována erotegenní citlivost (Jarolím, 2012).
+Jednou z dalších hojně využiváných technik je metaidoioplatika. Tímto operativní 
+zákrokem se konstruuje mikropenis, kdy dojde ke zvětšení a prodloužení klitorisu. 
+Tento neopenis je schopen mikce ve stoje, což je pro klinty důležité a je zachována 
+senzitiva a erotegenní citlivost, ale není možný pohlavní styk (Jarolím, 2012).
+Složitější technika je faloplastika, při které se použije volný kožní štěp z volární 
+(dlaňové) strany předloktí nedominantní ruky o rozměrech 12x17 cm (Jarolím, 2012).
+1.4.6.2. Operace u MtF
+Základní operační zákroky, kterými procházejí MtF je demaskulinizace, která 
+spočívá v orchiektomii (odstranění varlat) a penektomii (odstranění penisu). Toto je 
+základní krok k tomu, aby došlo k matriční změně pohlaví (Jarolím, 2012). Následuje
+25
+vaginoplastika, kdy se ke konstrukci využívá penilní kůže. Pokud je nedostatečná 
+k vytvoření neovaginy, použije se střevní štěp. Pokračuje se augmentační 
+mammaplastikou – zvětšení prsou (Měšťák, 2015) a pro docílení výraznější feminizace 
+se využívají i estetické zákroky, mezi které patří zkrácení klíčních kostí, rekonstrukce 
+nosu, redukce hrtanových chrupavek či úprava dolní čelisti (Jarolím, 2012).
+1.4.7. Pooperační období
+Celý proces konverze pohlaví je dokončen změnou úřední identity, kdy si klient 
+mění jméno a přijmení na trvale ženské nebo mužské, dostane nový rodný list, nové 
+rodné číslo, dojde ke změně všech potřebných dokladů a dokumentů (výuční listy, 
+maturitní vysvědčení, vysokoškolské diplomy). Klient s jeho novou identitou přijímá 
+všechny práva a povinnosti související s jeho pohlavím. Muži mají možnost se ženit, 
+ženy naopak vdávat a všechny páry mají právo využívat servis určený pro neplodné 
+dvojice. Vyjímka, se kterou se konfrontují zástupci FtM souvisí se základní vojenskou 
+službou, kdy jsou ze zdravotních důvodů trvale shledáni neschopnými vykonávat tuto 
+povinnost. 
+V pooperačním období docházejí klienti na pravidelné kontroly, užívají 
+předepsanou farmakoterapii a měli by docházet na doporučené laboratorní kontroly a 
+vyšetření (Fifková, 2008).
+Týmto končí celá etapa přeměny pohlaví. Transsexuální klienti čeká velice 
+náročná cesta jak po psychické tak po fyzické stránce.
+1.5. Výskyt v populaci
+Není přesně známo, jaké je zastoupení transsexualismu v populaci, protože ne 
+každý jedinec vyhledá odbornou péči a velkou roli zde hraje také fakt, že ke stanovení 
+spolehlivé diagnozi je potřeba dlouhodobý kontakt s klinetem (Weiss, 2010).
+Podle Cohen-Kettenis a Pfäfflina (2003) jsou dostupné pouze nepřesné 
+epidemiologické studie, který nám podávají informace o výskytu poruchy pohlavní 
+identity u dětí. Ze studie, jež se pokoušela odhadnout výskyt transsexuality u dětí a 
+mládeže vyplývá, že zastoupení je mezi 2,3%. Výzkum se zabýval dvojčaty ve věku 4 –
+26
+17 let a celkově se této studie účastnilo 314 osob. Dále výsledky tohoto výzkum 
+celkově podporují hypotézu, že poruchy pohlavní identity májí silnou dědičnou složku a 
+jsou mnohem více záležitostí biologie. (Frederick, 2002).
+Na základě federálních zdrojů dat, se podařil odhadnout výskyt transsexuálů ve 
+Spojených Státech. Gates (2011) předpokládá, že zastoupení transsexuálních osob 
+v americké populaci je kolem 700 000 jedinců. 
+Velice zvláštní a prozatím nevysvětlitelný jev se odehrává v západní Evropě a v 
+USA, kde je transsexuálních jedinců MtF přibližně třikrát více. Pokud se přesuneme do 
+střední Evropy konkrétněji do České republiky, Polska, Bulharska a Německa, zjistíme, 
+že zde je větší počet transexuálů FtM v poměru 5:1. Jedno z možných vysvětlení 
+tohoho úkazu je odlišný vliv společenských poměrů, kdy se obtížněji prosazovali jedinci 
+MtF v tehdejších podmínkách sociálních států (Weiss, 2010).
+Výskyt transsexuálů v populace neustále přibývá. Může to být způsobeno 
+měnícím se sociodemografickým složení klientů, ale i lepší informovaností populace o 
+poruchách pohlavní identity (Weiss, 2010).
+Zastoupení transsexuálních jedinců v populaci můžeme pouze odhadovat, 
+protože ne každý jedinec vyhledá lékařskou pomoc a rozhodne se k léčbě. 
+
+28
+II. EMPIRICKÁ ČÁST
+1.6. Cíl výzkumu a výzkumné okruhy
+Cílem výzkumného šetření bylo představit životní cestu transsexuálních mužů 
+od jejich dětství, přes změnu pohlaví, až po reakce okolí na jejich novou identitu. 
+Výzkum je obohacen o pohledy na konverzi pohlaví od rodiny a blízké kamarádky.
+Vzhledem k cíli výzkumu byly vytyčeny následující výzkumné okruhy:
+ dětství a dospívání
+ změna
+ uvědomění si
+ reakce okolí
+Po následné analýze rozhovorů se výzkumné okruhy rozšířily o úsek milostný život.
+1.7. Metodologie výzkumu 
+Při vypracovávání empirické části bakalářské práce jsem použila formu 
+kvalitativního výzkumu a zkoumala jsem prostřednictvím hloubkových rozhovorů 
+životní příběhy transsexuálů, kdy jsem se pokoušela zmapovat jejich život od dětství po 
+současnou dobu. Dále byly uskutečněny rozhovory s rodinnými příslušníky a 
+kamarádkou, jež se vyjadřovali k tématice transgendru. 
+1.8. Výzkumný soubor
+Vzhledem k nízkému výskytu transsexuálních jedinců v populaci byli 
+respondenti vybírání prostřednictví metody snowball, kdy díky okruhu mých známých 
+jsem měla možnost se seznámit s lidmi, jež trpí poruchou pohlavní identity. U výzkumu 
+byla stanovena dvě kritéria, za (1.) se výzkumu mohli účastnit pouze transsexuální muži
+a za (2.) každý z transsexuálních jedinců si musel přivést alespoň jednoho člověka, se 
+kterým má blízký vztah. Tento člověk mohl být buďto z rodiny, blízkých přátel, 
+29
+popřípadě se mohl zapojit i partner a doplnil tak výzkum o svůj pohled na danou 
+problematiku.
+Výzkumné studie se účastnilo celkem 5 osob z plánovaných 8, protože během 
+výzkumného šetření došlo k odstoupení jednoho z transmužů společně s jeho matkou 
+a partnerkou. 
+Ve finále se tedy studie účastnili dva transsexuálové FtM, kdy u prvního případu 
+transsexuálního muže (Denis) se k jeho životní cestě vyjadřovala jeho maminka (Lucie) 
+a bratr (Hynek), kteří popisovali své prožívání této problematiky. U druhého 
+transsexuálního muže (Ota) je vylíčen pohled jeho důvěrné kamarádky (Julie), protože 
+rodina se v tomto případě odmítala účastnit výzkumného šetření.
+Osoby účastnící se výzkumného šetření:
+Denis: Denisovi je 21 let a studuje na vyšší odborné škole, jež má sociální 
+zaměření. V dnešní době bydlí se svým otcem, s jeho partnerkou a babičkou ve městě. 
+Denis má o 3 roky mladšího bratra, který žije ve vzdálenější obci u matky s jejím 
+partnerem. Denis si svou transsexuální identitu uvědomil ve svých 14 letech. V dnešní 
+době má za sebou modelaci poprsí, podstoupil hysterektomii a adnexotomii 
+(odstranění dělohy, vaječníků a vejcovodů), ale zatím neprodělal rekonstrukci penisu. 
+Maminka Lucie: Denisova matka Lucie (47 let) patří mezi rodiče, jež mají dítě 
+s poruchou pohlavní identity. Lucie pracuje jako prodavačka v místě svého bydliště. 
+Lucie je rozvedená 9 let a nyní žije se svým partnerem a synem Hynkem v panelovém 
+domě.
+Bratr Hynek: Hynek (18 let) je momentálně nezaměstnaný a jedná se o 
+mladšího bratra Denise. Po rozvodu rodičů žije Hynek s matkou a jejím partnerem 
+v panelovém domě na kraji města. Hynkovi byla diagnostikována pedofilie a 
+sadomasochismus, navzdory své diagnóze dokáže udržovat vztah s partnerkou, které je
+17 let a je seznámena s jeho odklonem od normy.
+30
+Ota: Otovi je 22 let a studuje na vysoké škole. Na základní škole, konkrétněji od 
+8. třídy již měl Ota zřízené neutrální jméno a od poloviny 9. třídy mu byla nasazena 
+hormonální léčba. Ve svých 17 letech prodělal první operaci, což bylo odstranění 
+poprsí. Ota zatím nepodstoupil úpravu zevního genitálu, ale tento zákrok plánuje 
+podstoupit do 2 let. 
+Kamarádka Julie: Julii je 20 let a nyní studuje na vysoké škole. Julie se s Otou 
+zná necelý rok a její vztah s Otou je pouze kamarádský. Julie chovala k Otovi sympatie a 
+měla o něj zájem i jako o potencionálního partnera, ale její stanovisko se změnilo po 
+zjištění, že je Ota transsexuál. 
+1.9. Sběr a analýza dat
+Sběr dat proběhl prostřednictvím hloubkových rozhovorů, při nichž byli 
+respondenti vybízeni ke zcela volnému vyprávění k předem vymezeným okruhům 
+výzkumného šetření a do jejich mluveného projevu jsem se snažila zasahovat, co 
+možná nejméně.
+Před zahájením rozhovoru byl respondentům předložen informovaný souhlas, 
+kde svým podpisem stvrdili dobrovolnou účast ve výzkumu a byly seznámeni s právem 
+kdykoli z výzkumu odstoupit. Tento souhlas jsem si poté nahrála i na diktafon.
+Následně byly nahrány rozhovory o délce 45-90 minut, při nichž jsem využila 
+dovednosti aktivního naslouchání.
+Rozhovory byly provedeny v prostorách školního rádia (Denis), v bytě 
+respondentů (maminka Lucie, bratr Hynek), v kavárně v místě bydliště účastníka 
+výzkumu (Ota) a poslední interview proběhlo v prostorách školní knihovny (Julie). 
+Rozhovory byly následně doslovně přepsány s tím, že jména účastníků byla změněna 
+kvůli zajištění anonymity všech zúčastněných osob. 
+Získaná data se dále zkoumala prostřednictvím narativní analýzy, jež je popsána 
+níže.
+1.10. Narativní analýza
+31
+V psychologii je předmětem narativního výzkumu příběh či vyprávění 
+zkoumané osoby. Po doslovném přepsání těchto sdělení následuje opakované čtení 
+analyzovaného příběhu, kdy cílem je vytvořit si prvotní představu o analyzovaném 
+textu. U analyzovaného příběhu se doporučuje, aby na každé straně textu bylo 
+dostatek místa pro poznámky a komentáře, jež nám umožní lepší orientaci v příběhu.
+Velký rozmach zaznamenala narativní analýza v posledních pětadvaceti letech, 
+kdy se s ním můžeme setkat nejen v psychologii, ale také v dalších sociálně-vědeckých 
+disciplínách jako je sociologie, sociální práce, antropologie, etnologie, historie a 
+lékařství (Řiháček, 2013).
+Analyzovaný příběh lze rozebrat dle následujících kroků
+Proces analýzy příběhu: 
+1. krok: rozdělení textu na fabuli – syžet
+2. krok: identifikace klíčových mezníku v příběhu – rozdělení vyprávění
+do dílčích epizod
+3. krok: identifikace bodu obratu – vývoj příběhu a celková struktura
+vyprávění
+4. krok: identifikace žánrové konfigurace vyprávění (Řiháček, 2013, s. 79)
+1. Rozdělení textu na fabuli – syžet
+Prvním krokem je rozdělení textu na syžet a fabuli. Důvodem tohoto kroku je 
+rozlišení dvou navzájem provázaných částí: toho, co bylo převyprávěno – fabule – a jak 
+to bylo převyprávěno – syžet. Fabule je obsahová stránka příběhu naproti tomu syžet 
+se zaměřuje na způsob nebo formu vyprávění. Ve zjednodušené formě bychom mohli 
+říci, že při dobře provedeném rozdělení textu na fabuli a syžet je přepis příběhu takový, 
+že v něm lze číst části označené jako fabule jako smysluplný text i při ignorování syžetu.
+2. Identifikace klíčových mezníku v příběhu: rozdělení vyprávění do dílčích 
+epizod
+Jakou druhou fází analýzy textu je zaměření se na jednotlivé mezníky příběhu 
+(konkrétní události, dílčí epizody). Současně lze tímto způsobem provést pracovní 
+shrnutí příběhu, které je nápomocné pro lepší orientaci v příběhu. V praxi tato fáze 
+32
+probíhá tak, že si text opakovaně pročítá a jednotlivé mezníky se vyznačují na okraj 
+textu. Tento způsob analytické práce, kdy se zaměříme na konkrétní obsah 
+jednotlivých mezníků, se nejvíce podobá holisticko-obsahové analýze.
+3. Identifikace bodu obratu: vývoj příběhu a celková struktura vyprávění
+Ve třetím kroku se z identifikovaných mezníků vyberou ty, které lze označit jako 
+„uzlové body“ nebo „zlomové momenty“ vyprávění. Jedná se o místa v příběhu, kde 
+dochází k výraznému dějovému obratu. Dále je pozornost zaměřena na vývoj příběhu, 
+na způsob, jakým jsou události propojeny v celkové struktuře vyprávění: odkud kam 
+příběh směřuje, kde dochází ke gradaci, vyvrcholení a kde se nachází klíčový obrat. 
+Tento způsob práce s textem odpovídá holisticko-formálnímu zaměření narativní 
+analýzy.
+4. Identifikace žánrové konfigurace vyprávění
+Posledním krokem v procesu analýzy příběhu se stává žánrová analýza, která 
+završuje holisticko-formální způsob práce s textem. Jednotlivé žánry můžeme uchopit 
+jako obecné formy příběhů, které lidé přejímají při vytváření osobního mýtu v procesu 
+vyprávění svého osobního příběhu.
+Při žánrové analýze se postupuje tak, že si opakovaně čteme analyzovaný příběh a 
+srovnáváme jej s jednotlivými žánry, nalézáme podobnosti a rozdíly mezi 
+analyzovaným příběhem a obecnou strukturou žánrů.
+Přehled typologie žánrů (Murray,1985)
+Pokud člověk vypráví svůj příběh v žánru komedie, je podmíněno dosažení 
+žádoucího vlivem šťastných okolností. V romanci platí, že dosáhneme žádoucího 
+33
+prostřednictvím vlastních schopností, zatímco v tragédii jsou neúspěchy a ztroskotání 
+pod vlivem osudu. Pro ironický žánr je selhávání ztvárněno z podstatné části ve vlastní 
+režii (Řiháček, 2013).
+1.11. Denis (21 let)
+Narativní analýza: Identifikace klíčových mezníků v příběhu – rozdělení vyprávění do 
+dílčích epizod:
+1. Epizoda: Od narození do konce základní školy
+2. Epizoda: Od gymnázia po neutrální jméno
+3. Epizoda: Od hormonální terapie po vyšší odbornou školu
+První epizoda: od narození do konce základní školy
+Denis od svého útlého dětství preferoval typicky chlapecké hračky: „Nejvíc 
+jsem měl těch klučičích hraček a tíhnul jsem k nim víc.. Když brácha dostal autodráhu, 
+tak jsem si s ní hrál víc než on.“ a v oblibě měl i klučičí hry: „..hráli jsme si na vojáky.“
+Na prvním stupni základní školy měl Denis kamarády mezi kluky, se kterými 
+trávil mnoho času i mimo školu, nosil klučičí oblečení i chlapecký účes: „Často si mě 
+s klukem pletli.“
+Svou odlišnost začal Denis pociťovat na druhém stupni, protože okolí od něj 
+očekávalo dívčí vystupování: „Už jsem cejtil tu společnost a ten nátlak, že bych se měl 
+chovat jako holka. Tak jsem si nechal narůst delší vlasy, začal jsem se víc oblíkat jako 
+holka.“
+Mezník v Denisově životě nastal, když došlo k rozvodu jeho rodičů. Následovalo 
+stěhování do nového města a změna základní školy, kde Denise nový kolektiv přijal bez 
+problémů. V půlce osmé třídy se Denis zamiloval do své nové spolužačky, a to se stalo 
+prvním impulzem: „Že aha… něco… něco se děje.“ Denis měl blízký přátelský vztah se 
+svou první láskou, protože oba byli noví v třídním kolektivu. Na „rozlučáku“ Denis 
+vyznal své city této dívce a pocítil velkou úlevu, i když jeho city nebyly opětovány. 
+Denis se svěřil mamince, že chová city ke své spolužačce a maminky reakce byla 
+v Denisově očích velice pozitivní, kdy mu řekla: „To mi chceš říct jenom todle?“ Tentýž 
+den kvečeru, kdy Denis byl ve svém pokoji a připravoval se ke spánku, přišla na jeho 
+34
+mobil „smska“ v níž mu maminka napsala: „Neboj se, všechno to spolu zvládneme.“
+Denis zažíval pocity přijetí.
+Denis se dále potýkal s myšlenkami: „Že to prostě není ono.. Sice se mi líbí holky, ale že 
+bych se v tom vztahu necejtil správně...“ Ve 14 letech objevil svou možnou identitu na 
+základě příběhu transsexuála FtM, který spařil v televizi. Po shlédnutí tohoto příběhu, 
+si Denis začal vyhledávat informace o poruše pohlavní identity a došel k závěru: „To 
+jsem já.. ale v tu dobu jsem si řek, že to nikomu neřeknu.. že to nebudu řešit.“
+Klíčové události:
+ preference klučičích hraček a her
+ trávení volného času s kluky
+ chlapecké odívání a účes
+ zamilování do spolužačky
+ přijetí jeho homosexuální orientace maminkou
+ objevení chlapecké identity
+ potlačení chlapecké identity
+Druhá epizoda: od gymnázia po neutrální jméno
+Denis vydržel o své chlapecké identitě mlčet přibližně dva roky a ve svých 16 
+letech toto tajemství svěřil, jako prvnímu, svému bratrovi Hynkovi. Bratrova reakce 
+byla přívětivá: „Já jsem chtěl vždycky bráchu.“ Díky Hynkovu přijetí se Denis cítil 
+příjemně a vnímal velkou úlevu, protože se o jeho stavu už někdo dozvěděl.
+Od 16 let se Denis začal stylizovat do klučičí role, nechal si ostříhat vlasy a začal nosit 
+chlapecké oblečení. Okolí si jej opět pletlo s klukem a díky tomu se Denis cítil šťastně.
+Ve svých 17 letech si Denis řekl: „Musím to začít nějak řešit.“ a objednal se na 
+sexuologické vyšetření. V té chvíli si uvědomil, že nastal čas pro to, aby tento fakt 
+sdělil i své mamince. Proto vyzkoušel odhalit svou chlapeckou identitu před svou 
+dobrou kamarádkou: „Tim stylem, že jsem našel nákej článek o nákým klukovi a dal 
+jsem jí ho přečíst. A jako říkám, že jako takhle se cejtim taky, a ona jako úplně teda v 
+pohodě a pak mi vlastně dala odvahu říct to tý mamce.“
+35
+Denis začal docházet k sexuologovi a na konci srpna, kdy měl nastoupit do 3. 
+ročníku na gymnázium, seznámil své spolužáky s tím, že se cítí být mužem: „.. ve škole 
+mě taky přijali dobře, co jsem se bál.. Já jsem napsala.. měli jsme facebookovou 
+skupinu, takže na konci srpna jsem to tam napsal.. Napsal jsem.. dal jsem tam odkaz na 
+svůj novej profil na facebooku.. e-mail, že se na mě můžou jakoby obrátit, že mi můžou 
+napsat. Takže asi 3 lidi mi napsali a nejvíc jsem se bál takový. Jedna parta tam byla v tý 
+třídě, kluků, který jako byli takový jako machři, takový jako že jsou něco víc .. a jako.. a 
+jeden z nich byl první, kdo se mi ozval, že jsem borec a takhle. To mě jako potěšilo a 
+říkám.. jo takže ta parta bude v pohodě. A vlastně zbytek gymplu byl v pohodě jako.“
+V této době Denis všude vystupuje v mužské roli, ale otec a babička jsou stále 
+v nevědomosti: „Když jsem to vlastně oznámil ve škole, tak v tu dobu to ještě nevěděl 
+ani táta ani babička. To už jsem všude jinak vystupoval jako kluk, ale jakmile jsem jel k 
+tátovi... tak prostě... tak jsem musel hodit ženskej rod a všechno… Já jsem to jakoby 
+babičce řek jo, že se tak cejtim, jako kluk.. a že bych to chtěl řešit a ona jako se z toho 
+skoro psychicky zhroutila… A tak jsem jí řek: Neboj se, ještě du na náký vyšetření, jo, že 
+prostě... aby byla v tu dobu v klidu. A pak tátovi.. jsem se furt připravoval, že to řeknu, 
+ale měl jsem z něj takovej respekt a nevěděl jsem, jako to příme.“ Otec po čase objevil 
+facebookový profil Denise, kde vystupuje pod mužským jménem. Denisovu situaci 
+přijal a se svou partnerkou se začali zajímat o téma transsexualita prostřednictvím 
+odborné literatury: „Oni si koupili knížku právě: Transsexualita a jiné poruchy pohlavní 
+identity.. Dvě hodiny jsme si povídali. Všechno jsme to probrali.“
+Babička celou situaci vnímala: „..bála se, že o mě příde jako o vnouče.“ V dnešní 
+době jsou babičky obavy rozptýleny a mají s Denisem fungující vztah. Od této chvíle 
+Denis vystupuje v roli muže ve všech sférách svého života a pokračuje v dalších fázích 
+přeměny.
+Kolem 18 roku života si Denis zřídil neutrálního jméno, všichni posléze 
+akceptovali nové oslovení jeho osoby i na půdě školy se nesetkal s nevolí. Jediným 
+dočasným problémem se staly pánské toalety, které Denis nesměl používat a svou 
+potřebu musel vykonávat na toaletě pro invalidy, což se ve 4. ročníku změnilo, kdy na 
+pánské toalety mohl docházet o hodinách a posléze i o přestávkách. 
+36
+Na gymnáziu se objevil i další transsexuální jedinec FtM, který byl o ročník níže 
+než-li Denis. Celkově tato situace přispěla ke sblížení mezi chlapci a ke vzájemné 
+podpoře během jejich přeměny. 
+Klíčové události:
+ svěření se bratrovi
+ chlapecký zevnějšek
+ první sexuologické vyšetření
+ seznámení třídy s chlapeckou identitou
+ otec a babička nevědí o transsexuální identitě Denise
+ neutrální jméno
+Třetí epizoda: od hormonální terapie po vyšší odbornou školu
+V 18 letech Denis započal hormonální léčbu: „Mezi prvníma změnama jsem si 
+všimnul právě, že se.. změnily i jakoby trochu rysy v obličeji.. předistribuoval se ten tuk. 
+Hned na začátku se mi zastavila menstruace, takže to bylo jako.. to byla úleva (smích).. 
+Asi po půl roce se mi začal měnit hlas. Takže jsem si pak nahrával i jako ten hlas.. jak se 
+mění a.. ten hlas se ustálil tak po roce, po roce a půl.. Začne růst víc ochlupení, prostě 
+všude.“
+V říjnu, kdy se Denis nacházel ve 4. ročníku, podstoupil první operaci. Jedná se 
+o tzv. mammaplastiku (úpravu poprsí) a v listopadu, téhož roku šel na druhou operce, 
+při které mu byly odstraněny vaječníky a vejcovody (hysterektomie). Denisovi vyšli 
+vstříc jeho učitelé ohledně absence, jež byla způsobena nepřítomností ve škole kvůli 
+podstoupeným operacím. Byl také spokojený s ohleduplným přístupem nemocničního 
+personálu: „Normálně jsem byl na pánským pokoji a.. nemůžu si stěžovat na jejich 
+přístup.“ V období, kdy Denis podstupoval operace, se stal jeho velkou oporou jeho
+otec, který se o něj ohleduplně staral a vyzvedával jej z nemocnice po provedených 
+zákrocích, protože bydlel nedaleko oproti Denisově matce.
+Důsledkem tělesných změn, jež způsobila hormonální léčba a podstoupené 
+operace, způsobily u Denise to, že: „Jsem se prostě víc otevřel tomu světu a začal jsem 
+víc komunikovat.“
+37
+Po odstranění pohlavních orgánu a po úpravě poprsí: “... jsem si moch změnit 
+méno na Novák.. na mužský. Změnilo se mi rodný číslo a.. musel jsem si změnit veškerý 
+doklady.“ Tyto změny Denis stihl v období, kdy končil se studiem na gymnáziu. 
+Denis prozatím nepodstoupil zákrok, při němž by došlo k rekonstrukci penisu: 
+„…u nás se to provádí.. Dělá to jeden doktor, kterej je skoro v důchodu a.. ty výsledky 
+nejsou tak jako dobrý jako v zahraničí.. takže čekám, jako jestli se vobjeví někdo jinej, 
+kdo to u nás bude dělat a nebo si prostě holt našetřit a jet třeba do Německa. Tam to 
+maj na dobrý úrovni.“
+Denis nastupuje na vysokou školu, kterou kvůli nezvládnutému předmětu musí 
+opustit a nastupuje do práce, kde vystupuje již oficiálně jako muž a shodou okolností 
+se v pracovním prostředí setkává s transsexuálem, který se nachází v rané fázi 
+přeměny. Tento jedinec byl předmětem pomluv a drbů v pracovním kolektivu. 
+Denisova matka, jež pracuje v téže práci, apeluje na svého syna, aby tajil svou původní 
+pohlavní identitu, ale to se nepodařilo a Denis byl odhalen svým bývalým spolužákem. 
+Jedna z kolegyň si šla ověřit danou informaci, která je Denisem potvrzena a reakce na 
+danou skutečnost byla následující: „Já tomu nemůžu uvěřit. Dyť vypadáš jako normální 
+kluk... To není pravda.“ Toto byla jediná reakce z celého pracovního týmu na Denisovu 
+transsexualitu, přístup se nijak nezměnil.
+Denis ukončuje pracovní poměr v obchodě a nastupuje na vyšší odbornou 
+školu, jež má sociální zaměření a své spolužáky vnímá jako „vstřícné“ a „chápavé“. Zde 
+se Denis nesetkává s obavami, pokud by došlo k odkrytí jeho původní pohlavní identity: 
+„Když by se mě na to zeptali.. tak jako.. bych jim nelhal a prostě bych jim to řek.“
+Denis do dnešní doby neměl trvalý partnerský vztah: „…akorát jako dycky jsem byl 
+platonicky zamilovanej a jakoby.. žádnej pořádnej vztah vlastně do teďka jsem ještě 
+neměl.“
+Díky konverzi pohlaví se Denis stal: „Konečně sám sebou.“ a získal větší 
+toleranci k ostatním lidem. 
+Klíčové události:
+ užívání hormonů
+ chirurgické zákroky provedené v rámci konverze pohlaví
+ nepodstoupení rekonstrukce penisu
+38
+ nástup do práce v mužské roli
+ kolega transsexuál
+ nástup na vyšší odbornou školu
+ absence partnerské vztahu
+Žánr životního příběhu: Komedie
+Denis svůj životní příběh vyprávěl s humorem a během našeho společného 
+rozhoru jsme se mnohokrát zasmáli. Denis je ve svém životě obklopen vlídnými lidmi a 
+on sám si více všímá pozitivních věcí, které se mu dějí, než-li těch špatných, což mu 
+dává do života větší entuziasmus.
+39
+1.12. Pohled Hynka (18 let)
+Narativní analýza: Identifikace klíčových mezníků v příběhu – rozdělení vyprávění do 
+dílčích epizod:
+1. Epizoda: Od dětství po základní školu
+2. Epizoda: Od gymnázia po transformaci pohlaví
+Hynek hodnotí svůj vztah s Denisem jako značně vřelý. Na dětství se svým bratrem 
+vzpomíná: „Já jsem byl takovej ten votravnej mladší brácha.“ Když Denise navštěvovali 
+kamarádi nebo kamarádky, Hynek s nimi chtěl trávit čas, ale protože byl mladší 
+sourozenec, o jeho přítomnost nestáli a dělali mu různé naschvály: „Zamkli se v pokoji 
+a já řval, protože mě tam nechtěli pustit.“
+Hynek na Denise vzpomíná, když byli v dětských letech, jako na dlouhovlasou dívku, 
+jež měla „ležérní“ styl oblékání: „Rozhodně žádná růžová, žádný šatičky, sukýnky a 
+takovýdle.. ale prostě doma volný triko a tepláky.“
+Podle Hynka měl Denis kamarády, jak mezi dívkami, se kterými byl ve větším 
+kontaktu, ale bavil se i s kluky: „…měl jakože spíš kamarádky… Jako měl pár kamarádů 
+ale.. většinou to.. právě byli takový hajzli, pře von.. byl poctivej, slušněj..takže.. spíš ho 
+jakože kazli, takže se s nima moc nevídal.“
+Hynek docházel na stejnou základní školu jako Denis a v té době měl jeho bratr 
+stále dívčí zevnějšek. O Denisových pocitech, že se cítí být klukem uvězněn v dívčím 
+těle, zatím nikdo nevěděl. Hynek popisuje, že na základní škole si Denis procházel 
+obdobím, kdy byl hodně uzavřený do sebe a zůstával většinu času doma a 
+nevyhledával společnost svých vrstevníků: „…prostě měl v sobě nákej problém, takže 
+byl jakoby víc uzavřenej do sebe.“ Toto chování si zřejmě Hynek vysvětluje takovým 
+způsobem, že se u Denise začal projevovat disharmonický vývoj jeho osobnosti, který 
+se promítl i na jeho zdravotním stavu: „Dřív třeba strašně marodil.“ A musel se potýkat 
+s vysokým počtem absencí ve škole: „Je fakt, třeba ve škole sto padesát až dvě stě 
+padesát zameškanejch hodin za pololetí.“
+Po naleznutí své pravé identity se jeho zdraví obrátilo k lepšímu a: „Teď prostě 
+nemarodí vůbec.“
+40
+Klíčové etapy:
+ ležérní oblečení
+ kamarády má jak mezi dívkami, tak mezi chlapci
+ základní škola: dívčí zevnějšek, uzavření do sebe, časté nemoci
+Druhá etapa: od gymnázia po transformaci pohlaví
+Podle Hynka se stal zlom v Denisově životě, když nastoupil na gymnázium. 
+Hynkovi se Denis v tomto období svěřil s pocity, že je kluk uvězněný v dívčím těle a 
+Hynek byl první osobou, která o Denisově stavu věděla. Od této chvíle se začal Denis 
+stylizovat do chlapecké role.
+Pro Hynka nastalo složité období, protože Denis odhalil svou transsexuální 
+identitu i mezi svými nejbližšími kamarády: „U mě to bylo složitý, protože.. pro mě to 
+byl venku mezi kamaráda, hlavně v AAA... Na jednom místě to byl brácha a druhym 
+místě to byla ségra… doma vo tom ještě v tu dobu nevěděli.“ Proto Hynek musel umět 
+oddělovat dvě tváře svého bratra, kdy mezi svými kamarády byl již v mužské roli a byl 
+oslovován jako „Denis“ naproti tomu doma, stále vystupoval jako dívka, kde byl 
+nazýván jako „Kája“. Hynek se potýkal s tím, že mezi kamarády se občas přeřekl a 
+nazval Denise Kájou, ale doma k těmto omylům nedocházelo.
+Po odhalení Denisovy pohlavní identity i mezi členy rodiny, se Hynek společně 
+s bratrem účastnil skupinového sezení FtM, kdy se mezi všemi účastníky cítil vítán. 
+Dále Hynek popisoval, jak takové sezení probíhá. V kroužku sedělo několik 
+transsexuálních jedinců FtM a sdíleli: „V jaký jsou fázi, na co se těší/netěší, co jim to 
+dalo/nedalo, jak se cejtí, čím si prošli.“ Součástí sezení byla i sexuoložka, jež byla v roli 
+„moderátora“. Hynek tuto zkušenost hodností, jako velice příjemný zážitek, při kterém 
+se seznámil s velice milými lidmi.
+Dále se Hynek vyjadřuje k tomu, jak blízké sociální okolí reagovalo na Denisův 
+klučičí zevnějšek a jeho transformaci. Odezvy, podle Hynka, byly dvojího druhu: 
+„Většina lidí byla jako v šoku, že fakt něco takovýho existuje a není to jenom ve filmu. 
+A.. nebo to brali úplně v pohodě.“
+Hynek pokračuje ve svých vzpomínkách, kdy došel k názoru, že změnu pohlaví 
+svého bratra snášel nejlépe z celé rodiny: „Protože Denis mi to všechno říkal z první 
+41
+ruky.“ V případě, kdy Denis pocítil jakékoli anomálie u své osoby, Hynek byl prvním 
+člověkem, kterému se svěřil.
+Když byl Denis ještě dívkou a nacházel se na základní škole, svěřil se Hynkovi:
+„…že se mu líbila holka.. Jedna spolužačka.“ Poté probíhala zmatenost v Denisově 
+orientaci, kdy se považoval nejdříve za bisexuála posléze za lesbu a nakonec: „Že se 
+cejtí jako kluk.“ Hynek svou podporu, jež poskytoval svému bratrovi, přičítá postupným 
+krokům, v nichž mu Denis své změny v chování a prožívání postupně „dávkoval“, a 
+proto vše Hynek vnímal jako přirozenou součástí Denisova vývoje: „Konec konců, 
+dycky jsem chtěl bráchu (smích).“
+Podle Hynkova názoru se nejhůře s Denisovou změnou pohlaví potýkala 
+babička z otcovy strany: „Babička to spíš nedokázala pochopit, protože přišla prostě vo 
+vnučku a.. nedokázala se s tim smířit.“ Babičce trvalo přibližně dva roky, než se s celou 
+situací sžila a přestala Denise oslovovat jeho dívčím jménem.
+Otec nastalou situaci v první chvíli také nesnášel příliš dobře, ale postupem času 
+Denisovu transsexualitu přijal: „..myslim, že souhlasí s tim názorem, že prostě je to kluk, 
+kterej se narodil v holčičim těle… von jakoby pomáhal babičce, aby to kousla.“
+Matka se, obdobně jako otec, musela s Denisovým stavem nějaký čas 
+vyrovnávat, protože: „Brala to tak jakože prostě přišela vo jedinou ceru.“ Podle 
+Hynkových vzpomínek bylo klíčové v jejich vztahu, když matka s Denisem začali 
+společně vybírat jeho nové chlapecké jméno: „Oba udělali seznam přijatelných jmen.. a 
+z nich potom vybrali jedno. A pak už to začala brát víc v pohodě.“
+Podle Hynka, v dnešní době celá rodina přijala Denisovu transsexualitu a z jeho 
+blízkého okolí vnímá, že Denise respektují takového, jaký je.
+Klíčové události:
+ sestra odhaluje svou chlapeckou identitu
+ Denis je dívkou a zároveň chlapcem
+ účast na skupinovém sezení
+ šokované a akceptující okolí 
+ Denis hledá svou orientaci
+ babička – nepříznivé přijetí, ale následuje uznání Denisova stavu
+42
+ otec – vyrovnání se s transsexualitou Denise
+ matka – akceptuje Denise jako chlapce
+43
+1.13. Pohled matky Lucie (47 let)
+Narativní analýza: Identifikace klíčových mezníků v příběhu – rozdělení vyprávění do 
+dílčích epizod:
+1. Epizoda: od prenatálního vývoje do odhalení chlapecké identity
+2. Epizoda: od změny pohlaví po přístup na gymnáziu
+3. Epizoda: od rodinného přístupu/odezvy po reakce z okolí
+První epizoda: od prenatálního vývoje do odhalení chlapecké identity
+Denisova maminka vzpomíná na své těhotenství s úsměvem, kdy jí její vnitřní 
+hlas říkal, že čeká syna, proto k dosud nenarozenému dítěti promlouvala jako k chlapci
+a oslovovala ho jako Kryštofa. K jejímu překvapení, se ale narodila dívka, z čehož byla 
+nadšená, protože: „Dycky jsem si tu holčičku přála.“ Její novorozená dcera dostala 
+jméno Karolína.
+Maminka na Káji dětství vzpomíná jako na období, kdy si se svým bratrem hrála 
+s autodráhou, ale považovala to za běžnou situaci, kdy si sourozenci společně hrají. 
+Dále se ohlíží za vzpomínkami, kdy Kája se svým otcem sledovala závody formulí či 
+sportovní utkání, ale jelikož i sama Lucie dané kanály sledovala, nepovažovala to za 
+indicie, které by jí měly naznačovat, že se u jejího dítěte rozvíjí porucha pohlavní 
+identity. Karolína si hrála s panenkami, a i s jinými hračkami určeny pro dívky, kdy 
+Lucie popisuje: „Měli jsme takovou velikánskou panenku a ta s náma jezdila na 
+dovolenou.“
+Kája v dětském věku měla krátké vlasy, kdy tento sestřih maminka zdůvodňuje 
+tím, že: „…byla hrozně baculatá… musíš bejt na krátko.“
+Podle maminky Kája od útlého věku neměla ráda šaty, sukně a růžovou barvu: 
+„Moc šatů jsme neměli.. Hýňa se do sukní oblíkal častěji (smích).“, zato preferovala 
+studenější odstíny barev jako modrou a zelenou. 
+Když Kája byla v období puberty a začaly se u ní objevovat sekundární pohlavní 
+znaky, konkrétněji růst poprsí, Lucie si zpětně uvědomuje, co u ní nalezla v pokoji. 
+Z bratrovy maskáčové vesty si Karolína vytvořila improvizovaný korzet: „Pak mi to 
+došlo, že prostě ona se stahovala.“, aby zabránila viditelnosti svého poprsí.
+44
+Lucie dále zmiňuje vzpomínku, kdy Karolína, v době kdy docházela na základní školu, jí 
+sdělila, že se zamilovala do jedné ze svých spolužaček: „No tak jako pro mě šok.. Že má 
+ráda holky.. jsem se nedokázala do tý situace vžít, jo.“, ale Káji homosexuální orientaci 
+přijala bez výhrad.
+Lucie dále vzpomíná na chvíli, kdy se jí Karolína, ve svých 16 letech svěřila 
+s velkým tajemstvím, jež v sobě dlouho dobu nosila. Stalo se to během jednoho večera, 
+kdy Lucii byla zaslána „smska“, v níž Kája byla nejasná a zároveň naléhavá. Za Lucií Kája 
+po odeslání zprávy přišla do ložnice a vyslovila, že se cítí být chlapcem: „Když s tím 
+přišla, tak prostě pro mě to byl.. hroznej šok.“ Pro Lucii nastalo velice náročné období, 
+kdy se musela vypořádat se skutečností, že se její jediná dcera chce stát mužem a 
+několikrát si pokládala otázku: „Proč já?“.
+Klíčové události:
+ dcera si hraje s autodráhou, sleduje závody formulí a sportovní utkání
+ dcera nemá ráda sukně, šaty a růžovou barvu
+ období puberty – stahování poprsí a zamilování se do spolužačky
+ dcera se cítí být chlapcem
+Druhá epizoda: od změny pohlaví po přístup na gymnáziu
+Lucie si stále nechtěla připouštět, že by něco takového bylo možné a domnívala 
+se, že jede pouze o nějaký „výmysl“ její dcery. Karolína začala docházet k sexuologovi 
+na různá sezení, kdy jednoho z nich se účastnila i Lucie: „Byla jsem na ňákym tom 
+jednom sezení, co oni maj, jak tam.. chodí k tý pani doktorce, tak tam jsem s ní taky 
+jednou byla.. Aby mi jakoby vysvětlila.. Protože jsem furt brala, jestli to neni nákej její.. 
+výmysl, jestli si to prostě nevymyslela.“ Na daném sezení bylo Lucii vše ohledně 
+poruchy pohlavní identity vysvětleno a od té chvíle si Lucie začala připouštět, že Káji 
+stav je opravdu skutečný.
+Lucie společně s Kájou vybíraly nové chlapecké jméno, kdy po vzájemné 
+dohodě vybrali to jméno, jež měla Karolína napsané v porodnici. Od této chvíle se Kája 
+začala jmenovat Denis. Lucie vzpomíná, jak bylo pro ni obtížné svou dceru začít 
+oslovovat chlapeckým jménem a nejvíce bojovala s mužským rodem u sloves: „..ty 
+koncovky. Nejhorší, ty koncovky. Já i dneska, já prostě.. tu a tam prostě furt dám: 
+45
+Dělala.. jo.“ Celý proces, zvykání si na chlapecké pohlaví její dcery, trval přibližně rok, 
+kdy nyní s úsměvem vzpomíná na situace s přeřeknutími: „A teď jsem jakoby.. načala 
+jako Káj..“ Proto maminka Karolíně z legrace navrhla, aby její nové jméno bylo Karel 
+kvůli stejnému počátečnímu písmenu, což bylo Karolínou se smíchem radikálně 
+odmítnuto. 
+Lucie byla během Denisovi změny oporou a nápomocná při řešení různých 
+formalit či svízelných situací. Jednou z nich byl problém týkající se toalet ve škole. Denis 
+odmítal chodit na dívčí a chlapecké používat nemohl, proto se daná situace vyřešila 
+tímto způsobem: „.. jinak jsme byli domluvený, že bude chodit na učitelských záchody a 
+nebo že je tam nákej záchod pro invalidy.. Takže tim se to jakoby v tý škole vyřešilo.“ 
+Postupem času Denis začal docházet na pánské toalety o hodinách a po uplynutí určité 
+doby i o přestávkách.
+Na půdě školy Lucie společně s Denisem vyřizovala: „..aby mu už vod září říkali 
+klučičím ménem.“ Lucie popisuje přístup gymnázia jako „bezproblémový“. 
+Klíčové události:
+ popírání dceřiny chlapecké identity
+ dcera – změna jména a rodu
+ pomoc při výběru nového chlapeckého jména
+ přátelský a ochotný přístup gymnázia
+Třetí epizoda: od rodinného přístupu/odezvy po reakce z okolí
+Lucie pokračuje ve vyprávění, kdy si vybavila situaci, jak obě své děti vezla 
+k jejich otci a babičce. V té době již byli se svým manželem rozvedení a každá žil v jiném 
+městě. Lucie zaslechla, jak Denis během jízdy svému bratrovi Hynkovi řekl: „A teď 
+přepni.“ Hynek od této chvíle přistupoval k Denisovi opět jako k dívce. Lucie se Denise 
+dotazovala: „Co blbneš? Co to děláš?“ Denis ještě nebyl přípravný povědět otci a 
+babičce o své potřebě stát se chlapcem, i když v běžném životě všude již vystupoval 
+jako kluk.
+Když se Luciin bývalý manžel dozvěděl o transsexuální identitě své dcery, tak: 
+„Já si myslím, že se s tim nechtěl dlouho smířit.“ Což bylo ovlivněno i tím, že byl v 
+každodenní přítomnosti své matky, pro kterou daná situace byla velice obtížná na 
+46
+porozumění a měla velký problém s tím, aby svou vnučku Káju začala oslovovat jako 
+Denise a chovala se k ní jako k chlapci. Babička se potýkala s obavami, že „přijde o své 
+vnouče“ a apelovala na Lucie, aby s danou situací něco udělala. Lucie se snažila babičce 
+vysvětlit: „Vo to vnouče nepřídete, furt ho budete mít, akorát mu budete říkat jinak.“ 
+Dále babičce kladla na srdce, že nejdůležitější, co pro Denise mohou udělat je to, aby 
+ho přijali takového, jaký je. Kdyby se tak nestalo, tak: „Pak prostě spáchaj sebevraždu, 
+protože je vlastně nepřímou, nepříme je rodina, což je pro ně vlastně nejdůležitějš.., aby 
+je přijmula rodina, když je nepřijme rodina.. tak jsou pak ty děti v čudu, že jo. To mi je 
+jasný.. Takže jsem se jakoby snažila taky tý babičce jako.. jakoby i tu cestu tam najít.“
+Lucie vzpomíná, že proběhlo období, kdy Denis nechtěl babičku navštěvovat: „To tam 
+pak taky nechtěj ňák jezdit, protože ta babička furt, aby byl Kája.“
+V dnešní době, podle Lucie: „Teď už je to v pohodě.“ Denise jak babička, tak 
+otec přijímají jako chlapce a mají pěkné vztahy.
+Lucie dále popisuje reakce své rodiny: „Třeba moje máma, to byl problém, aby 
+mu řekla jinak než Kájo, no.“ Obdobné trable zažívala i její sestra: „Třeba i moje ségra 
+tenkrát.. neuznávala když se támhlety nechávaji přeoperovávat.. Ale pak vlastně, když 
+to v tý rodině máte, tak ten názor změníte.. Když se vlastně setkáte s konkrétním 
+člověkem.“ Vše bylo pouze otázkou času a nyní obě přistupují ke Káje jako k muži.
+Podle Lucie její partner Luděk celou Karolíny změnu pohlaví: „..bral úplně s klidným 
+přehledem, že ten to vzal..mmm možná z nás nejlíp..“, jenom si také musel zvykat na 
+nové oslovování jeho nevlastní dcery. 
+Lucie v neposlední řadě popisuje případ, kdy jí chtěl navštívit její kamarád David 
+a potýkal se s následujícím: „No ale já nevim, jak se mám k němu chovat.. Já nevim, jak 
+na něj mám mluvit..nedokážu ho oslovit tim ménem.“ Lucie mu dala jednoduchou radu: 
+„Tak ho prostě neoslovuj ménem.“ a návštěva proběhla bez větších problémů. 
+Dále Lucie popisuje svízelnou situaci, kdy v jejím již bývalém zaměstnání začal pracovat 
+transsexuál FtM. Její kolegyně se o tomto člověku vyjadřovaly „hrozně hnusně“ a byl 
+předmětem „drbů“ v pracovním kolektivu. Ani jedna z kolegyň neměla tušení, že 
+Luciino dítě si také prošlo změnou pohlaví: „Já jsem mlčela a nic jsem na to neříkala.“
+Kvůli této nepříjemné situaci se snažila Lucie zabránit, aby se k jejím kolegyním dostala 
+informace o Denisově transsexualitě. Proto žádala všechny své známé v práci o 
+mlčenlivost, ale tato skutečnost i tak prosákla na veřejnost. Pracovní kolektiv se k Lucii 
+47
+choval stále stejně, jako kdyby o ničem nevěděl. Nyní má Lucie nové zaměstnání: „Tady 
+se mi pracuje hrozně dobře, protože všichni tady tu Káju znali a všichni věděj, že teď je 
+Denis.“
+Klíčové události
+ tajení transsexuální identity před otcem a babičkou
+ bývalý manžel se dlouho smiřuje s dceřinou transsexualitou
+ babička – nepochopení a obavy, že přijede o své vnouče
+ matka a sestra Lucie – nerozumějí potřebám Káji
+ Luciin kamarád – jak má vypadat vhodné chování k transsexuálovi?
+ Luciino bývalé zaměstnání – předsudky vůči transsexuálům
+ Luciino nové zaměstnání – nemusí nic skrývat
+48
+1.14. Ota (22 let)
+Narativní analýza: Identifikace klíčových mezníků v příběhu – rozdělení vyprávění do 
+dílčích epizod:
+1. Epizoda: Od narození do konce základní školy
+2. Epizoda: Střední škola a první operace
+3. Epizoda: Vysoká škola a rodina
+4. Epizoda: Ztráta nejlepšího přítele a zrušená svatba
+První epizoda: od narození do konce základní školy
+V souvislosti s dětstvím Oto zmiňoval situace, v nichž vnímal, že se cítí být více 
+jako kluk: „Pamatuju si, že jsme holky s klukama strašili pavoukama, že jsme je po nich 
+házeli.“
+Ota, jakožto dívka, se potýkal s problémy v dětském kolektivu, jež zapříčinilo 
+stěhování v jeho 5 letech. Změna bydliště způsobila to, že Ota ztratil své kamarády 
+mezi kluky a byl automaticky přiřazován ve školce do dívčího kolektivu a byl nucen ke 
+kamarádství s děvčaty, což se mu nelíbilo: „…jsem si spíš vynucoval takový to jako bejt 
+s těma klukama, že prostě jako mě nebavilo.. takový to hraní si na rodinu a takovýhle 
+věci. Asi si to možná pamatuješ ty z dětství, že jste museli ty kluky do toho přemlouvat 
+(smích). Takže takhle nějak to bylo i u mě.“ Dále mu vadilo škatulkování, se kterým se 
+setkával: „Jenom třeba takový to prostě rozdávání typických rolí. Ty si hraješ s 
+panenkama, ty si hraješ s autíčkama.. no a prostě. Mně to samozřejmě nikdy moc 
+nešlo, no… Já jsem byl úplně ujetej do stavebnic.“
+Ota se jako dívka vymykal tím způsobem, že odmítal nosit dívčí oblečení. Na 
+protest sukně rozstřihával a vzpomínal na situaci: „Dokonce si pamatuju, že jsem na 
+truc šel jednou na vysvědčení ve fotbalovým dresu a v kraťasech.“
+Maminka toto registrovala, a proto se rozhodla vyhledat dětského psychologa. 
+Ten předpokládal, že by se mohlo jednat o poruchu pohlavní identity a obeznámil 
+Otovy rodiče, kteří v té době byli ještě stále manželé, s tímto podezřením. 
+Větší problém s přijetím této skutečnosti měl jeho otec. „Můj táta je hodně stará 
+garda. Je z 50. let a byl vychovávanej jako sedlák“ a byl zastáncem typických mužských 
+a ženských rolí.
+49
+Na druhém stupni si Ota stále více uvědomoval, že ho přitahují dívky: „I přes 
+všechna varování a podobně, co jsem si na internetu vyčet.. Tak jsem si nedal říct a 
+prostě jsem to natvrdo vyzkoušel s tim, že jsem si mysle, že si to mezi sebou neřeknou.“
+O jeho první sexuální zkušenosti se roznesla zpráva mezi jeho vrstevníky a potažmo i 
+po celé škole. V té době, bylo Otovi mezi 12-13 lety a byl svým okolím považován za 
+lesbu, s čímž nesouhlasil. Nelíbilo se mu, když byl pro jeho osobu používán ženský rod 
+a lidi ve svém okolí upozorňoval: „Že se prostě tak necejtim.“
+Ota docházel k výchovnému poradci kvůli jeho homosexuální orientaci: „Mi 
+vlastně doporučili změnit základní školu.“ Ota pociťoval nespravedlivé chování k jeho 
+osobě: „..že prostě jako (eee).. hlavně nevidim důvod.. Co si jako říkám, že na 12-13 letý 
+dítě bylo docela drsný, říct výchovnýmu poradci, že nevidim důvod, proč by mě měli 
+dávat na jinou školu. Asi prostě jsem měl v sobě takovou tu upřímnost už od mala.“
+V této chvíli se Oty poprvé a naposledy zastal jeho otec. Ota dále neuvádí, jak se otec 
+s ředitelem školy domluvil, ale nakonec i tak dojde ke změně základní školy. 
+Ota dochází k psycholožce, která mu potvrzuje, že není homosexuálně 
+orientovaný, nýbrž jde s velkou pravděpodobností opravdu o poruchu pohlavní identity 
+a je následně odkázán k sexuologovi. Na svou první návštěvu u sexuoložky vzpomíná 
+takto: „Tehdy jsme tam přijeli, bylo to v 7. třídě a.. ta když mě viděla, tak jí to bylo jasný 
+(smích).“
+Jelikož se Ota ztotožňoval s tím, že je kluk uvězněný v dívčím těle, rozhodl se 
+vyjít s tímto faktem ven a seznámit s tím celé své okolí, i když jeho rodina byla proti. 
+Ota zmiňuje: „Stejně mi říkali, že jsem lesba, tak jako už mi je jedno, jestli o mně budou 
+mluvit tak nebo tak.“ Když se Ota nacházel v 8. třídě, došel k řediteli školy a vyslovil 
+svou potřebu o odhalení své nové identity, kdy ředitel jeho prosbu akceptoval: 
+„Samozřejmě vůči tomu vám nemůže nikdo bránit, dokonce ani rodina.“ Ale i přesto 
+vyžadoval svolení Otovy matky, jež posléze dostal. 
+Ota si v 8. třídě prošel několika vztahy, protože jak říká: „Holky byly zvědavý.“
+Během tohoto období navázal první vážnější vztah, jenž trval tři čtvrtě roku. Partnerka 
+Oty trpěla sebepoškozováním a její rodiče nesouhlasili, aby jejich dcera chodila 
+s transsexuálem. Otova partnerka pokračovala v sebepoškozování, a to se stalo 
+důvodem, proč Ota vztah ukončil. 
+50
+Dále měl Ota od 8. třídy neutrální jméno zanesené ve školní matrice a narazil 
+na jeden z prvních konfliktů, který zapříčinila jeho transsexualita. Jeden z učitelů jeho 
+novou identitu neakceptoval a stále si ho vedl, ve svém notesu, pod jeho původním 
+dívčím jménem. Ota se vůči tomuto vymezil, ale učitel odmítl jeho nové jméno 
+akceptovat. Ota se snažil nalézt oporu u ředitele, ale marně. Tehdy jsem hlavně narazil 
+už na.. nepochopení od jedno učitele..
+V polovině 9. třídy byla Otovi nasazena hormonální léčba: „..takže mi nasadili 
+tu hormonální léčbu a někdy kolem poloviny devítky, což bylo poměrně brzo.“
+V této době také došlo ke konfrontaci mezi Otou a jedním spolužákem, kdy příčinou 
+rozporu mezi nimi byla dívka. Celá situace došla do takového konce, že Otovi „profikl 
+nohu“. Ve škole to mělo následující průběh: „.. voni to tehdy celý svedli na mě a ze mě 
+prostě udělali debila.. řekli, že jsem.. psychicky narušená transka, což si jako myslim, že 
+by učitelé vůbec říct neměli.“ Po této zkušenosti Ota odmítal chodit do školy: „Mně 
+když se chtělo, tak jsem prostě vodešel a von to hlavně nikdo neřešil.. on mě nikdo 
+neved prostě. Já jsem jim byl úplně ukradenej, jak kdybych neexistoval.“ Ota byl 
+v kolektivu odstrčený, seděl sám, nikdo se s ním ve třídě nebavil. Jedinou výjimku 
+tvořila trojice děvčat, jež Ota popsuje jako: „Hrozně hodný.. Dycky se jako najdou ve 
+třídě takový ty hrozně hodný holky, který se bavily se všema.“ 
+Ota na základní škole byl součástí florbalového týmu, kdy byl „nejlepší 
+brankářkou“. Po čase se rozhodl z týmu odejít, jelikož cítil, že kdyby v týmu zůstal, bylo 
+by to v rozporu s jeho přesvědčením o jeho identitě a také z důvodu, že ho sexuálně 
+přitahovaly dívky. 
+Klíčové události: 
+ hraje si s kluky, chce nosit klučičí oblečení
+ problémy se začleněním do kolektivu 
+ první návštěva u psychologa – podezření zda jde o poruchu pohlavní identity 
+(přibližně na 1. stupni)
+ zájem o dívky a první milování s dívkou
+ vedení školy navrhuje, aby odešel
+ první návštěva sexuologa
+51
+ odhalení mužské identity
+ od 8. třídy nositelem neutrálního jména
+ od poloviny 9. třídy nasazena hormonální léčba
+ záškoláctví
+Druhá epizoda: střední škola a první operace
+Nová Otova životní etapa nastala, když nastoupil na střední školu. Mezi ním, 
+paní ředitelkou a třídní učitelkou vznikla dohoda o tom, že pouze oni budou vědět o 
+Otově transsexualitě. V průběhu školního roku došlo ke změně vedení školy a dále 
+nastal problém, když Otu poznala jeho bývalá spolužačka ze základní školy. Tato 
+spolužačka začala po škole šířit zprávy o Otově transsexualitě, ale ne jenom ona. V té 
+době, se do Oty zamilovala jeho spolužačka, která se po krátké době jejich vztahu 
+dožadovala sexu: „Měl jsem přítelkyni, která se do mě na seznamováku úplně 
+beznadějně zamilovala, a pak jsem musel jít s pravdou ven, protože ona se se mnou 
+chtěla hned po týdnu vyspat. No a vypadalo to špatně a pak teda, když viděla, že to na 
+tý škole docela berou, tak se se mnou dala zase dohromady, pak mě stejně zase 
+vodkopla.“ Informaci, že Ota byl dříve dívkou, si neponechala pouze pro sebe a stala se 
+tak dalším člověkem, který přispěl k roznesení této zprávy po škole. Po nějaké době 
+s Otou opět obnovila milostný vztah, který dlouho nevydržel.
+Ota se spřátelil s novým spolužákem Lukášem. Snažil se mu pomáhat tím, že 
+mu vysvětloval, jak to na škole funguje, dával mu zápisky z hodin, ale jejich přátelský 
+vztah se během času změnil na nepřátelský. Ota Lukáše popisuje jako: „On si prostě 
+uměl podmanit lidi. On prostě jim dokázal.. co von jim nakecal, tak prostě platilo a 
+hlavně on se napasoval na borce třídy. On mi prostě sebral moje místo ve třídě.. Dokať 
+von tam nebyl, tak já jsem tam neměl s nikým potíže.“ Lukáš si Otu začal dobírat, což se 
+začalo objevovat i během hodin a učitelé pouze nečinně přihlíželi. S dalším ročníkem 
+celá situace „vyšuměla“ a trochu se i zlepšila, ale spolužáci se s Otou moc nebavili kvůli 
+Lukášovo popuzování.
+Když se Ota nacházel ve druhém ročníku, nastoupila na školu jeho již bývalá 
+snoubenka, kterou si měl tento rok v létě brát. Ota pociťoval, že mu není přán jeho 
+nový vztah, protože byl napomínán při něžnostech třídní učitelkou, ale k ostatním 
+52
+párům byla lhostejná: „Tady se voblizujou jiný páry, vám je to úplně jedno. Když já jí 
+dám pusu na tvář, už mě napomínáte.“
+Po Vánocích se obnovil nepřátelský vztah mezi Lukášem a Otou. Došlo mezi 
+nimi k hádce a Lukáš strčil do Otovy přítelkyně. Kluci se začali prát, kdy Ota upadl 
+během rvačky do bezvědomí. Po procitnutí šel Ota s přítelkyní do školy, kde nikdo 
+nepátral po tom, co se mu stalo. Ota potřeboval ošetření lékařem. Učitelka jej poslala 
+bez doprovodu k doktorovi, jenž byl kilometr a půl vzdálený od školy a Ota tuto 
+vzdálenost musel ujít pěšky. Rozhořčená maminka volala do školy, kde jí bylo sděleno, 
+že Ota se do školy ten den nedostavil, ale Ota toto tvrzení popíral.
+Po uplynulých dvou týdnech rekonvalescence se Ota vrátil do školy. Přišel do 
+nepříjemného prostředí, kde s ním nebavili spolužáci ani učitelé. Ota si pokládal 
+otázku: „Co jsem komu udělal? Mě se jako nikdo na nic nezeptá.. tak to asi hodili prostě 
+na mě.“ Vedení školy celý incident uzavřelo bez vyslechnutí Otovy verze.
+Následovala další konfrontace s vedením školy, a proto se Ota rozhodl ke změně 
+střední školy. 
+Ota si mohl vybírat, na jakou novou školu půjde, protože měl výborné známky. 
+Nakonec se rozhodl pro jednu z největších škol, jež byla v dostupnosti. Díky velikosti 
+školy, dokázal být Ota v anonymitě. Za celou dobu jeho studia se mu nestalo, že by 
+potkal známou osobu a o jeho transsexuální identitě věděl pouze ředitel, personalistka 
+školy a třídní učitelka. Ota si celé zbývající dva roky studia užíval bez pronásledování 
+minulosti. 
+Ve třetím ročníku Otu čekala první operace v procesu změny pohlaví. Jednalo 
+se o operaci prsou, jež Ota podstoupil již ve svých 17 letech. V této situaci mu velice 
+pomohla jeho třídní učitelka. Ota byl na střední škole ligovým hráčem v házené, a 
+jelikož měl problémy s kolenem, třídní učitelka vymyslela, že jde na operaci právě kvůli 
+svému vyhazovacímu kolenu, aby se jeho spolužáci nic nedozvěděli, a to také vyšlo.
+Klíčové události:
+ dohoda o utajení transsexuální identity 
+ odhalení transsexuální identity
+ nový kamarád se stal nepřítelem
+ seznámení s bývalou snoubenkou
+53
+ konflikt s nepřítelem 
+ změna střední školy
+ anonymita na nové střední škole
+ operace prsou podstoupena v 17 letech
+Třetí epizoda: Vysoká škola a rodina
+Ota se dostal, díky své píli, na vysokou školu na svůj vytoužený obor. Na vysoké 
+škole o jeho transsexuální identitě vědí pouze jeho dvě blízké kamarádky, jinak nikdo 
+jiný.
+Ota uvažuje, že by v posledním ročníku prodělal poslední operaci v rámci 
+konverze pohlaví a podstoupil by rekonstrukci penisu, ale potýká se s následujícími 
+problémy: „…musim prostě brát v potaz to, že bych si na to musel našetřit, protože 
+stejně 2 měsíce budu prostě nepoužitelnej pro všechno. Což je zároveň i problém v 
+rámci práce, v rámci školy a podobně, protože (eee).. buď bych to musel oželit 2 měsíce 
+ve škole, protože přes prázdniny se tydle operace moc nedělaj a .. nebo prostě bych 
+musel zapomenout na půl roku na školu, což by pro mě znamenalo prodloužení, a to 
+zase já nechci.“ I přes všechny překážky je ale Ota odhodlán prodělat úpravu zevního 
+genitálu. 
+Ota dále popisuje, jaké má vztahy se svou rodinou: „Jako k rodině mám takový 
+vztahy, že jako spíš rodinu nemám.. Jedinej v podstatě s kým se tak jako nějak stýkám, 
+tak je mamka a se ségrou se vidím párkrát do roka.“
+Dále líčí vztah mezi ním a babičkou z matčiny strany, která jeho transsexuální 
+identitu kategoricky nepřijala: „Hrozně mi nadávala. Řekla mi, že se za mě hrozně stydí 
+a že jí mám vykat. Tendlensten stav trval asi půl roku. Horší bylo, že ona na mě takhle 
+řvala přímo před mojí mámou a moje máma tehdy nic neudělala, takže já jsem se tehdy 
+hrozně vůči rodině zasek a (eee).. prostě.. I když mám svojí mámu hrozně rád, tak 
+prostě nedokážu vůči rodině moc projevovat takový ty pozitivní emoce. Ty negativní 
+docela jo (smích).“
+Jeden z babiččiných opovržlivých výroků zněl: „To si myslíš, že by tě chtěl ňákej 
+chlap nebo ženská? Někoho takovýho.. ňákýho takovýho parchanta.“ Dále bylo Otovi 
+babičkou řečeno: „..že ani nemám právo na život a takovýdle věci a.. že prostě takový 
+lidi jako jsem já, by se měli věšet, že by se měli prostě postavit ke zdi a střílet jako to 
+54
+dělal prostě Hitler se Židama.. a podobně.. vyplynovat, prostě úplně vymýtit.. takže to 
+jsem taky docela špatně nes.“ Po těchto událostech se Ota vůči své rodině „zase“ a 
+nyní nedokáže ke své rodině projevovat pozitivní emoce. Někdy ho velice mrzí, že je 
+citově chladný, ale během svého dospívání zažíval, jak říká: „… neustálý podrazování, 
+zrazování, nadávání.“ A proto dokáže k rodinným příslušníkům projevovat pouze 
+negativní prožitky.
+Oporu, která mu chyběla v rodině, a láskyplné přijetí nacházel Ota u svých 
+partnerek. S dívkami navazoval vztahy od svých 14 let, kdy se o svých přítelkyních 
+vyjadřuje následovně: „Ty jsem měl vždycky rád, protože dycky mě podržely.. ale prostě 
+v tý rodině, to spíš byla jedna facka za druhou.“ 
+Vztah s matkou Ota popisuje: „Moje mamka je vůči mně dost pasivní.“ Matka 
+Otovi domlouvala, aby žil samotářský život a aby se co možná nejvíce stranil lidem. 
+Určitý zvrat v jejich vztahu nastal, když Ota měl během jedné z operací komplikace a 
+hrozilo mu vykrvácení: „Vod tý doby je na mě úplně jiná, že prostě možná pochopila, že 
+by mě mohla nějak ztratit.“ Jako jediná z rodiny ho navštívila v nemocnici a poskytla 
+mu potřebnou pomoc.
+Ota má o 12 let staršího bratra, nyní je mu 34 let a nemají se v oblibě. Svého 
+bratra Ota popisuje jako: „Byl to hrozně úspěšněj kluk, chytrej prostě. Z gymplu vyšel 
+v podstatě se samejma jedničkama.“ Pokračoval na vysokou školu a poté nastoupil na 
+vojnu, protože patřil do ročníku, který měl ještě povinnou vojenskou službu. Bratr Oty 
+u vojáků zůstal a nastoupil na univerzitu obrany, ale jeho vojenská kariéra skončila 
+kvůli vážnému přestupku, jenž učinil. „Teď je prostě fetka..prostě nic nedělá. Válí se 
+jenom u babičky. Jako.. jediná věc, kterou dokáže je jít sem tam na brigádu a.. oni mi 
+řekli, že se v životě za Honzu nebudou stydět tak, jako se styděj za mě. A prostě.. mě to 
+hrozně srazilo.“ V té době bylo Otovi 14 let: „Tehdy jsem úplně zapomněl na to, co je 
+rodina.“
+Rodiče Oty se rozvedli v jeho 9 letech. Otec po rozvodu o Otu neprojevoval 
+zájem, odmítal se s ním bavit, nezvedal mu telefon. Otec se o Otově transsexuální 
+identitě dozvěděl díky tomu, že Ota svou situaci odhalil ve škole a následně se tato 
+skutečnost dostala i k němu. Reakci otce, Ota popisuje: „Řekl mi, že potřebuju ňákýho 
+chlapa, aby mi ukázal, kdo je tady chlap a ženská. Takže pak jsem se vůči němu zasek 
+a.. nebavili jsme se hrozně let.“ Otec po letech s Otou naváže kontakt pouze kvůli 
+55
+rodičovské zodpovědnosti, protože se Ota blížil k 18 roku života. Dále otec nedával 
+najevo žádné emoce, když se jeho syn dostal na vysokou školu ani neprojevoval zájem, 
+jak prospívá ve škole. 
+Ota má dva sourozence, staršího bratra, o kterém se zmiňuji výše a starší 
+sestru, kdy mezi bratrem a sestrou je roční rozdíl, ale jak Ota říká: „Já jsem pak takový 
+hrozně nečekaný překvapení v roce 1996.“ Otův Otec má nejlepší vztah s bratrem 
+Honzou a s Otovou sestrou už vztahy nemá tak dobré. 
+Ota se stýká se svou sestrou několikrát do roka. Jejich vztah nebyl moc vřelý, 
+protože: „Četla mi třeba e-maily. Dávala je přečíst mojí mámě, což mě hodně 
+ponižovalo.“ Ale jako jediná z rodiny potřebovala nejméně času na to, aby Otu přijala 
+takového, jaký je: „Z její strany to asi bylo jako takový nejchápavější. Možná byla chyba 
+v tom, že všichni si automaticky mysleli, že jsem lesba. To byl asi největší problém.“ 
+Dalším člověkem z rodiny, který Otovu transsexualitu vzal přijatelně, je teta, 
+která žije v zahraničí: „Člověk z ciziny to bral úplně jinak. Vona říkala, že prostě v AAA se 
+s tím stýkají poměrně často. Jenom prostě říkala, že neví, jak se s tím sžijou lidi v Český 
+republice.. a především v tom místě, kde bydlim.“ Město, kde Ota bydlí, popisuje jako 
+místo, kde se to „hrozně zaseklo“, kde jsou lidi do sebe „zaujatý“ a nového člověka 
+nechtějí vzít mezi sebe: „Já jsem prostě vetřelec z BBB, takže jako tam nemám takovou 
+tu skupinu příbuzných a podobně…“
+Klíčové události:
+ nepodstoupena rekonstrukce penisu 
+ vztah s babičkou negativní
+ opora nalezena u partnerek
+ vztah s matkou pozitivní
+ vztah s bratrem negativní
+ vztah s otcem negativní
+ vztah se sestrou pozitivní
+ vztah s tetou pozitivní
+56
+Čtvrtá epizoda: ztráta nejlepšího přítele a zrušená svatba
+Ota si také prošel tím, kdy po odhalení své původní identity přišel o nejlepšího 
+kamaráda: „On prostě jako, že jsem mu lhal a takhle.. V tu chvíli mě neznal, nebavili 
+jsme se, neměli jsme mezi sebou žádnej kontakt, takže jsem prostě neviděl důvod, proč 
+mu to říkat.“ Celkově to Ota komentuje: „Nevidím důvod, proč to těm lidem říkat. Jako 
+nevím, jak se zachovaj a dokonce to i.. popírám, docela často..“
+Zlomový bodem v Otově životě měla být svatba, která se měla uskutečnit tento 
+rok v létě, kdy jeho snoubenkou byla jeho přítelkyně ze střední školy. Příčina rozchodu
+byla nevěra s Otovým kamarádem: „My jsme byli v baru. Já jsem si odskočil a načapal 
+jsem je, jak se spolu líbají.“ O dva dny později přesně 24.12. došlo k rozchodu: „Takže 
+jsem měl originální dárek.“ Nyní je tato dvojice stále ve vztahu a čekají spolu dítě.
+Ota se se svou bývalou snoubenkou po rozchodu procházeli obdobím hádek. 
+Celá situace vygradovala tak, že partner bývalé snoubenky málem srazil Otu autem. 
+Následovalo několik slovních přestřelek přes sociální sítě, což se opět vystupňovalo: 
+„Začali mi vyhrožovat, že mi prostě podřežou kocoura, že prostě.. ublížej mně.. že mě 
+nechaj polykat vlastní chcanky a podobně.“ Po časovém odmlčení se nyní Ota se svou 
+bývalou snoubenkou snaží obnovit přátelský vztah. 
+Otovi změna pohlaví dala následovné: „Vím, že se dokážu spolehnout perfektně 
+sám na sebe. A.. že prostě.. i když se to nezdá, tak prostě člověk pozná, komu může 
+věřit, komu ne. Kdo jsou pravý přátelé.“
+Klíčové události:
+ ztráta nejlepšího kamaráda
+ rozchod se snoubenkou
+ vyhrožování
+Žánr životního příběhu: Zmučená duše
+Ota svůj životní příběh vyprávěl v podobě strastiplné cesty, kdy musel téměř s každou 
+osobou ve svém životě bojovat a těžce si tak vydobýval své místo v životě. 
+57
+1.15. Pohled Julie (20 let)
+Narativní analýza: Identifikace klíčových mezníků v příběhu – rozdělení vyprávění do 
+dílčích epizod:
+1. Epizoda: Od seznámení k důvěře
+První epizoda: Od seznámení k důvěře
+Julie se s Otou seznámila v létě loňského roku skrze svoji kamarádku Bětku. Ota 
+v počátku nenavazoval kontakt s Julií: „… von se se mnou právě moc nebavil. Tak mi 
+přišlo, že jsem mu ňáká nesympatická..“ Po několika dnech Ota s Julii navázal virtuální 
+komunikaci, kde se jí svěřil, že byl z její přítomnosti nervózní, protože se mu líbila.
+Julie udržovala s Otou virtuální spojení a několikrát se viděli i osobně. Postupem času 
+začala o Otovi uvažovat jako o možném partnerovi: „…začala jsem si představovat, že 
+by to šlo..“
+Julie jela navštívit svého kamaráda Patrika, který se také znal s Otou přes svého bratra, 
+který s ním chodil na základní školu. Tudíž mu bylo známo, že Ota trpí poruchou 
+pohlavní identity. Patrik byl tím, kdo Julii řekl o Otově transsexuální identitě: „...že ho 
+prostě zná jako holku a začal o něm říkat takový ošklivý věci.. Jako bylo na něm vidět, 
+že má averzi vůči tomu, že je transsexuál.“ Julie je toho názoru, že takovouto informaci 
+by se měla dozvědět přímo od Oty a svému kamarádovi toto zazlívala: „… vim, že je to 
+osobní informace a měl by si o tom rozhodovat sám.. jako komu to řekne.. že už je to o 
+tý důvěře mezi lidma.“ K Otovi se snažila chovat stále stejně, jako kdyby o ničem 
+nevěděla. 
+Poté Julie nabyla dojmu, že Otu za partnera nechce: „.. když ti dojde, že je to 
+transsexuál.. nevim.. asi mám ňákej předsudek vůči tomu, ale neuvědomuju si ho, že je 
+to tak jako podvědomě.“ Julie se potýkala se špatnými pocity, protože ji odradila právě 
+jeho transsexualita, ale i tak s ním chtěla zůstat alespoň v přátelském kontaktu, 
+protože Otu považovala za: „Jako fajn člověka, jako milýho kluka, že je pozornej.. že 
+bych se s nim chtěla asi víc seznámit.“
+Otova porucha pohlavní identity vyvolala v Julii zájem o tuto problematiku: „Já jsem se 
+to snažila nějak pochopit samozřejmě to asi úplně nejde, ale.. různě jsem se snažila 
+hledat na internetu, jak to funguje.. Člověk to potom i dokáže, podle mě, víc pochopit, 
+58
+když o tom zjistí víc věcí.“ Sama u sebe došla ke zjištění, že: „Je mi sympatičtější, když 
+je to přeměna vlastně chlap na ženskou, než když je to ženská, co se stane chlapem.“
+Na Julii působí transsexuálové, kteří se mění na ženu křehčím dojmem, zatímco 
+transsexuálové, jež se stávají mužem, u sebe projevují svou „hrubší stránku“ a pro Julii 
+je lépe akceptovatelnější změna pohlaví male to female. 
+Zhruba po 5 měsících se Julii Ota svěřil s tím, že má poruchu pohlavní identity: „Došli 
+jsme do takový fáze toho vztahu jako přátelskýho vztahu, že mi to řek sám.. On se 
+hrozně bál, než mi to řek.. jestli se tím nějak ten vztah nezmění.. To se mu třeba stalo 
+teďkon s většinou jeho kamarádů. Po tom, co se to dozvěděli a.. už se s nima vůbec 
+nebaví.“ Julie se scházela s partou Otových kamarádů, kteří nic o tom, že se Ota narodil 
+jako dívka, nevěděli, ale časem Otu jeho minulost dostihla a vše na něj „prasklo“. 
+Otovi kamarádi, dle Juliiných slov, mu kvůli jeho transsexualitě: „Pak mu i docela 
+nadávali kůli tomu, že.. ho jednou i zmlátil ten kamarád.“ Julie se domnívá: „Kluci 
+tohlensto fakt neberou podle mě.. jsou spíš agresivní, že to berou jako urážku svýho 
+pohlaví.“ Podle Julie, do dnešní doby Ota neobnovil předešlé vztahy se svou partou 
+kamarádů. 
+Klíčové události:
+ stydlivost překonána prostřednictvím virtuální komunikace
+ dozvědění se o transsexuální identitě Oty od kamaráda
+ reakce na transsexualitu
+ vyvolání zájmu o poruchy pohlavní identity
+ lépe přijímá transsexuály MtF
+ Ota se svěří o své transsexualitě
+ kamarádi neakceptují Otovu transsexualitu – přetrhání přátelských vztahů
+59
+Výzkumná zjištění
+Během výzkumného šetření jsme se v příbězích zabývala následujícími okruhy: 
+dětství a dospívání, změna, uvědomění si, reakce okolí, milostný život.
+1.16. Dětství a dospívání
+Denis
+Denis popisoval své dětství jako šťastné období, ve kterém si jako dívka rád hrál 
+s kluky na vojáky a ve větší oblibě měl hračky určeny pro chlapce: 
+„Nejvíc jsem měl těch klučičích hraček a tíhnul jsem k nim víc.. Když brácha dostal 
+autodráhu, tak jsem si s ní hrál víc než on.“ 
+Trávení volného času s opačným pohlavím pokračovalo i na základní škole a 
+Denis vizuálně připomínal kluka, protože nosil chlapecké oblečení i měl krátké vlasy:
+„Často si mě s klukem pletli.“
+Denis začal vnímat při přechodu na druhý stupeň, že nesplňuje společenská 
+kritéria, jež určovala, jak by se měla chovat a vypadat dívka jeho věku, proto se 
+rozhodl tomuto měřítku podvolit:
+„Už jsem cejtil tu společnost a ten nátlak, že bych se měl chovat jako holka. Tak jsem si 
+nechal narůst delší vlasy, začal jsem se víc oblíkat jako holka.“
+Pohled Hynka (bratr Denise)
+Hynek svého staršího bratra popisuje v jeho dětství jako dívku, která měla ráda 
+pohodlný styl oblékání. Jako dítě nenosila šaty ani sukně a její oblíbená brava byla, a 
+stále je, modrá:
+„Rozhodně žádná růžová, žádný šatičky, sukýnky a takovýdle.. ale prostě doma volný 
+triko a tepláky.. voblíbená barva modrá a tahle.. To mu furt drží.“
+Dále se Hynek vyjadřoval ke kamarádům, s nimiž udržoval Denis v dětství 
+přátelské vztahy:
+60
+„…měl jakože spíš kamarádky… Jako měl pár kamarádů ale.. většinou to.. právě byli 
+takový hajzli, pře von.. byl poctivej, slušněj..takže.. spíš ho jakože kazili, takže se s nima 
+moc nevídal.“
+Na základní škole, si Denis, podle Hynka, procházel období, kdy nevyhledával 
+společnost a chtěl trávit čas o samotě, což se projevilo i na jeho zdravotním stavu. 
+Hynek si toto chování vysvětloval:
+„…prostě měl v sobě nákej problém, takže byl jakoby víc uzavřenej do sebe… třeba ve 
+škole sto padesát až dvě stě padesát zameškanejch hodin za pololetí.. Teď prostě 
+nemarodí vůbec.“
+Hynek popisoval, že Denis v období dospívání si prožíval zmatenost ve své 
+sexuální orientaci. Na počátku se považoval za bisexuála, později si přiznal svou 
+homosexuální orientaci a ve finále zjistil, že je kluk uvězněný v dívčím těle: 
+„…když se mu prostě začala líbit kamarádka, tak jsem to věděl, pak teda že je bi.. 
+nakonec teda, že je jako holka, tak že lesba. Pak teda, že .. se cejtí jako kluk…“
+Pohled Lucie (maminka Denise)
+Lucie vzpomínala, že její dcera Karolína si v dětství hrála s autodráhou, 
+sledovala se svým otcem závody formulí nebo sportovní utkání, ale zároveň si hrála i 
+s hračkami, jež byly určeny pro dívky:
+„Jako, že si chce hrát s autodráhou s Hynkem, no tak to bylo prostě normální, jo. Nebo.. 
+panenky jsme taky měli jako nebyl, že by byl kluk vod mala, že by prostě neměl 
+panenky.. Panenky jsme měli, kočárek měl. To jsme měli všechno, ale.. i na dovolenou s 
+náma jezdila k moři panenka. Jsme měli takovou jako velikou.. Takovou velikánskou 
+panenku a ta s náma jezdila na dovolenou… Když byl větší.. tak koukal s tátou na sport.. 
+na formule.. na to jsme koukali všichni. Na ty jsem se koukala i já, jo.“
+Vizuální zevnějšek dcery Káji jako dítěte byl spíše chlapecký, protože měla 
+krátký sestřih vlasů, nerada se odvívala do šatů nebo sukní a preferovala studené 
+barvy: 
+„..von byl hrozně baculatej. Takže my jsme.. spíš říkali, musíš bejt na krátko.. Myslim 
+si, že šaty nebyly jeho voblíbený.. moc šatů jsme asi neměli bych řekla, že Hyňa se do 
+sukní oblíkal častěji. (smích) Ale.. emmm.. vona jako na šaty ani jako na růžovou, ne. 
+Jako vod mala, to jediný, že bych řekla, tu modrou, zelenou, prostě takovoudle barvu, 
+61
+že měl furt.. Ale jako v růžovym jako nebyl asi určitě. To si myslim, že to nebylo její 
+oblíbený...“
+V pubertě, když se u Káji začaly objevovat sekundární pohlavní znaky, 
+konkrétněji růst poprsí, Lucie v jejím pokoji narazila na zvláštní věc, kterou ukrývala. 
+Vytvořila si improvizovaný korzet z bratrovy vesty, aby si mohla stahovat hrudník:
+„Hynek měl zelenou maskáčovou vestu. Tady to mělo spoustu kapes a já jsem tu vestu 
+našla u Denise, rozpáranou, bez těch kapes.. Což teď už mi jakoby dochází. On jí teda 
+nosil někde tajně, aby se moch stahovat, aby neměl prsa.“
+V období dospívání se Lucii Karolína svěřila s tím, že se zamilovala do jedné ze 
+svých spolužaček:
+„To byla vlastně první předzvěst, jo.. a že se mu ve škole líbí ňáká holka a že.. ta holka, 
+že chodí do školy.. Von teda, že se jako zamiloval.. No tak jako pro mě šok.. Že má ráda 
+holky.. jsem se nedokázala do tý situace vžít, jo.“
+Ota
+Ota popisuje situaci ze svého dětství, kdy jako dívka byl v partě svých kamarádů 
+a choval se spíše jako kluk:
+„Pamatuju si, že jsme holky s klukama strašili pavoukama, že jsme je po nich házeli.“
+V 5 letech se Ota, se svou rodinou přestěhovali do města. Změna bydliště
+způsobilo v Otově životě to, že přišel o svou klučičí partu a od této chvíle byl v nové 
+školce nucen, aby se kamarádil s děvčaty, což se mu nelíbilo:
+„…jsem si spíš vynucoval takový to jako bejt s těma klukama, že prostě jako mě 
+nebavilo.. takový to hraní si na rodinu a takovýhle věci. Asi si to možná pamatuješ ty 
+z dětství, že jste museli ty kluky do toho přemlouvat (smích). Takže takhle nějak to bylo i 
+u mě.“
+Ota dále v dětství nesouhlasil se společenskými konvencemi, které udávaly, 
+s čím si mají hrát děvčata a jaké hračky jsou určeny pro chlapce:
+„Jenom třeba takový to prostě rozdávání typických rolí. Ty si hraješ s panenkama, ty si 
+hraješ s autíčkama.. no a prostě. Mně to samozřejmě nikdy moc nešlo, no… Já jsem byl 
+úplně ujetej do stavebnic.“
+62
+Ota se dále ve svém dětství vymykal, tím způsobem, že odmítal nosit dívčí 
+oblečení. Kvůli Otově atypickému chová se jeho maminka rozhodla vyhledat dětského 
+psychologa, který nastínil, že by se mohlo jednat o poruchu pohlavní identity:
+„Já jsem třeba takovej specialista, že.. já jsem dokázal prostě rozstřihat sukně a tovýdle 
+věci. Dokonce si pamatuju, že jsem na truc šel jednou na vysvědčení ve 
+fotbalovym dresu a v kraťasech. Tehdy teda jako (eee).. moje máma začal vnímat, že se 
+mnou něco neni v pořádku a vzala mě k psycholožce. Psycholožka jí už tehdy nastínila, 
+že asi jako budu mít.. tuhlenstu vadu.“ 
+Shrnutí výsledků:
+ Denis a Ota si v dětském věku hráli s hračkami, které byly určeny pro chlapce: 
+autodráha a stavebnice 
+ Lucie potvrzuje Denisovo hraní si s autodráhou, ale také dodává, že v rámci hry byly 
+používány i hračky pro dívky: panenky 
+ V dětství Denis a Ota vyhledávali, jakožto dívky, chlapeckou společnost
+ Hynek potvrzuje, že se Denis přátelil jak s kluky, tak ale i s děvčaty 
+ Denis a Ota odmítali nosit holčičí oblečení
+ Podle Hynka se Denis nerad odíval do šatů a sukní, preferoval volné tričko a tepláky 
+Podle Lucie, Denis nenosil sukně ani šaty a měl v oblibě studené barvy
+ Lucie popisuje Denise jako dívku s krátkými vlasy, která nerada nosila sukně a šaty. 
+ Lucie vyprávěla, že Denis si v dospívání stahoval hrudník
+1.17. Uvědomění si
+Denis
+Denis si své pocity rozdílnosti začal uvědomovat na základní škole, ale neuměl 
+pojmenovat, co se s ním děje: 
+„Věděl jsem jakoby později na základce, že je jakoby něco jinak. Ale nevěděl jsem, 
+jakoby co. Nedokázal jsem to identifikovat.“
+První indicií odlišnosti, se pro Denise stalo to, když se v osmé třídě zamiloval do
+své spolužačky. Denis si v té chvíli uvědomil:
+„Že aha… něco… něco se děje.“
+63
+Po Denisově zjištění, že je homosexuálně orientovaný, se ale stále potýkal 
+s neuspokojením: 
+„Že to prostě není ono.. Sice se mi líbí holky, ale že bych se v tom vztahu necejtil 
+správně...“
+Denis tápal a nedokázal identifikovat, co se s jeho osobou děje. Shodou 
+okolností, Denis ve svých 14 letech shlédl dokumentární příběh transsexuálního muže, 
+a poté se ztotožnil s jeho vyprávěním a uvědomil si podobnost mezi nimi: 
+„To jsem já.. ale v tu dobu jsem si řek, že to nikomu neřeknu.. že to nebudu řešit.“
+Ota
+Ota si svou odlišnost v dětském věku neuvědomoval. Odlišného chování si 
+všimla jeho maminka, a proto se rozhodla navštívit společně s Otou dětského 
+psychologa, jenž předpokládal, že by se mohlo jednat o poruchu pohlavní identity: 
+„Tehdy teda jako (eee).. moje máma začal vnímat, že se mnou něco neni v pořádku a 
+vzala mě k psycholožce. Psycholožka jí už tehdy nastínila, že asi jako budu mít.. 
+tuhlenstu vadu.“
+Mezi 12-13 rokem života si Ota začal uvědomovat, že ho přitahují dívky a v této 
+době proběhlo i jeho první milostné dobrodružství s jeho spolužačkou. Tato zpráva se 
+roznesla po škole a Ota byl označován za lesbu, s čím nesouhlasil. Otovi se nelíbilo, 
+když při oslovování jeho osobu byl používán ženský rod a své okolí na to upozorňoval: 
+„Oni mě prostě všichni házeli do toho, že jako.. že jsem prostě lesba. A já jsem jim 
+prostě říkal, že se prostě takhle necejtim.. takhle v pohodě.. že mi nepříde, když na mě 
+mluvěj v ženskym rodě a podobně a že se.. že se tak prostě necejtim.“
+Shrnutí výsledků:
+ Denis svou odlišnost neuměl pojmenovat, později se ztotožnil s příběhem 
+transsexuálního muže
+ Otův transgender identifikoval dětský psycholog 
+ Denis a Ota si ve svém dospívání uvědomili, že je fyzicky přitahují dívky 
+64
+1.18. Změna
+Denis
+Když bylo Denisovi 17 let, objednal se na sexuologické vyšetření, protože pocítil, 
+že musí vzít do vlastních rukou svou budoucnost a touhu stát se mužem: 
+„Musím to začít nějak řešit.“
+Předpokládaná diagnóza se potvrdila a Denis začíná s léčbou. Prvním krokem se 
+stalo zřízení neutrálního jména, které měl Denis od svých 17 let:
+„O prázdninách mi paní doktorka Fifková dala papíry na vyřízení neutrálního jména a 
+papír do školy, takže jsem si v září začal vyřizovat neutrální jméno.“
+Na začátku 3. ročníku, Denis ve škole obeznámil vedení školy se svou 
+transsexualitou a byl uvolněný z tělesné výchovy:
+„Byl jsem uvolněnej z tělocviku, takže jsem nemusel ani s holkama ani s klukama, 
+prostě jsem byl úplně uvolněnej.“
+Dalším Denisovým krokem v rámci konverze pohlaví se stala hormonální léčba, 
+jež mu byla nasazena v době, kdy dosáhl plnoletosti:
+„V prosinci, jakmile mi bylo osumnáct, tak vlastně jsem dostal hormony.. Mezi prvníma 
+změna jsem si všimnul právě, že se.. změnily i jakoby trochu rysy v obličeji.. 
+předistribuoval se ten tuk. Hned na začátku se mi zastavila menstruace, takže to bylo 
+jako.. to byla úleva (smích).. Asi po půl roce se mi začal měnit hlas. Takže jsem si pak 
+nahrával i jako ten hlas.. jak se mění a.. ten hlas se ustálil tak po roce, po roce a půl.. 
+Začne růst víc ochlupení, prostě všude..“
+Ve 4. ročníku Denis postoupil jednu z prvních operací, kterou byla
+mammaplastika (odstranění mléčné žlázy a zachování vitality, tvaru dvorce a 
+bradavky). Poté Denise čekalo stání před odbornou lékařskou komisí, která mu udělila 
+schválení k provední druhé operace, kdy se jedná o tzv.: hysterektomii (úplné vyjmutí 
+vaječníků a vejcovodů):
+„Protože jsem měl větší prsa, takže jsem moch jít i před komisí na operaci. Takže jsem 
+musel znova k psychologovi, aby vlastně.. (ehm).. Vodsouhlasil vlastně to, že můžu jít 
+před komisi..(ehm) na tu operaci a.. nakonec to vyšlo tak, že vlastně jsem šel v řínu na 
+operaci, v listopadu ke komisi a v prosinci na druhou operaci.. Komise pro mě byla.. 
+65
+formalita, prostě jsem tam přišel, pět minut jsem mluvil, uvnitř.. Oni se mě zeptali na 
+pár věci a.. šel jsem ven.“
+Všechny kroky, které přispěly k tomu, že se Denis začal více vizuálně podobat 
+muži, způsobily změny v jeho struktuře osobnosti:
+„Jsem se prostě víc otevřel tomu světu a začal jsem víc komunikovat.“
+Denis splnil všechny podmínky pro to, aby se mohl stát mužem i po právní stránce:
+“... jsem si moch změnit méno na Novák.. na mužský. Změnilo se mi rodný číslo a.. 
+musel jsem si změnit veškerý doklady.“ 
+Posledním zákrokem v konverzi pohlaví je rekonstrukce penisu, který zatím 
+Denis nepodstoupil, protože není spokojený s výslednou prací lékaře, jenž tyto operace 
+provádí jako jediný v České republice:
+„…u nás se to provádí.. Dělá to jeden doktor, kterej je skoro v důchodu a.. ty výsledky 
+nejsou tak jako dobrý jako v zahraničí.. takže čekám, jako jestli se vobjeví někdo jinek, 
+kdo to u nás bude dělat, a nebo si prostě holt našetřit a jet třeba do Německa. Tam to 
+maj na dobrý úrovni.“
+Pohled Lucie (maminka Denise)
+Lucie pomáhala své dceři při výběru nového chlapeckého jména. Společně se 
+shodly na jméně, které bylo napsané v porodnici v případě, když by se Kája narodila 
+jako chlapec. Novým jménem se tedy pro Káju stalo Denis. Maminka Lucie vzpomíná na 
+trable, s nimiž se potýkala během zvykání si na mužské jméno a rod u své dcery:
+„No bylo to hrozný jakoby pro mě.. hrozný jako než jsme si zvykla.. A ty koncovky, 
+nejhorší ty koncovky. Já i dneska, já prostě.. tu a tam prostě furt dám, dělala jo.. A 
+proto jsem řekla.. Denisi nemůže po mě chtít, abych prostě ze dne na den takhle 
+přepnula. A (eee).. říkala jsem.. 15 let jsem ti tady říkala Kájo a najednou, ti nemůžu 
+říkat Denisi. Musíš počkat, než si zvyknu na to méno.. Myslim si, že rok jsem s tim 
+bojovala.. (smích) Pak jsme si dělali srandu, protože jsem udělala.. Ka.. a teď jsem 
+jakoby načala jako Káj.. Tak jsem si pak dělala srandu, že mu teda budeme říkat Karel.. 
+Jako Karel, mami, určitě nebudu, jo. (smích).. Pak jsem teda skolili i toho Kryštofa a pak 
+teda, že bude ten Denis, jo.“
+Ota
+66
+V pubertě Ota poprvé jde, v doprovodu své matky, na sexuologické vyšetření:
+„Tehdy jsme tam přijeli, bylo to v 7. třídě a.. ta když mě viděla, tak jí to bylo jasný 
+(smích).“
+Od 8. třídy byl Ota nositelem neutrálního jména a od poloviny 9. třídy mu byla 
+nasazena hormonální terapie:
+„..takže mi nasadili tu hormonální léčbu a někdy kolem poloviny devítky, což bylo poměrně 
+brzo.“
+Ota podstoupil svou první operaci v rámci konverze pohlaví ve svých 17 letech, kdy se 
+jednalo o úpravu poprsí:
+„Vzhledem k tomu, že já jsem byl hrozně aktivní na soukromý právo už na střední škole, 
+tak jsem s tim přišel za doktorkou a řek jsem, že chci podstoupit první operaci, což 
+znamená zploštění hrudníku… žil jsem rok v tý roli, ve který chci žít, tak to jsem splnil. 
+Půl roku hormonální léčba.. už jsem měl vlastně skoro 2 roky, takže to taky problém 
+nebyl..Takže jsem byl vlastně první, kdo dokázal něco podstoupit v Český republice pod 
+18 let (smích).Takže vlastně díky tomu jsem v 17 měl tu první operaci a kdyby mi to 
+tehdy mamka nepodepsala, tak jsem si ani neškrt.“
+Ota plánuje podstoupit operativní zákrok, při němž by byl rekonstruován penis, 
+ale prozatím nemám dostatek financí a čeká na vhodnou dobu, pro provedení tohoto 
+zákroku: 
+„…musim prostě brát v potaz to, že bych si na to musel našetřit, protože stejně 2 měsíce 
+budu prostě nepoužitelnej pro všechno. Což je zároveň i problém v rámci práce, v rámci 
+školy a podobně, protože (eee).. buď bych to musel oželit 2 měsíce ve škole, protože 
+přes prázdniny se tydle operace moc nedělaj a .. nebo prostě bych musel zapomenout 
+na půl roku na školu, což by pro mě znamenalo prodloužení a to zase já nechci.“
+Shrnutí výsledků:
+ Denis a Ota podstoupili první sexuologické vystření v dospívání a následovalo 
+zřízení neutrálního jména
+ Lucie (matka Denise) byla nápomocná při výběru chlapeckého jména
+ Oba dva podstoupili mammaplastiku a hysterektomii
+ U Denise a Oty prozatím nedošlo k modelaci zevního genitálu (neopenisu)
+67
+1.19. Reakce okolí
+Rodina
+Denis
+Denis si uvědomil svou chlapeckou identitu ve svých 14 letech a rozhodl se o 
+své transsexualitě mlčet, což trvalo přibližně dva roky. Poté došel k názoru, že se 
+potřebuje někomu svěřit a jako první osobu si vybral svého mladšího bratra Hynka, 
+jehož reakce byla vlídná:
+„Já jsem chtěl vždycky bráchu.“
+Denisova babička se potýkala s obavami, že přijde o své vnouče, ale časem 
+danou situaci zpracovala a s Denisem mají fungující vztah:
+„U babičky jsem si říkal.. jo, ta to příme jakoby dobře, ta mě podpoří.. Prostě že.. jsem si 
+řekl, že jí to řeknu mezi prvníma a vona prostě nakonec, řeknu.. to byla jakoby nejhorší 
+reakce, ale přijmula to.. Bála se, že o mě příde jako o vnouče. Já jsem jí říkal, že jsem 
+furt stejnej, že jsem to furt já, že se nic nezměnilo a že o mě nepříde a tak to pomalu 
+vzala, jo.“
+Otec Denise byl mezi posledními, který se dozvěděl o jeho transgendru, protože 
+Denis choval ke svému tátovi velký respekt. Otec shodou okolností našel Denisův 
+facebookový profil, kde vystupoval jako muž, tudíž Denisův táta na jeho chlapeckou 
+identitu přišel zcela sám, aniž by mu Denis musel cokoli sdělovat. Denisova mužská role 
+byla otcem uznána a společně se svou partnerkou se začali vzdělávat v oblasti poruchy 
+pohlavní identity prostřednictvím literatury:
+„Tátovi jsem se furt připravoval, že to řeknu, ale měl jsem z něj takovej respekt a 
+nevěděl jsem, jako to příme. Nakonec jsem tam jednou přijel a zeptal se mě.. Co 
+znamená ten Denis Novák na facebooku?.. Našel můj profil, jako.. říkám.. No, že jsem 
+kluk, prostě.. A on.. No, tak jo, dobře… A pak to vůbec neřešil. Ten, si myslim, že se s tim 
+pral mnohem víc než máma, ale nedával to vůbec najevo. Vůbec jako nic... vůbec jsem 
+se o tom nebavili, nic. Pak asi po.. asi po půl roce táta se svou přítelkyní.. právě.. že si se 
+mnou chcou promluvit. Dvě hodiny jsme si povídali. Všechno jsme to probrali.. Oni si 
+koupili knížku právě: Transsexualita a jiné poruchy pohlavní identity..“
+68
+Pohled Hynka (bratr Denise)
+Hynek o sobě tvrdí, že z celé rodiny bratrovu změnu pohlavní snášel ze všech 
+nejlépe, protože ho Denis o veškerých změnách ve svém chování a prožívání 
+informoval postupně, tudíž Hynek měl dostatek času na zpracování každé anomálie, se 
+kterou se mu bratr svěřil:
+„Denis mi to všechno říkal z první ruky. Jakoukoli změnu prostě pocítil von, tak prostě.. 
+mě prostě z rodiny, to říkala hned jako prvnímu.. a měl jsem jako dost času na to.. 
+každej ten krok pobírat.. Takže jsem to bral jako že úplně v pohodě..“
+Z Hynkova pohledu se nejhůře s Danisovo transsexualitou potýkala babička, 
+protože se nedokázal vžít do Denisovy situace a domnívala se, že přijde o svou vnučku. 
+Zhruba po dvou letech se babička dokázala přizpůsobit Denisově chlapecké identitě: 
+„Babička to spíš nedokázala pochopit, protože přišla prostě vo vnučku a.. nedokázala se 
+s tim smířit.“
+Hynek popisoval, že otcovi určitou dobu trvalo zpracovat Denisovu 
+transsexuální identitu, ale nakonec přijal pocity svého dítěte a byl nápomocný u své 
+matky, aby Denise také přijala:
+„..taky to bral těžce.. Napřed myslel, že mu jenom něco přelítlo přes nos, že ho to 
+přejde.. A táta jako asi taky.. prostě ňák se s tim smířil.. prostě přijal to jako fakt, že 
+prostě to tak je.. Myslim, že souhlasí s tim názorem, že prostě je to kluk, kterej se 
+narodil v holčičim těle… von jakoby pomáhal babičce, aby to kousla.“
+Hynek vyprávěl, že matka také potřebovala určitý čas na zpracování faktu, že se 
+její dcera cítí být mužem, ale s danou situací se smířila poměrně rychle. Podle Hynka jí 
+nejvíce pomohla situace, kdy společně s Denisem vybírali jeho nové jméno:
+„Tak ze začátku blbě, ale potom nějak začli vybírat jakože spolu méno.. Oba udělali 
+seznam přijatelných jmen.. a z nich potom vybrali jedno. A pak už to začala brát víc 
+v pohodě.. Mamka to teda kousla.. celkem rychle voproti nim (babička, otec).“
+Pohled Lucie (matka Denise)
+Lucie popisovala chvíli, kdy jí Kája oznámila, že se cítí být chlapcem. Nacházely 
+se doma a večer jí byla zaslána sms zpráva, v níž byla Karolína nejasná, ale zároveň 
+naléhavá. Poté Kája za Lucií přišla a ve svých 16 letech se svěřil s tím, že se cítí být 
+69
+mužem. Lucie byla šokována a nechtěla si připustit, že je něco takového možné. 
+V přijetí dané skutečnosti jí pomohlo sezení transsexuálních osob, kde jí bylo 
+vysvětleno vše ohledně poruchy pohlavní identity: 
+„Tenkrát, on mi napsal smsku. Byl támdle v pokojíčku, já byla tady.. tady jsme byli ještě 
+s přítelem a von, že se mnou chce mluvit, jenomže já jsem tu smsku, jsem si přečetla až 
+za dvě nebo tři hodiny. A ted jsem to najednou zjistila.. Já říkám..Ty jo, co se děje? Tak 
+pak za mnou přišel do ložnice, tak jsem to řešili v ložnici, jo. Aaa.. že má tendleten 
+problém.. Když s tím přišel, tak prostě pro mě to byl.. hroznej šok...Byla jsem na ňákym 
+tom jednom sezení, co oni maj, jak tam.. chodí k tý pani doktorce, tak tam jsem s nim
+taky jednou byla..Aby mi jakoby vysvětlila.. Protože jsem furt.. jestli to neni nákej jeho 
+výmysl, jestli si to prostě nevymyslel.“
+Podle Lucie, se její bývalý manžel dlouho smiřoval s dceřinou transsexualitou, 
+ale po čase daný fakt také přijal:
+„Já si myslím, že se s tim nechtěl dlouho smířit.. že to tam bylo hodně i tou babičkou.. 
+Co je můj bejvalej manžel, tak má sestřenici a ona je zdravotní sestra. Tak já sem 
+potom Lindě volala, jestli by mohla s Jardou a babičkou promluvit, aby jim to ona nějak 
+se snažila jakoby vysvětlit.. jakoby nějak prostě zdravotně. Takže vim, že pak tam měli 
+ňáký jakoby sezení mezi sebou.“
+Jak Lucie zmiňovala, nejhůře celou Denisovu změnu pohlaví snášela babička
+(matka bývalého manžela), která měla obavy, že přijde o své vnouče. Denis ji odmítal 
+navštěvovat, protože na něj neustále naléhala, aby byl dívkou. Nyní již babička 
+chlapeckou identitu Denise přijala a mají spolu opět blízký vztah:
+„To tam pak taky nechtěj ňák jezdit, protože ta babička furt, aby byl Kája.. Takže jsem 
+se jakoby snažila taky tý babičce jako.. jakoby i tu cestu tam najít. Teď už je to 
+v pohodě.“
+Lucie dále popisovala reakci své matky, kdy se nemohla smířit s Denisovou 
+transsexualitou a nebyla ho schopna oslovovat chlapeckým jménem:
+„Třeba moje máma, to byl problém, aby mu řekla jinak než Kájo, no.“
+Luciina sestra odsuzovala transsexuální jedince, ale díky zkušenosti z vlastní rodiny 
+názor změnila:
+70
+„Třeba i moje ségra tenkrát.. neuznávala když se támhlety nechávaji přeoperovávat.. 
+Ale pak vlastně, když to v tý rodině máte, tak ten názor změníte.. Když se vlastně 
+setkáte s konkrétním člověkem.“
+Podle Lucie, její partner Luděk k Denisově mužské identitě přistupoval od první chvíle 
+velmi dobře:
+„..bral úplně s klidným přehledem, že ten to vzal..mmm možná z nás nejlíp..“
+Ota
+Matka reagovala na Otův transgender odtažitým chováním a domlouvala mu, 
+aby žil samotářský život a co možná nejvíce se stranil lidem. V jejich vztahu došlo ke 
+zlepšení, kdy Ota během druhé operace, kvůli nastalým komplikacím, málem zemřel:
+„..protože jsem měl trošku komplikace při tý druhý operaci, tak jako byla jediná, kdo za 
+mnou přijel, kdo prostě mi pomoch, protože (eee).. Já jsem tehdy málem vykrvácel.. 
+Vod tý doby je na mě úplně jiná, že prostě možná pochopila, že by mě mohla nějak 
+ztratit. Ale jako z počátku to bylo takový, že prostě jako (eee).. s nikym nemluv, hlavně 
+to na nikoho nezkoušej a takovýdle věci.. že prostě jako sama mi říkala, že prostě jako 
+se mám úplně stranit lidem a žít si prostě ten samotářskej život.“
+V Otových 9 letech došlo k rozvodu rodičů a od té doby byl otec s Otou 
+v minimálním kontaktu. O Otově transsexuální identitě se dozvěděl skrze své známé, 
+protože Ota začal ve škole vystupovat v mužské roli. Otcova reakce na změnu pohlaví 
+byla pro Otu velice zraňující a způsobila to, že spolu zpřetrhali veškeré styky po dobu 
+několika let. Poté otec navázal kontakt s Otou, ale jenom kvůli rodičovské 
+zodpovědnosti:
+„Řekl mi, že potřebuju ňákýho chlapa, aby mi ukázal, kdo je tady chlap a ženská. Takže 
+pak jsem se vůči němu zasek a.. nebavili jsme se hrozně let. Pak se teda nějak rozsek a 
+začal se se mnou ňákou záhadou bavit než mi bylo 18 a pak mi to došlo, no rodičovská 
+zodpovědnost.“
+Otova babička jeho potřebu stát se mužem kategoricky nepřijala a 
+transsexualitu jako takovou absolutně neuznává:
+„Hrozně mi nadávala. Řekla mi, že se za mě hrozně stydí a že jí mám vykat. Tendlensten 
+stav trval asi půl roku. Hlavně mi jako řekla.. To si myslíš, že by tě chtěl nákej chlap 
+nebo ženská? Někoho takovýho.. nákýho takovýho parchanta.. (eee).. pak mi řekla, že 
+71
+ani nemám právo na život a takovýdle věci a.. že prostě takový lidi jako jsem já, by se 
+měli věšet, že by se měli prostě postavit ke zdi a střílet jako to dělal prostě Hitler se 
+Židama.. a podobně.. vyplynovat, prostě úplně vymýtit.. takže to jsem taky docela 
+špatně nes.“
+Otovo sestra potřebovala z celé rodiny nejméně času na zpracování toho, že se 
+Ota cítí být mužem a z rodiny patří mezi ty členy, s nimiž má Ota vcelku dobrý vztah a 
+jeho transsexuální identitu akceptuje:
+„Z její strany to asi bylo jako takový nejchápavější.“
+Další osobou, v Otově rodině u níž našel přijetí, je jeho teta, která žije 
+v zahraničí: 
+„Člověk z ciziny to bral úplně jinak. Vona říkala, že prostě v AAA se s tím stýkají 
+poměrně často. Jenom prostě říkala, že neví, jak se s tím sžijou lidi v Český republice.. a 
+především v tom místě, kde bydlim.“
+Škola 
+Denis
+Na gymnáziu se Denis také nesetkal s problémem, že by jeho chlapecká identita 
+nebyla přijata, i když se potýkal s obavami, jak budou vypadat reakce jeho spolužáků. 
+Největší strach měl ze skupinky třídních „machrů“, ale i tou byl Denis akceptován: 
+„.. ve škole mě taky přijali dobře, co jsem se bál.. Já jsem napsala.. měli jsme 
+facebookovou skupinu, takže na konci srpna jsem to tam napsal.. Napsal jsem.. dal 
+jsem tam odkaz na svůj novej profil na facebooku.. e-mail, že se na mě můžou jakoby 
+obrátit, že mi můžou napsat. Takže asi 3 lidi mi napsali a nejvíc jsem se bál takový.. 
+Jedna parta tam byla v tý třídě, kluků, který jako byli takový jako machři, takový jako že 
+jsou něco víc .. a jeden z nich byl první, kdo se mi ozval, že jsem borec a takhle. To mě 
+jako potěšilo a říkám.. jo takže ta parta bude v pohodě. A vlastně zbytek gymplu byl v 
+pohodě jako.“ 
+Poté, co Denis odkryl svůj transgender ve své třídě, rozhodl se obeznámit s 
+nastalou situací i své učitele. Žádal je, aby k němu přistupovali jako k muži, což všichni 
+akceptovali:
+„Třída už to věděla, tak jsem šel za třídní učitelkou.. Dal jsem jí ten papír a vona, že 
+dobře.. Já jsem si teda vobešel všechny učitele, který mě učili a dal jsem jim ten papír a.. 
+72
+aby mě prostě oslovovali v mužskym rodě, což respektovali.. měl jsem štěstí. Takže jako 
+já jsem byl rád, že jsem si ty učitele obešel sám, že všichni to věděli, respektovali.. 
+Paničelka, co učila vlastně biologii, byla zároveň výchovná poradkyně, tak ta měla 
+jakoby i pár otázek, jakože jí to zajímalo, to téma, tak to jsme si popovídali a.. a bylo to 
+dobrý jako…“
+Ota
+Na základní škole se Ota dostal do konfliktu se svým spolužákem. Celá situace 
+se vyostřila do takové podoby, že Ota byl urážen svými učiteli, protože je transsexuál:
+„.. voni to tehdy celý svedli na mě a ze mě prostě udělali debila.. Řekli, že jsem.. 
+psychicky narušená transka, což si jako myslim, že by učitelé vůbec říct neměli.“ 
+Přátelé
+Denis
+Druhým zasvěceným člověkem (první byl bratr) stala Denisova blízká 
+kamarádka, které Denis prostřednictvím článku sdělil, že se cítí být klukem. 
+Kamarádčina reakce byla také pozitivní a Denisovu transsexuální identitu přijala a dala 
+mu tak odvahu k tomu, aby o svém transgendru řekl i matce:
+„.. jsem našel nákej článek o nákým klukovi a dal jsem jí ho přečíst. A jako říkám, že 
+jako takhle se cejtim taky, a ona jako úplně teda v pohodě a pak mi vlastně dala 
+odvahu říct to tý mamce.“
+Pohled Lucie (matka Denise)
+Lucie popisovala reakci jejího kamaráda, jenž měl přijít na návštěvu. Neměl 
+ponětí, jak by se měl k Denisovi chovat a věděl, že Denise nedokáže oslovit jeho 
+chlapeckým jménem. Návštěva posléze proběhla bez větších komplikací:
+„No ale já nevim, jak se mám k němu chovat.. Já nevim, jak na něj mám 
+mluvit..nedokážu ho oslovit tim ménem.“
+Ota
+73
+Ota kvůli svému transgendru přišel o svého nejlepšího kamaráda, který se cítil 
+být obelhán, protože Ota před ním svou původní dívčí identitu tajil. Do dnešní doby se 
+jim nepodařilo obnovit vztahy a nejsou spolu v kontaktu:
+„On prostě jako, že jsem mu lhal a takhle.. V tu chvíli mě neznal, nebavili jsme se, 
+neměli jsme mezi sebou žádnej kontakt, takže jsem prostě neviděl důvod, proč mu to 
+říkat.“ 
+Pohled Julie (kamarádka Oty)
+Julie se dozvěděla o Otově transsexuální identitě skrze svého kamaráda, který 
+se o Otovi vyjadřoval opovržlivě: 
+„...že ho prostě zná jako holku a začal o něm říkat takový ošklivý věci.. Jako bylo na něm 
+vidět, že má averzi vůči tomu, že je transsexuál.. Vim, že je to osobní informace a měl 
+by si o tom rozhodovat sám.. jako komu to řekne.. že už je to o tý důvěře mezi lidma.“
+Otův stav vyvolal v Julii zájem a začala si o problematice transgendru vyhledávat 
+informace, aby lépe dokázala porozumět této problematice a Otově stavu: 
+„Já jsem se to snažila nějak pochopit, samozřejm, to asi úplně nejde, ale.. různě jsem se 
+snažila hledat na internetu, jak to funguje.. Člověk to potom i dokáže, podle mě, víc 
+pochopit, když o tom zjistí víc věcí… Je mi sympatičtější, když je to přeměna vlastně 
+chlap na ženskou než když je to ženská, co se stane chlapem.“
+Julie byla součástí party Otových kamarádů, v níž nikdo nevěděl, že Ota prošel 
+změnou pohlaví. Po čase se tuto skutečnost dozvěděli a Ota si vyslechl mnoho urážek a 
+došlo i k fyzickému útoku:
+„Pak mu i docela nadávali kvůli tomu, že.. ho jednou i zmlátil ten kamarád. Kluci 
+tohlensto fakt neberou podle mě.. jsou spíš agresivní, že to berou jako urážku svýho 
+pohlaví.“ 
+Zaměstnání
+Denis
+Denis nastoupil do práce, kde již oficiálně vystupoval v roli muže a nikdo o jeho 
+dřívější dívčí identitě neměl tušení. Shodou okolností se v pracovním kolektivu objevil 
+transsexuál FtM, který byl v rané fázi přeměny, a tento člověk byl předmětem pomluv 
+74
+a drbů. Denisova původní dívčí identita byla odhalena jeho bývalý spolužákem, ale 
+Denis se nesetkal s žádnou negací, jež by byla vedena k jeho osobě. Jediná reakce, 
+z pracovního kolektivu na Denisovu původní dívčí identitu, přišla od jedné z kolegyň, 
+jež nevěřila, že Denis byl dříve dívkou:
+„..přede mnou, než jsem tam já nastoupil, právě.. ještě jeden kluk, kterej byl v průběhu 
+změny.. Měl neutrální jméno teprv a.. Byl prostě na začátku a bylo to na něm vidět. 
+Tam byl hodně jakoby pomlouvanej, že ho tam prostě.. hodně jako.. drbaly ty ženský 
+mezi sebou. A.. máma si.. s těma kolegyněma někde byla sednout a voni že ho tam 
+prostě probíraly.. a že by to prostě nedaly bejt.. s takovým chlapem a máma.. prostě 
+tam seděla a .. jako.. mlčela.. že to.. pro ní muselo bejt asi.. tak jako.. hrozný.. Takže 
+máma, pak říká..Prosim tě, hlavně nikde to neříkej.. No.. nakonec se to.. (em) v TTT.. 
+taky rozneslo, ale až asi po.. až když už jsem tam vlastně nedělal... Já jsem tam byl 
+teďka jenom na brigádě.. A jakoby..Žádnej přístup se nezměnil, nic..akorát jedna 
+kolegyně z..(mmm) ke mně přišla a zeptala se mě na to.. A já jako.. Je to pravda.. Prej.. 
+Já tomu nemůžu věřit. Dyť vypadáš jako normální kluk a prostě...To neni pravda.“
+Pohled Lucie (matka Denise)
+Lucie vzpomínala na nepříjemnou situaci, kdy v její bývalé práci začal pracovat 
+transsexuál FtM. Její kolegyně se o tomto člověku vyjadřovaly velice ošklivě a po 
+nějaké době se pracovní kolektiv dozvěděl, že Luciino dítě je také transsexuál. V 
+zaměstnání se k Lucii chovali stále stejně, jako kdyby o ničem nevěděli. Nyní má Lucie 
+novou práci, kde je spokojená, protože všichni jsou seznámeni s Denisovou mužskou 
+identitou i s tím, že byl dříve dívkou:
+„..oni byly tak hrozně hnusný. Teď ty, co jsem znala, tak jsem řekla.. Prosim tě, neříkej v 
+TTT, že Denis je takovej a takovej. Jenomže pak to tam vyplavalo na povrch a byla tam 
+jediná.. jediná holka, která prostě za mnou přišla a ta se mě na to zeptala, nikdo jinej.. 
+Teď pracuju tady v PPP. Tady se mi pracuje hrozně dobře, protože všichni tady tu Káju 
+znali a všichni věděj, že teď je Denis. Takže, já tady si prostě nemusim na nic hrát v 
+uvozovkách, jo.“ 
+75
+Sousedé a známí
+Pohled Hynka (bratr Denise)
+Hynek registroval reakce na Denisovu změnu pohlaví z okolí, kdy lidé byli 
+šokovaní, anebo Denise přijímali bez problémů:
+„Většina lidí byla jako v šoku, že fakt něco takovýho existuje a není to jenom ve filmu. 
+A.. nebo to brali úplně v pohodě.“
+Shrnutí výsledků:
+ Denisovu poruchu pohlavní identity přijala rodina bez větších potíží, každý 
+jednotlivý člen potřeboval určitý čas na zpracování dané situace, ale ve finále byl 
+Denis svou rodinou podporován v konverzi pohlaví a následně přijat jako muž. 
+Největší problémy s Denisovou chlapeckou identitou měla babička, jež nedokázala 
+jeho stav dlouho dobu pochopit, ale i v tomto případě došlo k přijetí Denisovi 
+mužské identity. 
+ Denisovi přátelé jeho potřebu stát se mužem respektovali a přijali jeho novou 
+identitu bez problémů.
+ Denis se v blízkém okolí nesetkal s negativními reakcemi na svou osobu, naopak se 
+mu dostávalo dojmu, že všichni jeho transgender přijímali. 
+ Otovo rodina je silně věřící a puritánská. Jeho potřebu stát se mužem z většinové 
+části nedokázali přijmout a Ota byl ve svém dospívání vystavován neustálému 
+zraňování své osoby. Podporu a láskyplné přijetí, které mu chyběli v rodině, Ota 
+nacházel u svých partnerek. 
+ Ota se také setkal na základní škole s urážkami od pedagogů kvůli svému 
+transgenderu.
+ Otova transsexualita zapříčinila v jeho životě to, že přišel o svého nejlepšího 
+kamaráda, jenž se cítil být Otou obelhán, ale Ota neztratil pouze jeho, po odhalení 
+Otovy dívčí identity se od něj distancovala většina přátel. 
+76
+1.20. Milostný život
+Denis
+V oblasti milostného života Denis nemá žádné zkušenosti:
+„Já jsem.. akorát jako dycky jsem byl platonicky zamilovanej a jakoby.. žádnej pořádnej 
+vztah vlastně do teďka jsem ještě neměl.“
+Pohled Hynka (bratr Denise)
+Hynek se domnívá, že Denis se bojí navázat jakýkoli vztah s dívkou kvůli strachu 
+z intimností:
+„Možná, co si já myslim, že se možná i jakoby, jak by ta holka na to zarágovala.. že 
+prostě, když by prostě mělo dojít k ňákýmu prostě aktu, k ňákýmu sexu, tak prostě, 
+kdyby řek.. No, ale to u mě moc nepude.. Vobčas mi řekne třeba, která holka se mu líbí, 
+ale to sou většinou holky, který jsou třeba zadaný…“
+Ota
+Od 8. třídy, Ota začal s navazováním intimních vztahů s děvčaty:
+„Holky byly zvědavý, takže jsem si taky prošel pár vztahama, a pak jsem narazil na 
+jednu, se kterou jsem byl třičtvrtě roku.“
+Na střední škole Ota navázal milostný vztah s jednou ze svých spolužaček. 
+Protože se jeho partnerka dožadovala intimností, Ota musel přiznat, že byl v minulosti 
+dívkou a sex jako takový, nebude možný. Po zjištění Otovy transsexuality vztah 
+ukončila, ale když nabila dojmu, že okolí Otovo transgender do jisté míry akceptuje, 
+rozhodla se vztah opět obnovit.
+„Měl jsem přítelkyni, která se do mě na seznamováku úplně beznadějně zamilovala, a 
+pak jsem musel jít s pravdou ven, protože ona se se mnou chtěla hned po týdnu vyspat.
+No a vypadalo to špatně a pak teda, když viděla, že to na tý škole docela berou, tak se 
+se mnou dala zase dohromady..“
+Otava mužská role byla uznávána jeho partnerkami, kde také nalezl podporu a 
+přijetí, které z velké části postrádal u své rodiny: 
+„Ty jsem měl vždycky rád, protože dycky mě podržely.. ale prostě v tý rodině, to spíš 
+byla jedna facka za druhou.“ 
+77
+Julie (kamarádka Oty)
+V době, kdy se Julie domnívala, že je Ota obyčejný kluk, uvažovala o něm jako o 
+možném budoucím partnerovi, ale po zjištění, že Ota podstoupil změnu pohlaví, o něj 
+ztratila zájem, ale chtěla s ním zůstat i nadále v kontaktu a navázat s ním alespoň 
+přátelský vztah:
+„Já jsem si myslela.. začala jsem si představovat, že by.. to by šlo (vztah).. Asi mi to 
+příde takový, že jsem možná potom měla takovej blok v hlavě, že.. že když ti dojde, že je 
+to trassexuál, že.. nevim.. asi jo, asi mám ňákej předsudek vůči tomu, ale neuvědomuju 
+si ho, že je to tak jako podvědomě. Dokázala jsem si to takhle představit, ale potom 
+vůbec, už (vztah). Nevim, jestli to zní.. asi vošklivě..“
+Shrnutí výsledků:
+ V oblasti partnerských vztahů nemá Denis žádné zkušenosti. Jeho bratr si myslí, že 
+Denis má strach z navázání bližšího kontaktu s jakoukoli dívkou vzhledem ke své 
+neúplné proměně.
+ Ota začal navazovat intimní vztahy s dívkami, již ve svém dospívání. Prošel si 
+několika vztahy a jeho partnerky mu poskytovaly podporu i láskyplné přijetí, které 
+Ota postrádal ve své rodině. Ota byl jako partner také odmítán vzhledem ke své 
+transsexuální identitě. K dívkám, které Otu odmítl, patří i jeho nynější blízká 
+kamarádka Julie. 
+78
+Diskuze 
+Výzkumná část byla zaměřena na zmapování života příslušníků transgendru od 
+jejich dětství přes změnu pohlaví, až po reakce okolí na jejich novou identitu. Výzkumu 
+se také účastnili rodinní příslušníci a blízká kamarádka, aby doplnili výzkum o svůj 
+pohled na konverzi pohlaví.
+Výzkumný okruh se zabýval následujícími úseky: dětství a dospívání, změna, 
+uvědomění si, reakcí okolí, milostný život.
+Stejně jako (Weiss, 2010) i já mohu konstatovat z výsledků výzkumu, že transsexuální 
+osoby FtM mají averzi k dívčímu oblečení a chtějí se odívat obdobně jako chlapci. 
+Respondent Denis se v dětství oblékal jako kluk a měl krátké vlasy, což okolí mátlo a 
+zaměňovalo Denise za chlapce, i když byl v té době dívka. Hynek podotknul, že jeho 
+bratr Denis, v dětství nejraději nosil volné tričko a tepláky. Maminka Lucie, popisovala 
+Denise jako dívku, která neměla v oblibě šaty ani růžovou baru, spíše preferovala 
+studené odstíny, jako je modrá a zelená. Respondent Ota svůj odporu k dívčímu 
+oblečení dával najevo tím způsobem, že sukně rozstřihával a jako projev revolty bylo, 
+když si Ota došel pro vysvědčení ve fotbalovém dresu.
+Podle Fifkové (2002) dávají transsexuálové FtM přednost v raném věku 
+hračkám, jež jsou určeny pro chlapce a preferují i hry opačného pohlaví. Dalším 
+pozorovatelným jevem je, že tyto jedinci chtějí být součástí kolektivu podle svého 
+psychického pohlaví, tedy děvčata upřednostňují chlapecké skupiny, ve kterých se cítí 
+komfortněji a naopak. V rámci svého výzkumu jsem zaznamenala, že respondent Denis 
+měl jako dítě v oblibě autodráhu svého bratra a se svými kamarády kluky si hrál na 
+vojáky. Ota, jakožto dívka, měl rád stavebnice a velice těžce nesl, když se jeho rodina 
+odstěhovala. Důsledkem změny bydliště přišel o svou chlapeckou partu kamarádů a byl 
+nucen do kontaktu s dívkami, což se mu nelíbilo. 
+Náročná doba pro transsexuální jedince nastává v období puberty, protože se 
+začínájí objevovat sekundární pohlavní znaky. U zástupců FtM se jedná o růst poprsí a 
+spuštění menstruačního cyklu. Transsexuálové FtM se snaží maskovat své poprsí 
+nošením volného oblečení či si stahují hrudník (Fifková, 2002). S tímto jevem se setkala 
+maminka Lucie, jenž narazila v Denisově pokoji na improvizovaný korzet, který si Denis 
+vytvořil z bratrovy vesty a sloužil mu jako pomůcka pro zužování poprsí.
+79
+I transsexuálové zažívají v dospívání první zamilovanost, kdy objektem jejich 
+touhy se stávají kamarádi, spolužáci či učitelé, kteří jsou zástupci stejného biologického 
+pohlaví. V tomto období jsou transsexuální osoby přesvědčené o tom, že jsou 
+homosexuálně orientované, ale v tomto případě nemůžeme mluvit o homosexualitě 
+v pravém slova smyslu (Fifková, 2002). Denis a Ota si ve své pubertě uvědomovali, že je 
+fyzicky přitahují dívky. Ota si během dospívání prošel několika vztahy, zatímco Denis 
+prožíval pouze platonickou zamilovanost a se žádnou dívkou nenavázal bližší vztah. 
+Podle Hynka se Denis obává navázat partnerské vztahy s dívkami kvůli strachu 
+z intimností. 
+Před zahájením konverze pohlaví si každý transsexuál musí projít testem 
+reálného života (Real Life Test, Real Life Experience). Jedná se o krok, kdy si 
+transsexuální jedinci vyzkoušejí žít v roli harmonizující s jejich psychickou identitou. 
+Někteří jedinci již tímto způsobem žijí ještě před zahájením terapie. Tato zkušenost má 
+transsexuálům pomoci zjistit, zda se opravdu cítí uspokojivě v nové pohlavní roli 
+(Rowland, 2008). Součástí této fáze je změna jména a příjmení na neutrální tvar
+(Fifková, 2002). Denis před zahájením Real Life Testu působil po vizuální stránce jako 
+muž, ale stále ve společnosti vystupoval jako dívka. Ke změně jeho jména na neutrální 
+tvar došlo v jeho 17 letech, kdy během výběru nového chlapeckého jména byla 
+Denisovi nápomocná i jeho maminka Lucie. Ota měl zřízené neutrální jméno od 8. 
+třídy.
+Následným krokem je zahájení hormonální terapie, během které FtM osoby 
+užívají androgeny, jež způsobí zhrubnutí hlasu, zmenší se, anebo úplně vymizí 
+menstruační cyklus, dojde ke zvětšení svalové hmoty, zvýší se ochlupení celého těla 
+včetně vousů (Fifková, 2008). U Denise došlo během hormonální léčby ke změnám rysů 
+v obličeji, tuk se začal ukládat do jiných partii těla, zastavil se menstruační cyklus a po 
+půl roce užívání hormonů došlo ke změnám v hlase. Otovy byla nasazena hormonální 
+terapie v 9. třídě.
+V rámci změny pohlaví transsexuálové podstupují několik chirurgických 
+zákroků, kdy cílem těchto operací je, aby se transsexuální jedinci, co možná nejvíce 
+podobali svému vytouženému psychickému pohlaví. (Skoblík, 2006). Mezi tyto operace 
+patří mammaplastika, hysterektomie, rekonstrukce penisu uretry a skrota (Měšťák, 
+2015). Denis i Ota prodělali modelaci poprsí, laparoskopisky jim bylo provedena 
+80
+hysterektomie a oba dva prozatím nepodstoupili úpravu zevního genitálu. Denise 
+odrazuje v podstoupení rekonstrukce penisu to, že v České republice neshledává 
+kvalitu práce lékařů na dobré úrovni ve srovnání se zahraničím. Konkrétněji 
+v Německu, jsou podle Denise výsledků zákroků, v oblasti změny pohlaví, na dobré 
+úrovni a dle jeho očekávání. Ota nepodstoupil úpravu zevního genitálu kvůli 
+nedostatku financí a časové náročnosti, kterou si žádá následná rekonvalescence.
+Jedním z okruhů výzkumného šetření bylo také zkoumání reakcí okolí na 
+transsexuální identitu respondentů. Denisovu poruchu pohlavní identity přijala rodina 
+bez větších potíží, každý jednotlivý člen potřeboval určitý čas na zpracování dané 
+situace, ale ve finále byl Denis svou rodinou podporován v konverzi pohlaví a následně 
+přijat jako muž. Největší problémy s Denisovou chlapeckou identitou měla babička, jež 
+nedokázala jeho stav dlouhou dobu pochopit, ale i v tomto případě došlo k přijetí 
+Denisovi mužské identity. Denisovi přátelé jeho potřebu stát se mužem respektovali a 
+přijali jeho novou identitu bez problémů. Denis se v blízkém okolí nesetkal 
+s negativními reakcemi na svou osobu, naopak se mu dostávalo dojmu, že všichni jeho 
+transgender přijímali. 
+Otovo rodina je silně věřící a puritánská. Jeho potřebu stát se muže, z většinové 
+části nedokázali přijmout a Ota byl ve svém dospívání vystavován neustálému 
+zraňování své osoby. Podporu a láskyplné přijetí, které mu chyběla v rodině, Ota 
+nacházel u svých partnerek. Ota se také setkal na základní škole s urážkami od 
+pedagogů kvůli svému transgenderu. Otova transsexualita zapříčinila v jeho životě i to, 
+že přišel o svého nejlepšího kamaráda, jenž se cítil být Otou obelhán, ale Ota neztratil 
+pouze jeho. Po odhalení Otovy dívčí identity se od něj distancovala většina přátel. 
+Jsem si vědoma toho, že tento výzkum má mnoho nedostatků a omezení. Jako 
+jeden z limitů této práce považuji celkový počet respondentů, kteří se účastnili 
+výzkumného šetření. Dohromady se zapojilo 5 osob z původních 8, přičemž z toho byli 
+2 transsexuálové FtM, 2 účastníci pocházeli z rodinného kruhu prvního respondenta 
+FtM (Denis) a poslední osobou byla blízká kamarádka druhého účastníka výzkumu FtM 
+(Ota). Dalším limitem výzkumu shledávám absenci pohledu rodinných příslušníku u 
+respondenta Oty. Podle etických pravidel se každá osoba účastní výzkumného šetření 
+dobrovolně, tudíž mi nepříslušelo kohokoli do výzkumu nutit. Limitem této práce je 
+také to, že se věnovala pouze transsexuálním osobám FtM a opomenula tak zástupce 
+81
+transgendru MtF. Toto omezení bylo proto, aby se získané informace mezi sebou lépe 
+porovnávaly.
+V rámci mého výzkumu se mi podařilo popsat životní příběhy transsexuálních 
+jedinců, které jsou doplněni o pohledy rodiny a blízké kamarádky. Tato práce je 
+přínosná proto, že ukazuje jedinečné příběhy osob, které trpí poruchou pohlavní 
+identity a je obohacena o pohledy blízkých osob.
+82
+Závěr
+Cílem této práce bylo představit životní cesty transsexuálních mužů od jejich 
+dětství, přes změnu pohlaví, až po reakce okolí na jejich novou identitu. Výzkum je 
+obohacena o pohledy rodiny a blízké kamarádky na konverzi pohlaví těchto jedinců.
+V rámci výzkumného šetření jsem se zbývala okruhy: dětství a dospívání, uvědomění si, 
+změna, reakce okolí a milostný život.
+Dětství a dospívání
+Již v dětství byly u obou transsexuálních respondentů FtM pozorovatelné 
+symptomy poruchy pohlavní identity, mezi které patřily preference chlapeckých hraček 
+a her i vyhledávání chlapecké společnosti. V dospívání u účastníka výzkumu Denise 
+docházelo ke skrývání sekundárních pohlavních znaků, konkrétněji šlo o stahování si 
+poprsí.
+Uvědomění si
+Denis a Ota v pubertě došli ke zjištění, že je fyzicky přitahují dívky. V tomto 
+období si také připustili svůj odklon od normy a definovali se jako zástupci transgender. 
+Dále se u nich začala projevovat čím dál větší potřeba, stát se příslušníkem mužského 
+pohlaví.
+Změna
+Oba respondenti v období dospívání byli nositeli neutrálního jména a 
+podstoupili operativní zákroky, spojeny se změnou pohlaví, jako je mammaplastika a 
+hysterektomie. Jak Denis, tak Ota neprodělali poslední operaci v rámci konverze 
+pohlaví, kdy se jedná o úpravu zevního genitálu.
+Reakce okolí
+Denisova rodina reagovala na jeho poruchu pohlavní identity chápavě a jeho 
+novou mužskou roli přijali bez větší potíží. Sice každý jednotlivý člen potřeboval více či 
+méně času na zpracování této skutečnosti, ale v závěru byla Denisova konverze pohlaví 
+všemi členy podporována a nyní je Denis uznáván jako muž. Denisovi přátelé 
+akceptovali jeho potřebu stát se mužem a Denisova chlapecká identita byla přijata bez 
+83
+výhrad. Denis se nesetkal ve svém blízkém okolí s lidmi, kteří by na jeho transgender 
+reagovali negativně, naopak se mu dostávalo dojmu, že všichni jeho transsexuální 
+identitu uznávají.
+Odezva Otovy rodiny na jeho potřebu stát se mužem nebyla vůbec přívětivá. 
+Pochopení a přijetí Ota nacházel u svých partnerek, které mu tento deficit částečně 
+kompenzovaly. Ota se dále ve svém životě potýkal s tím, že kvůli své transsexualitě 
+přišel o většinu svých přátel.
+Milostný život
+V oblasti milostného života nemá Denis žádné zkušenosti a do dnešní doby 
+nenavázal vztah se ženou. Ota započal svůj intimní život již v dospívání, kdy si také 
+prošel několika vztahy, nyní je bez partnerky. 
+Tato práce měla poukázat na spletitý život transsexuálních jedinců, kdy se 
+během svého vývoje potýkají se zmateností a pocitem určitého vyčnívání ze 
+společnosti, což by pro každého člověka bylo značně náročné. Proto je důležité, aby 
+tito jedinci měli oporu a pochopení u své rodiny i blízkých, ale aby také nalezli 
+porozumění u svého okolí. 
+84
+Seznam použitých zdrojů a literatury
+Barrett, J. (2007). Transsexual and Other Disorders of Gender Identity: A Practical 
+Guide to management. London: CRC Press.
+Cohen-Kettenis P. T. & Gooren L. J. (1999). Transsexualism: A review of etiology, 
+diagnosis and treatment. Journal of Psychosomatic Research, 46(4), 315–3.
+Cohen-Kettenis, P. T. & Pfäfflina, F. (2003). Transgenderism and Intersexuality in 
+Childhood and Adolescence: Making Choices. London: Sage Publications Ltd.
+Diamond, M. (1982). Sexual identity, monozygotic twins reared in discordant sex 
+roles and a BBC follow-up. Archives of Sexual Behavior, 11(2), 181–186. 
+Dörner, G. (1991). Gene- and Environment-Dependent Neuroendocrine 
+Etiogenesis of Homosexuality and Transsexualism. Experimental and Clinical 
+Endocrinology & Diabetes 98(2), 141–150.
+Feinberg, L. (2000). Pohlavní štvanci. Praha: G plus G.
+Fifková, H. (2002). Transsexualita: diagnostika a léčba. Praha: Grada Publishing.
+Fifková, H. (2008). Transsexualita a jiné poruchy pohlavní identity (Vyd. 2). Praha: 
+Grada.
+Frederick, L. (2002). The Heritability of Gender Identity Disorder in a Child and 
+Adolescent Twin Sample. Behavior Genetics, 32(4), 251–257.
+Gates, G. J. (2011). How many people are lesbian, gay, bisexual, and transgender? 
+The Williams Institute, UCLA School of Law
+Gooren, L. J. G. (1990). The endocrinology of transsexualism: A review and 
+commentary. Psychoneuroendocrinology, 15(1), 3–14.
+Hendl, J. (2012). Kvalitativní výzkum: základní teorie, metody a aplikace (3. vyd). 
+Praha: Portál.
+Jarolím, L. (2012). Chirurgická konverze u transsexualizmu. Dermatologie pro praxi, 
+6(4), 188–191
+Kasten, H. (2006). Ženy - muži: [genderové role, jejich původ a vývoj]. Praha: Portál.
+Knappová, M. (2008). Naše a cizí příjmení v současné češtině. Liberec: AZ KORT.
+Malá, E. & Hrdlička, M. (2003). Transsexualismus. Česká a slovenská psychiatrie, 
+99(5), 273–277
+85
+Matsumoto, D. (2009). The Cambridge dictionary of psychology. New York: 
+Cambridge University Press.
+McConaghy, N. (1993). Sexual Behavior: Problems and Managemen. New York: 
+Plenum Press
+Měšťák, J. (2015). Základy plastické chirurgie. Univerzita Karlova v Praze: 
+Karolinum.
+Money, J. (1975). Ablatio penis: normal male infant sex-reassigned as a girl. 
+Archives of Sexual Behavior, 4(1), 65–71.
+Monstrey, S. (2007). Principles of Transgender Medicine and Surgery. New York: 
+The Haworth Press
+Nakonečný, M. (2009). Psychologie osobnosti (Vyd. 2., rozš. a přeprac). Praha: 
+Academia.
+Roberto, L. G. (1983). Issues in diagnosis and treatment of transsexualism. Archives 
+of Sexual Behavior, 12(5), 445–473.
+Rowland, D. (2008). Handbook of Sexual and Gender Identity Disorders. New 
+Jersey: John Wiley & Sons, Inc.
+Řiháček, T., Čermák, I., & Hytych, R. (2013). Kvalitativní analýza textů: čtyři 
+přístupy. Brno: Masarykova univerzita
+Skoblík, J. (2006). Transsexualismus: morálně- a duchovně-teologické aspekty. 
+Praha: Karolinum.
+Smolík, P. (1996). Duševní a behaviorální poruchy: průvodce klasifikací, nástin 
+nozologie, diagnostika. Praha: Maxdorf.
+Weiss, P. & Fifková, H. (2010). Poruchy pohlavní identity v dětství a v dospívání. 
+Pediatrie pro praxi, 11(3), 174–176. 
+Weiss, P. (2010). Sexuologie. Praha: Grada.
+Přílohy
+Přepis rozhovoru Denis
+A: Když jsme si psali, tak si mi říkal, že žádnej tvůj kamarád neví, že jsi prodělal 
+přeměnu pohlaví. Můžu se zeptat, jak je to možný, že si to nikomu řek?
+B: Takhle (hmmm) Jako z těch současnejch kamarádů. Právě... Protože nevyprávim... 
+Co jsem začal chodit na tu vošku, tak vlastně jsem byl vlastně po přeměně... tak 
+jakoby... méno všechno vyřešení takže... Když by se mě někdo zeptal, tak jakoby 
+netajim se tim, ale prostě nezmiňuju to prostě, takže... Samozřejmě, ty co chodili se 
+mnou na gympl, tak to vědí, že jo, ale s těma se už nějak nebavím a všichni jsme se 
+nějak rozutekli po různejch školách...
+A: Jak celkově probíhala tvoje proměna? 
+B: Když začnu už úplně od začátku od dětství. Já mám mladšího bráchu a my jsme 
+vyrůstali spolu a jakoby jsme si hráli se stejnýma hračkama prostě všechno. On po mně 
+dědil jakoby a věděl jsem jakoby později na základce, že je jakoby něco jinak. Ale 
+nevěděl jsem, jakoby co. Nedokázal jsem to identifikovat.
+A: S jakýma hračkama (B odpovídá)
+B:Hráli jsme si právě. Měli jsme autodráhu, jezdili na kole, hráli jsme si na vojáky... Jako 
+řeknu typický klučičí hry..Já jsem měl další hračky, protože mám tři bratrance a jednu 
+sestřenici, starší všechno. Takže jako jsem měl hračky právě po nich, jak panenky, tak 
+prostě autíčka. Nejvíc jsem měl těch klučičích hraček a tíhnul jsem k tomu víc. Když 
+brácha dostal autodráhu, tak jsem si s ní hrál víc než on. No... a co
+A: Preferoval si teda klučičí hračky a jak to dál pokračovalo? 
+B: Na základce... když jsem byl menčí, tak jsem měl i jakoby krátký vlasy. Často si mě s 
+klukem pletli. No a... 
+A: Ty si chtěl mít kratší vlasy? Netoužil si mít dlouhý?
+B: To ne. Mě to prostě ... Máma mi řekla di se ostříhat a prostě jako jsem to neřešil a 
+bylo mi to jedno. Na základce to probíhalo, že jsem měl hodně kluky kamarády, který 
+se mnou lítali po venku na tom první stupni a druhým stupni se to začlo... už jsem... už 
+jsem cejtil tu společno a ten nátlak, že bych se měl chovat jako holka. Tak jsem si 
+nechal narůst delší vlasy, začal jsem se víc oblákat jako holka. Do tý doby jsem nosil 
+jakoby klučičí oblečení a to byla šestka sedmička. V osmičce jsme se přestěhovali, 
+protože se rodiče rozvedli.. a tak jsem byl na nový škole a tak jako mě přijeli dobře a 
+pak se stalo, že jsem se zamiloval do spolužačky a to byl vlastně první impulz, že jsem 
+jako... Že aha... něco.... neco se děje. To bylo úplně jako na začátku, to byla půlka 
+osmičky. Ona přišla asi o měsíc dřív než já, takže tam byla taky nová. Tim jsme se začali 
+hodně bavit a v tý době ona měla přítele. I když jako... ve třinácti letech... to jsou 
+takový ty dětský lásky a měla přítele prostě... Takže jsem věděl, jako že # nebudu a jako 
+i to bylo jako pro ní...řeknu... divný. Prostě jsem byl holka, takže... Nakonec jsem jí to 
+řek... Na rozlučáku a vona jako že ... se omlouvá, ale že jako neni na holky a tak... 
+Jako... Byl jsem rád, že to ze mě spadlo, ale furt jsem cejtil, že to prostě neni ono, že 
+jako.... sice se mi líbí holky, ale že bych se v tom vztahu necejtil správně... jako... jako 
+holka... a... vlastně v momentě, když mi bylo těch čtrnáct, jsme viděl nákej seriál 
+myslim a tam právě... Byla vlastně holka, který bylo třináct a narodila se jako kluk.. 
+takže vystupovala jako kluk. Brala blokátory právě a ... a říkám ahá.. Už jsem se v tom 
+trošku viděl, takže jsem o tom začal o tom tématu trochu víc hledat a .. vlastně jsem se 
+k tomu dostal, že jo. To jsem.. To jsem já, ale v tu dobu jsem si řek, že to... Že to 
+nikomu neřeknu.
+A: A proč?
+B: Protože, prostě.. Já nevim.. Prostě jsem si řek, že to prostě nebudu říkat, že to 
+nebude řešit, že prostě.. ale to mi moc dlouho nevydrželo a řek jsem to, jako prvnímu 
+bráchovi
+A: Ten to jak přijal?
+B: Právě že super. První jako... Nevím, co se odehrávalo v něm, ale první věc, kterou řek 
+bylo: „Já jsem chtěl vždycky bráchu." (smích)
+A:(smích)
+B: V tu dobu se mi nějak ulevilo, že to věděl brácha a to mi bylo, řeknu asi 16. A už jsem 
+se začal víc stylizovat právě, že jsem si nechal ostříhat vlasy, nosil jsem už klučičí 
+oblečení jo. Zase si mě pletli, normálně mi řekli, jo.. Jel jsem ve vlaku a tam byly ňáký 
+děti s maminkou a já jsem koukal na oba a začal jsem se smát a ten jeden kluk malej: 
+„Podívej se, ten chlapeček se směje.“ (smích)
+A: (smích)
+B: Tohle bylo opravdu příjemný a to mi bylo ňákejch těch 16. Asi dva roky.. necelý dva 
+roky jsem to zase nikomu neřek. Pak mi bylo vlastně... 17... Bylo to myslim, že 1.dubna 
+na apríla.. řek jsem si, že to musim začít řešit a .. Takže jsem se objednal k paní 
+doktorce Fifkový, sexuoložce.. a objednala mě na 10. června. Říkal jsem si, ty vole..
+Nemůžu ject do Prahy aniž by prostě máma o tom věděla, že někam jedu. Takže jsem jí 
+to 10.dubna... vlastně potom, co jsem se tam objednal, řek. S tim, že jsem jí nejdřív 
+napsal e-mail, že jí potřebuju něco říct, ale že nevím jak.. Jakmile jsem ten e-mail 
+odeslal, tak jsem za ní šel.. a řek jsem jí to. Ona už před tim věděla, že se mi ta 
+spolužačka líbila. Věděla o tom, že jsem se zamiloval do holky.
+A: Jak to zjistila? 
+B: No, to jsme byli v autě a ona viděla, že jsem nějak zamyšlenej, něco prostě to..a že 
+jsem se zamiloval, a že právě do Zuzky, jako do spolužačky. A jako reakci si už 
+nevybavuju, ale jakoby pozitivně.. Nesetkal jsem se jakoby s žádnou očividně negativní 
+reakcí.. Takže máma, když jsem jí to řek, tak první reakce byla: „To mi chceš říct jenom 
+todle?"(smích) Takže dobrý.. a pak jsem si šel lehnout a máma mi poslala smsku: 
+„Neboj se, všechno to spolu zvládneme." Takže to bylo... Asi se s tim taky jakoby 
+musela sama prát prostě jako... ale .. pro mě to bylo důležitý, že .. řekla todle.. No.. 
+takže pak jsem začal docházek k paní doktorce Fifkový a pak jsem v září.. ve druháku.. 
+třeťáku... Na začátku třeťáku jsem to oznámil ve škole. Byl jsem uvolněnej z tělocviku, 
+takže jsem nemusel ani s holkama ani s klukama, prostě jsem byl úplně uvolněnej.. A.. 
+ve škole mě taky přijali dobře, co jsem se bál.. Já jsem napsala.. měli jsme 
+facebookovou skupinu, takže na konci srpna jsem to tam napsal.. Napsal jsem.. dal 
+jsem tam odkaz na svůj novej profil na facebooku.. e-mail, že se na mě můžou jakoby 
+obrátit, že mi můžou napsat. Takže asi 3 lidi mi napsali a nejvíc jsem se bál takový.. 
+Jedna parta tam byla v tý třídě, kluků, který jako byli takový jako machři, takový jako že 
+jsou něco víc .. a jako.. a jeden z nich byl první, kdo se mi ozval, že jsem borec a takhle. 
+To mě jako potěšilo a říkám: „Jo takže ta parta bude v pohodě.“ A vlastně zbytek 
+gymplu byl v pohodě jako... ale... když jsem to vlastně oznámil ve škole, tak v tu dobu 
+to ještě nevěděl ani táta ani babička. To už jsem všude jinak vystupoval jako kluk, ale 
+jakmile jsem jel k tátovi... tak prostě... tak jsem musel hodit ženskej rod a všechno.
+A: Proč zrovna u těhle dvou?
+B: Protože, táta s babičkou bydlej spolu. Jo.. a .. Já jsem to jakoby babičce řek. Jo, že se 
+tak cejtim, jako kluk.. a že bych to chtěl řešit a ona jako se z toho skoro psychicky 
+zhroutila. Do toho měla jakoby zdravotní problémy nějaký, že jako měla jít na ňáký 
+vyšetření, jestli je to rakovina, neni. Nakonec to dopadlo dobře a tak jsem jí řek: „Neboj 
+se, ještě du na ňáký vyšetření.“ Jo, že prostě... aby byla v tu dobu v klidu... A pak.. 
+tátovi jsem se furt připravoval, že to řeknu, ale měl jsem z něj takovej respekt a 
+nevěděl jsem, jako to příme. Nakonec jsem tam jednou přijel a zeptal se mě: „Co 
+znamená ten Denis Novák na facebooku?“ Našel můj profil jako.. říkám: „No..že jsem 
+kluk prostě.“ A on: „No.. tak jo, dobře.“ A pak to vůbec neřešil. Ten si myslim, že se s 
+tim pral mnohem víc než máma, ale nedával to vůbec najevo. Vůbec jako nic... vůbec 
+jsem se o tom nebavili, nic. A babičce jsem to pak teda... asi po půl roce.. už jsem bral 
+od prosince hormony a už jsem byla asi dva nebo tři měsíce na hormonech, tak že mám 
+náký ty vyšetření za sebou u psychologů a že se to potvrdilo, že jsem jako fakt kluk a 
+vona to brala hodně tak jako... jako bála se, že o mě příde jako o vnouče a takhle. Já 
+jsem jí říkal, že jsem furt stejnej, že jsem to furt já, že se nic nezměnilo a že o mě 
+nepříde a tak to pomalu vzala jo. Přeříkávala se ze začátku, ale tak to je u všech. To je 
+zvyk. Tam už to bylo dobrý.. pak asi po.. asi po půl roce táta se svou přítelkyní právě, že 
+si se mnou chcou promluvit. Dvě hodiny jsme si povídali. Všechno jsme to probrali a od 
+tý doby se to jako zase neřešilo. Oni si koupili knížku právě: Transsexualita a jiné 
+poruchy pohlavní identity, takže to si oni vlastně přečetli a to si koupili, aniž bych o tom 
+věděl. Já jsem tu knížku měl taky, tak no... No a vod tý doby vlastně už, pak jsem všude 
+vystupoval jako kluk i u táty s babičkou, což jako bylo super, už. A právě nejtěžší bylo to 
+období, kdy vlastně.. To září už ve škole jsem vystupoval jako kluk a u táta a babičky ne. 
+Prostě na Vánoce nadepsaný dárky starým jménem a to bylo... přitom u mamky to už 
+bylo všechno super.. No.. a ještě, než jsem to řek mámě, tak jsem to řek jedný 
+spolužačce, se kterou jsme chodili na vlak, tim stylem, že jsem našel ňákej článek o 
+ňákym klukovi a dal jsem jí ho přečíst. A jako říkám, že jako takhle se cejtim taky, a ona 
+jako úplně teda v pohodě a pak mi vlastně dala odvahu říct to tý mamce. A právě 
+třeba... Já se omlouvám, že přeskakuju, ale..
+A: To nevadí 
+B:(smích)
+A:(smích)
+B: U babičky jsem si říkal: „Jo, ta to příme jakoby dobře, ta mě podpoří.“ Prostě že.. 
+jsem si řekl, že jí to řeknu mezi prvníma a vona prostě nakonec, řeknu.. to byla jakoby 
+nejhorší reakce, ale přijmula to a ... jako je ráda, že mě má, protože já s ní.. Já tam 
+bydlím s nima, takže vozím jí po návštěvách, vozím jí po nákupech, takže je ráda, že mě 
+má.
+A: První byl teda brácha (B odpovídá)
+B: První byl brácha 
+A: A druhá (B odpovídá)
+B:Pak ta kamarádka 
+A: A pak teda mamka
+B: Mamka.. pak jsem to nějak naznačil tý babičce, ale pak vlastně nakonec byla až ... 
+určitě byla jakoby poslední.
+A: Tak jo. No a jak teda probíhala dál tvoje změna?
+B: Takže, v červnu jsem začal docházet k paní doktorce Fifkový. O prázdninách mi dala 
+papíry na vyřízení neutrálního jména a papír do školy, takže jsem si v září začal 
+vyřizovat netrální jméno. S tim, že mi ještě nebylo 18.. s tim, že 18 mi bylo v prosinci. 
+Tak.. jsem potřeboval souhlas obou rodičů. U neutrálního jména je potřeba souhlas 
+obou rodičů. Pokud by nebyl...# souhlas jednoho rodiče, tak se to musí řešit soudně. 
+Táta teda souhlasil. To bylo vlastně... To jsem mu řek, už to vě.. nebo řek... On to 
+vlastně zjistil sám (smích)
+A:(smích)
+B: A pak vlastně, dal jsem mu to doma podepsat. On to podepsal, no a pak.. se to 
+někdy.. zaseklo, že vlastně. Doručili mu ňákej ten dopis, ale pošta.. neposlala něco.., že 
+jakoby to bylo doručený...Tátovi to doručili. Pošta měla něco poslat, že to bylo 
+doručeno a od tý doby měla uplynout 30 dní lhůta, jakoby na odvolání. No.. ale pošta 
+to neposlala, takže se to o měsíc protáhlo,.. takže místo 30 dnů.. nebo.. měsíce a půl, 
+tak to trvalo skoro... skoro až do toho prosince, kdy mi už vlastně bylo 18 a kdyby se to 
+dalo, prostě... vyřídit .. rovnou sám, prostě. 
+A: (ehm)
+B: No ale tak, pak jsem .. nakonec měl neutrální jméno.. Paní na matrice vůbec 
+nevěděla o co de jako.. vůbec neměla zkušenosti, protože to.. Na malým městě 3 000 
+obyvatel..., takže to bylo zajímavý. Takže jsem si našel ňáký jméno, tak jsem ho tam 
+napsal.. Pak druhej den mi volala, že to nejde. Že.. Denis.. To bylo v seznamu, tak jsem 
+ho tam napsal a vona, že to nejde, takže Dennis s dvěma n. Pak mi zase za tejden 
+volala, a že to zase nejde, tak Denis s jedni n. # Mě je to jedno, hlavně ať tam prostě 
+něco je.. ať je to brzo hotový. No, nakonec se to protáhlo teda.. ale..dobrý. Ale ve škole 
+už mě normálně oslovovali Denisi.. tam jsem vlastně...(ehm) Přines jsem papír od paní 
+Fifkový, kde to bylo vlastně popsaný a ten jsem si nakopíroval a.. První jsem šel.. Třída 
+už to věděla, tak jsem šel za třídní učitelkou... Dal jsem jí ten papír a vona že: „Dobře.“ 
+Že to řekne teda na.. poradě, ale že to bude až.. bylo pondělí, že bude ve čtvrtek.. Já 
+jsem řek: „Dobře.“.. Já jsem si teda vobešel všechny učitele, který mě učili a dal jsem 
+jim ten papír a..# aby mě prostě oslovovali v mužským rodě, což respektovali # měl 
+jsem štěstí. Ne na všech školách se to děje.. Takže to.. Takže to bylo dobrý.. A paní 
+učitelka, pak ta třídní mi říká: „Že to na tý poradě neřekla, že vlastně nemůžu, protože 
+mi ještě neni osumnáct a potřebuje souhlas rodičů.“
+A: (ehm)
+B: Přitom na jiných školách to bez problémů šlo..
+A: (ehm)
+B: Takže jako já jsem byl rád, že jsem si ty učitele obešel sám. Že všichni to věděli, 
+respektovali.. Paničelka, co učila vlastně biologii, byla zároveň výchovná poradkyně, tak 
+ta měla jakoby i pár otázek, jakože jí to zajímalo, to téma, tak to jsme.. si popovídali a.. 
+a bylo to dobrý jako ... No a pak vlastně ve škole byl ještě jeden kluk, taky. 
+A: (ehm)
+B: (ehm)... Tak k tomu se ... dostanu, takže vlastně.. V tendle moment jsem .. si 
+vyřizoval to neutrální jméno ve škole a už jsem vystupoval jako kluk vlastně.. a.. v 
+prosinci, jakmile mi bylo osumnáct, tak vlastně jsem dostal hormony..
+A: (ehm)
+B: Před hormonama vlastně se musí eště na endokrinologii na vyšetření a vlastně to 
+trvá nejdýl.. protože jinak bych moch dostat už mnohem dřív, protože na hormonech 
+stačí souhlas pouze jednoho rodiče.
+A: (ehm)
+B: Takže mamka by mi to podepsala.. a protože vlastně.. a to jsem se objednávala na 
+endokrinologii eště dřív než jsem .. šel poprvý k pani doktorce Fifkový. Eště než mi 
+řekla, že se mám objednat. A vobjednali mě na listopad.. a vobjednával jsem někdy, 
+řeknu v květnu. 
+A: (ehm)
+B: A.. ještě je tam potřeba vyšetření z interny.. a eště psychologický vyšetření, jestli 
+prostě, aby se vyloučily nějaký jakoby ehm... schizofrenie a různý prostě ty.. psychický 
+onemocnění, aby se vyloučily. Takže.. to jsem všechno podstoupil a v prosinci jsem 
+moch začít brát hormony.. # na noc se vlastně.. práškama, tabletkama.. kdy jsem 
+vlastně najížděl postupně. Začínalo se vlastně, jedna ráno, jedena večer. Jedna ráno, 
+jedna odpoledne, jedena večer.. a nakonec dvě ráno a dvě večer... a to bylo vlastně dva 
+měsíce # se to postupně navyšovalo a po dvouch měsících.. začly injekce.
+A: (ehm)
+B: A.. ty byly vlastně.. první sustanon byl po třech týdnech.. ty byly tři injekce po třech 
+týdnech.. a pak, já jsem přešel na nebido, který se píchá pouze jednou za tři měsíce.
+A: (ehm)
+B: A... ještě vlastně do.. hysterektomie do.. operace, tak se braly i ty tabletky současně, 
+a vlastně až po operaci hysterektomií a adnexetomií sou jenom ty injekce.
+A: (ehm)
+B: Takže to.. tak nějak.. Tak doba, kdy jsem byl na hormonech, neutrální méno.. už to 
+všichni věděli, tak to bylo v pohodě..
+A: (ehm)
+B: A.. začal jsem si pak zařizovat.. Protože jsem měl větší prsa, takže jsem moch jít i 
+před komisí.. na operaci. Takže jsem musel znova k psychologovi, aby vlastně.. (ehm).. 
+Vodsouhlasil vlastně to, že můžu jít před komisí..(ehm) na tu operaci a.. nakonec to 
+vyšlo tak, že vlastně jsem šel v řínu na operaci, v listopadu ke komisi a v prosinci na 
+druhou operaci.
+A: (ehm)
+B: # Oni doporučujou minimálně.. dva měsíce mezi tim rozestupem, což já jsem vlastně
+měl. Říkaj, že mnohem lepší je půl roku mezi operacema, ale.. já jsem to vzal..# 
+nadvakrát no.. dva měsíce.. takže.. a jako bylo to v pohodě.
+A: Jak si snášel ty hormony?
+B: (hm) Dobře a vlastně.. jako.. mě se strašně jakoby ulevilo. Na jednu stranu a.. pak 
+eště vlastně jsem začal bejt jakoby mnohem víc otevřenější. Já jsem předtim jsem byl.. 
+jako.. hodně jako introvert, prostě jsem se s nikym moc nebavil, prostě nikam jsem 
+moc nechodil. # začínal bejt pak sám sebou a nakonec jsem se začal víc s lidma bavit.. 
+jo.. a hlavně pak už... když už vlastně jsem podstoupily ty změny.. Mezi prvníma změna 
+jsem si všimnul právě, že se změnily i jakoby trochu rysy v obličeji.
+A:(ehm)
+B: Což jsem nečekal jakoby... fakt už jenom na těch.. práškách, jo. Takže to jakoby.. ono 
+to vypadlo jak skoro jakoby na teď # prostě jakoby širší a vlastně.. (ehm) 
+předistribuoval se ten tuk, takže jakoby to.. bylo.. a pak vlastně, jo. Hned na začátku se 
+mi zastavila menstruace, takže to bylo jako.. to byla úleva (smích)
+A:(smích)
+B: Dobře, někdo to má třeba až do operace, právě. To jako.. to je masakr. No takže to.. 
+to bylo super.. a.. pak vlastně jsem.. asi po půl roce se mi začal měnit hlas. 
+A:(ehm)
+B: Takže jsem si pak nahrával i jako ten hlas.. jak se mění a.. ten hlas se ustálil tak po 
+roce, po roce a půl. No.. a vlastně .. jo značne růst víc ochlupení, prostě všude.. (ehm). 
+Právě na hru.. hrudník začal asi až po těch dvou letech a ty ruce začaly trochu víc, ale i 
+tak.. # se porovnám s ostatníma klukama, tak já mám prostě málo chlupatý ruce a jako 
+když.. jsem vidět a jako.. já to nějak neřešim prostě. Mě je to jedno, ale.. když jsem 
+viděl ňáký kluky před hormonama, jak prostě maji chlupatý nohy. To bylo 
+úplně..(smích) Jak je to možný? (smích)
+A: (smích)
+B:(smích) No, takže.. Největší změny, byl vlastně asi ten hlas.. jakoby.. Co to okolí 
+jakoby.. vnímalo.
+A:(ehm)
+B: A vlastně ty lidi, který jsem vidál.. jakoby denně, pravidelně, tak ani.. ty změny, tak 
+neviděli, protože byly pozvolný. Ale když jsem.. někam šel třeba po půl roce, po roce, 
+tak jako.. tam jako byly ty změny viditelnější.
+A: (ehm)
+B: A pro mě jakoby.. # vnitřní ta změna byla nejlepší v tomdle, jak jsem se prostě víc 
+otevřel tomu světu a začal jsem víc jakoby komunikovat.
+A: (ehm) No a po tý operaci teda.. Jak si se cítil?
+B: No.. První jsem šel právě na operaci prsou na mastektomii. To jsem.. šel do BBB.. a.. 
+tam vlastně.. Já jsem to měl jakoby bez problémů, vůbec jako.. prášky.. nebo léky na 
+bolest mi dávali asi první den a vlastně jsem měl.. Nastoupil jsem v neděli.. pondělí 
+jsem šel na operaci a ve středu ráno jsem šel domů.
+A: (ehm)
+B: Takže ve středu ráno mě.. Já jsem myslel, že pudu tak ve čtvrtek. Ve středu ráno 
+takže.. už byla ráno vizita, takže mi už řekli, že du domu. Takže jsem hned volal tátovi, 
+aby pro mě přijel.
+A: (ehm)
+B: Takže.. Doma.. my to máme asi dvacet minut autem.. takže jako jsem byli 
+domluvený, že mu dám vědět.
+A: (ehm)
+B: A že by pro mě přijel. V autě do bylo.. dobrý. Sice.. vlastně.. jsem dostal takovou 
+kompresní vestu.
+A: (ehm)
+B: A.. vlastně aby to.. ty otřesy byly trošku cejtit, ale s tou kompresní vestou to.. nebylo 
+tolik a byl jsem doma asi tři týdny ze školy, no.
+A:(ehm)
+B: Vlastně to byl říjen.. Říjen a bylo to ve čtvrťáku.
+A: (ehm)
+B: Na začátku čtvrťáku
+A: (ehm)
+B: To bylo.. Já jsem nikdy neměl. Já jsem měl vždycky jakoby vyznamenání ve škole 
+skoro nebo jsem měl akorát trojku z němčiny, ale.. Jinak vlastně jsem neměl ve škole 
+problémy, takže.. Mi i učitelé vyšli vstříc, takže..
+A: (ehm)
+B: S tou absencí..a takže.. pak jsem.. byl asi tři týdny doma, pak jsem šel normálně do 
+školy.. a hojilo se to dobře.. prostě.. žádný komplikace..
+A: (ehm)
+B: Chodil jsem na kontroly pravidelně do BBB, právě a.. Nemůžu si stěžovat na jejich 
+přístup..
+A: (ehm)
+B: Normálně jsem byl na pánskym pokoji. Byl tam ještě jeden kluk, kterej šel na..# 
+plastice a ten šel.. měl něco s nosem, a že jakoby nějak nemoch dýchat nosem.. Někdy 
+dávaj, když je nás tam víc, tak vlastně nás dávaj společně na pokoj.
+A: (ehm)
+B: V tu dobu jsem tam byl sám, takže..takže.. v nemocnici jako dobrý. Nemůžu si 
+stěžovat.. Takže pak v listopadu.. byla komise. To vlastně.. jsem.. # pani doktorka 
+Fifková posílá sama, jakoby žádost, že.. Já jí.. jenom podepíše náký papíry a..
+A:(ehm)
+B: Některý sexuologové to dělaji tak, že .. ty klienti musejí sami podat žádost.
+A: (ehm)
+B: Takže..takhle je to, že.. Ona to poslala za mě.. Komise pro mě byla.. formalita prostě 
+jsem tam přišel, pět minut jsem mluvil, uvnitř.
+A:(ehm)
+B: Oni se mě zeptali na pár věci a.. šel jsem ven. Když jsem zjistil, že tedka.. formalita.. 
+to asi moc neni, protože.. jedný holce to teďka nepovolili..
+A:(ehm)
+B: A komise vlastně má platnost vlastně dva roky.. a do...# do těch dvou let.. se musí.. 
+začít # musí provést hysterektomie, vlastně úřední přeměn pohlaví.
+A: (ehm)
+B: Pokud se neprovede, tak se musí znova ke komisi.
+A:(ehm)
+B:I když někdo třeba začne.. a pude jenom na operaci prsou tak.. ale nestihne do těch 
+dvou let vlastně..(ehm) tu hysterektomii, tak musí znovu.
+A: (ehm)
+B: A pak..třeba..když de člověk na.. prvně na hysterektomii a pak až na operaci prsou, 
+tak..to nevadí, když už je to po tý komisi, protože už má vlastně oficiálně méno za 
+sebou, protože má vlastně..mužský rodný číslo..#
+A:(ehm)
+B: Pro mě.. to byla vlastně formalita u tý komise a už jsem byl právě objednaný.. už 
+někdy vo prázdninách jsem se objednával na AAA.. Právě na hysterektomii.
+A: (ehm)
+B: A.. tam mě objednali právě.. aby mi to vyšlo, že.. bude komise, než mi přídou papír z 
+komise, tak aby to akorát vyšlo.. po komisi, takže někdy na začátku prosince.. jsem šel 
+na druhou operaci a .. bez komplikací.. Bylo to laparoskopicky, takže já jsem skoro 
+druhej den nevěděl, že jsem na ňáký operaci byl.
+A: (ehm)
+B: Mě prostě jakoby nic nebolelo a tam jsem nastoupil taky v neděli. Operace byla taky 
+v pondělí a šel jsem domů v pátek..
+A: To byla.. taky rychlost docela 
+B: (smích)
+A: (smích)
+B: To byla.. taky a právě to.. Já jsem nevěděl jestli mě pustěj až jako v pondělí.. nebo už 
+v pátek, takže já s tátou na telefonu.. Zase pro mě přijel.. No.. a.. To bylo.. úplně.. Já 
+jsem skoro nic necejtil .. vůbec jako žádná komplikace.. Vlastně po... operaci prsou.. 
+jsem nebyl na jipce.. To mě odvezli rovnou na pokoj.
+A: (ehm)
+B: A po tý hysterektomii, pře vlastně.. je to.. zásah do vnitřních orgánů, tak.. jsem byl 
+do rána vlastně.. na.. jipce a .. ráno jsem vstal a .. pak.. Prvně jsem vstal vlastně a .. šel 
+jsem si normálně vyčistit zuby a.. a pak mě převezli na normální pokoj.
+A: (ehm)
+B: Já jsem měl cévku, měl jsem dreny.. a ten dren byl nepříjemnej, protože jsem si 
+nemoch sednout (smích)
+A:(smích)
+B: Takže jako.. furt jenom stát no.. a.. ale jako, to bylo..to bylo.. dobrý jako. No a.. po 
+tý.. operaci jsem se fakt cejtil dobře jako.. Kdybych nevěděl, že nemůžu jakoby nic 
+zvedat težkýho.. tak bych nevěděl, že ňáká operace vůbec byla.
+A:(ehm)
+B: Tak.. To jsem byl doma asi deset dní jakoby... vono to znovna tak vyšlo, že prostě to 
+bylo před těma Vánocema, takže já jsem byl do Vánoc doma, pak byly prázniny,
+vánoční..
+A: (ehm)
+B: Takže jsem šel.. po.. po Vánocích do školy.. že jsem to tak měl i naplánovaný, abych 
+vlastně.. tolik nezameškal.. že to bylo před těma Vánocema. Takže jako jsem zameškal, 
+dá se říct celkem asi... měsíc, měsíc a půl... vlastně v prvním pololetí čtvrťáku.. Takže..
+Takže to nebylo zas tak strašný.. takže.. Já jsem to právě chtěl stihnout v tom prvním 
+pololetí, že to druhý pololetí bude už prostě víc.. příprav na tu maturitu a tak..
+A: (ehm)
+B: A vlastně po operacích, pak jsem si moch změnit méno na Novák.. na mužský. 
+Změnilo se mi rodný číslo a.. musel jsem si změnit veškerý doklady.
+A: (ehm)
+B: A to proběhlo bez problémů. Dycky jsem přišel, dal jsem nový rodný list, občanku a.. 
+Oni si to ofotili, změnili údaje a bylo to.
+A: (ehm)
+B: No.. a vlastně.. To bylo ve čtvrťáku, pak jsem odmaturoval.. v pohodě a... Už 
+vlastně.. pak jsem se vlastně přestěhoval zase zpátky k tátovi.
+A:(ehm)
+B: Po ňákejch šesti letech.. Jsem bydlel s mamkou, protože jsem chtěl jít do DDD na 
+vejšku... Tak jsem se původně přihlásil na na vysokou školu MMM..
+A:(ehm)
+B: Protože jsem chtěl jít na medicínu a tam jsem se nedostal. Takže jsem.. A tam... 
+vlastně jsem nastoupil... a tam ze začátku to o mě vůbec nikdo nevěděl.. kromě .. Šly 
+tam asi dvě spolužačky, co se mnou byly na gymplu. Takže ty samozřejmě.. to věděly 
+a.. jinak ostatní ne. A pak se tam objevil.. kluk. My jsme byli vlastně na seznamováku.
+A: (ehm)
+B: Tak von se začal (em)... že vlastně jeho přítel..., že chodil.. právě s klukem, co 
+podstoupil změnu pohlaví a já jsem řek: „Jo, já ho znám.“
+A: (ehm)
+B: No a (smích)
+A: (smích)
+B: A.. pak# tak jsem mu právě řek, jako že ho znám proto, proto že vlastně... jsem 
+jakoby.. taky postoupil změnu pohlaví a začali jsme se víc bavit.
+A: (ehm)
+B: A jako ten vlastně.. to byl z těch novejch spolužáků jedinej, kdo.. o mě to věděl.
+A:(ehm)
+B: No.. a.. tam jsem teda neudělal zápočet z chemie,.. takže jsem odešel a.. půl roku 
+jsem pracoval v TTT.
+A:(ehm)
+B: Vlastně jsem se přestěhoval zase za mamkou.. A tam to o mně taky nevěděli, 
+protože vlastně všechny informace prostě tam.. rodný číslo nový, takže..už jako z 
+papírů se to vůbec nezjistí.. V tu dobu tam pracovala i mamka, v TTT.
+A:(ehm)
+B: Já jsem šel na lahůdky. Máma byla na pekárně.
+A: (ehm)
+B: A byl tam přede mnou, než jsem tam já nastoupil, právě ještě jeden kluk, kterej byl v 
+průběhu změny.. Měl neutrální jméno teprv a.. Byl prostě na začátku a bylo to na něm
+vidět. Tam byl hodně jakoby pomlouvanej, že ho tam prostě.. hodně jako.. drbaly ty 
+ženský mezi sebou.
+A: (ehm)
+B: A.. máma si.. s těma kolegyněma někde byla sednout a voni že ho tam prostě 
+probíraly.. a že by to prostě nedaly bejt.. s takovým chlapem a máma.. prostě tam
+seděla a .. jako.. mlčela
+A: (ehm)
+B:# že to.. pro ní muselo bejt asi.. tak jako.. hrozný, že prostě.. A navíc to byla, ta její 
+kolegyně, byla.. cera mamky nejlepší kamarádky, která to o mě věděla, taky. Takže 
+máma, pak říká: „Prosim tě, hlavně nikde to neříkej, protože #.“ No.. nakonec se to.. 
+(em) v TTT.. taky rozneslo, ale až asi po.. až když už jsem tam vlastně nedělal. Já jsem 
+byl teďka jenom na brigádu, že tam # jenom když je potřeba, protože.. jedna ta moje 
+kolegyně.. šla na brigádu do Kaufladu, zase.
+A: (smích)
+B: (smích) Ke konkurenci, kde právě byl na brigádě můj bejvalej spolužák z gymplu.
+A: (ehm)
+B: A začli mě tam taky probírat, takže..tim se to dozvěděla. Vona je strašná drbna, 
+takže to roznesla i po tom celym TTT. A jakoby, ale přístup.. akorát jedna kolegyně 
+z..(mmm) ke mně přišla a zeptala se mě na to..
+A: (ehm)
+B:.. a já jako.. „Je to pravda.“ Prej: „Já tomu nemůžu věřit. Dyť vypadáš jako normální 
+kluk a prostě...“
+A: (ehm)
+B: „To neni pravda.“ a vodešla jako.. a pak.. už jsme to v práci vůbec jakoby neřešili ani 
+nic jako.. No a teď jsem vlastně nastoupil..
+A: Takže to byla jakoby jediná reakce?
+B: Jediná reakce, ale jinak.. prostě nikdo.. Žádnej přístup se nezměnil, nic.
+A: (ehm)
+B: Takže to bylo..to bylo dobrý no..
+A: (ehm)
+B: Pře.. ta kolegyně, která vlastně to nejvíc pomlouvala.. tak už tam nedělá.. ta 
+vodešla.. předtim.. Takže.. to bylo dobrý (smích).
+A: (ehm)
+B: No.. a pak jsem vlastně nastoupil teďka na tu vošku.. a tam vlastně to neví vo mě 
+nikdo, vůbec.. a.. s tim jak budu psát právě taky absolventku.. na to téma, tak vlastně 
+jim neni divný, proč vlastně jako.. řeknu.. znám ňáký ty lidi, proč jako.. se vo to téma 
+víc zajímám.. že prostě.. Jak je to sociální pedagogika, tak .. každej .. někdo.. někdo... 
+Má prostě jakoby zájem vo..(mmm) probační, mediační službu.. někdo vo seniory, 
+někdo vo.. mentálně znevýhodněný.. a já se prostě zabývám toudle problematikou, 
+takže to jako.. Nikomu neni divný prostě, čim se zabývám a..
+A:(ehm)
+B: A to je dobrý prostě jako.. ale když by se mě na to zeptali.. tak jako.. bych jim nelhal, 
+prostě bych to řek, ale.. protože.. Mi příde, že i.. jak je to tendle obor.. že to tam 
+prostě.. lidi jako vstřícný a jako chápavý, že to .. všechno chápou..
+A: Jak vypadal třeba tvůj jakoby milostnej život jako před tou operací a jak vypadal.. 
+po?
+B: (hluboký nádech) No.. tak nějak. Dá se říct nijak (smích).
+A: (smích)
+B: Protože.. Já jsem.. # akorát jako dycky jsem byl platonicky zamilovanej a jakoby.. 
+žádnej pořádnej vztah vlastně do teďka jsem ještě neměl.
+A: (ehm)
+B: Takže.. asi tak
+A: (ehm) A máš v plánu.. v budoucnu třeba svýmu partnerovi říct, že si prodělal operaci 
+pohlaví?
+B: (eee) To asi jo, protože by to.. stejnak poznal nebo prostě to jako.. Já eště nejsem 
+vlastně po polastický operaci jako penisu.. nebo prostě.. A u nás se to provádí.. Dělá to 
+jeden doktor, kterej je skoro v důchodu a.. ty výsledky nejsou tak jako dobrý jako v 
+zahraničí.. takže čekám jako jestli se vobjeví někdo jinek, kdo to u nás bude dělat a 
+nebo si prostě holt našetřit a..
+A: (ehm)
+B: Do Německa třeba.. Tam to maj na dobrý úrovni, ale.. ale i tak je to poznat.. takže 
+jako... bych to prostě musel říct, prostě.. A jako i jizvy a prostě všechno.. a že vlastně 
+nejsem plodnej, takže..
+A: (ehm)
+B: Tak.. To jakoby.. říct.. po ňáký době.. když se prostě poznáme a.. jako... no... Takže 
+asi tak.. # plánuju partnerce pak jako říct no..
+A: (ehm) A.. když se teďkon ohlídneš. Co všechno jako ti to dalo? Vlastně ta.. ta 
+přeměna?
+B: Že jsem vlastně konečně sám sebou, že.. vlastně můžu.. vlastně dělat.. Co.. Jak se 
+cítím.. sám a hlavně.. Co se týká jakoby tolerance k ostatní lidem, že každý má ňáký.. 
+svůj problém.. každý si něčim prochází.. tak vlastně.. ňák nehodnotit je prostě.. To 
+jejich chování, že.. oni si taky můžou něčim procházet a vůbec vo tom nemusíme vědět.
+A: (ehm)
+B: Já jsem vždycky byl.. jako byl hodně tolerantní a prostě.. jako chápu.. nebo snažim se 
+pochopit všechny a.. takže..
+A: (ehm)
+B: No.. jsem otevřenej všemu.
+A: (ehm) Tak jo.. Chceš eště něco doplnit?... Bavili jsme se o tvým dětství, změně 
+pohlaví..
+B: Pak právě mě ještě napadlo, když jsem byl na gymplu ve škole, tak vlastně já jsem 
+byl ve druháku a do prváku přišel kluk. Ale věděl jsem, že je to jako holka, ale vypadal 
+jako kluk. Říkal jsem si jako: „Je to jenom lesba nebo prostě .. tak jako já.“ A tak jsme 
+furt kolem sebe chodily furt jsme na sebe koukaly (smích).
+A: (smích)
+B: Ale je prostě blbý přijít za někym a zeptat se.. tak já už.. mě napadlo jako. Vysledoval 
+jsem, kterou má skříňku, jestli mu tam nedat ňákej papír s ňákým dopisem. (smích)
+A: (smích)
+B: Celej rok, celej vlastně jeho prvák a můj druhák jsem vokolo sebe chodili.
+A: Ehm
+B: Pak vlastně, když jsem přišel do třeťáku, tak vlastně.. jsem to oznámil a zjistil jsem, 
+že von se přidal do tý fejsbukový skupiny. Na fejsbuku máme skupinu FtM čet, kde 
+prostě.. si radíme, sdílíme zkušenosti.. Zjistil jsem, že je tam taky přidanej na tý skupině 
+a.. pak jsem se začali nějak víc bavit a (eee).. vlastně i já jsem to řek ve škole, takže pak 
+jsem se ho zeptal, jestli je v pohodě, když něco vo něm zmínim, jako že jsem učitelce 
+řek: „No nebojte, za chvíli vám příde další.“ (smích)
+A: (smích)
+B: A vona: „ Jo?“ a přemýšlela.. „ Jo, já už asi vim.“ (smích)
+A: (smích)
+B: A právě jsem se začali víc bavit a von byl vlastně vo rok níž a pak vlastně mi šel na 
+maturák. Já jsem mu šel na maturák, a prostě jsem se pak víc bavili. Teďka už ne, jak 
+jsme každej šli.. jak jsem se vodstěhoval, ale v průběhu jsem se hodně podporovali a 
+hodně jsem se spolu bavili. Takže to byla náhoda, že jsme byli dvá na jedný škole.
+A: Ehm
+B: Von to udělala asi půl roku po mně, takže.. nám to bylo jasný # když se spolu bavíme 
+# tak to bylo úplně jasný.. Jo a co mě teďka ještě napadá, tak jsou záchody ve škole.
+A: Ehm
+B: Kde prostě mi řekli, že nebudu chodit na pánský ze začátku. Tam byly záchody pro 
+vozíčkáře a učitele, zároveň. Takže jsem chodil na tendle záchod.. A pak v průběhu 
+čtvrťáku už jsem normálně začal chodit na klučičí záchody. Nejprve teda vo hodinách a 
+pak už normálně o přestávce, takže.. Ty mladší už mě znali jenom jako kluka.. Jinak na 
+veřejnosti už jsem vlastně chodil na pánský záchody úplně normálně.
+A: Ehm
+B: Akorát, když jsem nebyl # když jsem byl třeba s tátou, právě.. tak jsem musel na 
+dámský a to se týkalo školy a záchodů… No a právě eště jsme byli s bráchou a jeho 
+spolužákama, nevim jestli ve Vídni nebo v Drážďanech někde prostě #.. Ty spolužáci to 
+vo mně nevěděli a šel jsem s nima normálně na pánský záchody, protože jsem řek: 
+„Voni mě z dámských vyhazujou.“ (smích)
+A: (smích)
+B: A šel jsem s nima normálně na pány a bylo to (smích) Oni to neřešili. (smích)
+A: (smích)
+Konec rozhovoru
+Etická komise Pedagogické fakulty 
+Ethics Board of the Faculty of Education
+Prohlášení a souhlas účastníků s jejich zapojením do výzkumu:
+Prohlašuji a svým níže uvedeným vlastnoručním podpisem potvrzuji, že dobrovolně 
+souhlasím s účastí ve výzkumném projektu v rámci bakalářské práce na téma: 
+Transsexualita. Měl/a jsem možnost si řádně a v dostatečném čase zvážit všechny 
+relevantní informace o výzkumu, zeptat se na vše podstatné týkající se účasti ve 
+výzkumu a že jsem dostal/a jasné a srozumitelné odpovědi na své dotazy. Byl/a jsem 
+poučen/a o právu odmítnout účast ve výzkumném projektu.
+Jméno a příjmení účastníka:………………………………….
+……………………………………………
+Datum a podpis účastníka

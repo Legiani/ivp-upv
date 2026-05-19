@@ -1,0 +1,67 @@
+Česká zemědělská univerzita v Praze
+Institut vzdělávání a poradenství
+Předmět: Veterinářství a plemenářství
+Třída: 4.A, obor agropodnikání
+Termín: 13.3.2023
+Téma hodiny: Nakažlivé nemoci prasat I.
+Autor: Kamila Bulušková
+2023
+Příprava na teoretickou vyučovací jednotku z předmětu „Veterinářství a plemenářství“
+Obor vzdělávání: 	Agropodnikání
+Ročník: 		4.
+Místo výkonu vyučovací jednotky: SŠZ Chrudim
+Tematický celek: 	Zoohygiena a prevence chorob hospodářských zvířat
+Téma: 		Nemoci prasat I.
+Časová dotace:	45 minut
+Vzdělávací cíle: 	Žák bude znát rozdíly mezi nakažlivými a nenakažlivými onemocněními hospodářských zvířat (s důrazem na prasata)
+Žák se naučí základní informace o parazitárních nemocech prasat
+Žák se seznámí se způsoby léčby a prevence parazitárních nemocí prasat
+Výchovné cíle: 	Vytvoření si správného vztahu k dodržování zásah bezpečnosti a ochrany zdraví
+Vytvoření si správného vztahu k životnímu prostředí
+Forma výuky: 	Teoretická vyučovací jednotka
+Použité metody ve vyučovací jednotce: Metody verbální (výklad, popis)
+Mezipředmětové vztahy: Biologie, Chov zvířat
+Průřezová témata: Environmentální výchova
+Učební pomůcky: Učebnice „Zoohygiena a prevence chorob hospodářských zvířat“, prezentace
+Schéma vyučovací jednotky:
+Probíraná látka:
+Zdraví a nemoc: 
+zdraví je stav úplné tělesné a duševní pohody zvířat
+každý živočišný organismus je složitá soustava, která má schopnost udržovat stálost vnitřního prostředí – tzv. homeostázi
+dojde-li k porušení stálosti vnitřního prostředí patogenním podnětem, závisí pak na síle onoho patogenu, odolnosti zvířete, obranyschopnosti… podle toho buď propukne anebo nepropukne nemoc
+nemoc je porucha životní činnosti organismu, která vzniká na základě působení patogenních podnětů, porušuje homeostázi organismu a jejím důsledkem je snížení produktivnosti a ekonomické hodnoty zvířete
+Nenakažlivé (orgánové) nemoci vyskytují se ojediněle. Důvodem pro jejich vznik je nejčastěji nesprávné krmení zvířete (nedostatek/nadbytek složek), nedostatečná hygiena v chovu, nevhodné podmínky (např. nízká teplota), nadměrná námaha, genetická dispozice
+Příklady nenakažlivých nemocí u prasat: Avitaminózy (VESD syndrom – nedostatek vit. E a selenu), Anemie (nedostatek železa) u selat, Cirhóza jater, Křivice, Zánět žaludku a střev, Parakeratóza
+Nakažlivé (infekční) nemoci – postihují zpravidla více zvířat najednou. Obecnými příznaky bývá zvýšená tělesná teplota, svalový třes, malátnost zvířat a nechutenství. Infekční nemoci jsou většinou značně nakažlivé, přenáší se buď samotnými nakaženými zvířaty nebo předměty, které s nimi přišly do styku.
+	Příklady infekčních nemocí u prasat: Červenka, Aujezskyho choroba, Mor prasat, Sípavka, Gastroenteritis, Prasečí chřipka, Enzootická pneumonie
+Mezi infekční nemoci patří také Parazitózy, tedy nemoci, způsobené parazity.
+Dělí se na ektoparazitózy – způsobené vnějšími parazity (svrab, zavšivení) a endoparazitózy, způsobené vnitřními parazity (kokcidióza, škrkavčitost, svalovčitost – trichinelóza).
+Svrab („prašivina“): ektoparazitóza, způsobená roztočem „zákožka svrabová“. Parazituje zejména na svrchních vrstvách kůže, kde si buduje chodbičky a způsobuje tak silné svědění. Živí se uvolněnou rohovinou a tkáňovým mokem.
+Příznaky: pupeny na postižené kůži, tření, drbání se, vypadávání srsti, tvoření strupů
+Léčba: postřik postižených míst Arpalit sprej, popř. injekčně Ivomec. Nutno očistit veškerá zařízení, přicházející do styku se zvířetem.
+Prevence: důsledná zoohygiena, veterinární vyšetření před každým přesunem zvířete
+Zavšivení: ektoparazitóza, způsobená vší prasečí. Parazituje na povrchu kůže, sají krev, hloubí důlky, do kterých vypouštějí sliny, vyvolávající svědění. Samičky lepí vajíčka (hnidy) na štětiny. Nejčastější výskyt je na krku, okolo uší, v ušních boltcích a na vnitřní straně stehen. Viditelné okem.
+	Příznaky: Nález dospělců nebo larev na štětinách, tření, drbání, neklid
+	Léčba: Difusil nebo Arpalit postřik, injekčně Ivomec, koupel Fenoform forte
+Prevence: kontrola a preventivní ošetření nakoupených zvířat, dobré zoohygienické podmínky
+Kokcidióza: endoparazitóza, původcem je kokcidie prasečí, zdrojem onemocnění jsou nemocná prasata a jejich výkaly, k nákaze může dojít i skrz vodu a krmivo. Způsobuje infekci a ničení střevní sliznice.
+Postihuje zejména prasata ve věku 2 – 8 měsíců. Při silné invazi je evidována mortalita až 50 %.
+Příznaky: nechutenství, rychlý úbytek hmotnosti, krvavý průjem, opoždění ve vývoji
+Léčba: sulfonamidy – 0,1 – 0,2 kg/kg ž. hm po dobu 7 dní
+Prevence: Snížit výskyt kokcidiózy v chovech lze důkladnou asanací. Oocysty jsou odolné běžným asanačním postupům i dezinfekčním prostředkům a účinné jsou pouze prostředky na bázi čpavku a účinně působí i horká pára (> 70° C)
+Škrkavčitost: endoparazitóza, původcem je škrkavka prasečí, zdrojem onemocnění jsou nemocná prasata, kotce, výběhy a voda potřísněné výkaly nemocných prasat, ve kterých se nachází vajíčka škrkavek. K přenosu vajíček ve výkalech dochází i z obuvi ošetřovatelů a hmyzem, sedajícím na výkaly. Selata se nakazí sáním mléka ze znečištěných struků. 
+Škrkavka je oblý červ, dosahující délky 20-40 cm a šířky 5-6 mm.
+K invazi dochází vajíčky, z nichž se uvolňují v tenkém střevě uvolňují larvy. Uvolněné larvy pronikají sliznicí střeva do krevních kapilár a krví jsou zanášeny do jater. Z jater larvy pronikají krví přes srdce do plic, odkud se vykašláním a polknutím dostávají zpátky do trávicího ústrojí, kde dospívají. 
+Příznaky: nejprve vlhký kašel, vzestup tělesné teploty až na 41 stupňů, nechutenství, ztráta čilosti. Později se objevují i nervové příznaky – prasata upadají na zem, křeče svalstva, kvičení, namáhavé dýchání. V pokročilém stádiu může dojít k zánětu pobřišnice a úhynu. Nález vajíček či dospělců ve střevním obsahu. 
+Léčba: skupinově všem jedincům do krmiva přidat Helmirazin, Helmisan nebo Mebenvet
+Prevence: Pravidelné odčervení
+Svalovčitost (trichinelóza): endoparazitóza, PŘENOSNÁ NA ČLOVĚKA. Původcem je oblý červ „svalovec stočený“, larvy svalovce žijí ve svalstvu, odkud se přenáší do dalšího hostitele při pozření masa (týká se zejména divokých prasat).
+Příznaky: při mírné invazi zcela bez příznaků, při silnějším napadení nechutenství, zvracení, malátnost, kolikové bolesti, průjmy, ztráta hmotnosti
+Léčba: neléčí se
+Prevence: Jako prevence se provádí pravidelná trichineloskopie masa jatečných prasat, a deratizace stájových objektů pro chov prasat
+Opakování: 
+Co je to zdraví? (stav úplné tělesné a duševní pohody zvířat)
+Co je to homeostáze? (schopnost udržet si stabilní stav)
+Jaký je rozdíl mezi nakažlivými a nenakažlivými nemocemi? (nenakažlivé se vyskytují ojediněle, nakažlivé postihují celé skupiny)
+Jaký je rozdíl mezi ektoparazitózami (vnitřní) a endoparazitózami (vnější)
+Vyjmenujte, jaké parazitózy znáte? (svrab, zavšivení, kokcidióza, škrkavčitost, svalovčitost)

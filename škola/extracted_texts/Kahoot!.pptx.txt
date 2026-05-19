@@ -1,0 +1,38 @@
+Kahoot!
+Kamila Bulušková
+LMS systémy
+K čemu lze kahoot využít?
+Interakce učitele se žákem za pomoci výpočetní techniky
+Každý ze žáků v dnešní době vlastní chytrý mobilní telefon, v případě využití aplikace Kahoot jej může uplatnit ve výuce
+Upevňování znalostí a opakování probrané látky pomocí interaktivních kvízů
+Soutěžení žáků mezi sebou (body za správnost a rychlost odpovědí)
+Jak kahoot funguje?
+Lektor předem připraví kvízové otázky (pravda/lež či otázky s variantami odpovědí)
+Na začátku hry je vygenerován QR kód či PIN pro přístup žáků do kvízu
+Ve free verzi se ke hře může připojit 10 osob, v prémiových verzích více
+Kvíz je spuštěn, každý ze žáků pomocí svého mobilního telefonu odpovídá na otázky, které učitel promítá na plátno
+Vyhrává ten, kdo odpovídá správně a nejrychleji
+Po každé otázce se zobrazí průběžné pořadí
+
+
+
+Jak to vypadá v praxi?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+závěr
+Zkoušela jsem Kahoot ve třídě při pedagogické praxi
+Děti opakování tímto způsobem bavilo a získala jsem pozitivní zpětnou vazbu i od cvičného učitele

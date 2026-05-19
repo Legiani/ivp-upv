@@ -1,0 +1,1913 @@
+
+
+Vydal Úřad vlády ČR
+Nábřeží Edvarda Beneše 4, 118 01 Praha 1
+www.vlada.cz
+ISBN 978-80-87041-33-8
+Analýza situace
+lesbické, gay, bisexuální
+a transgender menšiny v ČR
+Pracovní skupina pro otázky sexuálních menšin ministryně
+pro lidská práva a národnostní menšiny:
+Kateřina Beňová
+Slavomír Goga
+Jitka Gjuričová
+Jiří Hromada
+Petr Kodl
+Jiří Louženský
+Jana Nová
+Lucie Otáhalová
+Olga Pechová
+Ivo Procházka
+Věra Sokolová
+Martin Strachoň
+Martina Štěpánková
+Czeslaw Walek
+Jan Wintr
+Praha, říjen 2007
+Text byl vytvořen společnými silami členů a členek Pracovní skupiny pro otázky sexuálních menšin ministryně pro lidská práva a národnostní menšiny MUDr. Džamily Stehlíkové.
+Skupina vznikla v rámci aktivity Evropské unie „Evropský rok rovných 
+příležitostí pro všechny 2007“ a stala se společnou platformou pro setkávání zástupců a zástupkyň hlavních nevládních LGBT organizací a odborníků 
+a odbornic zabývajících se uvedenou problematikou na akademické úrovni, 
+jakož i některých zástupců a zástupkyň státní správy.
+Členům a členkám této pracovní skupiny tedy patří dík za podíl při zpracování textu. Jednání pracovní skupiny se účastnili: PhDr. Olga Pechová, 
+Mgr. Martina Štěpánková, JUDr. Mgr. Jan Wintr, Ph.D., Ing. Slavomír Goga, 
+Mudr. Ivo Procházka, Mgr. Czeslaw Walek, Mgr. Jitka Gjuričová, JUDr. Petr 
+Kodl, Jiří Louženský, Věra Sokolová, Ph.D., Martin Strachoň, JUDr. Jana 
+Nová, Kateřina Beňová, Mgr. Jiří Hromada a Mgr. Lucie Otáhalová.
+Text byl zpracováván v období duben – říjen 2007.
+
+OBSAH
+ÚVOD 7
+A. LGBT MENŠINA A KOMUNITA 9
+1. Komunita, menšina a coming out 9
+2. Bisexualita a bisexuální komunita 11
+3. Komunity a jejich reprezentace 12
+4. Transsexuální a transgender komunita 13
+5. Stručná historie veřejného života LGBT komunity v českých zemích 15
+6. LGBT lidé a náboženství 18
+7. LGBT senioři 19
+8. LGBT a etnické menšiny 20
+B. POLITICKO-LEGISLATIVNÍ ROVINA 23
+1. Diskriminace na základě sexuální orientace 23
+2. Trestní právo 25
+3. Právní úprava soužití osob stejného pohlaví 26
+4. LGB rodiče a jejich děti 30
+4.1. Individuální adopce 32
+4.2. Společná adopce 33
+4.3. Právo adoptovat dítě své partnerky či partnera 33
+4.4. Svěření dítěte do pěstounské péče 34
+4.5. Umělé oplodnění 34
+4.6. Postup státních orgánů 35
+5. Transsexuální a transgender lidé (translidé) 35
+5.1 Právní a sociální postavení translidí 35
+5.2 Právní a faktické problémy translidí v ČR 37
+6. Intersexuální lidé 41
+C. LGBT KOMUNITA A SPOLEČNOST 43
+1. Vztah většinové společnosti a LGBT menšiny 43
+2. Veřejné mínění v České republice 44
+obsah
+3. Diskriminace 45
+4. Mediální obraz LGBT lidí 47
+5. Vzdělávání 49
+6. LGBT mládež 50
+6.1 Šikana 50
+6.2 Sociální vyloučení 51
+6.3 Prevence a řešení problémových situací 52
+7. LGBT lidé a zdravotnictví 53
+D. DOPORUČENÍ 57
+PŘÍLOHY 62
+I.a Lesbické organizace 62 
+I.b Gay organizace 64
+I.c Trans organizace 67
+II.: Výběrová bibliografie českých a slovenských LGBTI pramenů 68
+III.: Slovníček pojmů 71
+obsah
+ÚVOD
+Národní strategie České republiky pro Evropský rok rovných příležitostí konstatovala, že přijetí zákona o registrovaném partnerství je jedním z mnoha kroků 
+směrem k potlačení diskriminace gay a lesbické menšiny. Strategie vyjádřila rovněž předpoklad, že „v České republice nadále přetrvávají stereotypy v souvislosti 
+se sexuální orientací“. Následující text navazuje na tyto dvě základní myšlenky
+a jeho východiskem je, že lidé s odlišnou sexuální orientací a transgender lidé 
+představují do dnešního dne přehlíženou menšinu.
+Na samotném začátku je důležité objasnit termíny, se kterými bude text pracovat. Název užívá pojmy „lesbická, gay, bisexuální a transgender menšina“. Problém sexuálních minorit tak byl pro běžného čtenáře, neznalého problematiky, 
+zjednodušen. Celé spektrum sexuálních menšin se, zejména v zahraničí, označuje 
+jako LGBTI (lesbická, gay, bisexuální, transgender a intersexuální) menšina a text 
+se samozřejmě věnuje všem těmto minoritám.
+Odlišnou sexuální orientací se v tomto i v dalších kontextech míní sexuální orientace jiná než heterosexuální, většinová. Pro osoby citově a sexuálně zaměřené 
+na stejné pohlaví (gaye a lesby) byl a stále je používán pojem „homosexuálové“. 
+Tento výraz nicméně nezahrnuje osoby, citově a sexuálně přitahované k oběma 
+pohlavím (bisexuální), jednotlivce mající pocit trvalé příslušnosti k jinému pohlaví, než je jejich pohlaví somatické (translidé), ani jedince, u nichž se vyskytují 
+nebo v době narození vyskytovaly biologické znaky obou pohlaví (intersexuální 
+lidé). Proto se v průběhu let vžilo ustálené seskupení pojmů „lesbická, gay, bisexuální, transgender a intersexuální menšina“. Z hlediska ryzí praktičnosti byla 
+postupně zavedena zkratka zahrnující všech těchto pět pojmů – LGBTI menšina. 
+Výraz „homosexuálové“, jakkoliv se objevuje i v tomto textu, lze považovat za do 
+značné míry zastaralý a překonaný; zde se objevuje převážně v pasážích věnovaných historii. Důvodem, proč tento výraz přesto převažuje u většiny společnosti, je 
+zcela jistě obecně menší povědomí o existenci „menšin v menšině“, tedy osob bisexuálních, intersexuálních a translidí. Problém intersexuality, přestože není ničím 
+novým, byl až donedávna méně známý a do dnešního dne je diskutován takřka 
+výlučně na odborné úrovni.
+ http://www.vlada.cz/cs/vlada/stehlikova/errp/narodni_strategie.html
+úvod
+Analýza situace lesbické, gay, bisexuální a transgender menšiny v České 
+republice (dále jen „Analýza“) tedy vychází z předpokladu, že u většinové české 
+společnosti, co se týče sexuálních minorit, doposud přežívá značné zmatení pojmů
+a neporozumění skutečné situaci, což ústí v homofobní pocity a nepodložené předsudky. Tento přístup se logicky přenáší i do sféry moci zákonodárné a výkonné, 
+tedy do oblastí veřejného života, které určují přístup státu k menšinám, včetně 
+menšin sexuálních. Je potom logické, že z uvedených sfér zaznívají signály naznačující teze typu „diskriminace homosexuálů neexistuje“.
+Pokud jsou povědomí a znalosti širší české veřejnosti o LGBTI menšině
+ve společnosti nízké, případně povrchní a získané převážně z médií, nelze očekávat pochopení pro problémy, se kterými se příslušníci této menšiny setkávají.
+Cílem Analýzy je srozumitelnou a přehlednou formou podat vysvětlení, co je to 
+vlastně LGBTI menšina a komunita, jak se vyvíjel historický pohled na ni, s jakými problémy se setkává v současnosti, jaké jsou její vztahy s majoritní společností 
+a jak je zpravidla touto společností vnímána. Z hlediska formálního je záhodno 
+předeslat, že používání zkratek „LGBTI“, „LGBT“, případně „LGB“ není nahodilé 
+a vždy znázorňuje, které skupiny sexuálních minorit se pojednávaná otázka týká. 
+Analýza je zakončena doporučeními, která navazují na jednotlivé pasáže textu. Tato doporučení přímo vycházejí z kritických oblastí, na které text poukazuje
+a naznačují, jak by se jednotlivé oblasti práv LGBTI menšiny měly vyvíjet, co by 
+bylo vhodné změnit a jaké kroky by tedy vláda v tomto smyslu měla učinit.
+úvod
+A. LGBT MENŠINA A KOMUNITA
+1. Komunita, menšina a coming out
+Definování pojmu lesbická, gay a bisexuální (LGB) menšina a komunita představuje nemalý problém, neboť už samotná definice sexuální orientace procházela 
+historickým vývojem . Dodnes se tak například vede spor o tom, zda existuje bisexuální orientace či nikoliv. Rovněž hranice mezi transgender lidmi a LGB komunitou nejsou vždy zcela zřejmé, i když to platí především pro vnější pozorovatele. 
+V tomto textu bude však transgender komunitě věnována samostatná podkapitola, neboť praktické rozdíly jsou značné, i když je zde i množství společného.
+Většina lidí s odlišnou sexuální orientací se po staletí existence konfesně vyhraněné křesťanské civilizace skrývala a žila svůj život zcela v izolaci či v hluboce ilegální subkultuře. Tendence ke skrytému stylu života však z různých důvodů často přetrvává i v dnešní občanské společnosti, a proto je vhodné od sebe odlišovat 
+pojmy menšina a komunita. Za příslušníka LGB menšiny lze považovat každého
+s menšinovou sexuální orientací bez ohledu na to, zda se za jejího příslušníka sám 
+„uvědoměle“ považuje. Avšak stává se jedinec součástí LGB komunity automaticky již svojí menšinovou sexuální orientací nebo je její součástí pouze ten, kdo se
+za její součást sám považuje, nebo pouze ten, kdo se aktivně účastní veřejného „gay
+a lesbického života“? Na tuto otázku neexistuje jednoznačná odpověď; nicméně nejpřijatelnější je ta, podle níž je příslušníkem komunity ten, kdo se za něj sám pokládá.
+Existují lidé, kteří sice měli nebo mají vztah s osobou stejného pohlaví, ale
+ve své menšině mají jen velmi slabé vazby. V jejich případě se dá mluvit opravdu 
+jen o příslušnosti k menšině, ale nikoliv o tom, že patří ke komunitě. Pak je zde 
+mnoho homosexuálních lidí, kteří mají velmi dobré sociální vazby ve své menšině, 
+aniž by se však chtěli jako její členové prezentovat majoritě či se dokonce takto 
+účastnit veřejného života. Tito lidé nepochybně tvoří komunitu, avšak neúčastní 
+se veřejného „gay a lesbického života“. Většina české LGB komunity spadá právě 
+do této skupiny, neboť veřejné angažování LGB lidí stále není v našich zemích
+ Tímto tématem se zabývá řada odborných prací. Jako úvod do problematiky lze doporučit:
+Rupp, L.J. (2001): Vytoužená minulost. Praha, One Woman Press. Dále také: Spargo, T. (2001):
+Foucault a teorie podivného. Praha, Triton. 
+LGBT menšina a komunita
+10
+běžné. Příslušníci LGB menšiny obecně mají totiž na rozdíl např. od příslušníků 
+etnických menšin určitou „výhodu“, že mohou svojí sexuální orientaci poměrně 
+úspěšně skrývat a tím se vyhnout automatickému spojování s touto menšinou 
+ze strany většinové společnosti. Z tohoto důvodu je pro ně mnohdy jednoduší 
+skrýt se v majoritě než vyhledávat ochranu v aktivní a angažované příslušnosti
+ke komunitě.
+To úzce souvisí s tématem aktivního se přihlášení k homosexuální či bisexuální orientaci, které se obvykle označuje jako coming out. Coming out je ovšem 
+možné také definovat různě široce, a to jako vnitřní přiznání si, že „jsem jedním 
+z nich“ (vnitřní coming out), tak i sdělení této skutečnosti svému okolí (vnější 
+coming out). Mnoho odborníků a odbornic dokonce považuje coming out za celoživotní proces, který nikdy není zcela ukončen. Pro společenský obraz gayů a leseb 
+je podstatný coming out vnější, a to zejména takový, který se neomezuje na okruh 
+nejbližších přátel.
+Právě viditelnost otevřených gayů a leseb je velmi zásadní pro akceptaci této 
+menšiny ve společnosti. Ochota ke coming outu je však v Česku velmi malá, a to 
+jak u neznámých jednotlivců, tak i u mediálně známých osob. Jen stěží lze například uvěřit tomu, že by v České republice nebyli mezi mediálně známými osobami 
+žádné lesby a jen velmi málo gayů. Strach z nepochopení a odmítnutí mohou jistě 
+vysvětlit mnohé, avšak v poměrně liberální zemi jakou je Česká republika, lze často pochybovat o adekvátnosti takových obav.
+Za příslušníka LGB menšiny lze pak považovat každého s menšinovou sexuální 
+orientací bez ohledu na to, zda se za jejího příslušníka sám „uvědoměle“ považuje 
+či do jaké míry prošel coming outem. Ani taková definice však příliš neulehčuje 
+odpověď na otázku kolik gayů a leseb vlastně je. Různé výzkumy v závislosti na 
+použité metodologii docházejí k velmi odlišným odhadům o zastoupení homosexuálních lidí v populaci. Tyto výsledky se obvykle pohybují mezi jedním a desíti 
+procenty z populace, přičemž realistický bude údaj asi někde uprostřed. Pokud 
+bychom vzali za bernou minci onen populární leč nepodložený údaj o čtyřech procentech, tak by to znamenalo, že v České republice žije celkem čtyři sta tisíc gayů 
+a leseb, z nichž ovšem pouze část je v aktivním věku a pouze zlomek z nich se
+ke své orientaci otevřeně hlásí .
+ Pechová, O. (2005): Sexuální minority. Olomouc, Katedra psychologie FF UP, Rigorózní práce.
+LGBT menšina a komunita
+11
+2. Bisexualita a bisexuální komunita
+Specifickým problémem je pak otázka existence bisexuality jako svébytné sexuální orientace. Sám pojem bisexualita je méně jasný, než je tomu u homosexuality. 
+Na počátku dvacátého století se bisexualita pod významným vlivem Havelocka 
+Ellise a Sigmunda Freuda stala synonymem pro androgynii respektive oboupohlavnost, která měla být primárním psychickým stavem člověka. Teprve později 
+se stal tento termín označením pro erotickou a sexuální přitažlivost k lidem obou 
+biologických pohlaví .
+Zhruba od osmdesátých let nabývá bisexualita znovu na významu a její existenci jako svébytné orientace připouštějí i renomovaní odborníci jako Eli Coleman či 
+Vivien Cass . Podle nemnohých dostupných výzkumů se zdá, že bisexualita je podstatně častější u žen a někdy se objevuje dokonce názor, že v pravém slova smyslu 
+se vyskytuje pouze u žen. Pojem bisexualita je však stále velmi nejasně definován 
+a mnoho autorů se mu raději vyhýbá.
+Mezi sexuology existuje spor o to, zda tvoří celoživotně bisexuálně zaměření lidé 
+samostatnou skupinu, nebo zda se jedná o zanedbatelné výjimky. V české sexuální vědě je tento názor obzvláště živý díky vlivu Kurta Freunda , jehož názory na 
+existenci bisexuality jako svébytné orientace byly krajně kritické. Například čeští 
+sexuologové Brzek a Pondělíčková-Mašlová vyslovili na základě svých klinických 
+zkušeností přesvědčení, že takových případů je jen velmi málo, neboť i bisexuálně 
+cítící lidé nejsou obvykle v jednom období přitahováni oběma pohlavími. Stejně 
+jako někteří zahraniční autoři pak poukazují na to, že bisexualita obvykle bývá 
+pouze přechodnou vývojovou fází, která je po čase vystřídána příklonem k jedné 
+ze dvou sexuálních orientací.
+Tento názor je pro mnoho odborníků stále směrodatný, ale v posledních letech 
+se mnohem častěji objevují hlasy, které s tímto zjednodušením polemizují a volají po uznání bisexuálních lidí jako svébytné skupiny. Poukazují přitom na to, že 
+představa existence binárního systému sexuální orientace je velmi zjednodušující
+a poukazují na nízkou validitu dat, na základě kterých vznikl koncept bisexuálních
+ George, S. (1993): Women and bisexuality. London, Scarlet Press.
+ Coleman, E. (1990): Toward a synthetic understanding of sexual orientation. In McWhirter,
+D.P., Sanders, S.A., Reinisch, J.M. (1990): Homosexuality/heterosexuality: concepts of sexual
+orientation. New York, Oxford University Press. 267-276.
+ Cass, V.C. (1996): Sexual orientation identity formation: a western phenomenon. In Cabaj,
+R.P., Stein, T.S. (eds.) (1996): Textbook of homosexuality and mental health. Washington,
+American Psychiatric Press. 227-251.
+ Freund, K. (1962): Homosexualita u muže. Praha, Státní zdravotnické nakladatelství.
+ Brzek, A., Pondělíčková-Mašlová, J. (1992): Třetí pohlaví? Praha, Scientia medica. s.14-18
+LGBT menšina a komunita
+12
+lidí jako výjimečných případů. Faktem je, že k popírání existence bisexuálně orientovaných lidí přispěli do značné míry někteří aktivisté gay a lesbických organizací, 
+kteří považovali všechny bisexuální lidi za produkt systému útlaku homosexuálních lidí . Existují rovněž studie poukazující na skutečnost, že jak mezi odborníky na duševní zdraví, tak mezi dalšími skupinami populace jsou bisexuální lidé 
+považováni za méně přijatelné a problematičtější než homosexuální lidé10.
+Ať zastáváme na bisexualitu, její definici a její samotnou existenci jakýkoliv 
+názor, nelze přehlédnout, že jako bisexuální se definuje mnoho lidí, a to je třeba 
+respektovat jako sociální fakt. Ve světě (zejména v anglosaských zemích) existuje 
+již zhruba čtvrt století hnutí bisexuálních lidí, které se přes četné peripetie dokázalo integrovat do zpočátku skeptického lesbického a gay hnutí. Nadále je však 
+poměrně slabé, neboť většina bisexuálních žen se integruje do lesbického hnutí, 
+aniž by měly zvláštní potřebu zdůrazňovat svoji odlišnost. To samé se děje v případě hnutí gay mužů, kde je tento jev posílen patrně mnohem menším výskytem 
+bisexuality u mužů. Malou viditelnost bisexuálních lidí umocňuje také fakt, že se 
+mohou ještě snadněji než gayové a lesby skrýt v heterosexuální majoritě. Odrazující jsou rovněž výše zmíněné negativní konotace bisexuality, které jsou mezi 
+gayi a lesbami stále velmi silné, jak dokazují obvykle velmi agresivní debaty, které 
+na toto téma probíhají na internetu. V České republice pak fakticky není možné 
+mluvit o existenci nějaké bisexuální komunity. V lesbických organizacích se sice 
+pohybuje množství bisexuálních žen, avšak nikdy nevznikla specializovaná organizace či sekce, která by bisexuální ženy sdružovala.
+3. Komunity a jejich reprezentace
+V předchozí části byly popsány komplikované vztahy mezi homosexuálním 
+hnutím a bisexuálními lidmi. Vztahy mezi gay a lesbickou komunitou však rovněž 
+nejsou jednoduché, neboť vedle některých podobných zájmů, zde existuje řada 
+rozdílů. Gay a lesbická menšina se navíc z principu mohou vyvíjet zcela nezávisle 
+a mnohdy tomu také tak skutečně je. Není proto divu, že obě komunity se mnohdy 
+dostávají do konfliktů či působí paralelně. Tato situace se objevuje v LGB hnutí
+od samotných jeho počátků.
+Nejvýznamnějším důvodem ke značné separaci lesbického a gay hnutí, byla 
+neochota gay komunity akceptovat lesby jako rovnocennou sílu. Zároveň se objevila
+ Witt, L. a kol. (1995): Out in All Directions: Almanac of Gay and Lesbian America. New York,
+Warner Books. s.404-405
+10 Levay, S., Valente, S.M. (2002): Human sexuality. Sunderland, Sinauer Associates. s.438
+LGBT a menšina a komunita
+13
+druhá vlna feminismu11, jejíž myšlenky rozpory mezi komunitami dále zvýraznily. 
+Není ovšem divu, že neexistuje žádná jednotná gay a lesbická komunita. Spolupráce mezi aktivisty a aktivistkami je nezbytná k efektivní prezentaci společných 
+zájmů, avšak v mnoha směrech se důrazy liší. Nelze patrně nikdy očekávat, že gay 
+aktivismus bude výrazně feministický. Rozdíly jsou však i ve zcela praktických 
+tématech, neboť například reprodukční práva (umělé oplodnění) jsou významné 
+právě jenom pro lesbickou komunitu.
+Pro lesbickou a gay komunitu v České republice je v současnosti celkově typická malá organizovanost a velké rozdíly mezi jednotlivými generacemi a regiony. 
+Existují rozdíly principiální, jako jsou například náboženské přesvědčení, ochota 
+angažovat se i mimo komunitu či vztah k feminismu. Rovněž vztah k bisexuálním 
+a transgender lidem se často lokálně velmi liší. Existuje relativně velké množství 
+lokálních skupin, ale ty spolu často zcela nedostatečně spolupracují a tak se nedostává síly na větší sociální a politické aktivity. Aktivisté a aktivistky jsou ovšem 
+ochotni spojit se a vyvinout intenzivní úsilí, je-li to potřebné k prosazení nějakého 
+výrazného společného zájmu, jako byl např. zákon o registrovaném partnerství.
+Chybí zde tradice dlouhodobé práce na budování občanské společnosti, která 
+je patrná v životě gay a lesbických komunit v západní Evropě a USA. Tento stav 
+poškozuje zejména menšinové či sociálně slabé segmenty lesbické a gay menšiny, 
+které jsou ve zvýšené míře zranitelné. Díky tomu sice je v Česku mnoho sociálně zdatných a dobře postavených gayů a leseb, ale zároveň situace mnoha gayů 
+a leseb je velmi neuspokojivá. Rizikovými skupinami jsou tak například LGBT 
+senioři, zdravotně postižení, příslušníci etnických menšin, sociálně vyloučení teenageři či obecně lidé ve venkovských oblastech.
+4. Transsexuální a transgender komunita12
+Transsexuální a transgender lidé tvoří minoritu, o jejíž četnosti se někdy vedou 
+poměrně zmatené spekulace. Příčinou je především velmi vágní náplň slova transgender, zatímco transsexualita je poměrně jasně definovaná touhou po právní
+a somatické změně pohlaví. Uvádí se, že transsexuálních lidí je v populaci okolo 
+11 Feministické hnutí procházelo v historii několika „vlnami“. Tzv. první vlna feminismu usilovala
+především o zrovnoprávnění před zákonem (volební právo a rovný přístup ke vzdělání).
+Druhá vlna feminismu se datuje od počátku 60. let 20. století se soustředila na dva základní
+okruhy problémů, které jsou považovány za zdroje nerovností mezi pohlavími: kulturu
+(„Kulturní systém, v němž žijeme, je patriarchální povahy.“) a psychologickou problematiku
+formování genderové identity. Zdroj: www.feminismus.cz, www.novezeny.eu. 
+12 Informace v této kapitole prezentují zjednodušenou formou příslušné části z následující práce:
+Pechová, O. (2005): Sexuální minority. Olomouc, Katedra psychologie FF UP, rigorózní práce.
+LGBT menšina a komunita
+14
+jedné desetiny promile, což by v ČR odpovídalo zhruba jednomu tisíci osob. V České republice neexistují přesné statistické údaje o počtu lidí, kteří absolvovali takzvanou změnu pohlaví či o ni usilují. Lze však odhadovat, že by se skutečně mohlo 
+jednat zhruba o jeden tisíc osob, které tuto podmínku splňují. V současnosti sice 
+absolvuje právní změnu pohlaví okolo padesáti osob ročně, avšak na tomto čísle 
+se stále podílejí transsexuální lidé starších ročníků, kteří využívají současnou příznivější situaci v medicíně a společnosti.
+Je také samozřejmě velmi těžké stanovit, jaký má výše uvedené číslo vztah 
+k celkové populaci translidí. Jestliže transsexualita je vymezená úsilím o takzvanou změnu pohlaví, pak transgender populace je většinou definována především 
+překračováním genderových rolí a identit, což je ale velmi nekonkrétní. Jako 
+transgender lidé jsou tedy označováni lidé žijící částečně nebo trvale v roli opačného než právního pohlaví, ale mnohdy zároveň neurčité množství dalších lidí, 
+kteří se k trans identitě nijak nehlásí. Zájmy takových jednotlivých komunit se 
+pak velmi liší v závislosti na faktorech jako jsou vztah k operativní změně pohlaví, 
+aktuální genderová role či sexuální orientace. Tyto faktory navíc mohou v některých případech procházet určitou změnou v čase.
+Velké rozdíly jsou pak také mezi komunitou translidí MtF (male-to-female)
+a FtM (female-to-male). Lidé MtF jsou lidé, kteří, lidově řečeno, procházejí změnou z muže na ženu, respektive jsou to osoby, jejichž identifikace je především 
+ženská, navzdory převládajícím biologickým charakteristikám mužského pohlaví. 
+Naopak lidé FtM mají biologické charakteristiky primárně ženské, avšak podstupují „změnu na muže“ či jejich identifikace je převážně mužská. Rozdíly mezi situací těchto dvou komunit jsou nejméně stejně významné jako rozdíly mezi situací 
+gayů a leseb. Velmi diskutován je pak také poměr velikosti těchto dvou populací. 
+Výzkumy naznačují, že početní poměr mezi transsexuálním lidmi FtM a MtF se 
+velmi liší nejen mezi jednotlivými zeměmi, ale i mezi jednotlivými generacemi. 
+V České republice byla po několik desetiletí zjišťována výrazná převaha transsexuálních lidí FtM, avšak v posledních letech se tato situace začíná měnit. Je ovšem 
+opět otázkou, jaký je vztah těchto údajů k celkové (a zároveň neznámé) populaci 
+translidí.
+Mnohem obtížněji lze definovat situaci další skupin zařazovaných mezi translidi. V případě osob žijících převážně v genderové roli spojované s jiným pohlavím, 
+než jaké odpovídá jejich chromozomálnímu, respektive právnímu pohlaví, jsou 
+jejich problémy značně podobné transsexuálním lidem. Chybí zde ovšem motivace k příslušným lékařským a právním krokům, což jejich situaci na straně jedné 
+zjednodušuje, avšak zároveň vede k trvale zvýšenému riziku diskriminace. Nelze
+LGBT menšina a komunita
+15
+však říci kolik takových osob v ČR žije, avšak zdá se, že je jich podstatně méně než 
+transsexuálních lidí.
+Další skupinou řazenou někdy mezi translidi jsou transvestité (TV) a crossdresseři (CD), kteří mění genderovou roli pouze příležitostně a obvykle neusilují
+o její trvalou změnu. CD/TV lidé tvoří většinou samostatnou subkulturu, která 
+se od transsexuální komunity značně liší, jakkoliv někteří jedinci hranice těchto subkultur překračují. Počet CD/TV jednotlivců lze velmi těžko určit, protože 
+jsou mnohem méně identifikovatelní a méně organizovaní než transsexuální lidé. 
+K jejich nižší viditelnosti přispívá i převládající heterosexuální orientace a často 
+i poměrně úspěšná adaptace v manželství. Ke specifikům této subkultury patří 
+také vázanost na mužské biologické (chromozomální) pohlaví, což je jistě zajímavý fenomén z pohledu sexuologických a genderových teorií. Lze pouze nepřesně odhadovat, že CD/TV lidé jsou mnohonásobně početnější než transsexuální 
+lidé.
+Mezi translidi pak někteří autoři řadí také některé genderově nekonformní segmenty gay a lesbické komunity (butch lesby, femininní gayové), které se 
+mohou rovněž setkávat se zvýšeným odmítáním v rámci majority i homosexuální 
+minority. Pokud se však sami považují pouze či především za lesby a gaye (či queer identity), tak je velmi problematické řadit je do trans komunity.
+5. Stručná historie veřejného života LGBT komunity
+v českých zemích
+Citové a erotické vztahy mezi osobami stejného pohlaví jsou doloženy od úsvitu 
+dějin. Od 19. století se hovoří o homosexualitě jako relativně stálé sexuální preferenci v kontextech právních, medicínských, psychologických i obecně sociálních. 
+Už od konce 19. století vznikají spolky, které se homosexualitou zabývají a usilují 
+nejprve o odstranění trestnosti homosexuality, a později také o ukončení patologizace a diskriminace homosexuálních lidí. První takovou organizací byl německý Wissenschaftlich-humanitäre Komitee z roku 1897 pod vedením jednoho
+ze zakladatelů moderní sexuologie Magnuse Hirschfelda. Od této doby můžeme 
+také mluvit o opravdovém veřejném životě LGBT lidí, neboť tyto komunity začaly 
+vycházet z dosavadního utajení a počínaly se hlásit o svá práva.
+V téže době se téma homosexuality dostává do veřejného prostoru i v českých 
+zemích. Už v roce 1895 se články v časopise Moderní revue postavily na stranu 
+Oscara Wilda, odsouzeného v Anglii na dva roky vězení. Během První republiky několik let vycházel časopis Hlas sexuální menšiny a na něj navazující Nový 
+LGBT menšina a komunita
+16
+hlas. Homosexuální chování však zůstávalo trestné podle § 129 trestního zákoníku 
+z roku 1852, a to přesto že se o změně tohoto paragrafu intenzivně diskutovalo13.
+V nacisty ovládané Evropě byly osoby podezřelé z homosexuality systematicky pronásledovány. Po druhé světové válce byl však osud homosexuálních vězňů
+a vězeňkyň zamlčován a až v osmdesátých letech se začalo nesměle mluvit o těchto obětech nacismu. Homosexuální vězni a vězeňkyně měli obrovskou úmrtnost
+a většina jich nepřežila válku. Přeživší se pak většinou nedočkali ani společenské 
+rehabilitace, ani odškodnění14.
+V komunistické éře došlo sice k zániku obecné trestnosti homosexuality (s novým trestním zákonem v roce 1961), avšak zůstala v § 244 trestnost pohlavního 
+styku s osobou stejného pohlaví mladší 18 let, homosexuálního pohlavního styku 
+vzbuzujícího veřejné pohoršení, zneužití závislosti osoby stejného pohlaví a homosexuální pohlavní styk s osobou téhož pohlaví za úplatu (zrušeno v roce 1990), což 
+umožňovalo alespoň policejní šikanu. V době předválečné i poválečné existovala 
+především v Praze známá místa, kde se homosexuální minorita setkávala, avšak 
+o skutečně svobodném rozvoji lesbické a gay komunity je možno hovořit až po 
+revoluci v roce 1989.
+Po druhé světové válce se centrum hnutí za práva sexuálních menšin přesunulo z Evropy do USA, odkud se pak nové trendy dostávají zpátky do Evropy. Mezinárodní hnutí se radikalizovalo koncem šedesátých a zejména v sedmdesátých 
+letech. Polistopadové české hnutí se tak objevilo ve zcela nové době a atmosféře, 
+ve které se ve světě prosazovala tendence ke kooperaci LGBT lidí.
+V devadesátých letech 20. století vzniklo v Praze, v Brně i v dalších českých 
+městech množství spolků, klubů, barů, diskoték a dalších aktivit LGBT komunity. Zásadní roli v životě LGBT komunity sehrává od druhé poloviny 90. let internet, LGBT problematika stále častěji proniká zejména do veřejnoprávních médií 
+(týdeník ČRo 1 Bona Dea, pravidelné magazíny ČT LeGaTo a Q). V ČR probíhají 
+filmové festivaly s výhradním nebo významným zastoupením filmů s LGBT tématikou (Mezipatra, Febiofest), v 90. letech se konaly další významné gay a lesbické společenské akce (Apriles, Karlovarský duhový festival, Gay Man). Neustále 
+přibývají nejrůznější sportovní, kulturní a společenské LGBT skupiny, které však 
+mnohdy stejně rychle zanikají a tvář hnutí se tak neustále proměňuje.
+Významnou roli ve sdružování LGB komunity sehrálo v 90. letech Sdružení
+13 Fanel, J. (2000): Gay historie. Praha, Dauphin.
+14 Pechová, O. (2005): Lidé s růžovým trojúhelníkem.
+http://www.translide.cz/ruzovy-trojuhelnik
+LGBT a menšina a komunita
+17
+organizací homosexuálních občanů (SOHO), v roce 1990 vzniklá zastřešující organizace přibližně třiceti sdružení z celé ČR. SOHO usilovalo o politické zviditelnění 
+(jeho prezident J. Hromada kandidoval v roce 1990 do Federálního shromáždění), o vynětí homosexuality ze seznamu nemocí (k čemuž došlo na mezinárodní 
+úrovni rozhodnutím WHO v roce 1993), o odstranění diskriminace LGB osob, 
+o prosazení registrovaného partnerství osob stejného pohlaví. SOHO sehrávalo 
+významnou úlohu při prevenci nemoci AIDS a při pomoci osobám nakaženým 
+virem HIV, provozovalo linku pomoci, vydávalo osvětové brožurky. Pod hlavičkou
+SOHO vycházel deset let společenský měsíčník SOHO revue (později SOHO 
+ABSOLUT revue a Gayčko). SOHO vydávalo knihy s LGB tématikou, organizovalo 
+akce v rámci Světového dne boje proti AIDS a podporovalo nejrůznější aktivity 
+LGB komunity. SOHO se v roce 2000 transformovalo v Gay iniciativu a koncem 
+roku 2006, kdy po deseti letech úsilí spoluprosadilo zákon o registrovaném partnerství, ukončilo svou činnost15.
+Od roku 1995 až po současnost funguje brněnský STUD, (člen SOHO 1995- 
+2000), který výrazně překračuje hranice regionu a má široké pole působnosti 
+(mimo jiné filmový festival Mezipatra). STUD roku 2003 spolu s dalšími dlouhodobě aktivními i nově působícími organizacemi a osobnostmi (např. Vladimír Hrubý) vytvořil platformu usilující o uzákonění registrovaného partnerství
+a odstranění diskriminace GLB menšiny – Gay a lesbickou ligu. Ta se svou intenzivní prací s médii a úzkou spoluprací s předkladateli zákona o registrovaném 
+partnerství velkou měrou zasadila o jeho přijetí.
+Lesbická komunita se v devadesátých letech vyvíjela značně nezávisle, přičemž 
+postupně vzniklo několik organizací (L-klub Lambda, Promluv, A-klub), které se 
+značně lišily ve svém chápání lesbické komunity a ve vztahu k feminismu. Nejvýznamnější aktivitou lesbického hnutí bylo pořádání festivalu Apriles. Kromě toho 
+postupně vycházely časopisy Promluv (1993-1998), Alia a Inkognito. Na internetu 
+sehrál významnou roli portál lesba.cz, který ale pro technické problémy radikálně 
+omezil svoji činnost v létě 2005. V současnosti některé jeho funkce zastupuje web 
+bengales.cz. Rovněž festival Apriles se v roce 2003 konal naposledy, ale od roku 
+2005 jej nahradil skromnější festival Elnadruhou16.
+Zájmy translidí reprezentuje v České republice občanské sdružení Transforum, které existuje od roku 1998. Od té doby prošlo značnými personálními
+a ideovými změnami, avšak po celou dobu zůstává aktivní jako jediná česká
+15 Fanel, J. (2000): Gay historie. Praha, Dauphin.
+16 Kotišová, M., Vampolová, V. (2006): České lesby: daleko k hnutí, daleko k feminismu.
+In Hašková, H., Křížková, A., Linková, M. (2006): Mnohohlasem: vyjednávání ženských
+prostorů po roce 1989. Praha, Sociologický ústav AV.
+LGBT a menšina a komunita
+18
+organizace reprezentující zájmy translidí. Z aktivit mimo komunitu stojí za zmínku například udělování cen Transpřítel či snaha o prosazování zájmů translidí při 
+tvorbě antidiskriminačního zákona. Sdružení vyvíjí aktivitu především v Praze, 
+kde je značná koncentrace translidí, kteří sem přicházejí i z jiných regionů, aby 
+hledali adekvátní terapii, kontakty s komunitou a také za tolerantnějším prostředím velkoměsta. V Praze se také každý měsíc konají komunitní setkání, kterých 
+se obvykle účastní deset až třicet osob. Podobně jako jinde ve světě i v ČR jsou 
+v komunitě aktivní především transsexuální lidé MtF, což je pravděpodobně dáno
+zejména jejich snadnější identifikovatelností a s tím souvisejícími většími sociálními problémy. Naopak organizace, která by se zaměřovala na sdružování dalších 
+segmentů populace translidí, u nás nikdy neexistovala, což může být samozřejmě 
+příčinou i důsledkem jejich malé viditelnosti.
+Velmi aktivní je transkomunita v oblasti webových projektů, což je dáno mimo 
+jiné potřebou vyměňovat si množství velmi specifických informací. Po zhruba tři 
+roky byly nejaktivnějším webovým projektem www.translide.cz. V současnosti 
+webmaster ukončil aktivní činnost a stránky jsou aktualizované pouze ve výjimečných případech. Web však zůstává jednoznačně nejrozsáhlejším souborem textů 
+s trans tématikou na českém internetu. Diskusní fórum se pak přesunulo na stránky www.translide.com. Mnoho let také existují stránky www.transforum.cz, které 
+jsou však aktualizovány velmi sporadicky.
+6. LGBT lidé a náboženství
+Věřící gayové a lesby naléhají ve svých farnostech na to, aby v církvích, které je 
+přijímají bez problémů, byl připraven obřad žehnání stejnopohlavním svazkům. 
+Tento obřad žehnání by mohl mít platnost občanské registrace tak, jako je tomu 
+při uzavírání manželství. Proto by uvítali, kdyby legislativa dávala možnost zvolit 
+si mezi „úředním“ a „církevním“ obřadem uzavření registrovaného partnerství.
+V rámci připravovaného antidiskriminačního zákona existuje výjimka pro 
+církve a náboženské společnosti, které mají z interních důvodů právo v pracovněprávních vztazích uplatňovat rozdílné zacházení s osobami i v souvislosti s jejich 
+sexuální orientací. Otázkou je, zda se tím nedává církvím a náboženským společnostem příliš velký prostor k homofobnímu jednání – např. právo odmítnout 
+gaye či lesbu při žádosti o zaměstnání, které bezprostředně nesouvisí s výkonem 
+kněžského povolání (proti zákonné normě, která tuto diskriminaci v zaměstnání 
+vylučuje).
+Příslušná ministerstva by měla věnovat pozornost způsobu, jakým jsou
+LGBT menšina a komunita
+19
+připravováni ke své práci budoucí učitelé, vychovatelé a kněží. Všechny tyto osoby 
+se mohou ve své praxi setkat s coming-outem menšinově sexuálně orientovaných 
+lidí a jejich odpovědnost vůči nim je v tomto případě vysoká.
+7. LGBT senioři
+LGBT senioři prožívají obdobné starosti jaké mají senioři obecně, nicméně 
+vedle toho trpí i určitými specifickými problémy. Jedním z největších je samota, 
+která je mnohdy hlubší než u ostatní populace. Gayové obvykle dožívají bez rodinného zázemí; v mládí se jich rodina kvůli jejich homosexuální orientaci často zřekla a vlastní rodinu si nezaložili, a tak nemají potomky. Jejich přátelé postupně 
+umírají, nové vztahy se jim již zpravidla nedaří navázat. Mladší generace gayů
+o komunikaci s nimi v podstatě nestojí.
+U leseb může být situace jiná zejména v tom smyslu, že ženy, na rozdíl
+od mužů, mají širší možnosti založení rodiny; lesby mohou být tedy ve stáří samotou ohroženy v menším procentu než gayové. Obecně je role ženy a role matky 
+velmi často spojována. Řada žen se tedy může cítit pod jakýmsi společenským 
+tlakem, aby svou společenskou roli splnila. Proto se velká většina dnešních lesebseniorek provdala a založila rodinu. Je logické, že tato manželství se často rozpadla; svou roli zde jistě hrála i uvolněnější společenská situace v posledních letech. 
+Osamělé ženy s dětmi poté hledají partnerství se ženou.
+Dle dostupných statistik mají ženy stále nižší platy než muži. Nižší plat ve stáří 
+ústí v nižší důchod, což v případě, že partnerka zemře, může vést až na pokraj 
+chudoby. Ani lesby žijící v registrovaném partnerství nemají dnes nárok na vdovský důchod po zemřelé partnerce. Svou roli mohou u leseb-seniorek sehrávat také 
+další znevýhodňující faktory vycházející z jejich genderové role. Jelikož se ženy 
+obecně dožívají vyššího věku než muži, tak lze také předpokládat, že populace 
+leseb seniorek bude větší než populace gayů seniorů.
+Je však třeba zdůraznit, že uvedená konstatování jsou spíše domněnkami, lesby – seniorky jsou jedním z nejméně „viditelných“ segmentů v LGBT minoritě.
+Ve veřejném prostoru se pohybují minimálně a ke svojí sexuální orientaci se zpravidla nehlásí. Proto se veškerá „tvrzení“ o jejich sociální situaci blíží spíše dohadům.
+Co lze ale říci s jistotou je, že LGBT senioři a seniorky zůstávají „mimo zorné 
+pole“ mladší generace, která o jejich problémech v podstatně neví. Pokud využívají institucionální péče o seniory a seniorky, pak se často setkávají s diskriminací
+LGBT menšina a komunita
+20
+a nepochopením, neboť ve společnosti přežívá názor, že homosexualita není 
+záležitostí seniorů. Snaha udržovat či navázat v tomto věku stejnopohlavní vztah 
+bývá odsuzovaná mnohem více než vztahy jejich heterosexuálních vrstevníků
+a vrstevnic.
+Z terénních výpovědí vyplývá, že někteří by uvítali existenci určitého komunitního centra pro lesby a gaye, které by jim kromě dalších služeb poskytovalo např. 
+pečovatelské služby. V zahraničí podobné služby již existují, i když jsou postaveny převážně na soukromé iniciativě. Situaci by ovšem mohla zlepšit i působení
+na zlepšení standardů péče v již existujících státních zařízeních.
+Řešení popsaného problému vytvořením nové instituce není ovšem samospasitelné. Bylo by nanejvýš žádoucí motivovat (například cestou nabídky dotačních 
+programů s tímto zaměřením) stávající LGBT organizace k aktivnímu přístupu 
+k otázkám souvisejícím se stárnutím. Zájem o problematiku stárnutí by neměl 
+zůstat výsadou úzké skupiny jednotlivců. Popularizace studijních oborů z oblasti 
+sociální práce, s důrazem na práci se seniorkami a seniory, může být jednou z cest, 
+jak probudit zájem širší společnosti, zejména pak mladší generace, o tuto problematiku.
+8. LGBT a etnické menšiny17
+Prakticky zcela nezmapovaná je situace postavení LGBT z řad etnických menšin v České republice. Ač existuje potřeba zabývat se marginalizovanými skupinami uvnitř samotné LGBT komunity, neexistují žádné výzkumy či studie, které by 
+poskytly dostatek informací k zahájení této debaty. Obecně se dá říct, že podobně 
+jako je tomu v jiných zemích, společenský diskurz se omezuje na LGBT z většinové 
+společnosti a na stírání odlišností mezi LGBT a majoritou.
+LGBT z řad etnických menšin jsou přitom vystavováni vícenásobné diskriminaci nejenom ze strany většinové společnosti (z důvodu etnicity a sexuální orientace), ale také ze strany jednotlivých komunit (odlišná sexuální orientace je v rámci etnických skupin více či méně stigmatizována, taktéž v rámci LGBT komunity je 
+nahlíženo na příslušníky etnických menšin diskriminačně). Tato situace pak vrhá 
+LGBT z řad etnických menšin do určitého vakua (kdy se nekontaktují ani mezi 
+sebou), které je již v dnešní době částečně překonáváno pomocí internetu. V České republice neexistuje žádná organizace, která by se tímto tématem systematicky
+a dlouhodobě zabývala a pracovala s LGBT z řad etnických menšin (např. linka
+17 Text této kapitoly byl vytvořen na základě terénního výzkumu provedeného
+MUDr. Ivo Procházkou.
+LGBT menšina a komunita
+21
+pomoci specificky pro LGBT z řad etnických menšin; specifická část nebo diskusní 
+skupina v rámci internetových stránek věnující se této problematice aj.).
+Částečně dostupné jsou informace o gayích z řad romských komunit v ČR, zcela nedostupné jsou informace o dalších skupinách (LBT) z řad romských komunit a o LGBT z řad jiných etnických/národnostních menšin (např. vietnamská, 
+polská). Problémy, se kterými se romští gayové a lesby setkávají ve svých rodinách, spíše souvisejí s tím, jaký důraz je kladen na důležitost rodiny a částečná 
+religiozita a nižší vzdělanost. Druhým problémem, se kterým se romští gayové
+a lesby mohou setkávat, je přijetí v samotné LGBT komunitě. Jak ukázaly výsledky 
+výzkumu prováděného metodou focus group, ve které byla zkoumána také problematika postojů Romů ke gayům, romská komunita nevnímá obecně homosexualitu a gaye jako problém. Přijetí romského potomka či příbuzného však znesnadňuje stud a obava z odmítnutí před širší rodinou, která má u Romů silnější vazby
+a kohezi než ve většinové společnosti. Rovněž tradiční sociální struktury romské 
+společnosti kladou větší důraz na akceptaci okolím (zejména ve své komunitě). 
+Svůj podíl může hrát i možná větší religiozita Romů. Tyto jevy vedou k častějšímu 
+skrývání homosexuální orientace v rodině. včetně vstupu do manželství. Podobně 
+hraje roli i touha po dětech.
+Výzkum také upozorňuje na problém, jakým je homosexuální prostituce, kterou se (obdobně jako ve většinové společnosti) živí často heterosexuálně orientovaní mladí muži bez rodinného zázemí (z dětských domovů). Protože je podíl 
+těchto lidí z romského etnika vyšší, je vyšší i jejich zastoupení mezi prostituty. 
+V některých komunitách je pro egodystonní (vnitřně nevyrovnané se svou sexuální orientací) homosexuální muže či chlapce spíše akceptovatelné vysvětlovat své 
+homosexuální chování jako komerční než jako projev jejich sexuální orientace. 
+V romské komunitě se nicméně tento druh prostituce nepotvrdil.
+Tyto závěry však nelze paušálně využít pro diskuzi o postavení LGBT z řad 
+etnických menšin v České republice, pro její zahájení je tedy nezbytné provést 
+výzkum mapující jejich situaci. Paralelně by však měla být podpořena snaha LGBT 
+organizací se touto problematikou systematicky a dlouhodobě zabývat.
+LGBT menšina a komunita
+22
+23
+B . POLITICKO-LEGISLATIVNÍ ROVINA
+1. Diskriminace na základě sexuální orientace
+Právní úprava zákazu diskriminace je v českém právním řádu roztříštěná
+a nesourodá, míra ochrany před diskriminací proto závisí především na tom,
+v jaké oblasti života a z jakého důvodu k diskriminaci došlo. Na ústavní úrovni 
+je zákaz diskriminace obsažen v čl. 3 odst. 1 Listiny základních práv a svobod18, 
+který zakotvuje rovný přístup k řadě práv bez diskriminace z mnoha konkrétních 
+důvodů nebo i jiného postavení. Sexuální orientaci lze podřadit pod „jiné postavení“. Uvedený článek Listiny vychází z čl. 14 Evropské úmluvy o ochraně lidských 
+práv a základních svobod19, která je pro ČR závazná a podle níž rozhoduje Evropský soud pro lidská práva. Výslovně je diskriminace na základě sexuální orientace 
+zakázána také v právu Evropské unie, a to v čl. 13 Smlouvy o založení ES ve znění 
+Amsterodamské smlouvy z roku 199720.
+Povinnost zajišťovat rovné zacházení a ochrana před diskriminací z důvodu 
+sexuální orientace jsou relativně dobře upraveny v pracovně-právní oblasti. Zákon 
+o zaměstnanosti21, zákon o vojácích z povolání22, zákon o služebním poměru příslušníků bezpečnostních sborů23 a služební zákon24 výslovně zakazují diskriminaci 
+mj. i z důvodu sexuální orientace, zároveň také stanoví právo oběti domáhat se 
+ochrany u soudu. Problematická je v současné době ochrana v pracovním poměru, neboť nový zákoník práce25 neupravuje ochranu před diskriminací dostatečně.
+18 Čl. 3 odst. 1 zákona č. 2/1993 Sb., Listina základních práv a svobod 
+19 č. 209/1992 Sb.
+20 Srov. důkladné zpracování tématu včetně problematiky registrovaného partnerství
+in Boučková, P.: Diskriminace z důvodu sexuální orientace, in: Bobek, M.; Boučková, P.; Kühn,
+Z. (eds.): Rovnost a diskriminace. Praha, C. H. Beck 2006, str. 253-282.
+21 § 4 zákona č.435/2004 Sb., o zaměstnanosti, ve znění pozdějších právních předpisů 
+22 § 2 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších právních předpisů
+23 § 77 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění
+pozdějších právních předpisů
+24 § 80 zákona č. 218/2002 Sb., o službě státních zaměstnanců ve správních úřadech
+a o odměňování těchto zaměstnanců a ostatních zaměstnanců ve správních úřadech (služební
+zákon) (účinnost od 1. ledna 2009) 
+25 § 16 a § 17 zákona č. 262/2006 Sb., zákoník práce
+politicko-legislativní rovina
+24
+Z hlediska ochrany LGBTI lidí je pracovně-právní oblast a přístup k zaměstnaní 
+nejdůležitější, neboť to je sféra života, kde jsou diskriminováni nejčastěji.
+V dalších oblastech, jako jsou vzdělávání, poskytování sociálních výhod, zdravotní péče, poskytování služeb včetně bydlení, je zákaz diskriminace upraven 
+nedostatečně nebo vůbec. Antidiskriminační ustanovení obsažené ve školském 
+zákoně26 zakotvuje přístup ke vzdělání bez diskriminace z celé řady důvodů, 
+přičemž sexuální orientace mezi výslovně uvedenými důvody chybí. Vzhledem
+k tomu, že se jedná o demonstrativní výčet důvodů, dala by se ochrana případně podřadit pod „jiné postavení“. Je však otázkou, zda to bylo nedopatření tvůrců zákona či jejich záměr způsobený např. tím, že zákon upravuje vzdělávání na 
+základních školách a odpovědné osoby se domnívali, že takto mladí lidé (do věku 
+15 let) svojí případnou odlišnou sexuální orientaci ještě neřeší.
+Občanský soudní řád27 upravuje tzv. přechod důkazního břemene28; v případě 
+diskriminace na základě sexuální orientace je přechod důkazního břemene omezen pouze na diskriminaci v oblasti pracovní. Občanský soudní řád29 a soudní řád 
+správní30 umožňují, aby účastníka ve věcech ochrany před diskriminací z důvodu 
+sexuální orientace zastupovalo občanské sdružení31, pokud k jeho činnostem uvedeným ve stanovách patří ochrana před diskriminací. Podobné ustanovení obsahuje také zákon o ochraně spotřebitele; podle něho může podat návrh na zahájení 
+řízení u soudu o zdržení se protiprávního jednání ve věci ochrany práv spotřebitelů a být účastníkem takového řízení sdružení, v jehož stanovách jsou uvedeny 
+tyto cíle.
+Ten, kdo jinému způsobí újmu pro jeho sexuální orientaci se podle zákona
+o přestupcích32 dopustí přestupku proti občanskému soužití, za který mu může 
+být uložena pokuta až do výše 5 tisíc Kč.
+Zákon, který by komplexně zakotvoval právo na rovné zacházení a zákaz diskriminace z důvodu sexuální orientace, dosud přijat nebyl. Navrhovaný antidiskriminační zákon upravuje právo na rovné zacházení a ochranu před diskriminací
+26 § 2 odst. 1 písm. a zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším
+odborném a jiném vzdělávání (školský zákon), ve znění pozdějších právních předpisů
+27 § 133a odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších právních
+předpisů
+28 Význam a meze tohoto postupu stanovil Ústavní soud ve svém nálezu č. 419/2006 Sb.
+29 § 26 odst. 3 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších právních předpisů
+30 § 35 odst. 4 zákona č. 150/2002 Sb., soudní řád správní, ve znění pozdějších právních předpisů
+31 zákon č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších právních předpisů
+32 § 49 odst. 1 písm. e) zákona č. 200/1990 Sb., o přestupcích, ve znění pozdějších právních
+předpisů
+politicko-legislativní rovina
+25
+mj. i z důvodu sexuální orientace v oblasti zaměstnání, přístupu k zaměstnání
+a povolání, samostatné výdělečné činnosti, odbornému vzdělávání, poradenství 
+a rekvalifikaci, členství a účasti v organizacích pracovníků nebo zaměstnavatelů, 
+sociální ochrany včetně sociálního zabezpečení a zdravotní péče, sociálních výhod, 
+vzdělání a přístupu ke zboží a službám a bydlení. Návrh definuje jednotlivé formy 
+diskriminačního jednání, jako jsou diskriminace přímá a nepřímá a obtěžování. 
+Podle návrhu by se diskriminovaná osoba mohla u soudu domáhat zejména upuštění od diskriminace, odstranění následků diskriminačního zásahu a přiměřeného zadostiučinění. Postavení oběti by se zlepšilo i vytvořením instituce pro rovné 
+zacházení, která by měla obětem poskytovat právní pomoc. Přijetí antidiskriminačního zákona by posílilo ochranu před diskriminací z důvodu sexuální orientace, a to především v těch oblastech, kde dosud dostatečná ochrana chybí.
+Antidiskriminační zákon je v době sepsání této Analýzy projednáván v Poslanecké sněmovně Parlamentu33. Vzhledem k tomu, že z pohledu těch, kteří jsou 
+skutečně vystaveni nerovnému zacházení, se jedná o zásadní právní normu, je 
+jeho přijetí více než žádoucí.
+2. Trestní právo
+Československé a české zákonodárství odstranilo trestnost homosexuálních 
+styků již v roce 196134. V roce 1990 bylo odstraněno diskriminační ustanovení
+§ 24435 trestního zákona, které zakazovalo pohlavní styk s osobou stejného pohlaví mladší 18 let; u osob opačného pohlaví byla věková hranice – a je dosud – 15 
+let. Věková hranice 15 let tak v současnosti platí i pro souhlasný pohlavní styk 
+s osobou stejného pohlaví. Zrušeno bylo též zneužívané ustanovení, které trestalo 
+vzbuzení veřejného pohoršení homosexuálním chováním.
+V České republice neexistují oficiální ani neoficiální statistiky, které by evidovaly útoky z nenávisti, tzv. hate crimes, které byly motivovány sexuální orientací 
+oběti. Neexistence těchto oficiálních statistik je dána tím, že český trestní zákoník nezná speciální skutkovou podstatu trestných činů motivovaných nenávistí
+k sexuálním menšinám. Proto takové trestné činy ani nejsou samostatně evidovány.
+Jsou statisticky zahrnuty do jiných trestných činů, z nichž se však nedá vyčíst, že 
+útok byl motivován sexuální orientací oběti. Nicméně to neznamená, že by k takovýmto činům nedocházelo; z výpovědí jednotlivců z terénu je zřejmé, že se takovéto útoky stávají, např. útoky na jednotlivce či LG kluby, často se jedná především
+33 sněmovní tisk č. 253, http://www.psp.cz/sqw/historie.sqw?o=5&T=253
+34 zákon č. 140/1961 Sb., trestní zákon
+35 § 244 byl vypuštěn zákonem č. 175/1990 Sb.
+politicko-legislativní rovina
+26
+o verbální útoky, nicméně dochází i k útokům fyzickým. Většinou však lidé takovéto útoky vůbec Policii ČR neoznámí a pokud ano, nehraje při vyšetřování sexuální orientace oběti významnou roli36.
+Trestní zákoník stanoví u trestných činů jako vražda, úmyslné ublížení na zdraví a úmyslné způsobení těžké újmy na zdraví přísnější trestní sazbu v případech, 
+kdy je takovýto trestný čin motivován rasou oběti, příslušností k etnické skupině, 
+národností, politickým přesvědčením nebo vyznáním oběti. Sexuální orientace 
+zde uvedena není, útok na jedince z důvodu jeho sexuální orientace by tak nebyl 
+důvodem pro udělení přísnější trestní sazby.
+Také připravovaný nový trestní zákoník u vybraných trestných činů stejně jako 
+stávající trestní zákon, stanoví přísnější trestní sazbu, je-li trestný čin motivován 
+rasou oběti, příslušností k etnické skupině, národností, politickým přesvědčením 
+nebo vyznáním oběti. I nadále se tak nepředpokládá, že by útok motivovaný sexuální orientací oběti byl trestán přísněji. Podle navrhovaného trestního zákoníku 
+bude násilí proti skupině obyvatel a jednotlivci a hanobení národa, rasy a etnické 
+nebo jiné skupiny považováno za trestný čin. Užití násilí nebo jeho vyhrožováním 
+jednotlivci nebo skupině osob či hanobení LGBT lidí však nebudou uvedenými 
+trestnými činy. Ochrana proti těmto nežádoucím jevům tak zůstane, jako doposud, zaměřena pouze na rasové, etnické a náboženské menšiny.
+3. Právní úprava soužití osob stejného pohlaví
+Svazek dvou osob může mít z hlediska práva různou podobu. Na jedné straně 
+se může jednat o zcela neformální soužití dvou osob, na straně druhé o soužití formální, které vzniká za zákonem stanovených podmínek a vyplývají z něj zákonem 
+stanovená práva a povinnosti.
+Pokud jde o partnerské soužití osob stejného pohlaví, většina zemí žádnou 
+právní úpravu nemá a neumožňuje vůbec gayům a lesbám svůj vztah podle zákona formalizovat. Z hlediska práva pak nejsou osoby v stejnopohlavních svazcích 
+vůbec považovány za partnery či partnerky.
+V posledních době však řada zemí, zejména v Evropě, ale i dalších zemích světa, začíná vztahy stejnopohlavních párů uznávat právně a poskytovat jim některá 
+36 V USA a řadě zemí západní Evropy existuje systém evidence tohoto typu trestných činů,
+přičemž je jich nezanedbatelný počet. Například statistiky FBI uvádějí, že sexuální orientace je
+třetím nejčastějším motivem hate crrimes, a to po rasové a náboženské motivaci. Například
+podle statistiky za rok 2005 činil jejich podíl 14,2 % z více než osmi tisíc trestných činů
+v kategorii hate crimes. Více informací je na adrese http://www.fbi.gov/ucr/hc2005/. 
+politicko-legislativní rovina
+27
+práva dříve přiznávaná pouze manželům. Právní forma soužití stejnopohlavních 
+párů přijatá v jednotlivých zemích se nicméně odlišuje. V některých zemích, např. 
+ve Španělsku či Holandsku, mohou stejnopohlavní páry uzavírat manželství, a to 
+za shodných podmínek jako páry heterosexuální; z toho svazku jim pak plynou 
+i stejná práva a povinnosti jako manželům. Švédsko v současné době dokonce 
+uvažuje, že bude uznávat i církevní sňatky stejnopohlavních párů37.
+Většina zemí umožňujících stejnopohlavním párům jejich vztah nějakým 
+způsobem právně upravit však spíše volila cestu tzv. registrovaného partnerství. 
+Registrované partnerství jako právní institut upravující soužití dvou osob může 
+být otevřeno jak párům stejnopohlavním (výlučně), tak i párům heterosexuálním. 
+Práva a povinnosti, které z uzavření tohoto svazku registrovaným partnerům či 
+partnerkám vyplývají, se v jednotlivých zemích významně liší. Zatímco někde se 
+svým rozsahem téměř blíží instituci manželství, jinde zákony registrovaným párům přiznávají jen velmi omezená práva a ve srovnání s manžely je i nadále podstatným způsobem znevýhodňují.
+V České republice byl významným mezníkem rok 2006, kdy došlo k přijetí 
+zákona o registrovaném partnerství38. Do té doby byly LGB lidé vystaveni specifické diskriminaci z důvodu sexuální orientace spočívající v odepření statusového 
+svazku párům osob stejného pohlaví. Zákon upravující partnerské soužití stejnopohlavních párů byl v Poslanecké sněmovně poprvé navržen již v roce 1998 a poté 
+ještě čtyřikrát. Všechny tyto pokusy však skončily neúspěšně, teprve v roce 2006 
+se podařilo dovést legislativní úsilí do úspěšného konce a byl přijat zákon, který
+i u nás umožňuje formalizovat svazky gayů a leseb.
+Již naznačená obtížnost přijímání tohoto zákona v České republice vedla 
+k tomu, že přijatý zákon je výsledkem velkých kompromisů. Spíše než by přinášel registrovaným párům rozsáhlá práva, má zákonné uznání těchto párů význam 
+především v rovině symbolické, neboť zákon tak akceptuje skutečnost, že partnerské svazky gayů a leseb mají stejnou hodnotu a plní v životě stejné funkce jako 
+svazky heterosexuální a potřebují tak i určitou ochranu ze strany státu. V této souvislosti lze citovat důvodovou zprávu k § 836 připravovaného návrhu občanského 
+zákoníku o účelu institutu registrovaného partnerství čteme: „Účelem adekvátní 
+statusové úpravy společenství dvou osob stejného pohlaví je splnit úkol státu přistupovat stejně ke všem svým státním občanům a dát každému svému státnímu 
+občanovi možnost prožít život v právem chráněném svazku statusově relevantním 
+37 Přehled zákonů týkajících se homosexuality ve světě viz Ottosson, D. (ILGA): LGBT World
+Legal Wrap Up Survey November 2006, www.ilga-europe.org/europe/issues/international/
+lgbt_world_legal_wrap_up_survey_november_2006. 
+38 zákon č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů
+politicko-legislativní rovina
+28
+s jiným státním občanem, resp. s jiným člověkem, úkol nabídnout LGB osobám 
+adekvátní právní prostředí, adekvátní právní institut vyrovnávající jejich statusové postavení s člověkem orientovaným heterosexuálně. Nejde tudíž o nadlepšení 
+postavení, o přiznání zvláštních výhod, ale o přiznání stejných výhod – totiž sdílet 
+s jinou osobou společenství státem uznané se statusovými důsledky - jaké mají 
+všichni ostatní. Nelze nevidět, že odpíráním institucionalizace vztahům dvou osob 
+stejného pohlaví, de facto i de iure sankcionuje stát osoby s vrozenou variantou 
+tzv. běžné sexuální orientace“39.
+Zákon o registrovaném partnerství garantuje v České republice registrovaným 
+párům ve srovnání s manžely jen velmi omezená práva. Zatímco z hlediska soužití 
+nevnímají registrované páry nepřiznání některých práv jako příliš problematické, 
+u určitých práv pociťují jejich upírání jako zcela zásadní problém, který značně 
+stěžuje budování jejich společného života.
+Diskriminační důsledky, které vyplývají z případné neexistence statusového 
+svazku osob stejného pohlaví či z jejich odlišných právních důsledků od právních 
+důsledků manželství lze rozdělit na soukromoprávní a veřejnoprávní. V soukromém právu znevýhodnění partnerů spočívá v tom, že neexistuje institut společného jmění partnerů ani společný nájem bytu. Ve veřejném právu přetrvává odlišné 
+zacházení v oblasti daňového práva (zejména u daně dědické a darovací), práva 
+sociálního zabezpečení (např. neexistence vdovských a vdoveckých důchodů), 
+správního práva (bylo by například žádoucí, kdyby i partneři měli právo odepřít 
+vysvětlení podle zákona o Policii ČR40 a podle celního zákona41, mají-li analogické 
+právo podle trestního řádu42 a zákona o přestupcích43), práva cizineckého a nabývání státního občanství a v dalších oblastech44.
+Uzavřením registrovaného partnerství nedochází mezi partnery či partnerkami ke vzniku společného jmění a pozůstalé partnerky či partneři nemají nárok
+na vdovský či vdovecký důchod. Také jsou znevýhodněni v oblasti dědického práva; zatímco občanský zákoník zařazuje pozůstalé registrované partnerky a partnery 
+39 srov. návrh nového občanského zákoníku, konsolidovaná verze celého návrhu (paragrafové 
+znění + důvodová zpráva)
+http://zcu.juristic.cz/download/rekodifikace/obcan/OZ_konsolidovana_verze_duben_
+05.zip.
+40 zákon č. 283/1991 Sb., o Policii ČR, § 12 odst. 3
+41 zákon č. 13/1993 Sb., celní zákon, § 30 odst. 4
+42 zákon č. 141/1961 Sb., o trestním řízení soudním, § 100 odst. 1
+43 zákon č. 200/1990 Sb., o přestupcích, § 68 odst. 4
+44 Rozdíly v právech a povinnostech vyplývajících z manželství a registrovaného partnerství lze
+nalézt v tabulce na
+http://www.partnerstvi.cz/gll-dokumenty/2006-03-14-srov-manz- rp.phtml
+politicko-legislativní rovina
+29
+do 1. dědické skupiny, zákon upravující dědickou daň45 na tuto skutečnost vůbec 
+nepamatuje. Pokud jde o daň dědickou, ale i darovací, pohlíží právo na registrované partnery či partnerky jako na osoby, které nejsou v žádném příbuzenském 
+svazku a zařazuje je pro výpočet daně až do 3. skupiny, kde je samozřejmě daňová 
+sazba nejvyšší. Tím, že jsou registrovaným párům upírána tato majetková práva, 
+nerespektuje stávající právní úprava vůbec skutečnost, že i stejnopohlavní partneři či partnerky spolu tráví celý život, budují společnou domácnost a majetek
+a v případě materiálního nedostatku jednoho se vzájemně podporují stejně jako je 
+tomu u párů manželských.
+Dalším stěžejním problémem, který výrazně komplikuje život registrovaným 
+párům nejen u nás, je otázka uznávání těchto právních svazků uzavřených v cizině, stejně jako uznávání svazků uzavřených v České republice cizími státy. Na 
+to pak navazuje i další problém, a to v jakém rozsahu jim budou přiznána práva
+a povinnosti, jež z tohoto svazku vyplývají. Neboť jak již bylo naznačeno výše, práva a povinnosti, které právní řády jednotlivých zemí garantují stejnopohlavním 
+párům, se velmi výrazně odlišují. Pokud jde o český právní řád, měl by zohlednit 
+existenci partnerství s občanem ČR při udělování povolení k pobytu cizincům46
+a při udělování státního občanství47. Zákon o registrovaném partnerství48 vyžaduje pro uzavření partnerství, aby aspoň jeden z partnerů byl občanem ČR. Bylo by 
+žádoucí, kdyby vedle toho bylo možné uzavření partnerství i dvou cizinců, z nichž 
+jeden má na území ČR povolení k trvalému pobytu. Trvalý pobyt totiž zakládá 
+srovnatelně intenzivní pouto mezi státem a osobou jako státní občanství a rozlišování občanů a trvale pobývajících cizinců je v této věci neodůvodněné. V tomto 
+smyslu formuloval doporučení České republice i Výbor OSN pro odstranění všech 
+forem rasové diskriminace49.
+Zákon o registrovaném partnerství gaye a lesby zcela jednoznačně znevýhodňuje také v oblasti rodinného práva - u rodičovských práv, adopcí, výchovy dětí 
+a reprodukčních práv. Nejenže je stávající právní úprava otevřeně diskriminuje, 
+ale ani nedbá na nejlepší zájem dětí žijících v těchto rodinách. Tím, že současné
+45 § 11 zákon č. 357/1992 Sb. o dani dědické, dani darovací a dani z převodu nemovitostí,
+ve znění pozdějších právních předpisů
+46 zákon č. 326/1999 Sb., o pobytu cizinců, § 87g
+47 zákon č. 40/1993 Sb., o nabývání a pozbývání státního občanství, § 11 odst. 1 písm. d)
+48 zákon č. 115/2006 Sb., o registrovaném partnerství, § 4 odst. 2
+49 V Závěrečných doporučeních (CERD/C/CZE/CO/7) Výboru OSN pro odstranění rasové diskriminace, která přijal po projednání Šesté a sedmé periodické zprávy ČR o plnění závazků plynoucích z Mezinárodní úmluvy o odstranění všech forem rasové diskriminace na své schůzi v březnu 2007, výbor v bodě 18 se znepokojením poznamenal, že „podle zákona o registrovaném partnerství musí být alespoň jedna z dotyčných osob občanem“ Viz http://www.vlada.cz/assets/
+cs/rvk/rlp/dokumenty/mezinarodni_umluvy/cerd/CERD-Zaverecna_doporuceni_cz.pdf. 
+politicko-legislativní rovina
+30
+právo vůbec nereflektuje existenci gay a lesbických rodin, v nichž vyrůstají děti, 
+neumožňuje ani registrovaným stejnopohlavním rodičům společné zdanění, čímž 
+tyto rodiny zcela jednoznačně znevýhodňuje oproti rodinám heterosexuálním. 
+Otázce lesbického a gay rodičovství je níže věnována samostatná kapitola.
+4. LGB rodiče a jejich děti
+U rodičovských práv, adopcí, výchovy dětí a reprodukčních práv je odlišné zacházení s LGB lidmi pravděpodobně nejcitelnější. Lze říci, že rodičovství, 
+vychovávání dětí a rodina zůstávají oblastí, kde stále přežívá velké množství pověr 
+a předsudků o tom, co je „normální“ a „nejlepší“ pro děti.
+Veřejná debata o výchově dětí stejnopohlavními páry je v České republice zatím 
+na počátku a její zaměření mnohdy neodpovídá realitě. Většinou se totiž soustředí jen na otázku, zda by měly mít stejnopohlavní páry možnost adoptovat děti, 
+přičemž diskuse s tím spojená je obvykle postavena tak, že je pouze věcí politiků 
+něco takového povolit nebo naopak zakázat. V diskusích tak chybí jasné rozlišení 
+možných situací, ve kterých mohou mít LGB lidé děti. O čem se pak mluví ještě 
+méně či vůbec je fakt, že stejnopohlavní páry vychovávající děti i v České republice 
+reálně existují. Výchova dětí LGB páry i u nás je každodenní realitou a ve světě je 
+na rozdíl od České republiky zmapována mnoha výzkumy50.
+Řada LGB lidí vždy děti vychovávala, a to v rámci heterosexuálních svazků. 
+Jakkoliv bývají tyto svazky značně nestabilní a často končí rozvodem, chovají se 
+LGB lidé v této situaci obvykle jako velmi zodpovědní rodiče. Dříve měly soudy 
+tendenci nesvěřovat homosexuálním lidem děti do péče, a to ani tehdy, kdy prokázali lepší schopnost se o děti starat. Takový postup ovšem neměl žádné lékařské, 
+psychologické ani právní opodstatnění a lze ho dnes již považovat za překonaný.
+Druhou podstatně odlišnou skupinou LGB lidí vychovávajících děti jsou jednotlivci a především pak páry, které se rozhodly mít děti, aniž by měli v úmyslu 
+vstupovat kvůli tomu do nefunkčních heterosexuálních svazků. Homosexuální 
+muži vychovávají děti obvykle pouze v případech, kdy tyto děti mají z předchozího svazku. Teoreticky by mohli dítě také adoptovat, avšak prakticky to v podstatě 
+není možné. Lesbické ženy mohou mít děti mnohem snadněji, a to ať již v důsledku cíleného otěhotnění v rámci heterosexuálního styku, nebo díky provedení 
+umělého oplodnění na některé zahraniční klinice. Počet takových lesbických žen
+50 U nás je výzkum v této oblasti zatím v plenkách, avšak v současnosti se pracuje na dvou
+výzkumných projektech, jejichž výsledky snad budou brzy zveřejněny. O výzkumných projek
+tech ve světě pak již u nás referovaly Kateřina Nedbálková, Eva Polášková, a Věra Sokolová.
+politicko-legislativní rovina
+31
+a párů lze pouze odhadovat, přičemž se bude pravděpodobně pohybovat v řádech 
+stovek či spíše tisíců.
+Zkoumáním dětí vychovávaných gayi a lesbami či stejnopohlavními páry se 
+ve světě v posledních desetiletích zabývaly desítky výzkumných studií. Navzdory 
+přesvědčení rozšířenému mezi řadou laiků i některými odborníky žádný z relevantní výzkumů nezjistil, že by děti homosexuálních rodičů měly nějaké větší problémy v oblasti formování sexuální a pohlavní identity ani v žádné další oblasti 
+psychického vývoje. Při srovnávání dětí vychovávaných jedním homosexuálním 
+rodičem a dětí vychovávaných stejnopohlavním párem se ale prokázalo, že pro 
+děti je obecně lepší, pokud jsou vychovávány dvěma milujícími rodiči. Děti vychovávané jedním rodičem, ať už homosexuálním nebo heterosexuálním, prospívají 
+v některé směrech hůře než děti vychovávané dvěma rodiči, přičemž nezáleží na 
+tom, zda jsou stejného nebo rozdílného pohlaví51.
+Na podkladě těchto výzkumů již některé mezinárodně uznávané odborné společnosti52 zpracovaly expertní stanoviska, která poukazují na to, že není důvod 
+bránit stejnopohlavním párům v naplňování jejich touhy po dětech. Některé země 
+tak nijak nebrání lesbickým párům, aby využívaly umělé oplodnění. Vedle toho 
+stále více zemí umožňuje adopce dětí stejnopohlavními páry, neboť je evidentní, 
+že péče v rodině je lepší a také pro stát méně nákladná než je tomu v případě 
+péče institucionální. Česká republika patří stále mezi země s vysokým počtem dětí 
+v ústavech, avšak společnost se zatím bohužel více znepokojuje nezvyklostí stejnopohlavních rodin než osudem dětí v ústavech.
+Hovoří-li se o rodičovství, nelze v žádném případě opomenout samotné děti
+a jejich práva. Nejlepší zájem dítěte nicméně nemusí být naplněn jen v rámci tzv. 
+tradiční rodiny, naopak zahraniční průzkumy potvrzují, že i stejnopohlavní páry 
+jsou schopny svým dětem poskytnout plnohodnotné rodinné prostředí. V případě již existujících rodin je navíc v zájmu dětí, aby byly vychovávány v právně
+51 Vzhledem k množství publikovaných studií je nemožné uvést zde alespoň reprezentativní
+přehled. Bohatá bibliografie je k dispozici na níže uvedeném odkazu na technickou zprávu
+Americké pediatrické akademie. Za všechny relevantní tituly uvádíme alespoň dva:
+Laird, J (ed.) (1999): Lesbians and lesbian families: reflections on theory and practice.
+New York, Columbia University Press.
+Nedbálková, K. (2002): Alternativní rodinné modely aneb Rodiny lesbických matek a rodiny
+gay otců. In Ženská práva jsou lidská práva. Brno. Nesehnutí.
+52 Jako první z velkých profesních organizací se k této tématice vyjádřila v roce 1996 Kanadská
+psychologická asociace. Její navazující stanovisko z roku 2003 je k dispozici na adrese
+http://www.cpa.ca/cpasite/userfiles/Documents/old%20press%20releases/GayParenting-CPA.pdf
+Americká psychologická asociace, která je největší profesní organizací svého druhu na světě,
+vydala roku 2004 stanovisko, které je k dispozici na adrese
+http://www.apa.org/pi/lgbc/policy/parents.html 
+politicko-legislativní rovina
+32
+a sociálně stabilním prostředí. Tomu v mnoha zemích včetně České republiky 
+brání legislativa ignorující existenci a zájmy těchto rodin. Tento stav je znepokojivý především z hlediska práv dětí, jejichž zájmy nejsou touto praxí vůbec brány 
+v potaz. Z toho důvodu některé odborné společnosti53 vyzývají veřejné instituce, aby zájmy těchto dětí hájily, neboť zájem a práva dětí by měly stát nad zájmy 
+politickými. Je jistě žádoucí, aby i Česká republika přehodnotila svoji legislativu
+a vzala na vědomí vědecká fakta a především pak zájmy dětí.
+Podle českých právních předpisů nesmí být neformální či formální soužití 
+matky či otce dítěte s partnerkou nebo partnerem stejného pohlaví překážkou 
+svěření do výchovy vlastního biologického dítěte a nesmí bránit pravidelným stykům biologického dítěte s rodičem. Tento přístup výslovně potvrdil i Evropský 
+soud pro lidská práva ve svém rozhodnutí Mouta v. Portugalsko z roku 200054, 
+v němž prohlásil za diskriminaci rozhodnutí portugalského soudu, jímž byla gay 
+otci z důvodu jeho sexuální orientace odebrána z výchovy dcera a byla svěřena
+do výchovy matce.
+V oblasti rodičovství je třeba od situace, kdy se jedná o vztah gayů a lesbických 
+žen k vlastním biologickým dětem odlišit situace, kdy stejnopohlavní páry usilují 
+o naplnění své touhy po dětech. Většina lidí má představu, že nemají-li gayové
+a lesby děti ze svých předcházejících svazků, jediným způsobem, jak naplnit jejich 
+touhu po dětech, je adopce. Adopce nicméně představuje pouze jednu z možností 
+jak mohou gayové a lesby svojí touhu po rodině uskutečnit. Právní úpravy jednotlivých zemích se v tomto ohledu liší; způsoby, jež jsou v jedné zemi legální, v jiné 
+zemi zákon nepovoluje.
+4.1. Individuální adopce
+V České republice může podle zákona o rodině adoptovat dítě každý muž či 
+žena bez ohledu na sexuální orientaci. Situace se však zásadně změní v okamžiku, 
+kdy gayové a lesby vstoupí do registrovaného partnerství, neboť podle zákona 
+registrované osoby nemohou adoptovat dítě nejen jako pár, ale ani individuálně. Příslušné ustanovení zákona o registrovaném partnerství zcela jednoznačně 
+znevýhodňuje gaye a lesbické ženy, neboť osobám po vstupu do partnerství upírá právo, které je jim před uzavřením a po ukončení registrovaného partnerství 
+přiznáno. Zatímco muž či žena, kteří uzavřou manželství, mají i po dobu trvání 
+manželství právo si sami adoptovat dítě, pouze k tomu navíc potřebují souhlas
+53 Stanovisko Americké pediatrické akademie vydané roku 2002 lze nalézt na adrese:
+http://www.pediatrics.org/cgi/content/full/109/2/339 Technická (důvodová) zpráva je
+k dispozici na adrese: http://www.pediatrics.org/cgi/content/full/109/2/341
+54 Bobek, M., Boučková, P., Kühn, Z. (2007): Rovnost a diskriminace. Praha, C.H. Beck. s. 277
+politicko-legislativní rovina
+33
+manžela či manželky. V přístupu k adopcím tak dochází zcela jednoznačně k otevřené zákonné diskriminaci gayů a lesbických žen. Dá se říci, že chtějí-li si gayové 
+nebo lesby adoptovat dítě, tlačí je současná česká právní úprava spíše k tomu, aby 
+žili v neformalizovaných svazcích.
+4.2. Společná adopce
+Na rozdíl od individuální adopce u adopce společné se rodiči stávají oba partneři, může se jednat o pár heterosexuální nebo stejnopohlavní. V České republice 
+je společná adopce vyhrazena pouze manželům.
+Společnou adopci dětí stejnopohlavními páry umožňují např. Belgie, Nizozemí, Španělsko, Švédsko či Velká Británie, některé státy USA55.
+4.3. Právo adoptovat dítě své partnerky či partnera
+Stejně jako může manžel nebo manželka adoptovat dítě své manželky či 
+manžela, přiznávají některé země toto právo i partnerkám či partnerům ve stejnopohlavních svazcích. Právo adoptovat dítě partnerky či partnera umožňuje, aby 
+se faktický vztah mezi dítětem a partnerkou nebo partnerem biologického rodiče 
+upravil i právně. To významně přispívá ke stabilitě těchto vztahů a posiluje jistotu 
+dítěte, že vztah k jemu velmi blízké osobě neskončí s koncem partnerství, a že 
+osoba která ho jako rodič vychovává, se stane i jeho rodičem ve smyslu právním 
+se všemi důsledky, které to přináší. Takto lze např. adoptovat biologické dítě partnerky či partnera, které má z předcházejícího heterosexuálního svazku nebo dítě 
+narozené partnerce po umělém oplodnění.
+V České republice partneři a partnerky ve stejnopohlavních svazcích toto právo 
+nemají. Partnerka či partner se fakticky podílejí na výchově dětí často řadu let, 
+po dobu trvání registrovaného partnerství mají tuto povinnost dokonce stanovenu
+i zákonem. Přesto jim zákon vůbec neumožňuje upravit vztah k biologickému dítěti 
+své partnerky či partnera právně. Tento stav nejenže znevýhodňuje stejnopohlavní páry, ale je zcela jednoznačně v rozporu s nejlepším zájmem dítěte56
+. Nezřídka
+55 srov. mj. Ottosson, D. (ILGA): LGBT World Legal Wrap Up Survey November 2006, www.
+ilga-europe.org/europe/issues/international/lgbt_world_legal_wrap_up_survey_november_2006
+56 Tento fakt uznává ve svých dokumentech řada významných odborných společností. Například
+Americká pediatrická akademie vydala v tomto smyslu obsáhle a kvalitně podložené prohláše
+ní, ve kterém nabádá, aby tato diskriminace dětí vychovávaných stejnopohlavními páry byla
+zrušena. Dokument je k dispozici na adrese
+http://pediatrics.aappublications.org/cgi/content/full/109/2/339,
+jeho technická zpráva pak na adrese:
+http://pediatrics.aappublications.org/cgi/content/full/109/2/341. 
+politicko-legislativní rovina
+34
+zásadní problém nastává v okamžiku, kdy partnerství skončí, ať smrtí biologického rodiče nebo rozpadem partnerství. V případě úmrtí biologického rodiče hrozí 
+nebezpečí, že dítě bude vytrženo ze svého prostředí a odděleno od osoby, která mu 
+je neblíže, aby bylo svěřeno do výchovy některé osobě z biologické rodiny zemřelého rodiče. Dojde-li k rozpadu partnerství, hrozí, stejně jako v případě rozpadu 
+manželství, nebezpečí, že biologický rodič bude dítěti bránit ve styku s bývalým 
+partnerem či partnerkou, přestože dítě má k němu velmi silné citové pouto. Naopak v případě úmrtí nebiologického rodiče budou dítěti odepřena dědická práva, 
+nebyla-li v jeho prospěch sepsána závěť atd.
+Adopci dítěte partnera či partnerky umožňují např. Belgie, Dánsko, Německo, Island, Nizozemí, Norsko, Španělsko, Švédsko, Velká Británie či některé státy 
+USA.
+4.4. Svěření dítěte do pěstounské péče
+Na rozdíl od adopce, uzavření registrovaného partnerství nebrání tomu, aby 
+se gayové a lesby stali pěstouny, avšak pouze individuálně, nikoli jako pár. Společnými pěstouny se mohou stát pouze manželé. V případě, že by si chtěli vzít dítě 
+do pěstounské péče gayové a lesby v registrovaném partnerství, lze dovodit, že by
+k takovému kroku analogicky byl nutný i souhlas partnerky či partnera; stejně 
+jako je vyžadován u manželů, stane-li se pěstounem pouze jeden z nich.
+Do společné pěstounské péče může být partnerům svěřeno dítě např. v Belgii, 
+Dánsku, Finsku, Francii, Nizozemí, Norsku, Švédsku, na Islandu, gayům a lesbám 
+jsou děti do pěstounské péče svěřovány i v Anglii a Walesu.
+4.5. Umělé oplodnění
+Pokud chce mít lesbický pár dítě, další možností, vedle adopce, je umělé 
+oplodnění. V České republice je přístup k umělému oplodnění vyhrazen pouze 
+heterosexuálním párům. Neplodný pár, který může využít umělé oplodnění, tvoří podle zákona o péči o zdraví lidu pouze muž a žena, přičemž není nutné, aby 
+byli manželé. Umělé oplodnění tak nemohou využít ani lesbický pár, ani žena bez 
+partnera.
+Některé země zpřístupňují umělé oplodnění buď přímo lesbickým párům nebo 
+alespoň ženám bez partnera a tím tedy následně i lesbickému páru. Umělé oplodnění mohou využívat lesbické či bisexuální ženy např. v Belgii, Dánsku, Finsku, 
+Nizozemí, Španělsku, Švédsku, Velké Británii, některých státech USA.
+politicko-legislativní rovina
+35
+4.6. Postup státních orgánů
+V oblasti práva rodinného, pokud jde o vztahy k dětem, přiznávají právní 
+předpisy gayům a lesbickým ženám některá práva. Jak je uvedeno výše, na jedné 
+straně se jedná o vztahy k biologickým dětem, na straně druhé o práva v oblasti 
+náhradní rodinné výchovy, jako je individuální adopce nebo pěstounská péče. Je 
+však nezodpovězenou otázkou, jak odpovědné státní orgány chránící zájmy dětí, 
+především orgány sociálně-právní ochrany a soudy, v praxi skutečně postupují. V praxi tak záleží především na osobních postojích a hodnotách jednotlivých 
+odpovědných osob, zda při jejich rozhodování bude hrát roli sexuální orientace 
+biologického rodiče či žadatele o adopci nebo pěstounskou péči.
+5. Transsexuální a transgender lidé (translidé)
+5.1 Právní a sociální postavení translidí
+Problémy transsexuální populace je možné poměrně dobře specifikovat, 
+zatímco situace dalších skupin zařazovaných do trans komunity je poměrně nejasná. Už od období mezi světovými válkami a zejména pak po druhé světové válce 
+je problémem transsexuálních lidí zajištění přístupu k hormonální a chirurgické 
+léčbě. Tento problém sdílela i československá populace. Začátky operativní léčby na našem území jsou zahaleny značným tajemstvím, přičemž spadají zhruba
+do poloviny šedesátých let. V druhé polovině šedesátých let probíhala v lékařských 
+kruzích ostrá diskuse o provádění těchto operacích a od poloviny sedmdesátých 
+let je jejich provádění plně posvěceno i oficiálními autoritami57.
+Přístup k těmto operacím je regulován systémem komisí zakotvených v zákonu o péči o zdraví lidu, kde se v §27a doslova uvádí: „Lékařské zásahy do reprodukčních schopností jednotlivců (…) a zákroky u transsexuálů se provádějí pouze
+na žádost osoby, u níž mají být provedeny, a po schválení odbornou komisí, kterou 
+tvoří právník, nejméně dva lékaři se specializací v příslušném oboru a dva další 
+lékaři nezúčastnění na provádění lékařského zásahu“58. Samostatný zákon, který 
+by celkově upravoval problematiku transsexuality, u nás ovšem neexistuje, stejně 
+jako ve většině evropských zemí59. V prvních letech existence těchto komisí bylo 
+velmi obtížné získat souhlas k takové léčbě, ale časem se jejich přístup v mnoha 
+směrech zlepšil, neboť obavy z nového typu lékařských zákroků se ukázaly jako 
+57 O bouřlivosti tehdejších debat lékařů a právníků svědčí materiály ze Symposia o soudně
+lékařských aspektech transsexualismu, které se konalo na Bouzově 19.07.1969
+58 § 27a odst. 1 a 2 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších právních předpisů
+59 Samostatný zákon zabývající se transsexuálními lidmi má šest členských zemí EU, a to Finsko,
+Itálie, Německo, Nizozemí, Švédsko a Velká Británie.
+politicko-legislativní rovina
+36
+neodůvodněné. Některé dílčí problémy s diskriminačním přístupem těchto komisí přetrvávaly v osmdesátých i devadesátých letech, avšak v současnosti již tyto 
+komise obvykle jednají v souladu s mezinárodně uznávanými standardy péče.
+Dalším významným problémem je pro transsexuální lidi získávání dokumentů 
+v souladu s jejich pohlavní identitou. V České republice je možné zažádat o úřední 
+změnu jména a pohlaví, přičemž tato možnost zde existuje již od sedmdesátých 
+let. Některé starší země EU (zejména Velká Británie) se této možnosti dlouho 
+bránily. V průběhu devadesátých let však bylo vyneseno několik rozsudků Evropského soudu pro lidská práva (ESLP), které odmítání úřední akceptace změny 
+pohlaví vyhodnotily jako postup porušující základní lidská práva60. Právní změna 
+pohlaví včetně vystavení nového rodného listu pak vychází ze zákona o matrikách,
+ve kterém ale pojem transsexualita není přímo uveden. Naopak změna rodného 
+čísla je výslovně upravena zákonem o evidenci obyvatel61. Tyto změny však většinou nemají zpětný charakter, což může v praxi vést k problémům.
+Závažným problémem je pak diskriminace, se kterou se transsexuální lidé 
+setkávají podstatně častěji než lidé hlásící se ke LGB menšině. Příčinou je mimo 
+jiné velmi snadná poznatelnost transsexuálních lidí, kteří se často setkávají 
+s odmítnutím nejen ze strany majority, ale i v gay a lesbické komunitě. K diskriminaci dochází asi nejčastěji v oblasti služeb, ale velmi poškozující a rovněž 
+rozšířená je diskriminace v zaměstnání. Nejvíce zranitelní jsou pak transsexuální 
+lidé v období změny pohlaví, kdy jejich doklady nekorespondují s jejich vzhledem 
+a identitou. Tato situace se týká také těch translidí, kteří nechtějí nebo nemohou 
+podstoupit změnu pohlaví.
+U diskriminace transsexuálních lidí je poměrně podstatné upozornit na fakt, že 
+je v evropském právu standardně posuzována jako diskriminace z důvodu pohlaví 
+a tedy jinak než diskriminace LGB lidí. V případě transsexuálních lidí v užším 
+slova smyslu však již existuje rozsudek ESD v případu P v S and Cornwall County 
+Council62, který diskriminaci transsexuálních lidí hodnotí jako porušení směrnice 
+o rovném zacházení na základě pohlaví63. V případě translidí před operativní změnou pohlaví či neusilujících o takovou změnu zatím soudní rozhodnutí na evropské úrovni chybí. Některé členské státy EU již mají legislativu zakazující diskriminaci přímo na základě pohlavní identity. Zavedení takové legislativy doporučuje
+i Evropský parlament ve své rezoluci s názvem „Homofobie v Evropě“64.
+60 ESLP (2002): Christine Goodwin versus UK.
+http://worldlii.org/eu/cases/ECHR/2002/588.html
+61 § 17 zákona č. 133/2000 Sb., zákon o evidenci obyvatel. 
+62 ESD (1996): P v S and Cornwall County Council, viz http://www.pfc.org.uk/node/362
+63 směrnice 76/207/EHS
+64 rezoluce Evropského Parlamentu ze dne 26. dubna 2007
+politicko-legislativní rovina
+37
+5.2 Právní a faktické problémy translidí v ČR
+5.2.1 Uznávání právní kontinuity transsexuálních lidí
+V České republice je obecně uznávána právní kontinuita transsexuálních lidí, 
+avšak stále existuje řada situací, kdy toto právo není respektováno veřejnými či 
+soukromými subjekty. Tato skutečnost vyplývá mnohdy ze systému rodných čísel, které jsou základním nástrojem evidence obyvatel65
+. Rodná čísla identifikují 
+mimo jiné pohlaví, a proto jsou po podstoupení změny pohlaví změněna. Úprava 
+rodného čísla a jména je v zákoně výslovně vázána na změnu pohlaví66. V praxi je 
+vyžadováno potvrzení od odborného lékaře o úplné změně pohlaví67. Transgender 
+lidé, kteří nechtějí nebo nemohou podstoupit operativní změnu pohlaví, o změnu 
+zápisu v matrice ani o změnu rodného čísla žádat nemohou68. Přístup k operativní 
+změně pohlaví je vázán na souhlas lékařských komisí, které jsou zřízeny na základě zákona o zdraví lidu69.
+Bohužel celá řada právních subjektů není schopná tento fakt akceptovat
+a na transsexuální lidi je nahlíženo jako na nové jedince, čímž jsou ovšem mnohdy výrazně znevýhodňováni. V důsledku této skutečnosti musejí platit poplatky
+za služby (zejména poplatky za registraci či za vedení účtu), které již jednou zaplatili či jsou jim odpírány výhody, na které měli do té doby právní nárok (například 
+bankovní a pojišťovací služby vázané na předchozí historii klienta).
+V jiných případech je jim odmítáno vystavení duplikátů důležitých dokumentů 
+zejména pak dokladů o získané praxi či odpracovaných letech, ale například je 
+takto odpíráno i vystavení dekretu o udělení invalidního důchodu apod. V některých případech tedy musí složitě prokazovat svoji právní kontinuitu, zatímco 
+v jiných případech je prokázání právní kontinuity zcela nemožné. Příčinou je neochota úředníků či celých institucí, která se ovšem často opírá o evidenci a informační systémy nepočítající s možností změny rodného čísla.
+Transsexuální lidé jsou tak často nuceni platit nejrůznější administrativní 
+poplatky a naopak jsou jim upírány různé výhody vyplývající z jejich předchozí historie. Tento problém je záležitostí především soukromých subjektů (banky,
+65 Zákon č. 133/2000 Sb., zákon o evidenci obyvatel 
+66 § 17 zákona č. 133/2000 Sb., zákon o evidenci obyvatel. 
+67 Fifková, H., Weiss, P., Procházka, I., Jarolím, J., Veselý, J., Weiss, V. (2002): Transsexualita.
+Praha, Grada. s. 108
+68 Ze zemí EU změnu právního pohlaví bez provedení lékařského zákroku umožňuje pouze
+Velká Británie, avšak o takovém kroku se vede debata i v jiných zemích.
+69 27a odst. 1 a 2 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších právních předpisů
+politicko-legislativní rovina
+38
+pojišťovny), ale v menší míře se na něm podílejí i subjekty veřejnoprávní (například knihovny).
+V jiných případech nevzniká žádná majetková újma, ale je porušováno především právo na soukromí, neboť vzniká nutnost opakovaně prokazovat svoji právní 
+kontinuitu a předkládat za tím účelem potvrzení o změně pohlaví, čímž jsou transsexuální lidé vystaveni zvýšenému riziku další diskriminace.
+Tuto situaci by mohlo významně zlepšit zavedení informačně neutrálního 
+identifikátoru obyvatel, o jehož zavedení jednala v posledních letech mezirezortní pracovní skupina zřízená na základě usnesení vlády70. V případě, že by taková 
+úprava nakonec nebyla přijata, pak by bylo žádoucí, aby státní orgány alespoň 
+garantovaly, aby systém rodných čísel nebyl zneužíván k diskriminaci transsexuálních lidí.
+5.2.2 Rodičovská práva transsexuálních lidí
+Jako významný problém se jeví přetrvávající praxe, kdy jsou transsexuální lidé 
+vystavováni nátlaku, aby se vzdávali svých rodičovských práv či souhlasili s jejich 
+výrazným omezením. Tato praxe vychází mimo jiné ze skutečnosti, že lékařské 
+komise zřízené zákonem o péči o zdraví lidu rozhodují o somatické terapii u transsexuálních osob, aniž by dále byly vázány dalšími etickými, odbornými či právními 
+normami, které by se přímo zabývaly přístupem k transsexuálním lidem. Mohou 
+tedy stanovovat de facto libovolné podmínky pro poskytnutí příslušné léčby.
+V minulosti tak bylo běžnou praxí vyžadovat od transsexuálních lidí, aby se 
+písemně zřekli svých rodičovských práv, což je postup, který nikdy neměl oporu 
+v českém právním řádu.71 Nakolik je nám známo, tak od této praxe již bylo většinou 
+upuštěno, avšak stále dochází v některých případech k tlaku na transsexuální lidi, 
+aby omezovali kontakt s dětmi, a to bez ohledu na konkrétní zájmy těchto dětí72. 
+Bohužel žádný z těchto případů nebyl nikdy řešen soudně, což vychází mimo jiné 
+ze závislosti transsexuálních lidí na rozhodování příslušných komisí. Situace je 
+navíc tím komplikovanější, že se jedná o praxi, která nemá oporu v českém právu 
+a která není dokumentována nějakými rozhodnutími kompetentních orgánů.
+Podle našich informací se nejméně v jednom případě na takovém postupu 
+70 Usnesení vlády České republiky č. 340 ze dne 23. března 2005
+71 FIFKOVÁ, H., WEISS, P., PROCHÁZKA, I., JAROLÍM, J., VESELÝ, J., WEISS, V. (2002):
+Transsexualita. Praha, Grada. s. 108
+72 Informace o jednom starším případu jsou na adrese
+http://home.tiscali.cz:8080/iva.w/zprava2.htm
+politicko-legislativní rovina
+39
+podílel odbor sociálně-právní ochrany dětí73. Ten nátlakem přiměl transsexuálního člověka MtF, aby se vzdal podílu na péči o dítě, a to přesto, že o něj předtím dlouhodobě pečoval v rámci rodičovské dovolené. Bohužel postižená osoba 
+nátlaku vyhověla a vzdala se nároku na odvolání, přičemž až později zjistila, že 
+se stala obětí diskriminačního jednání. V současnosti pak podle našich informací 
+probíhá soudní řízení, ve kterém se odbor sociálně právní ochrany dětí domáhá, 
+aby děti nebyly svěřeny jejich transsexuálnímu rodiči FtM, a to přesto, že si je 
+jejich biologický otec nemůže vzít do péče. V obou popisovaných případech odbor 
+sociálně-právní ochrany zasahoval do těchto případů, ačkoliv existovala dohoda 
+mezi rodiči, kterou by měl respektovat.
+5.2.3 Absence dostatečné právní úpravy regulující činnost komisí
+rozhodujících o změně pohlaví
+Lékařské komise schvalující takzvané změny pohlaví jsou zřizovány na základě zákona o zdraví lidu74, ale jejich činnost není dále regulována ani právně, ani 
+odbornými standardy. Zákon navíc nevhodně směšuje zákroky u translidí s dalšími zákroky omezujícími plodnost včetně kastrací u sexuálních delikventů. Zákon 
+rovněž adekvátně neupravuje zřizovatele těchto komisí ani možnost odvolání proti jejich rozhodnutí. Činnost většiny komisí je ale na poměrně vysoké odborné 
+úrovni, takže eventuální úprava jejich právního statutu by měla být prováděna citlivě a v souladu s dalším legislativním vývojem v souvisejících oblastech. Z tohoto 
+důvodu také není návrh na takovou novelu součástí tohoto textu.
+Transsexualita je u nás v souladu s názorem WHO považována za poruchu 
+negativně ovlivňující život svého nositele. Většina autorů pak zastává názor, že 
+transsexualita je podmíněna převážně biologicky, což je podloženo zejména neuroanatomickými výzkumy provedenými v devadesátých letech75. Tento názor je 
+mnohdy předmětem diskuse, avšak je respektován většinou české i mezinárodní 
+odborné veřejnosti. Provádění „změn pohlaví“ představuje u většiny transsexuálních lidí jedinou účinnou terapii, jejíž efektivita je prověřena desetiletími výzkumů76. Vzhledem k tomuto faktu lze považovat za pomýlené snahy zpřísnit přístup 
+k příslušným zákrokům neboť by se tak nastolila praxe, že vhodná léčba bude
+na příště poskytována za odměnu a nikoliv podle potřeb pacienta.
+73 Instituce veřejné správy, která má za úkol zastupovat práva dětí, jejíž pravomoci upravuje
+zákon č.359/1999 Sb., zákon o sociálně-právní ochraně dětí, ve znění pozdějších právních předpisů
+74 § 27a odst. 1 a 2 20/1966 Sb., o péči o zdraví lidu, ve zněmí pozdějších právních předpisů
+75 Zhou, J-N., Hofman, M.A., Gooren, L.J.G., Swaab, D.F. (1995): A sex difference in the human
+brain and its relation to transsexuality. Reprint from Nature. 378:68-70.
+http://www.symposion.com/ijt/ijtc0106.htm
+76 Obzvláště kvalitní přehled výzkumných studií podává následující monografie: Pfäfflin,
+F.,Junge, A. (1998): Sex reassignment. http://www.symposion.com/ijt/pfaefflin/1000.htm
+politicko-legislativní rovina
+40
+V zemích Evropské unie probíhá dlouhodobě rozvoj péče o transsexuální lidi
+a právní bariéry jsou ve většině zemí odbourávány, neboť jsou shledávány jako 
+nezákonné a v rozporu s vědeckými fakty a etickými normami77. Zahraniční zkušenosti pak také ukazují, že obstrukce při schvalování zákroků a jejich plné hrazení vedou ve svých důsledcích k uvržení části transsexuálních lidí do neřešitelné psychické a sociální situace, které vede k následné zátěži pro systém sociální
+a zdravotní péče. Česká republika má v současnosti poměrně dobrý systém péče 
+o transsexuální lidi a bylo by nanejvýš žádoucí, aby nebyl eventuálními právními úpravami narušen. Při eventuální novelizaci dnes již zastaralé právní úpravy
+v zákonu o zdraví lidu by bylo vhodné, aby změny respektovaly mezinárodně 
+uznávané standardy péče, jejichž šestou revizi vydala Harry Benjamin International Gender Dysphoria Associacion v roce 200178.
+5.2.4 Transsexuální lidé a vězeňství
+Transsexuální lidé ve výkonu trestu nemají přiměřený přístup k příslušné hormonální a chirurgické léčbě. V minulosti sice došlo k jednání o povolení takové 
+léčby, avšak vzhledem ke způsobu projednávání, k němuž nebylo přijato stanovisko s případem seznámeného civilního odborníka, došlo k zamítnutí žádosti 
+na základě údajné psychické nezpůsobilosti79. Existuje sice nařízení80 upravující 
+rozhodování o chirurgické léčbě u transsexuálních lidí ve výkonu trestu, ale podle 
+nám dostupných informací nikdy nebylo takové svolení poskytnuto ani neexistují 
+navazující směrnice, které by umožňovaly tuto léčbu realizovat v praxi.
+Pokud budou o těchto případech rozhodovat lidé, kteří deklarují stanovisko, 
+že samo odsouzení za trestnou činnost je dokladem o psychické nezpůsobilosti
+k léčbě, pak se situace jen těžko zlepší. Tento postup je v rozporu ze zkušenostmi 
+77 Ve Velké Británii bylo v roce 1999 soudem nařízeno, aby anglická zdravotní pojišťovna
+proplatila nároky na operace třem transsexuálním lidem, jimž byla tato platba pod různými
+záminkami odmítána. Dyer, C. (1999): Blanket ban on treating transsexuals is ruled „unlawful“
+British medical journal. Vol. 319, Iss. 7206;
+V Německu byla zrušena hranice věku 25 let, kterou obsahoval německý zákon regulující
+změnu právního statutu u transsexuálních lidí. Ústavní soud shledal toto omezení jako
+neodůvodněné a diskriminační, přičemž následně byla hranice pro změnu právního statutu
+stanovena na 18 let. Weitze C., M.D., Osburg S., M.D. (1997) Empirical Data on Epidemiology
+and Application of the German
+Transsexuals‘ Act During Its First Ten Years - http://www.symposion.com/ijt/ijtc0303.htm.
+78 Ke stažení na adrese: http://wpath.org/Documents2/socv6.pdf Český překlad vyšel
+v publikaci: Fifková, H., Weiss, P., Procházka, I., Jarolím, J., Veselý, J., Weiss, V. (2002):
+Transsexualita. Praha, Grada. s. 108
+79 Tento a některé další případy v minulosti pomáhalo řešit občanské sdružení Transforum.
+80 Nařízení č 29/2000 generální ředitelky VS ČR.
+politicko-legislativní rovina
+41
+ze zahraničí a rovněž je v protikladu s cílem nápravy a sociální rehabilitace osob
+ve výkonu trestu odnětí svobody, který je zakotven například v Mezinárodním 
+paktu o občanských a politických právech81, který ratifikovala i Česká republika.
+Lidé ve výkonu trestu mají mít nárok na adekvátní léčbu, a to by se mělo týkat 
+i léčby transsexuality. Bylo by tudíž vhodné, aby ministerstvo spravedlnosti upravilo postup při realizaci této léčby, přičemž je třeba vzít v úvahy tři možné situace 
+v závislosti na postupu léčby. Existuje totiž velký rozdíl mezi lidmi, kteří stojí na 
+počátku léčby (doposud nezahájili hormonální terapii), dále pak pacienty a pacientkami, kteří zahájili hormonální terapii, ale nepodstoupili chirurgické zákroky
+a konečně pacienty, kteří již absolvovali chirurgické zákroky a nyní již pouze užívají hormonální substituci. Všechny tři skupiny pacientů vyžadují odlišný přístup 
+a předpisy by na ně měly konkrétně pamatovat, aby nedocházelo k situacím, kdy 
+je ohrožena nejen jejich léčba, ale i jejich fyzická a psychická integrita. Je nutné 
+držet se zásady, že trest ukládá soud a nevystavovat transsexuální lidi ve výkonu 
+trestu dalším sankcím, které nemají právní základ.
+6. Intersexuální lidé82
+Intersexuální lidé jsou jedinci, kteří se narodili s různou mírou biologických 
+znaků obou pohlaví. To je způsobeno několika typy somatických poruch, které 
+vedou k četným somatickým a psychickým problémům. Ty jsou však mnohdy 
+ještě zhoršeny použitím nevhodné léčby. Intersexuální lidé se obvykle nehlásí
+ke LGBT lidem, i když část z nich sdílí i menšinovou sexuální či pohlavní identitu.
+Situace intersexuálních lidí v České republice je prakticky zcela nezmapovaná. 
+Podle dostupných informací jsou zákroky u intersexuálních lidí prováděny často 
+bez respektování jejich autonomie, neboť zákroky jsou prováděny ve velmi nízkém 
+věku a vedou mnohdy do budoucna k výrazným psychickým a somatickým problémům. Tyto zákroky směřují především k úpravě pohlavních orgánů, tak aby byly 
+v souladu s představou o biologickém pohlaví, ve kterém by dítě mělo podle ošetřujících lékařů vyrůstat. Jestliže v některých případech jsou takové zákroky plně 
+oprávněné, pak v jiných případech vede jejich provádění v prvních letech života 
+ke vzniku somatických potíží a psychických traumat. Zásadní problém nastává, 
+pokud se intersexuální člověk cítí v dospělosti jako příslušník jiného pohlaví než
+81 International Covenant on Civil and Polical Rights, článek 10, odst. 3.
+82 Intersexualita je nesmírně komplexní problém, jehož psychologické a sociální aspekty jsou
+mezi širší veřejností i LGBT lidmi jen velmi málo známy. Tento text se snaží upozornit na tento
+jev, přičemž podrobnější analýza jednotlivých typů intersexuality není na tomto prostoru
+možná a vyžadovala by zpracování samostatné analýzy. 
+politicko-legislativní rovina
+42
+jaké mu určili lékaři, což je u některých typů intersexuality poměrně časté. Pak 
+jim nezbývá než hledat léčbu podobnou léčbě u transsexuálních lidí, přičemž tato 
+léčba je pak obvykle silně komplikovaná v důsledku předchozích zákroků.
+Nemáme však doklady o tom, že by tyto zákroky byly prováděny bez souhlasu rodičů, jakkoliv lze pochybovat o tom, zda jsou jim poskytovány dostatečné 
+informace o všech následcích zákroku dříve než dají svůj souhlas. Situace je však 
+eticky velmi komplikovaná, neboť souhlas se zákroky dávají rodiče jakožto právní 
+zástupci, zatímco negativní efekty se obvykle projevují až v adolescenci či dospělosti. Je pak velmi obtížné dobrat se okolností informovaného souhlasu a eventuální postih zodpovědných lékařů je pak již prakticky nemožný.
+ Problém je do značné míry odborné povahy, neboť postupy používané v České republice většinou vycházejí z dnes již zastaralých teoretických předpokladů. 
+V sedmdesátých letech bylo celosvětově běžné používání nátlaku na rodiče, aby 
+souhlasili se zákroky prováděnými v co nejnižším věku. Řada lékařů považovala 
+za správné udávat zavádějící informace o skutečném stavu dítěte i pravděpodobném efektu prováděných zákroků. Tato praxe vycházela s představy, že pohlavní 
+identitu lze vytvořit působením lékaře, přičemž poskytování informací může tento 
+proces zmařit. Tento názor se ale ukázal jako odborně nedostatečně podložený
+a v některých případech vedl k nevratnému tělesnému i psychickému poškození. 
+V některých případech byli příslušní lékaři vedeni i k soudní odpovědnosti83.
+Vzhledem k tomu, že zdravotnictví v České republice je pod silnou kontrolou 
+státu a mnohé nemocnice jsou přímo pod jeho správou, tak by bylo jistě vhodné, aby státní orgány věnovaly pozornost tomuto tématu. Vzhledem k závažnosti
+a nevratnosti chirurgických zákroků u intersexuálních dětí je obzvláště důležité, 
+aby byla respektována všechna pravidla informovaného souhlasu. Při jejich opomenutí už totiž neexistuje prakticky žádná možnost ani k nápravě vzniklých škod 
+ani k vymáhání právní odpovědnosti.
+83 Ante, R. (2003): Negativní aspekty medicínského přístupu k intersexualitě. Ročníková
+práce. Olomouc, Katedra psychologie FF UP. Ke stažení na adrese
+http://www.translide.cz/knihovna.
+politicko-legislativní rovina
+43
+C. LGBT KOMUNITA A SPOLEČNOST
+1. Vztah většinové společnosti a LGBT menšiny
+LGBT lidé jsou jako jedna ze složek společnosti konfrontováni se sociální realitou, na jejíž tvorbě (ať už prostřednictvím kulturních, legislativních či jiných 
+norem) se podílí především (heterosexuální) většina. Tyto postoje a zdroje jsou 
+pro LGBT menšinu i pro politické rozhodování v LGBT otázkách velmi důležité, 
+přičemž jejich změny mohou mít pro život i samotnou existenci LGBT komunit
+i jednotlivců přímo klíčový význam. Vztah mezi LGBT menšinou a majoritní společností je vztahem dynamickým, při kterém společenská atmosféra ovlivňuje 
+chování LGBT menšiny a její chování zpětně ovlivňuje vztah majority. V posledních staletích se však tyto vztahy pohybovaly převážně v začarovaném kruhu, kdy 
+postoj majority zaháněl LGBT menšiny do nedůstojného postavení, kterého pak 
+bylo zpětně používáno k legitimizaci potlačování jejích práv.
+V posledních desetiletích se tato situace začíná měnit a odmítání LGBT lidí 
+přestává být právně a společensky vyžadovaným modelem. Přesto nelze říci, že 
+by LGBT lidé dosáhli rovného postavení ve společnosti. To vychází mimo jiné
+z normotvornosti většinového chování, která se odráží v tzv. heteronormativitě, tj. 
+podvědomém vnímání heterosexuality jako jediné (resp. jediné obvyklé) sexuální 
+orientace. Heteronormativitu lze nalézt jak v běžné společenské konverzaci (např. 
+mužů se ptáme zda mají partnerky, čímž automaticky předpokládáme jejich heterosexuální orientaci), tak v legislativě (institut manželství je otevřen pouze párům 
+tvořeným mužem a ženou), tak v dalších oblastech společenského života (vzdělávání, zdravotnictví, apod.)84. Nejedná se sice o projev jednoznačného nepřátelství 
+k LGB lidem, avšak je to jev, který omezuje přístup LGB lidí k řadě sociálních i ekonomických statků. Obdobná situace panuje ve vztahu k translidem, avšak jedná se 
+o jev s odlišnou dynamikou, neboť tato minorita je jednak spojována s některými 
+odlišnými stereotypy, ale také je majoritní společnosti mnohem méně známa85.
+84 O tématu zajímavě referuje sociolog Martin Fafejta, který ovšem používá poněkud nezvyklý
+termín heterosexualismus.
+Fafejta, M. (2004): Úvod do sociologie pohlaví a sexuality. Věrovany, Nakladatelství
+Jan Piszkiewicz.
+85 Leitenberg, H., Slavin, L. (1983): Comparison of attitudes toward transsexuality
+and homosexuality. Archives of Sexual Behavior. Vol 12, No.4, 1983. 337-346.
+LGBT Komunita a společnost
+44
+Vedle heteronormativity (označované někdy také za heterosexismus) je 
+důležitým pojmem homofobie, definovaná jako neopodstatněná obava z LGB 
+lidí (obvykle se sem řadí ovšem i translidé) a nepřátelství vůči nim86. Rozdíl mezi 
+oběma termíny není sice ustálený, ale lze říci, že zatímco heteronormativita je 
+založena na podvědomém přesvědčení, že většinové je jediné správné (či dokonce 
+jediné existující), homofobie plyne z představ, že menšinové (tedy to co se týká 
+LGBT lidí) je špatné, resp. nebezpečné. Homofobie může být projevem předsudků jednotlivce, avšak může být také součástí širšího ideového systému jakou jsou 
+například ideologie pravicového extremismu či náboženského fundamentalismu. 
+Můžeme tak hovořit o dvou stranách jedné mince, které mají ovšem obdobné 
+důsledky v podobě diskriminace, v případě homofobie pak v extrémních situacích 
+také vedou k tzv. hate crimes, zločinům z nenávisti (viz také kapitola B.2)87.
+Homofobie a heteronormativita jsou ve společnosti poměrně dobře sociologicky zmapované jevy. Jejich výskyt závisí na vzdělání, celkové míře konzervatizmu, 
+náboženském přesvědčení, velikosti domovského sídla, ale také na věku, pohlaví
+a osobní znalosti LGBT lidí či její absenci. Průzkumy veřejného mínění tradičně 
+poukazují na to, že k LGBT lidem přistupují v průměru otevřeněji lidé s vyšším 
+vzděláním, liberálové, lidé bez náboženského vyznání, obyvatelé měst, mladší generace, ženy a lidé s osobní znalostí jednotlivců patřících k minoritě. Postoje majority 
+mohou být také do jisté míry ovlivňovány osvětovými a vzdělávacími programy88.
+2. Veřejné mínění v České republice
+Postoje české veřejnosti k sexuálním menšinám vcelku pravidelně mapují přední české instituce zabývající se výzkumem veřejného mínění. Bohužel se tyto výzkumy prakticky výlučně vztahují k postojům vůči gayům a lesbám a naopak se nezabývají transgender lidmi ani lidmi bisexuálními. Trendy ukazují jednoznačný posun 
+směrem k liberalizaci v průběhu 90. let89, zhruba od přelomu tisíciletí však dochází 
+ke zpomalení vývoje a v některých specifických otázkách dokonce dochází k dílčímu poklesu liberálních postojů (dle výzkumů CVVM v letech 2005 a 2007 např. 
+v postojích k manželstvím stejnopohlavních párů a k adopcím dětí těmito páry)90.
+86 Podrobnější popis těchto pojmů lze nalézt v práci PECHOVÁ, O. (2007): Homofobie,
+heterosexismus, diskriminace sexuálních minorit. In Neumannová, R., Kykalová, M. (2007):
+Antidiskriminační vzdělávání pracovní veřejné správy. Praha, Multikulturní centrum. 
+87 Herek, G. (Ed.) (1998): Stigma nad sexual orientation: Understanding prejudice against
+lesbians, gay men, and bisexuals. Thousand Oaks, Sage Publications.
+88 Sears, J.T., Wiliams, W.L. (eds.) (1997): Overcoming heterosexismus and homofobia:
+strategies that work. New York, Columbia University Press.
+89 Weiss, P., Zvěřina, J. (2001): Sexuální chování v ČR – situace a trendy. Praha, Portál.
+90 http://www.cvvm.cas.cz/upl/zpravy/100694s_ov70607.pdf
+LGBT Komunita a společnost
+45
+Podle průzkumu CVVM z května 2007 souhlasilo 69 % respondentů s právem 
+gayů a leseb uzavírat registrované partnerství (24 % bylo proti). S manželstvím 
+pro stejnopohlavní páry souhlasilo ovšem pouze 36 % (proti bylo 57 %) a adoptovat děti by těmto párům umožnilo pouze 22 % respondentů a respondentek (67 %
+bylo proti)91. Jestliže otázky manželství a zejména výchovy dětí LGBT páry jsou 
+chápány ze strany většinové společnosti jako kontroverzní a příslušné výsledky 
+průzkumu by tedy bylo možno brát jako důsledky této kontroverze, pak mnohem 
+méně pochopitelné a také méně přijatelné jsou výsledky jiného průzkumu CVVM 
+z března 200792, dle kterého by 29 % obyvatel ČR nechtělo mít za souseda gaye 
+nebo lesbu. I zde je sice vidět určitý posun (obdobně negativně se ve stejném průzkumu v letech 200393 a 2005 vyjádřilo 42 %, resp. 34 % respondentů), přesto 
+však skutečnost, že se téměř třetina české společnosti staví vůči gayům a lesbám 
+takto odmítavě, jasně ukazuje výraznou přítomnost homofobie mezi lidmi a dodává na oprávněnosti obavám z diskriminace na základě sexuální orientace, a to 
+nejen v oblasti bydlení.
+3.	 Diskriminace
+Diskriminací se obecně rozumí nerovné zacházení. Existuje přitom rozdíl 
+mezi diskriminací jako širším sociálním jevem a diskriminací, tak jak je definována v platných právních normách. Zdaleka ne každé diskriminační chování je 
+tak hodnoceno i z právního hlediska. V právní oblasti rozeznáváme zejména dva 
+druhy – přímou diskriminaci, která je charakterizována jako nerovné zacházení 
+plynoucí přímo z konkrétní charakteristiky diskriminované osoby. Nepřímá diskriminace se vyznačuje existencí neutrálně se tvářícího pravidla, jehož uplatnění 
+však ve svých důsledcích jasně znevýhodňuje konkrétní osobu či skupinu osob. 
+V obou případech je důležité, že k takovému nerovnému zacházení dochází bez 
+dostatečného důvodu, jinými slovy bez jednoznačně racionální příčiny. Právní 
+aspekty diskriminace jsou poměrně podrobně popsány v kapitole „Diskriminace 
+na základě sexuální orientace“ (viz část B.1).
+Kvantifikovat rozsah diskriminace LGBT lidí v ,0ěmž uvedlo 12 % respondentů, 
+že se setkali s diskriminací v zaměstnání a 25 % respondentů uvedlo, že se setkali
+91 tamtéž
+92 http://www.cvvm.cas.cz/upl/zpravy/100676s_ov70413.pdf
+93 http://www.cvvm.cas.cz/upl/zpravy/100199s_ov30324.pdf
+LGBT Komunita a společnost
+46
+s obtěžováním v zaměstnání94. Kromě toho 13 % respondentů uvedlo, že se setkalo 
+s diskriminací ve službách a v rámci výzkumu byly případy diskriminace uváděny i v dalších sledovaných oblastech. Tyto čísla jsou poměrně značná a ukazují
+na fakt, že diskriminace z důvodu sexuální orientace je jevem, který postihuje velkou skupinu osob.
+Zcela jinak by to ovšem vypadalo, pokud bychom podle počtu soudních případů usuzovali na obecný stav. Zatím je znám pouze jeden případ, kdy LGBT člověk 
+(gay) úspěšně řešil soudní cestou situaci, kdy byl diskriminován95. Disproporce 
+mezi údaji plynoucími z průzkumu Gay iniciativy a počtem soudních případů 
+ukazují na to, že se LGBT lidé obávají či z jiných důvodů odmítají řešit diskriminaci prostřednictvím právních prostředků ochrany před diskriminací. To může 
+plynout z nedostatečného povědomí o tom, co lze z právního hlediska považovat
+za diskriminaci (zejména nepřímou diskriminaci si její oběti nemusí uvědomovat). 
+Podstatná je patrně také neznalost právních prostředků, kterými se mohou v případě diskriminace bránit. Dalším významný faktorem pak nejspíše je i pomalá 
+činnost českých soudů. Zde je nutné konstatovat, že velmi málo soudních případů 
+je v České republice i u dalších skupin obětí diskriminace. Svůj vliv pak nepochybně má i neexistence obecného antidiskriminačního zákona a příslušné instituce, 
+která by se antidiskriminační problematikou zabývala.
+Diskriminace LGB lidí má pak i svoje specifika. Na rozdíl od etnických menšin 
+či zdravotně postižených osob totiž mohou LGB lidé v řadě případů svou příslušnost k sexuální menšině skrývat a přinejmenším po nějaký čas tak nezavdávat příčinu k tomu, aby byli pokládáni za příslušníky minority. Pokud se již s diskriminací setkají, pak mohou spoléhat na to, že v novém prostředí (bydlišti, zaměstnání) 
+mohou opět splynout s majoritou.
+Možnost skrývání vlastní identity je mnohem limitovanější v případě transsexuálních osob, u kterých k diskriminaci dochází nejčastěji při přijímání
+do zaměstnání a v zaměstnání. Dosud však českými soudy nebyl projednáván žádný takový případ. V české právu k tomu také chybí jasné právní vodítko, které by 
+měl poskytnout až nový antidiskriminační zákon, i když již nyní by bylo možné 
+takovou diskriminaci postihovat v souladu s verdikty Evropského soudního dvora 
+pro lidská práva, o kterých je podrobněji referováno v kapitole „Právní a sociální 
+postavení translidí“ (část B.5.1.).
+94 Procházka, I., Janík, D., Hromada, J. (2003): Společenská diskriminace lesbických žen, gay
+mužů a bisexuálů v ČR. Praha, Gay iniciativa v ČR.
+95 http://www.iniciativa.cz/www/index.php/?page=clanek&id=1251
+LGBT Komunita a společnost
+47
+4.	 Mediální obraz LGBT lidí96
+Jestliže jsou média v současnosti jedním ze základních faktorů ovlivňujících 
+veřejné mínění, v případě sexuálních menšin platí tato skutečnost dvojnásob. 
+Zprostředkováním informací a prezentací LGBT lidí v různém kontextu tak ovlivňují postoje nejen heterosexuální většiny, ale také LGBT lidí samotných, obzvláště 
+pokud žijí mimo komunitu a k jiným zdrojům informací tak nemají přístup.
+Na druhou stranu platí, že v demokratické společnosti jsou média zpětně ovlivňována společenskou realitou a tak do velké míry odráží její vývoj. To lze vypozorovat i v přístupu českých médií k LGBT problematice. Obecně lze říci, že tento 
+vývoj po roce 1989 začal vcelku rychle dohánět trendy v západní Evropě, a to jak 
+z kvantitativního, tak z kvalitativního hlediska. LGBT lidé se začali více vyskytovat v tištěných i elektronických médiích a zároveň se začaly rozrůzňovat také 
+kontexty, v nichž byli zobrazováni. Zatímco ještě v první polovině 90. let dominovala negativní stereotypizace, sexualizace a komediální či naopak kriminální 
+kontext (jako příklad lze zmínit film Mandragora o homosexuálních prostitutech 
+z pražského hlavního nádraží, natočený v roce 1996), zhruba od přelomu tisíciletí 
+se LGBT lidé objevují v kontextu běžného společenského života, ať již jde o dokumenty či různé televizní seriály.
+Významnou roli v této postupné diverzifikaci medializovaných LGBT témat 
+sehrála obě veřejnoprávní média, tj. Česká televize a Český rozhlas, což je plně 
+v souladu s jejich veřejnoprávním posláním. Český rozhlas přispěl zejména prvním pravidelným pořadem pro gaye a lesby nazvaným Bona Dea. Pořad si rychle 
+získal stálé publikum, často z řad LGBT osob nemajících přístup k internetu nebo 
+žijících mimo tradiční centra českého LGBT života (Praha, Brno). Jeho zrušení 
+koncem roku 2006 tak bylo dosti nečekané, veřejnosti prakticky nezdůvodněné
+a zůstává po něm do velké míry nevyplněný prostor.
+Přínos České televize byl širší a dal by se rozčlenit do tří rovin. Česká televize 
+jednak dala prostor již natočeným zahraničním filmům (např. Philadelphia, Vše 
+o mé matce, Kdyby zdi mohly mluvit 2), jednak se sama podílela na tvorbě dokumentů a seriálů, kde LGBT tematika buď dominovala, nebo se alespoň epizodně 
+vyskytla, a jednak – a v tomto ohledu jí patří exkluzivita v celém středoevropském 
+a východoevropském regionu – dala prostor vzniku pravidelného LGBT pořadu,
+96 Tento text byl vypracován na základě článku Věry Sokolové: Reprezentace gayů a leseb
+v mainstreamových vizuálních médiích (In: Mediální obraz leseb a gayů, STUD Brno, 2006,
+str. 3-7) a prezentace Hany Kulhánkové: Queer komunita v médiích přednesené v rámci
+semináře „GLB komunita v Čechách“, organizovaném Poradnou pro občanství/občanská
+a lidská práva dne 21.5.2007 v Praze.
+LGBT Komunita a společnost
+48
+který s podtitulem „o nás s námi“ referoval o různých aspektech LGBT života 
+z pohledu LGBT lidí samotných. Jednalo se o divácky úspěšný pořad LeGaTo,
+na nějž v poněkud jiném formátu a s poněkud specifičtější cílovou skupinou navázal současný týdeník Q.
+Společným problémem zejména zmíněných pravidelných magazínů bylo a je 
+získat dostatečné množství osob ochotných veřejně prezentovat svou příslušnost 
+k sexuální menšině. Obavy z následků zveřejnění své menšinové orientace mohou 
+nepřímo poukazovat na přetrvávající diskriminační postoje a chování české veřejnosti. Na druhou stranu však také mohou být důsledkem internalizované homofobie a přehnaného strachu. Které z těchto dvou zdůvodnění má blíže k realitě však 
+nelze v současnosti jednoznačně říci, a to vzhledem k nedostatku relevantních 
+sociologických výzkumů.
+Pokud jde o kinematografii, i zde došlo k posunu jak v kvantitě, tak v kvalitě. Přesto však až do roku 200797 neexistoval jediný český snímek, kde by LGBT 
+postava hrála hlavní roli a byla přitom oproštěná stereotypizace a/nebo sexualizace. Takové snímky lze sice nalézt jak v českých kinech, tak ve videopůjčovnách, 
+jde však o zahraniční provenienci.
+Významnou roli ve zprostředkovávání zahraničních LGBT snímků široké veřejnosti hrají tři známé české filmové festivaly. Jedná se o festival dokumentárních 
+filmů o lidských právech Jeden svět98, který kromě samotného promítání filmů 
+(mj.) s LGBT tematikou rovněž zahrnuje vzdělávací projekty, kterými významně podporuje toleranci a otevřenost české společnosti k LGBT lidem. Dále jde
+o sekci Jiný břeh festivalu Febiofest99, která je každoročně věnována LGBT filmům 
+a konečně o filmový festival Mezipatra100, který se na LGBT problematiku specializuje zcela. Specifikem festivalu Mezipatra – i oproti řadě obdobných festivalů 
+v zahraničí – je struktura jeho návštěvníků, kde téměř polovinu tvoří heterosexuální publikum. Tím tento festival plní nejen funkci uměleckou, ale také informačně-vzdělávací a zejména společensko-integrační.
+Jestliže filmové festivaly a elektronická média stále věrněji zobrazují pestrost 
+LGBT světa, v případě tištěných médií existují velké rezervy. Denní tisk sice LGBT 
+problematiku již dávno netabuizuje, občas v něm však vítězí tendence k bulvarizaci či skandalizaci. Bohužel přesným opakem bývají různé lifestylové magazíny
+a přílohy deníků obsahující rozhovory se známými osobnostmi. Je více než udivující,
+97 Pusinky (2007), režie Karin Babinská
+98 http://www.jedensvet.cz/ow/2007/index.php?lang=cz
+99 http://www.febiofest.cz/cz/
+100 http://www.mezipatra.cz
+LGBT Komunita a společnost
+49
+že takřka v žádném z nich, jde-li např. o rozhovor s gayem, nefiguruje dotaz
+na jakýkoliv běžný aspekt jeho soukromého života. Ten se obvykle přechází mlčením. Takové mlčení je však nejen zavádějící, ale také nebezpečné, neboť utvrzuje společnost ve vnímání sexuálních menšin jako něčeho exotického, vzdáleného
+a běžně v životě se takřka nevyskytujícího.
+Rovněž literatura s LGBT tematikou má převážně zahraniční původ a její výběr 
+zdaleka pokulhává za západní Evropou, kde v řadě zemí alespoň ta nejvýznamnější knihkupectví mívají svou LGBT sekci. Nedostatek je citelný nejen u literatury 
+krásné, ale především u literatury vzdělávací. Pro zájemce z řad veřejnosti fakticky není v současnosti dostupná publikace, která by shrnovala základní informace
+o problematice a umožnila by jim tak orientovat se v tématu, které se může týkat 
+také jich samých, stejně jako jejich blízkých či lidí, se kterými pracují či studují.
+5. Vzdělávání
+Významnou oblastí, která ovlivňuje vztah společnosti a LGBT menšiny, je 
+vzdělávání. V České republice se naštěstí nedá mluvit o tom, že by školy a další vzdělávací instituce cíleně šířily nepravdivé či nenávistné informace o LGBT 
+lidech. V minulosti ovšem došlo k pokusům vzdělávání takto ovlivňovat. Velmi 
+známou kauzou je případ šíření publikace „Terapie homosexuality“101. Ta byla 
+v letech 2003-2004 nevládními subjekty masově šířena do škol a k jejímu stažení 
+došlo až po delší době, a to díky upozornění nevládních organizací102. Její autor 
+prezentoval jako vědecké takové názory o homosexualitě, které jsou v příkrém 
+rozporu s fakty a převládajícím názorem odborníků zabývajících se touto oblastí103. Nelze bohužel vyloučit, že se podobné aktivity budou opakovat i v budoucnu
+a můžeme pouze doufat, že školská zařízení budou příště ostražitější, čemuž 
+by jistě napomohlo takové vzdělávání učitelů, výchovných poradců a poradkyň 
+a metodiků a metodiček primární prevence, které by je dostatečně seznámilo
+s aktuálními informacemi z této oblasti.
+Jestliže uvádíme, že v rámci vzdělávání nedochází k šíření homofobních názorů, tak bohužel většinou nedochází ani k šíření objektivních informací o sexuálních menšinách. „Rámcový vzdělávací program pro základní vzdělávání“104 sice 
+předpokládá vzdělávání v oblasti tolerance (vzdělávací obor Výchova k občanství) 
+a v oblasti sexuální výchovy (vzdělávací obor Výchova ke zdraví), avšak téma
+101 Text této publikace je nadále ke stažení na adrese: http://www.homosexualita.cz/terapie.pdf
+102 Viz: http://gl.cz/vh-terapie
+103 Viz například: http://zpravodajstvi.ecn.cz/index.stm?x=153233
+104 Dokument je k dispozici na adrese: http://www.rvp.cz/soubor/RVPZV_2007-07.pdf
+LGBT Komunita a společnost
+50
+sexuálních menšin nikde nezmiňuje. Terénní zkušenosti pak ukazují, že vyučující 
+se tomuto pro ně nepříjemnému tématu vyhýbají a o existenci homosexuality, jako 
+jedné z variant vývoje lidské sexuality, se nezmiňují. Hovoříme-li o diskriminaci 
+jako širším sociálním jevu, pak je mlčení o LGBT problematice na školách jednoznačně diskriminační. Tyto informace přitom mohou být klíčové pro dopívající 
+gaye a lesby a mohou jim pomoci zvládnout sociální obtíže, o kterých referujeme 
+v následující kapitole.
+6. LGBT mládež105
+Mnozí lidé by asi byli překvapeni, kdyby jim někdo řekl, že společenské znevýhodnění LGBT lidí je problémem, který se týká i mládeže. Někdo by možná namítnul, že se zde vytváří nějaký pseudoproblém, neboť se jedná přece o děti, takže 
+jaképak sexuální minority? Sexuální identita se však začíná projevovat v období 
+dospívání, takže pro mládež na druhém stupni základních škol a zejména na středních školách je toto téma rozhodně aktuální. Přesto však ve společnosti houževnatě přetrvává dojem, že sexuální orientace je věcí natolik soukromou, že nemá se 
+vzděláváním nic společného.
+6.1 Šikana
+Zahraniční výzkumy ovšem jasně ukazují, že vztah mezi sexuální orientací 
+studentů a podmínkami pro jejich vzdělávání je překvapivě úzký. I když nejsou 
+k dispozici informace, že v českých školách dochází k přímé diskriminaci LGBT 
+studentů, tak obtěžování ze strany spolužáků je bohužel zcela běžným jevem.
+U nás je už obecně známo nebezpečí šikany a některé cesty, jak mu čelit. Zkušenosti také ukazují, že pravděpodobnost, že se mladý člověk stane obětí šikany, je 
+vyšší, pokud vykazuje nějakou odlišnost v porovnání se svými vrstevníky. Málokdo si však uvědomuje, že existuje úzká spojitost mezi odlišnou sexuální orientací 
+a pravděpodobností, že její nositel bude muset čelit šikaně.
+V USA bylo v rámci populačních studií americké mládeže zjištěno, že studenti 
+hlásící se ke gay, lesbické či bisexuální orientaci jsou čtyřikrát častěji obětí šikany, 
+než je tomu u běžné populace106. Podobné výsledky se objevily také ve výzkumných studiích provedených v některých západoevropských zemích v poslední době 
+například ve Velké Británii a Španělsku. Šikanovaní mladí lidé jsou vystaveni 
+105 Tento text vznikl na podkladě článku „LGBT mládež a diskriminace“ vytvořeného Olgou
+Pechovou v rámci projektu “Antidiskriminační vzdělávání pracovníků veřejné zprávy“
+Multikulturního centra Praha, které jej financovalo z peněz poskytnutých Evropskou Unií. 
+106 RYAN, C., RIVERS, I. (2003): Lesbian, gay, bisexual and transgender youth: victimization
+and its correlates in the USA and UK. Culture, health and sexuality, Vol. 5, No. 2. 103-119. 
+LGBT Komunita a společnost
+51
+mnohdy zcela extrémnímu stresu, který má obvykle negativní vliv nejen na jejich 
+studijní výsledky a ochotu setrvávat na škole, ale i na jejich dlouhodobé psychické 
+a sociální fungování. Alarmující je v této souvislosti i skutečnost, že mnoho heterosexuálních středoškoláků uvedlo, že se stali obětí obtěžování, protože je jejich 
+vrstevníci vnímali jako potencionálně homosexuální107.
+Obzvláště zranitelní jsou lidé s odlišnou sexuální orientací v období takzvaného coming outu tedy v době formování vnitřní a vnější minoritní identity. Samo 
+vyrovnávání se s vlastní odlišností působí mladým lidem mnohdy velké problémy. 
+Pokud se však v tomto období objeví odmítnutí vrstevníky či dokonce i vlastní 
+rodinou, pak mohou vzniknout škody, které je velmi obtížné v dospělosti napravit. 
+V situaci, kdy mají mladí lidé silné pochybnosti o sobě a své identitě jsou nejen 
+zranitelnější vůči obtěžování, ale mají také větší problém vyhledat nějakou adekvátní pomoc.
+Problém šikany je velmi dobře znám i v České republice, přičemž v posledních 
+letech naštěstí začíná přibývat projektů, které se snaží přispívat k její prevenci
+a řešení. Ačkoliv zahraniční výzkumy velmi přesvědčivě ukazují vztah mezi sexuální orientací a šikanou, u nás zatím chybí studie, které by podobný vztah prokázaly 
+i u české populace. To je však velmi pravděpodobně způsobeno pouze tím, že se 
+o to nikdo nepokusil. V praxi se sice psychologové a pedagogové setkávají s takovými případy, avšak podle všeho se jedná pouze o špičku ledovce. Otázka šikany bohužel není zdaleka jediným problémem, se kterým se mohou mladí gayové
+a lesby setkat. Problémy bývají mnohdy i ve vztazích v rodině, což vede k častému 
+sociálnímu vyloučení či dokonce bezdomovectví u této části mládeže.
+6.2 Sociální vyloučení
+Výzkumy prováděné v USA108 i v zemích EU109 ukazují, že v případě souhry více 
+významných vlivů může vzniknout nebezpečný komplex různých typů sociálních 
+obtíží, které jsou většinou provázeny i zvýšenou mírou rizikového chování a psychických komplikací. Zejména pokud jsou mladí LGBT lidé vyloučeni ze své rodiny, pak je riziko vzniku dlouhodobého sociálního vyloučení velmi vysoké. To je 
+velmi často spojeno s nedokončeným vzděláním a problémy s uplatněním na trhu 
+práce. Tato situace pak mnohdy vede k životu na ulici či zapojení se do prostituce 
+107 tamtéž
+108 Ryan, C., Futterman, D. (1998): Lesbian and gay youth. New York, Columbia University
+Press.
+109 Takacs, J., ILGA-EUROPE (International lesbian and gay organization) a IGLYO
+(International gay, lesbian, bisexual, transgender, and queer youth and student organization)
+(2006): Social exclusion of young lesbian, gay, bisexual and transgender people in Europe.
+Viz http://www.ilga-europe.org. 
+LGBT Komunita a společnost
+52
+či do kriminálních aktivit. U velké části této ohrožené populace se pak vyskytuje 
+množství dalších rizikových faktorů spojených s tímto stresujícím způsobem života. Jedná se zejména o drogové závislosti, riziko pohlavních chorob a také výskyt 
+problémů depresivního okruhu, které souvisí také se zvýšenou sebevražedností.
+V České republice je pak v tomto směru velmi specifickou oblastí Praha, která 
+je podobně jako další evropská velkoměsta útočištěm pro LGBT komunitu obecně a pro mladé LGBT lidi bez domova speciálně. Celkově je však nutno říci, že 
+život LGBT lidí na okraji společnosti je z pohledu sociálních a zdravotních rizik 
+velmi málo zmapován. V oblasti rizikového chování gay mužů ve vztahu k šíření 
+viru HIV byl proveden zajímavý a přínosný výzkum v polovině devadesátých let110.
+O několik let později se o dost skromnější výzkum pokusil alespoň orientačně 
+zmapovat otázku diskriminace111. Při popisu ostatních problémů LGBT populace 
+zatím převážně nezbývá než se držet odhadů. V jiných zemích již zjistili, že LGBT 
+komunita má své specifické potřeby a že je výhodné je znát a umět řešit. U nás je 
+nejprve nutné tyto potřeby zmapovat a vytvořit předpoklady pro efektivní zvládání problematických jevů.
+6.3 Prevence a řešení problémových situací
+Ačkoliv neznáme přesná čísla, je zřejmé, že školy a jejich zřizovatelé, respektive 
+kontrolní orgány, by měly v daleko větší míře dbát na to, aby byly pro LGBT mládež bezpečným, či alespoň relativně bezpečným místem. Prevence v této oblasti by měla být záležitostí především pedagogů a metodiků prevence na školách, 
+a to jak na rovině poskytování informací v rámci sexuální výchovy, tak v rovině 
+vnímaní potencionálních problémů jednotlivců. Intervence v konkrétních problematických případech by měla spadat do kompetence školních psychologů či 
+pedagogicko-psychologických poraden. Praxe ovšem ukazuje, že pracovníci a pracovnice těchto poraden se složitějším problémům mnohdy vyhýbají. V některých 
+případech je taková nedůvěra ke svým schopnostem znakem zdravého úsudku, 
+ale v jiných případech může být na škodu. Otázky spojené s odlišnou sexuální orientací jsou mnohdy ze setrvačnosti považovány za problém spadající do klinické 
+psychologie. Vyrovnávání se s vlastní sexualitou je však přirozenou fází vývoje
+a pracovníci a pracovnice pomáhajících profesí by se neměli bát poskytovat mladým lidem svou podporu v tomto procesu.
+Ve světě existují alespoň ve velkých městech samostatné programy věnované 
+110 Stehlíková, D., Hromada, .J, Procházka, I. (1995): Homosexualita, společnost a AIDS v ČR.
+Praha, Sdružení organizací homosexuálních občanů. 
+111 Procházka, I., Janík, D., Hromada, J. (2003): Společenská diskriminace lesbických žen, gay
+mužů a bisexuálů v ČR. Praha. Gay iniciativa v ČR.
+LGBT Komunita a společnost
+53
+právě této ohrožené skupině populace, což je však v České republice zatím pouhou utopií. Jedná se o programy zaměřené na intervenci a pomoc v kritických 
+životních situacích, přičemž zásadní význam v této oblasti má práce streetworkerů
+ve velkých městech. Svůj smysl má i kvalitní poradenství pro mládež i rodiče.
+U nás takové poradenství nabízí poměrně velké množství organizací, ale zkušenosti ukazují, že ve skutečnosti často nedisponují pracovníky a pracovnicemi, 
+kteří by měli odpovídající vzdělání a zkušenosti. Je tedy otázkou, zda by nebylo 
+vhodné vytvořit specializovanou síť pracovníků a pracovnic, kteří by byli schopni poskytovat takové služby na opravdu profesionální úrovni. To je samozřejmě
+i otázka adekvátního vzdělávání, které u nás také zatím chybí. Problematika sexuálních minorit je rozsáhlá a komplikovaná a má určitě smysl se jí cíleně věnovat.
+V zahraničí je velký důraz kladen také na programy věnované osvětě a prevenci. I když tyto úkoly by měly školy zvládat do značné míry samy, v praxi je to 
+mnohdy problém, neboť úkolů kladených na bedra učitelů je mnoho a nedá se 
+bohužel očekávat, že se mohou všem věnovat na sto procent. V případě sexuální 
+výchovy je často problém nejen v nedostatečné informovanosti, ale i v ostychu 
+diskutovat o těchto tématech se žáky. Metodici primární prevence na školách
+a zejména pak pracovníci a pracovnice pedagogicko-psychologických poraden by 
+se však v této problematice alespoň částečně orientovat měli.
+Své výhody má ovšem i využití kvalitních lektorů zvenčí, kteří mohou mladým lidem i pedagogům zprostředkovat aktuálnější a podrobnější informace než 
+mohou běžně zvládat sledovat lidé nespecializující se na tuto tématiku. U nás takové služby nabízela brněnská organizace STUD. Bohužel v současnosti neexistuje 
+žádný opravdu funkční projekt v této oblasti. Je velmi důležité, aby šance LGBT 
+osob na uplatnění se ve společnosti nebyly narušeny již v samotném začátku tj. 
+v období dospívání. Tomuto jevu je v zájmu celé společnosti třeba předcházet, 
+k čemuž však u nás ve velké míře zatím chybí podmínky.
+7. LGBT lidé a zdravotnictví
+V roce 1992 byla přijata Světovou zdravotnickou organizací desátá revize 
+Mezinárodní klasifikace nemocí (MKN-10), která vyřadila homosexualitu jako 
+takovou ze seznamu zdravotních poruch. Tato klasifikace je používána zejména 
+v evropských zemích a je závazná i pro Českou republiku. Nadále je za zdravotní 
+poruchu považována pouze egodystonní sexuální orientace (F66). Egodystonní 
+sexuální orientace je taková sexuální orientace, se kterou není dotyčná osoba smířena. Vzhledem k tomu, že tato diagnóza může být zneužívána k eticky a odborně
+LGBT Komunita a společnost
+54
+pomýleným snahám o změnu sexuální orientace, diskutuje se mezi odborníky
+o jejím zrušení. Například americká obdoba MKN-10, Diagnostický a statistický 
+manuál (DSM-IV), žádnou takovou diagnózu neobsahuje112.
+Transsexualita je považována podle MKN-10 za zdravotní poruchu (F64.0), 
+což je ospravedlnitelné vzhledem ke značným problémům, které transsexualita 
+způsobuje i vzhledem k potřebě terapie u transsexuálních osob. Terapie nespočívá 
+ve snaze o změnu pohlavní identifikace, ale v podpůrné psychoterapii a somatické 
+léčbě vedoucí k úpravě tělesných charakteristik tak, aby byly v souladu s pohlavní 
+identitou. Někteří transsexuální lidé neakceptují skutečnost, že je transsexualita 
+řazena mezi duševní poruchy, což může vést (a někdy také vede) k následné psychiatrizaci osob se změněnou pohlavní identitou. Alternativou je zařazení transsexuality mezi somatické poruchy, což však vázne na dosud ne zcela všemi přijímaných důkazech o biologické podmíněnost transsexuality. Přijetí Mezinárodní 
+klasifikace nemocí ostatně neznamená, že všichni zdravotníci se s jejími diagnostickými závěry ztotožnili.
+Přístupy podporující možnost medicínské (psychoterapeutické) změny sexuální orientace lze v odborné společnosti považovat za menšinové a sexuální orientace je považována zpravidla jen za jednu z neutrálních osobnostních charakteristik 
+jedince. Zahraniční výzkumy však ukazují, že navzdory převládajícímu odbornému názoru, je u mnoha lékařů významná tendence LGB osoby různým způsobem 
+patologizovat. Do dnešní doby tak dárci krve vyplňují dotazník, kde jedna z otázek 
+zjišťuje, zda měla osoba zamýšlející darovat krev stejnopohlavní styk. V případě 
+pozitivní odpovědi je pak tato osoba z možnosti darovat krev vyloučena. Z uvedeného dotazníku jasně plyne předpokládaná analogie mezi homosexuálním chováním a zvýšeným rizikem přenosu HIV. Je pravdou, že homosexuální muži patří 
+do skupiny, která je mezi HIV pozitivními početně zastoupena. Tato skutečnost 
+ale není dostačujícím zdůvodněním pro automatické vyloučení všech homosexuálních osob z možnosti darovat krev. Zvýšené riziko přenosu HIV totiž produkují 
+zejména osoby chovající se promiskuitně, tedy jak homosexuálové, tak heterosexuálové. Analogie mezi homosexualitou a promiskuitou je tedy jednoznačně zavádějící a diskriminační. Dotazníky, které vyplňují dárci krve, by tedy neměly zjišťovat, zda dotyčná osoba měla či neměla homosexuální styk, ale spíše by se měly 
+zaměřit na míru promiskuity potencionálního dárce. Zpráva Českého helsinského 
+výboru o stavu lidských práv v roce 2001 označila praktiky Ústavu hematologie, 
+který vydal Poučení dárce krve, v němž se „mužům majícím sex s muži“ zakazuje 
+apriori darovat krev, za diskriminační113.
+112 Smolík, P. (2002): Duševní a behaviorální poruchy. Praha, Maxdorf.
+113 blíže viz: http://www.helcom.cz/view.php?cisloclanku=2003061824
+LGBT Komunita a společnost
+55
+V omezené míře se lze u zdravotníků a lékařů setkat s negativními postoji 
+k LGB pacientům a mnohem častěji pak s nejistotou plynoucí z nedostatečné zkušenosti s těmito pacienty. Velmi časté je také apriorní očekávání většinové orientace, což může následně komplikovat další terapeutický vztah. Z výše uvedených 
+důvodů lze považovat za potřebné zařazení nediskriminujících přístupů do etické 
+či psychologické pre- i postgraduální přípravy zdravotníků. Podobně by měly být 
+nediskriminující přístupy a základní poznatky o sexuální orientaci součástí vzdělávání sociálních pracovníků a pracovnic.
+V případě transsexuálních lidí je jejich přijímání lékaři a zdravotnickým personálem mnohem více problematické. Příčinou je malá znalost této poměrně snadno 
+rozpoznatelné minority. Neadekvátní či nepřátelské reakce jsou poměrně běžné, 
+a to zejména u lékařů, kteří se s transsexuálním lidmi běžně nesetkávají. Velmi 
+nepříjemný je také fakt, že transsexuální lidé jsou lékaři často naprosto necitlivě 
+předváděni jako atrakce pro studenty či pro kolegy. To je ovšem otázka celkově 
+nízkého respektu k soukromí a právům pacientů. Speciálním problémem je pak 
+umisťování transsexuálních a transgender lidí v nemocnicích, a to zejména v případech, kdy jejich psychické a tělesné charakteristiky nekorespondují s právním 
+pohlavím. Systém si s nimi často neví rady, a proto je například běžnou praxí, 
+že si musejí připlácet za nadstandardní pokoje, aby byli mimo ostatní pacienty. 
+V zahraničí jsou popsány případy, kdy translidé zemřeli, protože nemocniční 
+personál si nevěděl s jejich pohlavím rady a odmítl je tedy hospitalizovat. Výše 
+uvedené problémy by mohlo pomoci zvládat vzdělávání v otázkách etiky a lidské 
+diverzity, avšak zatím je jim u nás věnována jen malá pozornost.
+LGBT Komunita a společnost
+56
+57
+D. DOPORUČENÍ
+Na základě předložené Analýzy Pracovní skupina pro otázky sexuálních menšin ministryně vlády pro lidská práva a národnostní menšiny doporučuje:
+Ministru financí:
+1. Novelizovat zákon o dani dědické, dani darovací a dani z převodu nemovitostí (č. 257/1992 Sb., ve znění pozdějších předpisů) tak, aby partneři a partnerky 
+byli zařazeni do I. skupiny dle § 11 tohoto zákona.
+2. Novelizovat celní zákon (č. 13/1993 Sb., ve znění pozdějších předpisů) tak, 
+aby měli partnerky a partneři právo odepřít vysvětlení dle § 30 odst. 4 tohoto 
+zákona.
+Ministru kultury:
+1. Podporovat v rámci dotačních programů projekty zaměřené na LGBTI menšiny a projekty ke zmírnění homofobních postojů. Zohledňovat v rámci podporovaných projektů aspekt LGBTI tématiky.
+Ministryni obrany:
+1. Novelizovat zákon o zdravotní způsobilosti k vojenské činné službě
+(č. 103/2005 Sb., ve znění pozdějších předpisů) tak, aby neobsahoval diagnózu
+F 64.0 (poruchy pohlavní identity) a F 66 (psychické a behaviorální poruchy spojené se sexuálním vývojem a orientací).
+Ministru práce a sociálních věcí:
+1. Podporovat prostřednictvím dotačních programů vytvoření sociální sítě 
+pracovníků a pracovnic, kteří se budou zaměřovat na sociální kontakt s LGBTI 
+seniory a seniorkami, případně podporovat provádění uvedené činnosti v rámci 
+stávajících sociálních sítí.
+doporučení
+58
+2. Podpořit prostřednictvím dotačních programů, národních či evropských, 
+vytvoření komunitního centra pro LGBTI seniory.
+3. Novelizovat zákon o důchodovém pojištění (č. 155/1995 Sb., ve znění pozdějších předpisů) tak, aby partneři a partnerky měli nárok na vdovský/vdovecký 
+důchod po zemřelém partneru/partnerce.
+4. Zpracovat metodiku postupu v případech transsexuálních rodičů s cílem 
+zajistit, aby byl respektován nejlepší zájem dětí a jeho právo na oba rodiče, a aby 
+dítě nebylo oddělováno od transsexuálních rodičů proti jejich vůli a nedocházelo k jejich diskriminaci ze strany pracovníků a pracovnic odborů sociálně-právní 
+ochrany dětí.
+5. Podpořit prostřednictvím dotačních programů zmapování situace osob 
+s odlišnou sexuální orientací žijících na okraji společnosti, s cílem zjistit, jaké jsou 
+příčiny jejich sociální situace a jak jim lze předcházet.
+Ministryni pro lidská práva a národnostní menšiny:
+1. Provádět informační kampaň k prevenci diskriminace LGBTI lidí a proti 
+homofobii.
+2. V rámci aktivit ke zlepšení postavení seniorů přihlížet ke specifické situaci 
+LGBTI seniorů.
+3. V rámci Kampaně proti rasismu 2008 vypsat výzvu k podávání projektů
+ke zmapování situace LGBTI z etnických menšin v ČR.
+4. Podpořit zřízení stálého výboru pro otázky sexuálních menšin při Radě vlády ČR pro lidská práva, včetně pracovní skupiny pro translidi a vězeňství.
+Zmocněnci vlády pro lidská práva a předsedovi Rady vlády ČR pro 
+lidská práva
+1. Při Radě vlády ČR pro lidská práva zřídit stálý výbor pro otázky sexuálních 
+menšin, včetně pracovní skupiny pro translidi a vězeňství.
+Ministru spravedlnosti:
+1. Stanovit v rámci trestního zákona, že motiv nenávisti z důvodu sexuální
+doporučení
+59
+orientace bude znakem základní nebo kvalifikované skutkové podstaty zejména
+u násilných trestných činů (hate crimes).
+2. V rámci rekodifikace občanského zákoníku zajistit, aby:
+a) partneři a partnerky měli právo osvojit dítě druhého partnera,
+b) dítě mohlo být svěřeno do společné pěstounské péče partnerů,
+c) partneři a partnerky mohli společně osvojit dítě,
+d) osobám, které uzavřely registrované partnerství, vzniklo společné jmění
+partnerů a společný nájem bytu.
+3. Vypracovat právní a faktickou analýzu situace transsexuálních osob ve vazbě a výkonu trestu. Tato analýza by měla zahrnovat situaci transsexuálních lidí 
+zahajujících léčbu, transsexuálních lidí v průběhu léčby a situaci transsexuálních 
+lidí po dokončení chirurgických zákroků a právní změny pohlaví, a to s přihlédnutím k možnostem adekvátní léčby, zajištění jejich osobní bezpečnosti a plného 
+respektování jejich lidských práv.
+4. Spolupracovat se zmocněncem vlády pro lidská práva a ministryní pro lidská práva a národnostní menšiny na zlepšení situace translidí ve vězení v rámci 
+pracovní skupiny při Radě vlády ČR pro lidská práva.
+Ministryni školství, mládeže a tělovýchovy:
+1. Zajistit, aby v rámci studijních oborů zaměřených na péči o seniory byla 
+náležitá pozornost věnována LGBTI seniorům a specifikům jejich životní situace.
+2. Provést studii šikany ve školách, se zaměřením na propojení šikany se sexuální orientací obětí, nebo v rámci dotačních programů podpořit provedení takové 
+studie.
+3. Podporovat zvyšování kvalifikace školních psychologů, metodiků primární 
+prevence a pracovníků a pracovnic pedagogicko-psychologických poraden směrem k větší citlivosti k problémům LGBTI mládeže a schopnosti tyto problémy 
+rozpoznávat a efektivně řešit.
+4. Prostřednictvím dotačních programů podpořit vytvoření sítě pracovnic
+a pracovníků poskytujících poradenství LGBTI mládeži na profesionální úrovni.
+5. Novelizovat Příkaz ministryně školství, mládeže a tělovýchovy č. 3/2006 
+k postupu při zabezpečení realizace vyhlášky č. 60/2006 Sb., o psychické způsobilosti pedagogických pracovníků tak, aby z Přílohy č. 1 k tomuto příkazu byl 
+doporučení
+60
+vypuštěn údaj o sexuální orientaci žadatele jakožto jeden z anamnestických údajů 
+sledovaných při vyšetření žadatele.
+6. Zvážit doplnění rámcových vzdělávacích programů ve smyslu povinnosti 
+informovat žáky a studenty o existenci a životě sexuální minorit (LGBT lidí).
+Ministru vnitra:
+1. Novelizovat zákon o registrovaném partnerství (č. 115/2006 Sb., ve znění 
+pozdějších předpisů) tak, aby:
+a) podmínka státního občanství, jako jedna z podmínek nutných pro
+uzavření registrovaného partnerství, byla nahrazena například podmínkou povolení k trvalému pobytu,
+b) trvající partnerství nebránilo osvojení dítěte (§ 13 odst. 2 zákona).
+2. Novelizovat zákon o Policii ČR (č. 283/1991 Sb., ve znění pozdějších předpisů) tak, aby měli partneři právo odepřít vysvětlení dle § 12 odst. 3 tohoto zákona, 
+případně tento požadavek zahrnout do nově připravované právní úpravy.
+3. Novelizovat zákon o pobytu cizinců (č. 326/1999 Sb., ve znění pozdějších 
+předpisů) tak, aby v rámci rozhodování o udělení trvalého pobytu bylo zohledněno uzavření partnerství s občanem ČR.
+4. Novelizovat zákon o nabývání a pozbývání státního občanství (č. 40/1993 
+Sb., ve znění pozdějších předpisů) tak, aby v rámci rozhodování o udělení státního 
+občanství bylo zohledněno uzavření partnerství s občanem ČR, případně tento 
+požadavek zahrnout do nově připravované právní úpravy.
+5. Zavést informačně neutrální identifikátor obyvatel, a to ve smyslu usnesení 
+vlády ČR č. 340 ze dne 23.března 2005. Do doby zavedení tohoto identifikátoru 
+je třeba zpracovat takové postupy, které zamezí diskriminaci transsexuálních lidí 
+z důvodu změny rodného čísla.
+6. Zajistit soulad v rámci právních předpisů souvisejících s právní úpravou manželství a registrovaného partnerství tak, aby registrované partnerství
+i manželství bylo označováno buď jako „rodinný stav“, nebo jako „osobní stav“.
+Ministru zdravotnictví:
+1. Novelizovat zákon o péči o zdraví lidu (č. 20/1966 Sb., ve znění pozdějších předpisů) tak, aby možnosti asistované reprodukce mohla využít kterákoliv 
+doporučení
+61
+žena, tedy i žena bez partnera (§ 27d zákona), případně tento požadavek zahrnout
+do nově připravované právní úpravy.
+2. Věnovat zvýšenou pozornost zákrokům u intersexuálních dětí a dbát na to, 
+aby byla respektována všechna pravidla informovaného souhlasu. V tomto směru 
+je také třeba podpořit vyšší informovanost lékařů o současných trendech v oblasti 
+etiky, terapie a právních aspektů péče o intersexuální osoby.
+3. V rámci odborného vzdělávání pracovníků a pracovnic ve zdravotnictví 
+klást důraz na otázky etiky a lidské diverzity, zvláště pak na specifické problémy 
+LGBTI osob.
+4. Přepracovat seznam rizikových faktorů a rizikových chování z hlediska dárcovství krve tak, aby nebyl diskriminující na základě sexuální orientace.
+doporučení
+62
+PŘÍLOHY
+Příloha I.:
+Přehled existujících LGBT organizací
+I.a Lesbické organizace
+Praha
+V Praze je aktivní především skupina mladších žen a dívek okolo sdružení Rozdílné Rytmy114 (RR), která je částečně personálně propojená s Lesbickým turistickým oddílem (LTO). Členky Rozdílných rytmů mají také zásadní podíl na organizování festivalu eLnadruhou115 (pod záštitou stejnojmenného sdružení). Jedná 
+se o festival svým rozsahem skromnější než byl dřívější festival Apriles, na který 
+eLnadruhou volně navazuje.
+Lesbické aktivistky se podílejí také na činnosti v Praze sídlící Gay a lesbické 
+ligy116, přičemž ze čtyř mluvčích jsou dvě zástupkyně lesbické komunity. GLL 
+je v současnosti jedinou organizací, která se věnuje zastupování zájmů lesbické 
+komunity na politické rovině.
+Brno
+V Brně okolo roku 2004 krátce fungovala skupina Lesby (nejen) sobě. Po jejím 
+zániku nastala více než roční pauza. Tu ukončil vznik skupiny Holky v Brně117, 
+která se s dřívější organizací částečně personálně překrývá. Holky v Brně pořádají 
+výlety, přednášky, diskuse a návštěvy kulturních akcí. Lesbické aktivistky o několik let starší působí také v rámci organizace STUD.
+114 http://www.rozdilnerytmy.gl.cz
+115 http://www.elnadruhou.cz
+116 http://www.glliga.cz
+117 http://www.holky-brno.info
+přehled existujícíh LGBT organizací
+63
+Olomouc
+V Olomouci je již od roku 2004 aktivní neformální skupina lesbických a bisexuálních žen a dívek oLLomouc118. Pořádá přednášky, výlety, sportovní akce, promítání filmů atd.
+Ostrava
+V Ostravě je situace nejasná, neboť v minulosti aktivní ženská sekce Lambda 
+klubu již nevyvíjí oficiální činnost. Ostravská komunita je přitom velmi početná
+a existuje zde několik okruhů lidí, kteří pořádají poměrně velké akce de facto soukromého charakteru. V posledním roce došlo ke dvěma pokusům obnovit v Ostravě lokální organizaci, avšak není zatím zřejmé, zda některý z nich bude úspěšný.
+Zlín
+Ve Zlíně již zhruba tři roky působí skupina Lesba Zlín119, která však na více 
+než rok přerušila činnost, kterou obnovila v pozměněném složení na jaře 2006. 
+V současnosti se skupina věnuje zejména sportovním aktivitám, avšak pořádá
+i výlety a diskusní setkání.
+Pardubice
+V Pardubicích již několik let funguje organizace Pardubická lesba120. Nejčastějším typem akcí jsou výlety a návštěvy kulturních událostí.
+Plzeň
+V Plzni působí skupina one4one121, která se věnuje pořádání především hudebních a sportovních akcí. Tato skupina existuje již několik let a v poslední době je 
+poměrně aktivní.
+Neformální sdružení
+Výše uvedené skupiny sdružují jen relativně malou část lesbických a bisexuálních žen. Existuje však množství dalších neformálních okruhů působících na 
+neveřejné bázi. Tyto skupiny jsou ovšem obvykle aktivní pouze na bázi osobních
+118 http://www.bengales.cz/les-ollomouc
+119 http://www.sweb.cz/lesba.zlin
+120 http://www.pardubicka.lesba.cz
+121 http://one4one.xhosting.cz
+přehled existujících LGBT organizací
+64
+přátelství, což je dáno především stále přetrvávajícím strachem z coming outu
+a mnohdy i nezájmem o věci veřejné.
+Internet
+Internet jako medium vytlačil na počátku nového tisíciletí tištěné materiály, 
+avšak v současnosti jsou české webové projekty většinou spíše ve fázi útlumu. 
+Do jara 2005 fungovaly velmi dobře stránky lesba.cz. Těžiště webu bylo spíše
+na provozu „literární kavárny“ lesba.cz, což bylo dlouhodobě archivované diskusní fórum.
+Dalším celorepublikově aktivním webovým projektem je bengales.cz. Tyto 
+stránky jsou v posledních více než dvou letech nejaktivnější informačním webem 
+pro lesbické a bisexuální ženy. Zaměřují se především na publikování informací 
+z politického a kulturního života, přičemž je zde také velký podíl rozsáhlejších 
+textů dlouhodobé hodnoty.
+Zcela novým internetovým projektem zaměřeným speciálně na lesbické rodičovství je www.drbna.cz, kde je možno se dočíst o zcela konkrétních problémech, 
+které lesbické ženy a jejich rodiny musí řešit.
+I.b Gay organizace
+Gay organizace působící v ČR se téměř ve všech případech věnují organizování 
+volnočasových aktivit v podobě výletů, sportovních akcí či diskusí. Téměř žádná 
+nevyvíjí osvětovou či politickou činnost ve vztahu k většinové společnosti. Dále 
+platí, že řada gay organizací se alespoň nominálně deklaruje jako gay-lesbické,
+i když mezi jejich členy téměř žádné lesbické ženy nejsou. Vzhledem k tomu, že 
+fungování těchto organizací obvykle závisí jen na velmi omezeném počtu jednotlivců, jen málo jich má skutečně dlouhodobý charakter a formu občanského 
+sdružení. To způsobuje velké potíže při mapování vývoje komunity a jejím oslovování ve smyslu politik, které se jí bezprostředně týkají (např. informování o prostředcích ochrany před diskriminací, HIV prevence, apod.).
+Praha
+Gay a lesbická liga122 je v současné době jedinou politickou LGB organizací. 
+Po schválení zákona o registrovaném partnerství v roce 2006, na němž se spolupodílela, však došlo k určitému útlumu jejích aktivit. Tím na poli LGB aktivismu 
+122 http://www.partnerstvi.cz/gll-uvod/
+přehled existujících LGBT organizací
+65
+vzniká významný nevyplněný prostor, neboť druhá organizace tohoto druhu, Gay 
+iniciativa v ČR, svou činnost nedávno ukončila.
+M-klub Lambda123 je pražský gay klub seniorů, ale jeho výletů a setkání se 
+účastní nejen gayové vyššího věku. Klub existuje již od r. 1992.
+Od roku 1996 působí gay a lesbický studentský spolek GaLes124, který ovšem 
+po deseti letech vzhledem k administrativním překážkám a zvyšujícímu se počtu 
+nestudentů mezi jeho členy odešel z Vysoké školy ekonomické a působí nezávisle. 
+Organizuje pravidelná čtvrteční setkání a výlety.
+Významnou organizací pro věřící gaye a lesby je občanské sdružení Logos125, 
+které má ekumenický charakter a organizuje bohoslužby a pravidelná nedělní 
+setkávání s podporou fary Českobratrské církve evangelické v Praze 8.
+Gaysport126 zastřešuje řadu gay sportovních aktivit v Praze a na svých internetových stránkách informuje o čase a místech konání jednotlivých sportovních 
+akcí. Sportovní akce organizují rovněž Pratety (volejbal) a Aquamen (plavání).
+Skupina3127 vznikla původně jako podpůrná skupina, pomáhající členům se 
+sebepřijetím za pomoci psychologa. Postupně se z ní však stala výletní outdoor 
+skupina pořádající letní tábor a různé víkendové akce. Outdoorovou skupinou je 
+rovněž BDP (Blízko do pohody).
+V Praze působí také dva gay amatérské divadelnické spolky, jejichž členy však 
+nejsou jen gayové. Jedná se o Perfidní divadlo a Divadlo bez zábran.
+Brno
+STUD128 je zdaleka nejvýznamnější brněnskou gay-lesbickou organizací. Působí od roku 1996 a její hlavní aktivitou je v současnosti organizování jediné veřejné 
+LGBT akce v ČR, filmového festivalu Mezipatra. STUD rovněž disponuje archivem 
+a knihovnou s LGBT tematikou, která byla nedávno po přestávce způsobené nedostatkem zdrojů opět zpřístupněna veřejnosti.
+123 http://sweb.cz/m.klub.lambda/
+124 http://gales.wz.cz/
+125 http://logos.gl.cz/ls-uvod/
+126 http://www.gaysport.cz/
+127 http://skupina3.kluci.cz/
+128 http://www.stud.cz/
+přehled existujících LGBT organizací
+66
+Gay teens (GaTe)129 je projekt pro gay náctileté, který vznikl v roce 2006 za 
+podpory NROS a v jehož rámci jsou organizována setkání a výlety pro gaye do 20 
+let věku. Projekt má zároveň charakter svépomocné skupiny v procesu comingoutu.
+Pěšky atd.130 je brněnská outdoor skupina, volně propojená se sdružením 
+STUD. Výlety organizuje rovněž Gay Valach.
+V Brně rovněž působí Logos Brno131, a to nezávisle na Logosu Praha, byť obě 
+sdružení jsou spolu v kontaktu a někdy organizují společné akce.
+České Budějovice
+Jihočeská Lambda132 je jedno z nejstarších existujících LGB sdružení v ČR. 
+Byla založena v roce 1993 a k jejím aktivitám patří organizování pravidelných klubových setkání, výlety, spolupráce s obdobnými sdruženími v zahraničí (zejména 
+v Rakousku), poradna a informační centrum. V letech 2006-2007 úspěšně realizovala projekt pomoci v případě sociálního vyloučení GLBT osob v Jižních Čechách 
+se zaměřením na pracovní příležitosti, který byl financován Evropským sociálním 
+fondem. Tento klub je v ČR ve své činnosti jedinečný, protože setrval na platformě 
+aktivního občanského sdružení s trvalou členskou základnou a dokázal se zařadit 
+mezi poskytovatele do sociálních služeb města České Budějovice.
+Toto není úplně vyčerpávající výčet, nicméně většina ostatních sdružení či 
+organizací nemá, jak bylo zmíněno, dlouhodobý charakter a současnou situaci 
+zejména v dalších větších městech ČR (Ostrava, Olomouc, Plzeň) nelze přesně 
+zmapovat.
+Internet
+Nejvíce aktuálních informací je samozřejmě na internetu, ale i zde je situace složitá vzledem k velkému počtu neustále vznikajících a zanikajících projektů, 
+které navíc mezi sebou jen málokdy komunikují. Po několik let vysoce navštěvované stránky 004.cz133 jsou v současné době v útlumu, prakticky bez nových 
+informací jsou rovněž dříve velmi populární kluci.cz. STUD Brno134 ze svých jinak 
+129 http://www.gejt.cz/
+130 http://stud.cz/pesky/
+131 http://sweb.cz/logos-brno/
+132 http://www.klucicb.info/
+133 http://www.004.cz/
+134 http://www.stud.cz/
+přehled existujících LGBT organizací
+67
+velmi obsáhlých a navštěvovaných stránek již delší dobu z technických důvodů 
+zpřístupňuje pouze část.
+Volný prostor tak zaplňují jednak osobní stránky a jednak začínající projekty. 
+Jedná se zejména o pinkstar.cz, velmi populární mezi částí LGBT mládeže a dále 
+o kluci.info. Obecně lze však říci, že neexistuje jeden komplexní internetový informační zdroj o stavu a aktivitách české gay komunity.
+I.c Trans organizace
+Zájmy translidí reprezentuje v České republice občanské sdružení Transforum135, které existuje od roku 1998 a je jedinou českou organizací reprezentující 
+zájmy translidí. Z aktivit mimo komunitu stojí za zmínku například udělování cen 
+Transpřítel či snaha o prosazování zájmů translidí při tvorbě antidiskriminačního 
+zákona. Sdružení vyvíjí aktivitu především v Praze.
+135 http://www.transforum.cz
+přehled existujících LGBT organizací
+68
+II.: Výběrová bibliografie českých a slovenských
+LGBT pramenů
+Jedná se o výběrovou bibliografii textů týkajících se života gayů, leseb, bisexuálů, translidí a intersexuálů v České republice respektive na Slovensku. Jedná 
+se hlavně o publikace, které vyšly tiskem a je tedy relativně jednoduché je získat. 
+Knižně nepublikované diplomové a bakalářské práce jsou uvedeny pouze výjimečně.
+Diskriminace
+BOUČKOVÁ, P. (2006): Diskriminace z důvodu sexuální orientace, in: Bobek, 
+M.; Boučková, P.; Kühn, Z. (eds.): Rovnost a diskriminace. Praha, C. H. Beck 
+2006, str. 253-282
+PROCHÁZKA, I., JANÍK, D., HROMADA, J. (2003): Společenská diskriminace lesbických žen, gay mužů a bisexuálů v ČR. Praha. Gay iniciativa v ČR.
+Dostupné z adresy:
+http://www.gay.iniciativa.cz/www/index.php?page=clanek&id=256
+Historie
+FANEL, J. (2000): Gay historie. Praha, Dauphin.
+JAMEK, Václav (2001): O prašivém houfci. Literatura, homosexualita, AIDS. 
+Praha, Torst.
+KOMENDA. A. (2000): Ke kořenům křesťanské homofobie. Acta Universitatis 
+Palackianae Olomucensis, Iuridica 2. 2000;2.:99-112.
+KOTIŠOVÁ, M., VAMPOLOVÁ, V. (2006): České lesby: daleko k hnutí, daleko 
+k feminismu. In Hašková, H., Křížková, A., Linková, M. (2006): Mnohohlasem: 
+vyjednávání ženských prostorů po roce 1989. Praha, Sociologický ústav AV.
+LÉKO, I. (1993): Růžový trojúhelník: deportace homosexuálů v letech 1933-
+1945. Revolver revue 24, 294-300.
+PECHOVÁ, O. (2005): Lidé s růžovým trojúhelníkem.
+http://translide.unas.cz/?960 30.9.2005
+RUPP, Leila (2001): Vytoužená minulost. Dějiny lásky a sexuality mezi osobami stejného pohlaví v Americe od příchodu Evropanů po současnost. Praha, One 
+Woman Press.
+SOKOLOVÁ, V (2006): Koncepční pohled na „sexuální menšiny“ aneb vše je 
+jen otázka správné orientace. In Hašková, H., Křížková, A., Linková, M. (2006): 
+Mnohohlasem: vyjednávání ženských prostorů po roce 1989. Praha, Sociologický 
+ústav AV.
+SOUVISLOSTI 4/2003, Revue pro literaturu a kulturu (2003) – Homosexualita v kultuře.
+výběrová bibliografie LGBT pramenů
+69
+WEST, D.J., GREEN, R.: Sociolegal control of homosexuality: A multi-nation 
+comparison. Chapter 15: The Czech and Slovak republics (Procházka, I.): 243-
+254.
+Plenum Press, New York, London, 1997.
+Postoje
+JANOŠOVÁ, P. (2000): Homosexualita v názorech současné společnosti. Praha, Karolinum.
+ONDRISOVÁ, S., BIANCHI, G. (2000): Heterosexizmus: společensko-kultúrne a psychologické aspekty postojov ku lesbickým ženám a gayom. Československá psychologie. 43, 2, 165-179.
+WEISS, P., ZVĚŘINA, J. (2001): Sexuální chování v ČR – situace a trendy. 
+Praha, Portál.
+Další LGB témata
+ČERVENKOVÁ, I., BIANCHI, G. (2003): Diskurzy homosexuality a vývin 
+sexuálnej identity. Československá psychologie. 45, 2, 122-134.
+FAFEJTA, M. (2004): Úvod do sociologie pohlaví a sexuality. Věrovany, Nakladatelství Jan Piszkiewicz.
+JANÍK, D. (2004): Rodina a homosexualita aneb heterosexuální rodiče
+a homosexuální děti. Diplomová práce. Olomouc, Katedra psychologie FF UP.
+NEDBÁLKOVÁ, K. (2002): Alternativní rodinné modely aneb Rodiny lesbických matek a rodiny gay otců. In Ženská práva jsou lidská práva. Brno. Nesehnutí.
+ONDRISOVÁ, S., HERETIK, A., ŠÍPOŠOVÁ, M. (1999): Homofóbia-dosledky 
+pre psychoterapiu. Česká a slovenská psychiatrie 95, 135-141.
+PECHOVÁ, O. (2005): Sexuální minority. Rigorózní práce. Olomouc, Katedra 
+psychologie FF UP.
+PROCHÁZKA, I (2002): Coming out. Brno, STUD Brno.
+Ke stažení z adresy: 
+http://www.gay.iniciativa.cz/www/index.php?page=clanek&id=14
+PROCHÁZKA, I. NOVOTNÝ, J., KAŇKA, P., JANÍK, D. (2005): HIV infekce
+a homosexualita. Praha, Česká společnost AIDS pomoc.
+PROCHÁZKA, I, WEISS, P (1998): Pohlavní identita v dětství u homosexuálů. 
+Česká a slovenská psychiatrie.
+STEHLÍKOVÁ, D., PROCHÁZKA, I., HROMADA, J. (1995): Homosexualita, 
+společnost a AIDS v ČR. Praha. SOHO.
+TALANDOVÁ, J. (1997): Sociální postavení žen a alternativní rodinné modely 
+v kontextu heterosexuální společnosti. Praha, L-klub Lambda.
+výběrová bibliografie LGBT pramenů
+70
+Dostupné z adresy: http://www.lesba.cz/linky/Poradny/
+ZVĚŘINA, J. (2004): Tak zvaná „terapie homosexuality“. Česká a slovenská 
+psychiatrie, 100, No.5, 279-283.
+Transsexualita
+ANTE, R. (2005): Mediální prezentace translidí. – Obsahová analýza českého 
+tisku. Diplomová práce. Olomouc. Katedra psychologie FF UP.
+Ke stažení na adrese: http://www.translide.cz/knihovna
+FIFKOVÁ, H., WEISS, P., PROCHÁZKA, I., JAROLÍM, J., VESELÝ, J., WEISS, 
+V. (2002): Transsexualita. Praha, Grada.
+HOFÍREK, Š. (2006): Životní situace transsexuálních lidí v České republice. 
+Bakalářská práce. Brno, Katedra sociální politiky a sociální práce FSS MU.
+Ke stažení na adrese: http://www.translide.cz/knihovna
+MALÁ, E., HRDLIČKA, M. (2003): Transsexualismus. Česká a slovenská psychiatrie, 99, 2003, No.5, 273-277.
+MALÁ, E., KOCOURKOVÁ, J. (2003): Porucha pohlavní identity v dětství. 
+Československá psychologie. 47, 4, 356-362.
+SPENCEROVÁ T. (2003): Jsem tranďák! Praha, G plus G.
+WEISS, P., ŠVECOVÁ, B. (2001): K některým rozdílům mezi transsexuály 
+male-to-female a female-to-male. Česká a slovenská psychiatrie. 97, 13-19.
+Slovensko 
+DŽUKA, J., WAROŠEK, R. (1996): Subjektívna pohoda u homosexuálně orientovaných mužov. Česká a slovenská psychiatrie 92, 1996, 135-141.
+ONDRISOVÁ, S., ŠÍPOŠOVÁ, M., ČERVENKOVÁ, I, JÓJÁRT, P., BIANCHI, 
+G. (2002): Neviditelná menšina. Bratislava, Nadácia občan a demokracia.
+ŠÍPOŠOVÁ, M., JÓJÁRT, P., DAUČÍKOVÁ, A. a kol. (2002): Správa o diskriminácii lesbických žien, gejov, bisexuálov a bisexuálok na Slovensku. Bratislava, 
+Q archiv / dokumentačné a informačné centrum.
+Intersexualita
+ANTE, R. (2003): Negativní aspekty medicínského přístupu k intersexualitě. 
+Ročníková práce. Olomouc, Katedra psychologie FF UP. 
+Ke stažení na adrese: http://www.translide.cz/knihovna
+výběrová bibliografie LGBT pramenů 
+71
+III.: Slovníček pojmů
+Bisexualita – citová a sexuální přitažlivost k oběma pohlavím
+Butch lesba – lesbická žena s převážně maskulinními projevy, někdy se může 
+jednat o projev transgender identity
+Coming out – veřejné přihlášení se k homosexuální, bisexuální či transgender 
+identitě; může mít různou intenzitu
+Cross-dressing – oblékaní do oděvu příslušejících opačnému pohlaví, než jaké 
+je biologické pohlaví jedince; může být projevem transvestitismu, transgender 
+identity nebo transsexuality
+Gay – v současnosti převažující označení pro homosexuální muže, které bylo 
+převzato z angličtiny, v češtině i v originále začalo být užíváno pro absenci urážlivých konotací; jako přídavné jméno zastupuje slovo homosexuální a týká se tedy
+i lesbických žen (tento smysl je však v češtině opomíjen)
+LGB – lesby, gayové, bisexuálové – souhrnná zkratka označují lidi s menšinovou sexuální orientací
+LGBT – lesby, gayové, bisexuální lidé a translidé – označení běžně užívané 
+v angličtině jako zkratka pro tyto minoritní skupiny spojené řadou společných 
+problémů
+Gender – psychologické a sociální charakteristiky připisované jednotlivým 
+pohlavím, někdy se dělí na genderovou roli a genderovou identitu, v některých 
+kulturách existuje více než dva gendery
+Genderová identita – pocit příslušnosti k některému pohlaví či pocit pohlavní 
+neurčitosti, může ale nemusí být spojen s tradičními genderovými rolemi
+Homofobie – souhrnné označení pro nepřátelské postoje k homosexuálním 
+lidem, obvykle se nejedná o fobii ve smyslu duševní poruchy
+Homosexualita – sexuální přitažlivost k osobám stejného pohlaví, termín je 
+používán od druhé poloviny devatenáctého století
+Intersexualita – výskyt biologických znaků obou pohlaví u jednoho jedince
+Slovníček pojmů
+72
+Lesba – homosexuální žena; termín vytlačuje ve společnosti stále dosti rozšířené slovo lesbička, které je neodůvodněnou zdrobnělinou
+Queer identita – doslova podivná identita, označení pro jedince, kteří nechtějí 
+být přiřazování k jednoznačnému genderu či sexuální orientaci; v současnosti se 
+toto slovo „queer“ často používá souhrnně pro označení příslušníků různých sexuálních minorit
+Sexuální orientace – obvykle trvalý pocit emocionální a sexuální přitažlivosti 
+k některému pohlaví či v některých případech k pohlavím oběma
+Transgender – výrazné překračování hranic genderové role; někdy se používá 
+jako nadřazený pojem i k transsexualitě; zatímco jindy jde o pojem paralelní, kdy 
+označuje lidi, kteří žijí v opačné či netypické genderové roli, ale neusilují o změnu 
+pohlaví (v tomto smyslu je pojem používán v této zprávě)
+Transsexualita - pocit trvalé příslušnosti k opačnému pohlaví než je pohlaví 
+chromozomální (právní), který je provázen úsilím o somatickou a právní změnu 
+pohlaví
+Transvestitismus – převlékání se do oděvu opačného pohlaví bez snahy žít 
+v této roli trvaleji
+Slovníček pojmů
