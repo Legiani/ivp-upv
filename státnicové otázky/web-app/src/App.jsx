@@ -3,6 +3,7 @@ import { HashRouter as Router, Routes, Route, Link, useLocation, useNavigate } f
 import { BookOpen, Headphones, Download, Menu, X, FileText, CheckCircle } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import mermaid from 'mermaid';
 import './App.css';
 
 const getSavedProgress = () => {
@@ -272,6 +273,110 @@ function Okruh({ manifest }) {
   );
 }
 
+mermaid.initialize({
+  startOnLoad: false,
+  theme: 'dark',
+  securityLevel: 'loose',
+});
+
+function MermaidElement({ value }) {
+  const [svg, setSvg] = useState('');
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    let active = true;
+    const uniqueId = `mermaid-${Math.random().toString(36).substring(2, 9)}`;
+
+    const renderDiagram = async () => {
+      try {
+        setError(null);
+        const { svg: renderedSvg } = await mermaid.render(uniqueId, value);
+        if (active) {
+          setSvg(renderedSvg);
+        }
+      } catch (err) {
+        console.error("Mermaid parsing error: ", err);
+        const badElement = document.getElementById(uniqueId);
+        if (badElement) badElement.remove();
+        const bindElement = document.getElementById(`d${uniqueId}`);
+        if (bindElement) bindElement.remove();
+        
+        if (active) {
+          setError(err);
+        }
+      }
+    };
+
+    renderDiagram();
+
+    return () => {
+      active = false;
+    };
+  }, [value]);
+
+  if (error) {
+    return (
+      <pre style={{ 
+        color: '#ef4444', 
+        background: 'rgba(239, 68, 68, 0.08)', 
+        padding: '16px', 
+        borderRadius: 'var(--radius-md)',
+        border: '1px solid rgba(239, 68, 68, 0.2)',
+        fontSize: '0.85rem',
+        overflowX: 'auto',
+        margin: '1.5em 0'
+      }}>
+        <code>{`[Mermaid Chyba] V diagramu je chyba: ${error.message || error}`}</code>
+      </pre>
+    );
+  }
+
+  if (!svg) {
+    return (
+      <div style={{ 
+        display: 'flex', 
+        justifyContent: 'center', 
+        alignItems: 'center',
+        padding: '30px', 
+        color: 'var(--text-muted)',
+        fontSize: '0.9rem' 
+      }}>
+        Generuji diagram...
+      </div>
+    );
+  }
+
+  return (
+    <div 
+      className="mermaid-diagram"
+      dangerouslySetInnerHTML={{ __html: svg }} 
+      style={{ 
+        display: 'flex', 
+        justifyContent: 'center', 
+        margin: '2em 0', 
+        background: 'rgba(255, 255, 255, 0.01)', 
+        padding: '24px', 
+        borderRadius: 'var(--radius-lg)',
+        border: '1px solid var(--border-color)',
+        overflowX: 'auto'
+      }}
+    />
+  );
+}
+
+const markdownComponents = {
+  pre({ children, ...props }) {
+    if (children && React.isValidElement(children)) {
+      const codeProps = children.props;
+      if (codeProps && codeProps.className === 'language-mermaid') {
+        const value = String(codeProps.children || '').replace(/\n$/, '');
+        return <MermaidElement value={value} />;
+      }
+    }
+    return <pre {...props}>{children}</pre>;
+  }
+};
+
 function MarkdownViewer() {
   const { pathname } = useLocation();
   const parts = pathname.split('/');
@@ -303,7 +408,7 @@ function MarkdownViewer() {
         </div>
       </div>
       <div className="markdown-container glass-panel printable-content">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>{content}</ReactMarkdown>
       </div>
     </div>
   );
@@ -357,7 +462,7 @@ function TahakViewer() {
         </div>
       </div>
       <div className="markdown-container glass-panel printable-content">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>{content}</ReactMarkdown>
       </div>
     </div>
   );

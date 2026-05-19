@@ -524,3 +524,11 @@ body {
     border-bottom: 1px solid #000;
   }
 }
+
+/* Mermaid SVG Responsiveness */
+.mermaid-diagram svg {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 0 auto;
+}
