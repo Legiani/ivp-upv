@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **ODIP 16:** Osobnost učitele praktického vyučování. Vliv na žáky, atributy. Činnost plánovací, řídicí, kontrolní. Mimoškolní činnost a zvyšování kvalifikace.
-- **ODIP 17:** Formy spolupráce mezi učiteli praktického vyučování a ostatními. Mezipředmětové a vnitropředmětové vztahy v praxi. Vztah praxe a teorie. Předmětová (metodická) komise.
-- **ODIP 18:** Dovednostní cíle praktického vyučování. Stanovení cílů pro konkrétní jednotku. Výchovné cíle a jejich význam.
-- **ODIP 19:** Postup při vytváření praktických dovedností a návyků. Vysvětlete pojmy dovednost a návyk, jejich rozdělení a postup osvojování.
-- **ODIP 20:** Základní pojmy didaktiky praktického vyučování: pracovní postup, pracovní operace, pracovní úkon. Konkretizace u vybraného tématu.
+- **[DYT]** **ODIP 16:** Osobnost učitele praktického vyučování. Vliv na žáky, atributy. Činnost plánovací, řídicí, kontrolní. Mimoškolní činnost a zvyšování kvalifikace.
+- **[DYT]** **ODIP 17:** Formy spolupráce mezi učiteli praktického vyučování a ostatními. Mezipředmětové a vnitropředmětové vztahy v praxi. Vztah praxe a teorie. Předmětová (metodická) komise.
+- **[DYT]** **ODIP 18:** Dovednostní cíle praktického vyučování. Stanovení cílů pro konkrétní jednotku. Výchovné cíle a jejich význam.
+- **[DYT]** **ODIP 19:** Postup při vytváření praktických dovedností a návyků. Vysvětlete pojmy dovednost a návyk, jejich rozdělení a postup osvojování.
+- **[DYT]** **ODIP 20:** Základní pojmy didaktiky praktického vyučování: pracovní postup, pracovní operace, pracovní úkon. Konkretizace u vybraného tématu.
 
 ---
 

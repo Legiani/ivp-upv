@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 8:** Popište faktory utvářející osobnost a jejich vztah. Charakterizujte proces interiorizace a objasněte jeho význam.
-- **PSY 9:** Pojednejte o složkách struktury osobnosti žáka SŠ a možnostech jejich ovlivňování ve výuce. Výhody a nevýhody typů temperamentu.
-- **PSY 10:** Objasněte pojem charakter, zařaďte ho do systému psychických jevů. Uveďte charakterovou typologii. Rozvoj morálních vlastností žáků SŠ.
+- **[DOB]** **PSY 8:** Popište faktory utvářející osobnost a jejich vztah. Charakterizujte proces interiorizace a objasněte jeho význam.
+- **[DOB]** **PSY 9:** Pojednejte o složkách struktury osobnosti žáka SŠ a možnostech jejich ovlivňování ve výuce. Výhody a nevýhody typů temperamentu.
+- **[DOB]** **PSY 10:** Objasněte pojem charakter, zařaďte ho do systému psychických jevů. Uveďte charakterovou typologii. Rozvoj morálních vlastností žáků SŠ.
 
 ---
 

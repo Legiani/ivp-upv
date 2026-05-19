@@ -6,8 +6,8 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 4:** Charakterizujte profesi učitele, typologii učitele a vyučovacích stylů, vlastnosti a předpoklady pro výkon práce učitele, charakterizujte pedagogickou komunikaci, zaměřte se na možnosti kariérního vývoje a dalšího profesního vzdělávání pedagogických pracovníků.
-- **PES 5:** Vysvětlete význam J. A. Komenského pro dnešní pedagogiku a vzdělávání; představte důležitá díla a hlavní myšlenky jeho pedagogické koncepce; uveďte možné aplikace myšlenek J. A. Komenského pro současné vzdělávání.
+- **[DOB, VOT]** **PES 4:** Charakterizujte profesi učitele, typologii učitele a vyučovacích stylů, vlastnosti a předpoklady pro výkon práce učitele, charakterizujte pedagogickou komunikaci, zaměřte se na možnosti kariérního vývoje a dalšího profesního vzdělávání pedagogických pracovníků.
+- **[VOT]** **PES 5:** Vysvětlete význam J. A. Komenského pro dnešní pedagogiku a vzdělávání; představte důležitá díla a hlavní myšlenky jeho pedagogické koncepce; uveďte možné aplikace myšlenek J. A. Komenského pro současné vzdělávání.
 
 ---
 

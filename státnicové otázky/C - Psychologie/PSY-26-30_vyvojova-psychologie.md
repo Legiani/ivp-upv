@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 26:** Prenatální, novorozenecké a kojenecké období (Piaget, Freud, Erikson). Klíčová témata psychického vývoje. Teorie citové vazby (attachment).
-- **PSY 27:** Batolecí a předškolní období. Klíčová témata tělesného a sociálního vývoje, vývoj řeči a dětské hry.
-- **PSY 28:** Mladší a střední školní věk. Problematika školní zralosti a připravenosti.
-- **PSY 29:** Dospívání (pubescence a adolescence) podle vývojových teorií. Sociální a tělesný vývoj.
-- **PSY 30:** Stádia dospělosti a stáří. Profesní role, krize středního věku, kvalita života (Erikson, postformální myšlení, stadia přijetí smrtelnosti dle Kübler-Rossové).
+- **[DOB]** **PSY 26:** Prenatální, novorozenecké a kojenecké období (Piaget, Freud, Erikson). Klíčová témata psychického vývoje. Teorie citové vazby (attachment).
+- **[DOB]** **PSY 27:** Batolecí a předškolní období. Klíčová témata tělesného a sociálního vývoje, vývoj řeči a dětské hry.
+- **[DOB]** **PSY 28:** Mladší a střední školní věk. Problematika školní zralosti a připravenosti.
+- **[DOB]** **PSY 29:** Dospívání (pubescence a adolescence) podle vývojových teorií. Sociální a tělesný vývoj.
+- **[DOB]** **PSY 30:** Stádia dospělosti a stáří. Profesní role, krize středního věku, kvalita života (Erikson, postformální myšlení, stadia přijetí smrtelnosti dle Kübler-Rossové).
 
 ---
 

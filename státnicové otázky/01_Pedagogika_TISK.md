@@ -189,9 +189,9 @@ středních škol.
 ---
 
 ## Znění státnicových otázek
-- **PES 1:** Charakteristika pedagogiky – popsat pedagogické disciplíny, uvést významné informační zdroje pro studium pedagogiky a učitelskou praxi, vysvětlit vztah mezi studiem pedagogických věd a výkonem profese učitele.
-- **PES 2:** Vysvětlete pojem výchova v širším a užším smyslu; zaměřte se na roli výchovy při formování osobnosti člověka, na její vztah k socializaci a ke kultuře; charakterizujte výchovu jako cestu k sebevýchově.
-- **PES 3:** Vysvětlete pojmy vzdělání a vzdělávání; popište roli školy ve vzdělávání; vysvětlete pojmy vzdělávací systém a školská soustava; charakterizujte českou školskou soustavu; objasněte pojem celoživotní učení. Popište mezinárodní klasifikaci stupňů ve vzdělávání ISCED.
+- **[VOT]** **PES 1:** Charakteristika pedagogiky – popsat pedagogické disciplíny, uvést významné informační zdroje pro studium pedagogiky a učitelskou praxi, vysvětlit vztah mezi studiem pedagogických věd a výkonem profese učitele.
+- **[VOT]** **PES 2:** Vysvětlete pojem výchova v širším a užším smyslu; zaměřte se na roli výchovy při formování osobnosti člověka, na její vztah k socializaci a ke kultuře; charakterizujte výchovu jako cestu k sebevýchově.
+- **[VOT]** **PES 3:** Vysvětlete pojmy vzdělání a vzdělávání; popište roli školy ve vzdělávání; vysvětlete pojmy vzdělávací systém a školská soustava; charakterizujte českou školskou soustavu; objasněte pojem celoživotní učení. Popište mezinárodní klasifikaci stupňů ve vzdělávání ISCED.
 
 ---
 
@@ -479,8 +479,8 @@ mindmap
 ---
 
 ## Znění státnicových otázek
-- **PES 4:** Charakterizujte profesi učitele, typologii učitele a vyučovacích stylů, vlastnosti a předpoklady pro výkon práce učitele, charakterizujte pedagogickou komunikaci, zaměřte se na možnosti kariérního vývoje a dalšího profesního vzdělávání pedagogických pracovníků.
-- **PES 5:** Vysvětlete význam J. A. Komenského pro dnešní pedagogiku a vzdělávání; představte důležitá díla a hlavní myšlenky jeho pedagogické koncepce; uveďte možné aplikace myšlenek J. A. Komenského pro současné vzdělávání.
+- **[DOB, VOT]** **PES 4:** Charakterizujte profesi učitele, typologii učitele a vyučovacích stylů, vlastnosti a předpoklady pro výkon práce učitele, charakterizujte pedagogickou komunikaci, zaměřte se na možnosti kariérního vývoje a dalšího profesního vzdělávání pedagogických pracovníků.
+- **[VOT]** **PES 5:** Vysvětlete význam J. A. Komenského pro dnešní pedagogiku a vzdělávání; představte důležitá díla a hlavní myšlenky jeho pedagogické koncepce; uveďte možné aplikace myšlenek J. A. Komenského pro současné vzdělávání.
 
 ---
 
@@ -733,8 +733,8 @@ mindmap
 ---
 
 ## Znění státnicových otázek
-- **PES 6:** Popište možnosti začlenění tématu trvale udržitelného rozvoje do obsahu výuky; charakterizujte cíle, formy a metody environmentální výchovy; popište možné strategie rozvoje vnímavosti žáků k životnímu prostředí v rámci školy.
-- **PES 7:** Popište funkce školy, charakterizujte podpůrné sítě ve školství (úloha výchovných a kariérových poradců). Zaměřte se na odborné školství, možnosti odborného vzdělávání v kontextu se vzděláváním v EU.
+- **[DYT, VOT]** **PES 6:** Popište možnosti začlenění tématu trvale udržitelného rozvoje do obsahu výuky; charakterizujte cíle, formy a metody environmentální výchovy; popište možné strategie rozvoje vnímavosti žáků k životnímu prostředí v rámci školy.
+- **[VOT]** **PES 7:** Popište funkce školy, charakterizujte podpůrné sítě ve školství (úloha výchovných a kariérových poradců). Zaměřte se na odborné školství, možnosti odborného vzdělávání v kontextu se vzděláváním v EU.
 
 ---
 
@@ -974,9 +974,9 @@ mindmap
 ---
 
 ## Znění státnicových otázek
-- **PES 8:** Popište model procesu výuky, stručně vysvětlete pojmy učitel, žák, obsah výuky, prostředí a vztahy mezi nimi; charakterizujte obvyklé fáze přípravy a realizace vyučování; objasněte význam vnějších a vnitřních podmínek na efektivitu vyučování.
-- **PES 9:** Vysvětlete pojem didaktická analýza obsahu, popište její fáze; charakterizujte kritéria kvalitní výuky a efektivního učení, popište didaktické zásady.
-- **PES 10:** Vysvětlete pojem třídní management; popište role a úkoly učitele během vyučování; uveďte možné scénáře vyučovací hodiny, vysvětlete smysl a návaznost jednotlivých fází.
+- **[VOT]** **PES 8:** Popište model procesu výuky, stručně vysvětlete pojmy učitel, žák, obsah výuky, prostředí a vztahy mezi nimi; charakterizujte obvyklé fáze přípravy a realizace vyučování; objasněte význam vnějších a vnitřních podmínek na efektivitu vyučování.
+- **[VOT]** **PES 9:** Vysvětlete pojem didaktická analýza obsahu, popište její fáze; charakterizujte kritéria kvalitní výuky a efektivního učení, popište didaktické zásady.
+- **[VOT]** **PES 10:** Vysvětlete pojem třídní management; popište role a úkoly učitele během vyučování; uveďte možné scénáře vyučovací hodiny, vysvětlete smysl a návaznost jednotlivých fází.
 
 ---
 
@@ -1245,9 +1245,9 @@ gantt
 ---
 
 ## Znění státnicových otázek
-- **PES 11:** Popište fáze a důležitá témata ve vývoji pedagogického myšlení (antika, středověk, počátek novověku a reformace, osvícenství); vysvětlete vznik tradičního pojetí vzdělávání v 19. století (Herbart a herbartismus); uveďte souvislosti s dnešním vzděláváním.
-- **PES 12:** Charakterizujte příčiny vzniku reformního pedagogického hnutí; uveďte znaky alternativních škol, důležité představitele a směry; vysvětlete možnosti uplatnění alternativních a inovativních prvků v dnešním vzdělávání.
-- **PES 13:** Vysvětlete pojem kurikulum; popište didaktickou transformaci obsahu, její fáze a jednotlivé aktéry; zaměřte se na způsob stanovení kurikula v odborném vzdělávání.
+- **[VOT]** **PES 11:** Popište fáze a důležitá témata ve vývoji pedagogického myšlení (antika, středověk, počátek novověku a reformace, osvícenství); vysvětlete vznik tradičního pojetí vzdělávání v 19. století (Herbart a herbartismus); uveďte souvislosti s dnešním vzděláváním.
+- **[VOT]** **PES 12:** Charakterizujte příčiny vzniku reformního pedagogického hnutí; uveďte znaky alternativních škol, důležité představitele a směry; vysvětlete možnosti uplatnění alternativních a inovativních prvků v dnešním vzdělávání.
+- **[VOT]** **PES 13:** Vysvětlete pojem kurikulum; popište didaktickou transformaci obsahu, její fáze a jednotlivé aktéry; zaměřte se na způsob stanovení kurikula v odborném vzdělávání.
 
 ---
 
@@ -1531,9 +1531,9 @@ mindmap
 ---
 
 ## Znění státnicových otázek
-- **PES 14:** Charakterizujte transmisivní koncepci vzdělávání, její výhody a nevýhody; uveďte příklady vhodných výukových strategií ve frontální výuce (slovní monologické metody, názorně demonstrační metody, učení se z textu).
-- **PES 15:** Charakterizujte teorie vzdělávání zaměřené na psychologické aspekty procesu učení. Vysvětlete pojem konstruktivismus, popište strategie podporující konstruktivismus ve výuce.
-- **PES 16:** Charakterizujte pojem sebeřízené učení; vysvětlete význam zodpovědnosti žáka za vlastní učení; popište cyklus sebeřízeného učení; uveďte možné strategie pro podporu sebeřízení žáka ve výuce.
+- **[VOT]** **PES 14:** Charakterizujte transmisivní koncepci vzdělávání, její výhody a nevýhody; uveďte příklady vhodných výukových strategií ve frontální výuce (slovní monologické metody, názorně demonstrační metody, učení se z textu).
+- **[VOT]** **PES 15:** Charakterizujte teorie vzdělávání zaměřené na psychologické aspekty procesu učení. Vysvětlete pojem konstruktivismus, popište strategie podporující konstruktivismus ve výuce.
+- **[VOT]** **PES 16:** Charakterizujte pojem sebeřízené učení; vysvětlete význam zodpovědnosti žáka za vlastní učení; popište cyklus sebeřízeného učení; uveďte možné strategie pro podporu sebeřízení žáka ve výuce.
 
 ---
 
@@ -1753,8 +1753,8 @@ graph TB
 ---
 
 ## Znění státnicových otázek
-- **PES 17:** Charakterizujte behaviorální teorie vzdělávání a zaměřte se na roli zpětné vazby v procesu učení; popište funkce školního hodnocení; vysvětlete pojem formativní hodnocení.
-- **PES 18:** Vysvětlete pojem cíl; popište funkce cílů z hlediska plánování výuky a řízení učení žáka; charakterizujte Bloomovu taxonomii cílů a na příkladech ilustrujte její použití.
+- **[VOT]** **PES 17:** Charakterizujte behaviorální teorie vzdělávání a zaměřte se na roli zpětné vazby v procesu učení; popište funkce školního hodnocení; vysvětlete pojem formativní hodnocení.
+- **[VOT]** **PES 18:** Vysvětlete pojem cíl; popište funkce cílů z hlediska plánování výuky a řízení učení žáka; charakterizujte Bloomovu taxonomii cílů a na příkladech ilustrujte její použití.
 
 ---
 
@@ -1936,9 +1936,9 @@ gantt
 ---
 
 ## Znění státnicových otázek
-- **PES 19:** Popište historické počátky teorií vzdělávání zaměřených na osobnost žáka (například J. J. Rousseau, snahy reformního pedagogického hnutí, M. Montessori, A. S. Neill a antiautoritativní výchova, P. Grey a svobodné školy); uveďte možné výhody a nevýhody pedocentrického pojetí výuky.
-- **PES 20:** Charakterizujte soudobé teorie vzdělávání zaměřené na osobnost žáka (C. Rogers, A. Maslow, J. Holt aj.); popište principy a strategie nedirektivního přístupu ve výuce a roli učitele jako poradce a partnera v učení; charakterizujte zdroje autority učitele a možnosti budování vztahu se žáky.
-- **PES 21:** Popište pedagogické teorie vzdělávání zaměřené na sociální prostředí, zaměřte se na význam školního sociálního prostředí pro učení a na využití vztahu školy a společnosti. Vysvětlete pojmy sociálně angažovaná a kritická pedagogika, popište její cíle a možnosti začlenění do výuky.
+- **[VOT]** **PES 19:** Popište historické počátky teorií vzdělávání zaměřených na osobnost žáka (například J. J. Rousseau, snahy reformního pedagogického hnutí, M. Montessori, A. S. Neill a antiautoritativní výchova, P. Grey a svobodné školy); uveďte možné výhody a nevýhody pedocentrického pojetí výuky.
+- **[VOT]** **PES 20:** Charakterizujte soudobé teorie vzdělávání zaměřené na osobnost žáka (C. Rogers, A. Maslow, J. Holt aj.); popište principy a strategie nedirektivního přístupu ve výuce a roli učitele jako poradce a partnera v učení; charakterizujte zdroje autority učitele a možnosti budování vztahu se žáky.
+- **[VOT]** **PES 21:** Popište pedagogické teorie vzdělávání zaměřené na sociální prostředí, zaměřte se na význam školního sociálního prostředí pro učení a na využití vztahu školy a společnosti. Vysvětlete pojmy sociálně angažovaná a kritická pedagogika, popište její cíle a možnosti začlenění do výuky.
 
 ---
 
@@ -2121,10 +2121,10 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **PES 22:** Charakterizujte specifika skupinové výuky a kooperativního učení; vysvětlete pojem kooperace v pedagogickém kontextu; popište význam kooperace a skupinové práce pro učení a přípravu žáka na život a profesi; uveďte možné úskalí zavedení skupinové práce do výuky; vysvětlete principy sestavování skupin.
-- **PES 23:** Popište pedagogické teorie vzdělávání zaměřené na činnost a zkušenost. Charakterizujte pojem zkušenost v procesu učení (např. D. Kolb, J. Dewey); popište strategie výuky zaměřené na řešení problémů, objevování, činnost a zkušenost.
-- **PES 24:** Vysvětlete principy zkušenostního učení a zážitkové pedagogiky na základě Kolbova cyklu; popište jednotlivé fáze a význam sebereflexe, uveďte možnosti aplikace v praktickém i teoretickém vyučování.
-- **PES 25:** Vysvětlete principy projektové výuky, popište fáze a druhy projektů; uveďte možnosti, rizika a přínosy jejího začlenění do výuky.
+- **[VOT]** **PES 22:** Charakterizujte specifika skupinové výuky a kooperativního učení; vysvětlete pojem kooperace v pedagogickém kontextu; popište význam kooperace a skupinové práce pro učení a přípravu žáka na život a profesi; uveďte možné úskalí zavedení skupinové práce do výuky; vysvětlete principy sestavování skupin.
+- **[VOT]** **PES 23:** Popište pedagogické teorie vzdělávání zaměřené na činnost a zkušenost. Charakterizujte pojem zkušenost v procesu učení (např. D. Kolb, J. Dewey); popište strategie výuky zaměřené na řešení problémů, objevování, činnost a zkušenost.
+- **[VOT]** **PES 24:** Vysvětlete principy zkušenostního učení a zážitkové pedagogiky na základě Kolbova cyklu; popište jednotlivé fáze a význam sebereflexe, uveďte možnosti aplikace v praktickém i teoretickém vyučování.
+- **[VOT]** **PES 25:** Vysvětlete principy projektové výuky, popište fáze a druhy projektů; uveďte možnosti, rizika a přínosy jejího začlenění do výuky.
 
 ---
 
@@ -2274,11 +2274,11 @@ graph TD
 ---
 
 ## Znění státnicových otázek
-- **PES 26:** Charakterizujte výchovu zaměřenou na formování charakteru a metody výchovy k hodnotám.
-- **PES 27:** Vysvětlete pojem školní a třídní sociální klima; popište znaky bezpečného školního prostředí a vhodné postupy, jak je možné jej budovat.
-- **PES 28:** Charakterizujte význam a využití diagnostiky v práci učitele (cíle a oblasti); popište diagnostický proces (fáze, metody), zásady a rizika diagnostikování.
-- **PES 29:** Charakterizujte žáky se speciálními vzdělávacími potřebami (SVP) a uveďte příklady podpůrných opatření (dle aktuální legislativy pro SŠ).
-- **PES 30 (AKTM):** Definujte aktivizační metody a jejich význam. Popište třífázový model E-U-R. Charakterizujte 3 metody a jejich aplikaci v praxi. *(Pozn.: Lze volit z okruhů AKTM, SOCPED, PRERICH, PEDVOL. Pro potřeby tohoto bloku a logickou návaznost rozebíráme AKTM).*
+- **[VOT]** **PES 26:** Charakterizujte výchovu zaměřenou na formování charakteru a metody výchovy k hodnotám.
+- **[DOB, VOT]** **PES 27:** Vysvětlete pojem školní a třídní sociální klima; popište znaky bezpečného školního prostředí a vhodné postupy, jak je možné jej budovat.
+- **[DYT, VOT]** **PES 28:** Charakterizujte význam a využití diagnostiky v práci učitele (cíle a oblasti); popište diagnostický proces (fáze, metody), zásady a rizika diagnostikování.
+- **[VOT]** **PES 29:** Charakterizujte žáky se speciálními vzdělávacími potřebami (SVP) a uveďte příklady podpůrných opatření (dle aktuální legislativy pro SŠ).
+- **[VOT]** **PES 30 (AKTM):** Definujte aktivizační metody a jejich význam. Popište třífázový model E-U-R. Charakterizujte 3 metody a jejich aplikaci v praxi. *(Pozn.: Lze volit z okruhů AKTM, SOCPED, PRERICH, PEDVOL. Pro potřeby tohoto bloku a logickou návaznost rozebíráme AKTM).*
 
 ---
 

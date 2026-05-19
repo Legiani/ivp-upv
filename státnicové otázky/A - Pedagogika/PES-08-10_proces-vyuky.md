@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 8:** Popište model procesu výuky, stručně vysvětlete pojmy učitel, žák, obsah výuky, prostředí a vztahy mezi nimi; charakterizujte obvyklé fáze přípravy a realizace vyučování; objasněte význam vnějších a vnitřních podmínek na efektivitu vyučování.
-- **PES 9:** Vysvětlete pojem didaktická analýza obsahu, popište její fáze; charakterizujte kritéria kvalitní výuky a efektivního učení, popište didaktické zásady.
-- **PES 10:** Vysvětlete pojem třídní management; popište role a úkoly učitele během vyučování; uveďte možné scénáře vyučovací hodiny, vysvětlete smysl a návaznost jednotlivých fází.
+- **[VOT]** **PES 8:** Popište model procesu výuky, stručně vysvětlete pojmy učitel, žák, obsah výuky, prostředí a vztahy mezi nimi; charakterizujte obvyklé fáze přípravy a realizace vyučování; objasněte význam vnějších a vnitřních podmínek na efektivitu vyučování.
+- **[VOT]** **PES 9:** Vysvětlete pojem didaktická analýza obsahu, popište její fáze; charakterizujte kritéria kvalitní výuky a efektivního učení, popište didaktické zásady.
+- **[VOT]** **PES 10:** Vysvětlete pojem třídní management; popište role a úkoly učitele během vyučování; uveďte možné scénáře vyučovací hodiny, vysvětlete smysl a návaznost jednotlivých fází.
 
 ---
 

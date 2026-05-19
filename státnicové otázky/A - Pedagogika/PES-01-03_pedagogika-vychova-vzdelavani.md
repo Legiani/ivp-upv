@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 1:** Charakteristika pedagogiky – popsat pedagogické disciplíny, uvést významné informační zdroje pro studium pedagogiky a učitelskou praxi, vysvětlit vztah mezi studiem pedagogických věd a výkonem profese učitele.
-- **PES 2:** Vysvětlete pojem výchova v širším a užším smyslu; zaměřte se na roli výchovy při formování osobnosti člověka, na její vztah k socializaci a ke kultuře; charakterizujte výchovu jako cestu k sebevýchově.
-- **PES 3:** Vysvětlete pojmy vzdělání a vzdělávání; popište roli školy ve vzdělávání; vysvětlete pojmy vzdělávací systém a školská soustava; charakterizujte českou školskou soustavu; objasněte pojem celoživotní učení. Popište mezinárodní klasifikaci stupňů ve vzdělávání ISCED.
+- **[VOT]** **PES 1:** Charakteristika pedagogiky – popsat pedagogické disciplíny, uvést významné informační zdroje pro studium pedagogiky a učitelskou praxi, vysvětlit vztah mezi studiem pedagogických věd a výkonem profese učitele.
+- **[VOT]** **PES 2:** Vysvětlete pojem výchova v širším a užším smyslu; zaměřte se na roli výchovy při formování osobnosti člověka, na její vztah k socializaci a ke kultuře; charakterizujte výchovu jako cestu k sebevýchově.
+- **[VOT]** **PES 3:** Vysvětlete pojmy vzdělání a vzdělávání; popište roli školy ve vzdělávání; vysvětlete pojmy vzdělávací systém a školská soustava; charakterizujte českou školskou soustavu; objasněte pojem celoživotní učení. Popište mezinárodní klasifikaci stupňů ve vzdělávání ISCED.
 
 ---
 

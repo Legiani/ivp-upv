@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 1:** Charakterizujte předmět psychologie, její vývoj, disciplíny a metody. Vysvětlete význam psychologie v pedagogické praxi.
-- **PSY 2:** Zařaďte procesy vnímání a představování do struktury psychických jevů, popište je a objasněte jejich funkci ve výchovně-vzdělávacím procesu.
-- **PSY 3:** Zařaďte proces myšlení do struktury psychických jevů, popište jeho formy, druhy, poruchy a vysvětlete jeho význam v procesu učení.
+- **[DOB]** **PSY 1:** Charakterizujte předmět psychologie, její vývoj, disciplíny a metody. Vysvětlete význam psychologie v pedagogické praxi.
+- **[DOB]** **PSY 2:** Zařaďte procesy vnímání a představování do struktury psychických jevů, popište je a objasněte jejich funkci ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 3:** Zařaďte proces myšlení do struktury psychických jevů, popište jeho formy, druhy, poruchy a vysvětlete jeho význam v procesu učení.
 
 ---
 

@@ -6,8 +6,8 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 6:** Popište možnosti začlenění tématu trvale udržitelného rozvoje do obsahu výuky; charakterizujte cíle, formy a metody environmentální výchovy; popište možné strategie rozvoje vnímavosti žáků k životnímu prostředí v rámci školy.
-- **PES 7:** Popište funkce školy, charakterizujte podpůrné sítě ve školství (úloha výchovných a kariérových poradců). Zaměřte se na odborné školství, možnosti odborného vzdělávání v kontextu se vzděláváním v EU.
+- **[DYT, VOT]** **PES 6:** Popište možnosti začlenění tématu trvale udržitelného rozvoje do obsahu výuky; charakterizujte cíle, formy a metody environmentální výchovy; popište možné strategie rozvoje vnímavosti žáků k životnímu prostředí v rámci školy.
+- **[VOT]** **PES 7:** Popište funkce školy, charakterizujte podpůrné sítě ve školství (úloha výchovných a kariérových poradců). Zaměřte se na odborné školství, možnosti odborného vzdělávání v kontextu se vzděláváním v EU.
 
 ---
 

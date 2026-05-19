@@ -6,8 +6,8 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 17:** Charakterizujte behaviorální teorie vzdělávání a zaměřte se na roli zpětné vazby v procesu učení; popište funkce školního hodnocení; vysvětlete pojem formativní hodnocení.
-- **PES 18:** Vysvětlete pojem cíl; popište funkce cílů z hlediska plánování výuky a řízení učení žáka; charakterizujte Bloomovu taxonomii cílů a na příkladech ilustrujte její použití.
+- **[VOT]** **PES 17:** Charakterizujte behaviorální teorie vzdělávání a zaměřte se na roli zpětné vazby v procesu učení; popište funkce školního hodnocení; vysvětlete pojem formativní hodnocení.
+- **[VOT]** **PES 18:** Vysvětlete pojem cíl; popište funkce cílů z hlediska plánování výuky a řízení učení žáka; charakterizujte Bloomovu taxonomii cílů a na příkladech ilustrujte její použití.
 
 ---
 

@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **ODIP 26:** Metody prověřování praktických dovedností. Způsoby prověřování, kritéria klasifikace, vymezení klasifikačních stupňů u konkrétního tématu.
-- **ODIP 27:** Metody zkoušení a hodnocení v praktickém vyučování. Formy zkoušení. Ukazatele hodnocení praktického vyučování a jejich důležitost.
-- **ODIP 28:** Materiální příprava na praktickou vyučovací jednotku. Význam, materiální a organizační zabezpečení na vaší SŠ.
-- **ODIP 29:** Příprava učitele na praktickou vyučovací jednotku. Pedagogické dokumenty, vyjmenujte a popište náležitosti.
-- **ODIP 30:** Hospitační činnost v praktickém vyučování. Popište činnost na pracovišti OV a zaměřte se na možné rizikové situace.
+- **[DYT]** **ODIP 26:** Metody prověřování praktických dovedností. Způsoby prověřování, kritéria klasifikace, vymezení klasifikačních stupňů u konkrétního tématu.
+- **[DYT]** **ODIP 27:** Metody zkoušení a hodnocení v praktickém vyučování. Formy zkoušení. Ukazatele hodnocení praktického vyučování a jejich důležitost.
+- **[DYT]** **ODIP 28:** Materiální příprava na praktickou vyučovací jednotku. Význam, materiální a organizační zabezpečení na vaší SŠ.
+- **[DYT]** **ODIP 29:** Příprava učitele na praktickou vyučovací jednotku. Pedagogické dokumenty, vyjmenujte a popište náležitosti.
+- **[DYT]** **ODIP 30:** Hospitační činnost v praktickém vyučování. Popište činnost na pracovišti OV a zaměřte se na možné rizikové situace.
 
 ---
 

@@ -207,11 +207,11 @@ rizikové situace na pracovištích odborného výcviku.
 ---
 
 ## Znění státnicových otázek
-- **ODIP 1:** Didaktika odborných předmětů. Pojednejte o předmětu, úkolech, metodách zkoumání, vztahu k ostatním vědním disciplínám a její struktuře. Vysvětlete, jaké části obsahuje didaktický trojúhelník.
-- **ODIP 2:** Základní kurikulární dokumenty. Vyjmenujte základní učební dokumenty a vysvětlete jejich význam a závaznost. Posuďte obory vzdělání související s vaším zaměřením, jejich pojetí srovnejte s potřebami praxe.
-- **ODIP 3:** Učební osnovy a zásady jejich tvorby. Uveďte zásady tvorby učebních osnov s respektováním požadavků RVP (kompetence žáků). Vysvětlete na praktických příkladech u zvoleného předmětu.
-- **ODIP 4:** Osobnost učitele odborných předmětů. Definujte požadavky na učitele SOŠ a SOU. Konkretizujte kompetence učitele na příkladech.
-- **ODIP 5:** Aktuální model maturitní zkoušky. Vysvětlete konstrukci stávajícího modelu a zvláštnosti v odborném předmětu. Popište možnosti ukončení vzdělávání na SOU.
+- **[DYT]** **ODIP 1:** Didaktika odborných předmětů. Pojednejte o předmětu, úkolech, metodách zkoumání, vztahu k ostatním vědním disciplínám a její struktuře. Vysvětlete, jaké části obsahuje didaktický trojúhelník.
+- **[DYT]** **ODIP 2:** Základní kurikulární dokumenty. Vyjmenujte základní učební dokumenty a vysvětlete jejich význam a závaznost. Posuďte obory vzdělání související s vaším zaměřením, jejich pojetí srovnejte s potřebami praxe.
+- **[DYT]** **ODIP 3:** Učební osnovy a zásady jejich tvorby. Uveďte zásady tvorby učebních osnov s respektováním požadavků RVP (kompetence žáků). Vysvětlete na praktických příkladech u zvoleného předmětu.
+- **[DYT]** **ODIP 4:** Osobnost učitele odborných předmětů. Definujte požadavky na učitele SOŠ a SOU. Konkretizujte kompetence učitele na příkladech.
+- **[DYT]** **ODIP 5:** Aktuální model maturitní zkoušky. Vysvětlete konstrukci stávajícího modelu a zvláštnosti v odborném předmětu. Popište možnosti ukončení vzdělávání na SOU.
 
 ---
 
@@ -375,11 +375,11 @@ graph TD
 ---
 
 ## Znění státnicových otázek
-- **ODIP 6:** Koncepce výchovy a vzdělávání v odborných předmětech. Charakterizujte výchovně-vzdělávací cíle, rozeberte jejich koncepci, doložte příklady. Posuďte obsah vzdělávání a vymezte rozsah učiva s akcentem na základní učivo.
-- **ODIP 7:** Formy výuky odborných předmětů. Popište formy výuky, analyzujte jejich účinnost. Analyzujte strukturu různých typů teoretických vyučovacích jednotek.
-- **ODIP 8:** Exkurze – příprava, organizace, vyhodnocení. Navrhněte témata. Uveďte zásady přípravy, organizace a vyhodnocení.
-- **ODIP 9:** Vyučovací metody – expoziční. Posuďte účinnost monologických a dialogických metod. Navrhněte aktivizační metody, ukažte aplikaci. Metoda samostatné práce.
-- **ODIP 10:** Vyučovací metody – fixační a diagnostické. Postupy pro fixaci poznatků. Diagnostika vědomostí, zásady klasifikace. Diferenciace testů a jejich hlavní vlastnosti.
+- **[DYT]** **ODIP 6:** Koncepce výchovy a vzdělávání v odborných předmětech. Charakterizujte výchovně-vzdělávací cíle, rozeberte jejich koncepci, doložte příklady. Posuďte obsah vzdělávání a vymezte rozsah učiva s akcentem na základní učivo.
+- **[DYT]** **ODIP 7:** Formy výuky odborných předmětů. Popište formy výuky, analyzujte jejich účinnost. Analyzujte strukturu různých typů teoretických vyučovacích jednotek.
+- **[DYT]** **ODIP 8:** Exkurze – příprava, organizace, vyhodnocení. Navrhněte témata. Uveďte zásady přípravy, organizace a vyhodnocení.
+- **[DYT]** **ODIP 9:** Vyučovací metody – expoziční. Posuďte účinnost monologických a dialogických metod. Navrhněte aktivizační metody, ukažte aplikaci. Metoda samostatné práce.
+- **[DYT]** **ODIP 10:** Vyučovací metody – fixační a diagnostické. Postupy pro fixaci poznatků. Diagnostika vědomostí, zásady klasifikace. Diferenciace testů a jejich hlavní vlastnosti.
 
 ---
 
@@ -542,11 +542,11 @@ gantt
 ---
 
 ## Znění státnicových otázek
-- **ODIP 11:** Materiální didaktické prostředky. Vysvětlete funkci a vliv na zvyšování účinnosti výuky. Zaměřte se na význam textových pomůcek (učebnic) po metodické stránce a jejich využití.
-- **ODIP 12:** Didaktická analýza a její kroky. Popište jednotlivé kroky, konkretizujte u vybraného celku. Stanovte cíle, formu, metody a prostředky. Uveďte faktory ovlivňující učitele.
-- **ODIP 13:** Mezipředmětové vztahy a didaktické zásady. Objasněte podstatu a význam mezipředmětových vztahů (MPV) ve výuce. Aplikujte didaktické zásady.
-- **ODIP 14:** Příprava na vyučovací jednotku. Analyzujte obsahové a formální náležitosti přípravy. Přizpůsobte volbu prostředků. Zdůrazněte možnosti výchovného působení.
-- **ODIP 15:** Hospitační činnost v odborných předmětech. Popište hospitaci jako evaluační nástroj, její cíle, způsoby realizace, subjekty, kritéria hodnocení a náležitosti hospitačního záznamu.
+- **[DYT]** **ODIP 11:** Materiální didaktické prostředky. Vysvětlete funkci a vliv na zvyšování účinnosti výuky. Zaměřte se na význam textových pomůcek (učebnic) po metodické stránce a jejich využití.
+- **[DYT]** **ODIP 12:** Didaktická analýza a její kroky. Popište jednotlivé kroky, konkretizujte u vybraného celku. Stanovte cíle, formu, metody a prostředky. Uveďte faktory ovlivňující učitele.
+- **[DYT]** **ODIP 13:** Mezipředmětové vztahy a didaktické zásady. Objasněte podstatu a význam mezipředmětových vztahů (MPV) ve výuce. Aplikujte didaktické zásady.
+- **[DYT]** **ODIP 14:** Příprava na vyučovací jednotku. Analyzujte obsahové a formální náležitosti přípravy. Přizpůsobte volbu prostředků. Zdůrazněte možnosti výchovného působení.
+- **[DYT]** **ODIP 15:** Hospitační činnost v odborných předmětech. Popište hospitaci jako evaluační nástroj, její cíle, způsoby realizace, subjekty, kritéria hodnocení a náležitosti hospitačního záznamu.
 
 ---
 
@@ -704,11 +704,11 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **ODIP 16:** Osobnost učitele praktického vyučování. Vliv na žáky, atributy. Činnost plánovací, řídicí, kontrolní. Mimoškolní činnost a zvyšování kvalifikace.
-- **ODIP 17:** Formy spolupráce mezi učiteli praktického vyučování a ostatními. Mezipředmětové a vnitropředmětové vztahy v praxi. Vztah praxe a teorie. Předmětová (metodická) komise.
-- **ODIP 18:** Dovednostní cíle praktického vyučování. Stanovení cílů pro konkrétní jednotku. Výchovné cíle a jejich význam.
-- **ODIP 19:** Postup při vytváření praktických dovedností a návyků. Vysvětlete pojmy dovednost a návyk, jejich rozdělení a postup osvojování.
-- **ODIP 20:** Základní pojmy didaktiky praktického vyučování: pracovní postup, pracovní operace, pracovní úkon. Konkretizace u vybraného tématu.
+- **[DYT]** **ODIP 16:** Osobnost učitele praktického vyučování. Vliv na žáky, atributy. Činnost plánovací, řídicí, kontrolní. Mimoškolní činnost a zvyšování kvalifikace.
+- **[DYT]** **ODIP 17:** Formy spolupráce mezi učiteli praktického vyučování a ostatními. Mezipředmětové a vnitropředmětové vztahy v praxi. Vztah praxe a teorie. Předmětová (metodická) komise.
+- **[DYT]** **ODIP 18:** Dovednostní cíle praktického vyučování. Stanovení cílů pro konkrétní jednotku. Výchovné cíle a jejich význam.
+- **[DYT]** **ODIP 19:** Postup při vytváření praktických dovedností a návyků. Vysvětlete pojmy dovednost a návyk, jejich rozdělení a postup osvojování.
+- **[DYT]** **ODIP 20:** Základní pojmy didaktiky praktického vyučování: pracovní postup, pracovní operace, pracovní úkon. Konkretizace u vybraného tématu.
 
 ---
 
@@ -844,11 +844,11 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **ODIP 21:** Organizační formy praxe. Uveďte formy praxe, vysvětlete typ dovedností v ročnících, rozsah na vaší škole.
-- **ODIP 22:** Vyučovací metody v praktickém vyučování. Zhodnoťte metody a charakterizujte prvky metodického postupu při osvojování dovedností a návyků.
-- **ODIP 23:** Varianty praktických vyučovacích jednotek. Možné varianty a pro které praktické jednotky jsou vhodné.
-- **ODIP 24:** Typy učebních dnů. Jakých typů lze využít v praktickém vyučování a kdy byste je zařadili?
-- **ODIP 25:** Základní články struktury všeobecného učebního dne (kombinovaného). Vyjmenujte, vysvětlete. Požadavky na učební den.
+- **[DYT]** **ODIP 21:** Organizační formy praxe. Uveďte formy praxe, vysvětlete typ dovedností v ročnících, rozsah na vaší škole.
+- **[DYT]** **ODIP 22:** Vyučovací metody v praktickém vyučování. Zhodnoťte metody a charakterizujte prvky metodického postupu při osvojování dovedností a návyků.
+- **[DYT]** **ODIP 23:** Varianty praktických vyučovacích jednotek. Možné varianty a pro které praktické jednotky jsou vhodné.
+- **[DYT]** **ODIP 24:** Typy učebních dnů. Jakých typů lze využít v praktickém vyučování a kdy byste je zařadili?
+- **[DYT]** **ODIP 25:** Základní články struktury všeobecného učebního dne (kombinovaného). Vyjmenujte, vysvětlete. Požadavky na učební den.
 
 ---
 
@@ -995,11 +995,11 @@ gantt
 ---
 
 ## Znění státnicových otázek
-- **ODIP 26:** Metody prověřování praktických dovedností. Způsoby prověřování, kritéria klasifikace, vymezení klasifikačních stupňů u konkrétního tématu.
-- **ODIP 27:** Metody zkoušení a hodnocení v praktickém vyučování. Formy zkoušení. Ukazatele hodnocení praktického vyučování a jejich důležitost.
-- **ODIP 28:** Materiální příprava na praktickou vyučovací jednotku. Význam, materiální a organizační zabezpečení na vaší SŠ.
-- **ODIP 29:** Příprava učitele na praktickou vyučovací jednotku. Pedagogické dokumenty, vyjmenujte a popište náležitosti.
-- **ODIP 30:** Hospitační činnost v praktickém vyučování. Popište činnost na pracovišti OV a zaměřte se na možné rizikové situace.
+- **[DYT]** **ODIP 26:** Metody prověřování praktických dovedností. Způsoby prověřování, kritéria klasifikace, vymezení klasifikačních stupňů u konkrétního tématu.
+- **[DYT]** **ODIP 27:** Metody zkoušení a hodnocení v praktickém vyučování. Formy zkoušení. Ukazatele hodnocení praktického vyučování a jejich důležitost.
+- **[DYT]** **ODIP 28:** Materiální příprava na praktickou vyučovací jednotku. Význam, materiální a organizační zabezpečení na vaší SŠ.
+- **[DYT]** **ODIP 29:** Příprava učitele na praktickou vyučovací jednotku. Pedagogické dokumenty, vyjmenujte a popište náležitosti.
+- **[DYT]** **ODIP 30:** Hospitační činnost v praktickém vyučování. Popište činnost na pracovišti OV a zaměřte se na možné rizikové situace.
 
 ---
 

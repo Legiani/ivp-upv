@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **ODIP 6:** Koncepce výchovy a vzdělávání v odborných předmětech. Charakterizujte výchovně-vzdělávací cíle, rozeberte jejich koncepci, doložte příklady. Posuďte obsah vzdělávání a vymezte rozsah učiva s akcentem na základní učivo.
-- **ODIP 7:** Formy výuky odborných předmětů. Popište formy výuky, analyzujte jejich účinnost. Analyzujte strukturu různých typů teoretických vyučovacích jednotek.
-- **ODIP 8:** Exkurze – příprava, organizace, vyhodnocení. Navrhněte témata. Uveďte zásady přípravy, organizace a vyhodnocení.
-- **ODIP 9:** Vyučovací metody – expoziční. Posuďte účinnost monologických a dialogických metod. Navrhněte aktivizační metody, ukažte aplikaci. Metoda samostatné práce.
-- **ODIP 10:** Vyučovací metody – fixační a diagnostické. Postupy pro fixaci poznatků. Diagnostika vědomostí, zásady klasifikace. Diferenciace testů a jejich hlavní vlastnosti.
+- **[DYT]** **ODIP 6:** Koncepce výchovy a vzdělávání v odborných předmětech. Charakterizujte výchovně-vzdělávací cíle, rozeberte jejich koncepci, doložte příklady. Posuďte obsah vzdělávání a vymezte rozsah učiva s akcentem na základní učivo.
+- **[DYT]** **ODIP 7:** Formy výuky odborných předmětů. Popište formy výuky, analyzujte jejich účinnost. Analyzujte strukturu různých typů teoretických vyučovacích jednotek.
+- **[DYT]** **ODIP 8:** Exkurze – příprava, organizace, vyhodnocení. Navrhněte témata. Uveďte zásady přípravy, organizace a vyhodnocení.
+- **[DYT]** **ODIP 9:** Vyučovací metody – expoziční. Posuďte účinnost monologických a dialogických metod. Navrhněte aktivizační metody, ukažte aplikaci. Metoda samostatné práce.
+- **[DYT]** **ODIP 10:** Vyučovací metody – fixační a diagnostické. Postupy pro fixaci poznatků. Diagnostika vědomostí, zásady klasifikace. Diferenciace testů a jejich hlavní vlastnosti.
 
 ---
 

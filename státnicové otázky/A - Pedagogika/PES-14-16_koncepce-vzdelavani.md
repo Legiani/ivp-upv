@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 14:** Charakterizujte transmisivní koncepci vzdělávání, její výhody a nevýhody; uveďte příklady vhodných výukových strategií ve frontální výuce (slovní monologické metody, názorně demonstrační metody, učení se z textu).
-- **PES 15:** Charakterizujte teorie vzdělávání zaměřené na psychologické aspekty procesu učení. Vysvětlete pojem konstruktivismus, popište strategie podporující konstruktivismus ve výuce.
-- **PES 16:** Charakterizujte pojem sebeřízené učení; vysvětlete význam zodpovědnosti žáka za vlastní učení; popište cyklus sebeřízeného učení; uveďte možné strategie pro podporu sebeřízení žáka ve výuce.
+- **[VOT]** **PES 14:** Charakterizujte transmisivní koncepci vzdělávání, její výhody a nevýhody; uveďte příklady vhodných výukových strategií ve frontální výuce (slovní monologické metody, názorně demonstrační metody, učení se z textu).
+- **[VOT]** **PES 15:** Charakterizujte teorie vzdělávání zaměřené na psychologické aspekty procesu učení. Vysvětlete pojem konstruktivismus, popište strategie podporující konstruktivismus ve výuce.
+- **[VOT]** **PES 16:** Charakterizujte pojem sebeřízené učení; vysvětlete význam zodpovědnosti žáka za vlastní učení; popište cyklus sebeřízeného učení; uveďte možné strategie pro podporu sebeřízení žáka ve výuce.
 
 ---
 

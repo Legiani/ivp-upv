@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **ODIP 21:** Organizační formy praxe. Uveďte formy praxe, vysvětlete typ dovedností v ročnících, rozsah na vaší škole.
-- **ODIP 22:** Vyučovací metody v praktickém vyučování. Zhodnoťte metody a charakterizujte prvky metodického postupu při osvojování dovedností a návyků.
-- **ODIP 23:** Varianty praktických vyučovacích jednotek. Možné varianty a pro které praktické jednotky jsou vhodné.
-- **ODIP 24:** Typy učebních dnů. Jakých typů lze využít v praktickém vyučování a kdy byste je zařadili?
-- **ODIP 25:** Základní články struktury všeobecného učebního dne (kombinovaného). Vyjmenujte, vysvětlete. Požadavky na učební den.
+- **[DYT]** **ODIP 21:** Organizační formy praxe. Uveďte formy praxe, vysvětlete typ dovedností v ročnících, rozsah na vaší škole.
+- **[DYT]** **ODIP 22:** Vyučovací metody v praktickém vyučování. Zhodnoťte metody a charakterizujte prvky metodického postupu při osvojování dovedností a návyků.
+- **[DYT]** **ODIP 23:** Varianty praktických vyučovacích jednotek. Možné varianty a pro které praktické jednotky jsou vhodné.
+- **[DYT]** **ODIP 24:** Typy učebních dnů. Jakých typů lze využít v praktickém vyučování a kdy byste je zařadili?
+- **[DYT]** **ODIP 25:** Základní články struktury všeobecného učebního dne (kombinovaného). Vyjmenujte, vysvětlete. Požadavky na učební den.
 
 ---
 

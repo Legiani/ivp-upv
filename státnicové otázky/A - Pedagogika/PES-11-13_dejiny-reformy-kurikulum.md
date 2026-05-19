@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 11:** Popište fáze a důležitá témata ve vývoji pedagogického myšlení (antika, středověk, počátek novověku a reformace, osvícenství); vysvětlete vznik tradičního pojetí vzdělávání v 19. století (Herbart a herbartismus); uveďte souvislosti s dnešním vzděláváním.
-- **PES 12:** Charakterizujte příčiny vzniku reformního pedagogického hnutí; uveďte znaky alternativních škol, důležité představitele a směry; vysvětlete možnosti uplatnění alternativních a inovativních prvků v dnešním vzdělávání.
-- **PES 13:** Vysvětlete pojem kurikulum; popište didaktickou transformaci obsahu, její fáze a jednotlivé aktéry; zaměřte se na způsob stanovení kurikula v odborném vzdělávání.
+- **[VOT]** **PES 11:** Popište fáze a důležitá témata ve vývoji pedagogického myšlení (antika, středověk, počátek novověku a reformace, osvícenství); vysvětlete vznik tradičního pojetí vzdělávání v 19. století (Herbart a herbartismus); uveďte souvislosti s dnešním vzděláváním.
+- **[VOT]** **PES 12:** Charakterizujte příčiny vzniku reformního pedagogického hnutí; uveďte znaky alternativních škol, důležité představitele a směry; vysvětlete možnosti uplatnění alternativních a inovativních prvků v dnešním vzdělávání.
+- **[VOT]** **PES 13:** Vysvětlete pojem kurikulum; popište didaktickou transformaci obsahu, její fáze a jednotlivé aktéry; zaměřte se na způsob stanovení kurikula v odborném vzdělávání.
 
 ---
 

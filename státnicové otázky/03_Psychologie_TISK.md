@@ -148,9 +148,9 @@ postkonvenční morálka podle Kohlberga, stádia přijetí smrtelnosti dle Küb
 ---
 
 ## Znění státnicových otázek
-- **PSY 1:** Charakterizujte předmět psychologie, její vývoj, disciplíny a metody. Vysvětlete význam psychologie v pedagogické praxi.
-- **PSY 2:** Zařaďte procesy vnímání a představování do struktury psychických jevů, popište je a objasněte jejich funkci ve výchovně-vzdělávacím procesu.
-- **PSY 3:** Zařaďte proces myšlení do struktury psychických jevů, popište jeho formy, druhy, poruchy a vysvětlete jeho význam v procesu učení.
+- **[DOB]** **PSY 1:** Charakterizujte předmět psychologie, její vývoj, disciplíny a metody. Vysvětlete význam psychologie v pedagogické praxi.
+- **[DOB]** **PSY 2:** Zařaďte procesy vnímání a představování do struktury psychických jevů, popište je a objasněte jejich funkci ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 3:** Zařaďte proces myšlení do struktury psychických jevů, popište jeho formy, druhy, poruchy a vysvětlete jeho význam v procesu učení.
 
 ---
 
@@ -294,10 +294,10 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **PSY 4:** Popište význam a funkci paměti se zaměřením na důležitost jejích jednotlivých fází v procesu učení.
-- **PSY 5:** Vysvětlete pojem psychický stav, zařaďte jej do struktury psychických jevů, zaměřte se na objasnění stavu pozornosti, její druhy a možnosti navození a udržení pozornosti ve vyučování.
-- **PSY 6:** Vysvětlete význam citových procesů v životě člověka, uveďte klasifikaci citů a možnosti jejich rozvoje ve výchovně-vzdělávacím procesu, objasněte pojem emoční inteligence.
-- **PSY 7:** Zařaďte volní procesy do struktury psychických jevů, vysvětlete pojem vůle a její význam v životě člověka, popište možnosti rozvoje volních vlastností ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 4:** Popište význam a funkci paměti se zaměřením na důležitost jejích jednotlivých fází v procesu učení.
+- **[DOB]** **PSY 5:** Vysvětlete pojem psychický stav, zařaďte jej do struktury psychických jevů, zaměřte se na objasnění stavu pozornosti, její druhy a možnosti navození a udržení pozornosti ve vyučování.
+- **[DOB]** **PSY 6:** Vysvětlete význam citových procesů v životě člověka, uveďte klasifikaci citů a možnosti jejich rozvoje ve výchovně-vzdělávacím procesu, objasněte pojem emoční inteligence.
+- **[DOB]** **PSY 7:** Zařaďte volní procesy do struktury psychických jevů, vysvětlete pojem vůle a její význam v životě člověka, popište možnosti rozvoje volních vlastností ve výchovně-vzdělávacím procesu.
 
 ---
 
@@ -438,9 +438,9 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **PSY 8:** Popište faktory utvářející osobnost a jejich vztah. Charakterizujte proces interiorizace a objasněte jeho význam.
-- **PSY 9:** Pojednejte o složkách struktury osobnosti žáka SŠ a možnostech jejich ovlivňování ve výuce. Výhody a nevýhody typů temperamentu.
-- **PSY 10:** Objasněte pojem charakter, zařaďte ho do systému psychických jevů. Uveďte charakterovou typologii. Rozvoj morálních vlastností žáků SŠ.
+- **[DOB]** **PSY 8:** Popište faktory utvářející osobnost a jejich vztah. Charakterizujte proces interiorizace a objasněte jeho význam.
+- **[DOB]** **PSY 9:** Pojednejte o složkách struktury osobnosti žáka SŠ a možnostech jejich ovlivňování ve výuce. Výhody a nevýhody typů temperamentu.
+- **[DOB]** **PSY 10:** Objasněte pojem charakter, zařaďte ho do systému psychických jevů. Uveďte charakterovou typologii. Rozvoj morálních vlastností žáků SŠ.
 
 ---
 
@@ -573,8 +573,8 @@ graph TD
 ---
 
 ## Znění státnicových otázek
-- **PSY 11:** Vysvětlete psychologický základ motivace, vnitřní a vnější motivy, jejich vzájemné souvislosti a využití ve výchovně-vzdělávacím procesu.
-- **PSY 12:** Popište význam sociální psychologie v systému psychologických věd, vysvětlete pojmy interakce a vztahy, uveďte jejich vzájemné souvislosti.
+- **[DOB]** **PSY 11:** Vysvětlete psychologický základ motivace, vnitřní a vnější motivy, jejich vzájemné souvislosti a využití ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 12:** Popište význam sociální psychologie v systému psychologických věd, vysvětlete pojmy interakce a vztahy, uveďte jejich vzájemné souvislosti.
 
 ---
 
@@ -690,8 +690,8 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **PSY 13:** Vysvětlete pojem sociální skupina, její charakteristiky, třídění, charakterizujte školní třídu jako sociální skupinu, vysvětlete možnosti pedagoga při poznávání a formování třídní skupiny.
-- **PSY 14:** Uveďte hlavní zásady komunikace učitel-žák během výchovně-vzdělávacího procesu, popište význam jednotlivých složek komunikačního procesu, naznačte možné bariéry v komunikaci a možnosti jejich odstranění.
+- **[DOB]** **PSY 13:** Vysvětlete pojem sociální skupina, její charakteristiky, třídění, charakterizujte školní třídu jako sociální skupinu, vysvětlete možnosti pedagoga při poznávání a formování třídní skupiny.
+- **[DOB]** **PSY 14:** Uveďte hlavní zásady komunikace učitel-žák během výchovně-vzdělávacího procesu, popište význam jednotlivých složek komunikačního procesu, naznačte možné bariéry v komunikaci a možnosti jejich odstranění.
 
 ---
 
@@ -829,8 +829,8 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **PSY 15:** Charakterizujte druhy náročných situací, význam v životě člověka, popište metody zvládání. Objasněte stres a zaměřte se na možnosti minimalizace stresorů ve vyučování.
-- **PSY 16:** Vysvětlete pojmy sociální status, sociální pozice, sociální role, individuální systém rolí. Popište role učitele a žáka ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 15:** Charakterizujte druhy náročných situací, význam v životě člověka, popište metody zvládání. Objasněte stres a zaměřte se na možnosti minimalizace stresorů ve vyučování.
+- **[DOB]** **PSY 16:** Vysvětlete pojmy sociální status, sociální pozice, sociální role, individuální systém rolí. Popište role učitele a žáka ve výchovně-vzdělávacím procesu.
 
 ---
 
@@ -956,8 +956,8 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **PSY 17:** Popište rodinu jako primární sociální skupinu a její význam pro socializaci jedince, charakterizujte základní funkce rodiny.
-- **PSY 18:** Charakterizujte dysfunkční rodinu, uveďte některé typy dysfunkčních rodin a popište, jak se dysfunkce projeví na rozvoji dítěte, charakterizujte přístupy učitele k žákům z dysfunkčních rodin.
+- **[DOB]** **PSY 17:** Popište rodinu jako primární sociální skupinu a její význam pro socializaci jedince, charakterizujte základní funkce rodiny.
+- **[DOB]** **PSY 18:** Charakterizujte dysfunkční rodinu, uveďte některé typy dysfunkčních rodin a popište, jak se dysfunkce projeví na rozvoji dítěte, charakterizujte přístupy učitele k žákům z dysfunkčních rodin.
 
 ---
 
@@ -1065,10 +1065,10 @@ graph LR
 ---
 
 ## Znění státnicových otázek
-- **PSY 19:** Předmět pedagogické psychologie, pojmy: vývoj, výchova, učení, vyučování. Trendy: od osobnosti k týmu, od znalostí ke kompetencím.
-- **PSY 20:** Druhy učení se zaměřením na učení senzomotorické. Změny v jeho průběhu a co je jeho výsledkem.
-- **PSY 21:** Srovnejte učení se poznatkům s učením se řešení problému. Které psychické jevy se na nich podílejí, pojem učení ve spirále.
-- **PSY 22:** Proces výchovy, prostředky a metody. Obrácená socializace. Techniky modifikace chování.
+- **[DOB]** **PSY 19:** Předmět pedagogické psychologie, pojmy: vývoj, výchova, učení, vyučování. Trendy: od osobnosti k týmu, od znalostí ke kompetencím.
+- **[DOB]** **PSY 20:** Druhy učení se zaměřením na učení senzomotorické. Změny v jeho průběhu a co je jeho výsledkem.
+- **[DOB]** **PSY 21:** Srovnejte učení se poznatkům s učením se řešení problému. Které psychické jevy se na nich podílejí, pojem učení ve spirále.
+- **[DOB]** **PSY 22:** Proces výchovy, prostředky a metody. Obrácená socializace. Techniky modifikace chování.
 
 ---
 
@@ -1197,9 +1197,9 @@ graph TD
 ---
 
 ## Znění státnicových otázek
-- **PSY 23:** Učitel v roli poradce, základní kvality a přístup k žákovi, možné chyby, kterých by se měl vyvarovat.
-- **PSY 24:** Pojem metoda výuky, z jakých činností se skládá. Souvislost mezi poznávacími procesy a motivací. Aktivizující metoda a příklady jejího využití.
-- **PSY 25:** Poruchy socializace (lhaní, krádeže, záškoláctví), příčiny a náprava. Agresivní poruchy chování, šikana (průběh, stádia, druhy, prevence).
+- **[DOB]** **PSY 23:** Učitel v roli poradce, základní kvality a přístup k žákovi, možné chyby, kterých by se měl vyvarovat.
+- **[DOB]** **PSY 24:** Pojem metoda výuky, z jakých činností se skládá. Souvislost mezi poznávacími procesy a motivací. Aktivizující metoda a příklady jejího využití.
+- **[DOB]** **PSY 25:** Poruchy socializace (lhaní, krádeže, záškoláctví), příčiny a náprava. Agresivní poruchy chování, šikana (průběh, stádia, druhy, prevence).
 
 ---
 
@@ -1323,11 +1323,11 @@ graph TD
 ---
 
 ## Znění státnicových otázek
-- **PSY 26:** Prenatální, novorozenecké a kojenecké období (Piaget, Freud, Erikson). Klíčová témata psychického vývoje. Teorie citové vazby (attachment).
-- **PSY 27:** Batolecí a předškolní období. Klíčová témata tělesného a sociálního vývoje, vývoj řeči a dětské hry.
-- **PSY 28:** Mladší a střední školní věk. Problematika školní zralosti a připravenosti.
-- **PSY 29:** Dospívání (pubescence a adolescence) podle vývojových teorií. Sociální a tělesný vývoj.
-- **PSY 30:** Stádia dospělosti a stáří. Profesní role, krize středního věku, kvalita života (Erikson, postformální myšlení, stadia přijetí smrtelnosti dle Kübler-Rossové).
+- **[DOB]** **PSY 26:** Prenatální, novorozenecké a kojenecké období (Piaget, Freud, Erikson). Klíčová témata psychického vývoje. Teorie citové vazby (attachment).
+- **[DOB]** **PSY 27:** Batolecí a předškolní období. Klíčová témata tělesného a sociálního vývoje, vývoj řeči a dětské hry.
+- **[DOB]** **PSY 28:** Mladší a střední školní věk. Problematika školní zralosti a připravenosti.
+- **[DOB]** **PSY 29:** Dospívání (pubescence a adolescence) podle vývojových teorií. Sociální a tělesný vývoj.
+- **[DOB]** **PSY 30:** Stádia dospělosti a stáří. Profesní role, krize středního věku, kvalita života (Erikson, postformální myšlení, stadia přijetí smrtelnosti dle Kübler-Rossové).
 
 ---
 

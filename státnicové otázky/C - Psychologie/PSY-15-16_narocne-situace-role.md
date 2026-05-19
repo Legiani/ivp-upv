@@ -6,8 +6,8 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 15:** Charakterizujte druhy náročných situací, význam v životě člověka, popište metody zvládání. Objasněte stres a zaměřte se na možnosti minimalizace stresorů ve vyučování.
-- **PSY 16:** Vysvětlete pojmy sociální status, sociální pozice, sociální role, individuální systém rolí. Popište role učitele a žáka ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 15:** Charakterizujte druhy náročných situací, význam v životě člověka, popište metody zvládání. Objasněte stres a zaměřte se na možnosti minimalizace stresorů ve vyučování.
+- **[DOB]** **PSY 16:** Vysvětlete pojmy sociální status, sociální pozice, sociální role, individuální systém rolí. Popište role učitele a žáka ve výchovně-vzdělávacím procesu.
 
 ---
 

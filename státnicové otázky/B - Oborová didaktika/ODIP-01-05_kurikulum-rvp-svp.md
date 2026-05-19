@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **ODIP 1:** Didaktika odborných předmětů. Pojednejte o předmětu, úkolech, metodách zkoumání, vztahu k ostatním vědním disciplínám a její struktuře. Vysvětlete, jaké části obsahuje didaktický trojúhelník.
-- **ODIP 2:** Základní kurikulární dokumenty. Vyjmenujte základní učební dokumenty a vysvětlete jejich význam a závaznost. Posuďte obory vzdělání související s vaším zaměřením, jejich pojetí srovnejte s potřebami praxe.
-- **ODIP 3:** Učební osnovy a zásady jejich tvorby. Uveďte zásady tvorby učebních osnov s respektováním požadavků RVP (kompetence žáků). Vysvětlete na praktických příkladech u zvoleného předmětu.
-- **ODIP 4:** Osobnost učitele odborných předmětů. Definujte požadavky na učitele SOŠ a SOU. Konkretizujte kompetence učitele na příkladech.
-- **ODIP 5:** Aktuální model maturitní zkoušky. Vysvětlete konstrukci stávajícího modelu a zvláštnosti v odborném předmětu. Popište možnosti ukončení vzdělávání na SOU.
+- **[DYT]** **ODIP 1:** Didaktika odborných předmětů. Pojednejte o předmětu, úkolech, metodách zkoumání, vztahu k ostatním vědním disciplínám a její struktuře. Vysvětlete, jaké části obsahuje didaktický trojúhelník.
+- **[DYT]** **ODIP 2:** Základní kurikulární dokumenty. Vyjmenujte základní učební dokumenty a vysvětlete jejich význam a závaznost. Posuďte obory vzdělání související s vaším zaměřením, jejich pojetí srovnejte s potřebami praxe.
+- **[DYT]** **ODIP 3:** Učební osnovy a zásady jejich tvorby. Uveďte zásady tvorby učebních osnov s respektováním požadavků RVP (kompetence žáků). Vysvětlete na praktických příkladech u zvoleného předmětu.
+- **[DYT]** **ODIP 4:** Osobnost učitele odborných předmětů. Definujte požadavky na učitele SOŠ a SOU. Konkretizujte kompetence učitele na příkladech.
+- **[DYT]** **ODIP 5:** Aktuální model maturitní zkoušky. Vysvětlete konstrukci stávajícího modelu a zvláštnosti v odborném předmětu. Popište možnosti ukončení vzdělávání na SOU.
 
 ---
 

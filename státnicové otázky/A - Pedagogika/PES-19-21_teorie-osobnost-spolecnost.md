@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 19:** Popište historické počátky teorií vzdělávání zaměřených na osobnost žáka (například J. J. Rousseau, snahy reformního pedagogického hnutí, M. Montessori, A. S. Neill a antiautoritativní výchova, P. Grey a svobodné školy); uveďte možné výhody a nevýhody pedocentrického pojetí výuky.
-- **PES 20:** Charakterizujte soudobé teorie vzdělávání zaměřené na osobnost žáka (C. Rogers, A. Maslow, J. Holt aj.); popište principy a strategie nedirektivního přístupu ve výuce a roli učitele jako poradce a partnera v učení; charakterizujte zdroje autority učitele a možnosti budování vztahu se žáky.
-- **PES 21:** Popište pedagogické teorie vzdělávání zaměřené na sociální prostředí, zaměřte se na význam školního sociálního prostředí pro učení a na využití vztahu školy a společnosti. Vysvětlete pojmy sociálně angažovaná a kritická pedagogika, popište její cíle a možnosti začlenění do výuky.
+- **[VOT]** **PES 19:** Popište historické počátky teorií vzdělávání zaměřených na osobnost žáka (například J. J. Rousseau, snahy reformního pedagogického hnutí, M. Montessori, A. S. Neill a antiautoritativní výchova, P. Grey a svobodné školy); uveďte možné výhody a nevýhody pedocentrického pojetí výuky.
+- **[VOT]** **PES 20:** Charakterizujte soudobé teorie vzdělávání zaměřené na osobnost žáka (C. Rogers, A. Maslow, J. Holt aj.); popište principy a strategie nedirektivního přístupu ve výuce a roli učitele jako poradce a partnera v učení; charakterizujte zdroje autority učitele a možnosti budování vztahu se žáky.
+- **[VOT]** **PES 21:** Popište pedagogické teorie vzdělávání zaměřené na sociální prostředí, zaměřte se na význam školního sociálního prostředí pro učení a na využití vztahu školy a společnosti. Vysvětlete pojmy sociálně angažovaná a kritická pedagogika, popište její cíle a možnosti začlenění do výuky.
 
 ---
 

@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **ODIP 11:** Materiální didaktické prostředky. Vysvětlete funkci a vliv na zvyšování účinnosti výuky. Zaměřte se na význam textových pomůcek (učebnic) po metodické stránce a jejich využití.
-- **ODIP 12:** Didaktická analýza a její kroky. Popište jednotlivé kroky, konkretizujte u vybraného celku. Stanovte cíle, formu, metody a prostředky. Uveďte faktory ovlivňující učitele.
-- **ODIP 13:** Mezipředmětové vztahy a didaktické zásady. Objasněte podstatu a význam mezipředmětových vztahů (MPV) ve výuce. Aplikujte didaktické zásady.
-- **ODIP 14:** Příprava na vyučovací jednotku. Analyzujte obsahové a formální náležitosti přípravy. Přizpůsobte volbu prostředků. Zdůrazněte možnosti výchovného působení.
-- **ODIP 15:** Hospitační činnost v odborných předmětech. Popište hospitaci jako evaluační nástroj, její cíle, způsoby realizace, subjekty, kritéria hodnocení a náležitosti hospitačního záznamu.
+- **[DYT]** **ODIP 11:** Materiální didaktické prostředky. Vysvětlete funkci a vliv na zvyšování účinnosti výuky. Zaměřte se na význam textových pomůcek (učebnic) po metodické stránce a jejich využití.
+- **[DYT]** **ODIP 12:** Didaktická analýza a její kroky. Popište jednotlivé kroky, konkretizujte u vybraného celku. Stanovte cíle, formu, metody a prostředky. Uveďte faktory ovlivňující učitele.
+- **[DYT]** **ODIP 13:** Mezipředmětové vztahy a didaktické zásady. Objasněte podstatu a význam mezipředmětových vztahů (MPV) ve výuce. Aplikujte didaktické zásady.
+- **[DYT]** **ODIP 14:** Příprava na vyučovací jednotku. Analyzujte obsahové a formální náležitosti přípravy. Přizpůsobte volbu prostředků. Zdůrazněte možnosti výchovného působení.
+- **[DYT]** **ODIP 15:** Hospitační činnost v odborných předmětech. Popište hospitaci jako evaluační nástroj, její cíle, způsoby realizace, subjekty, kritéria hodnocení a náležitosti hospitačního záznamu.
 
 ---
 

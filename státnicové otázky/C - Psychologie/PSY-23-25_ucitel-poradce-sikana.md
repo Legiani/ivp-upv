@@ -6,9 +6,9 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 23:** Učitel v roli poradce, základní kvality a přístup k žákovi, možné chyby, kterých by se měl vyvarovat.
-- **PSY 24:** Pojem metoda výuky, z jakých činností se skládá. Souvislost mezi poznávacími procesy a motivací. Aktivizující metoda a příklady jejího využití.
-- **PSY 25:** Poruchy socializace (lhaní, krádeže, záškoláctví), příčiny a náprava. Agresivní poruchy chování, šikana (průběh, stádia, druhy, prevence).
+- **[DOB]** **PSY 23:** Učitel v roli poradce, základní kvality a přístup k žákovi, možné chyby, kterých by se měl vyvarovat.
+- **[DOB]** **PSY 24:** Pojem metoda výuky, z jakých činností se skládá. Souvislost mezi poznávacími procesy a motivací. Aktivizující metoda a příklady jejího využití.
+- **[DOB]** **PSY 25:** Poruchy socializace (lhaní, krádeže, záškoláctví), příčiny a náprava. Agresivní poruchy chování, šikana (průběh, stádia, druhy, prevence).
 
 ---
 

@@ -6,8 +6,8 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 17:** Popište rodinu jako primární sociální skupinu a její význam pro socializaci jedince, charakterizujte základní funkce rodiny.
-- **PSY 18:** Charakterizujte dysfunkční rodinu, uveďte některé typy dysfunkčních rodin a popište, jak se dysfunkce projeví na rozvoji dítěte, charakterizujte přístupy učitele k žákům z dysfunkčních rodin.
+- **[DOB]** **PSY 17:** Popište rodinu jako primární sociální skupinu a její význam pro socializaci jedince, charakterizujte základní funkce rodiny.
+- **[DOB]** **PSY 18:** Charakterizujte dysfunkční rodinu, uveďte některé typy dysfunkčních rodin a popište, jak se dysfunkce projeví na rozvoji dítěte, charakterizujte přístupy učitele k žákům z dysfunkčních rodin.
 
 ---
 

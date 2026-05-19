@@ -6,8 +6,8 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 11:** Vysvětlete psychologický základ motivace, vnitřní a vnější motivy, jejich vzájemné souvislosti a využití ve výchovně-vzdělávacím procesu.
-- **PSY 12:** Popište význam sociální psychologie v systému psychologických věd, vysvětlete pojmy interakce a vztahy, uveďte jejich vzájemné souvislosti.
+- **[DOB]** **PSY 11:** Vysvětlete psychologický základ motivace, vnitřní a vnější motivy, jejich vzájemné souvislosti a využití ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 12:** Popište význam sociální psychologie v systému psychologických věd, vysvětlete pojmy interakce a vztahy, uveďte jejich vzájemné souvislosti.
 
 ---
 

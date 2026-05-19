@@ -6,11 +6,11 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 26:** Charakterizujte výchovu zaměřenou na formování charakteru a metody výchovy k hodnotám.
-- **PES 27:** Vysvětlete pojem školní a třídní sociální klima; popište znaky bezpečného školního prostředí a vhodné postupy, jak je možné jej budovat.
-- **PES 28:** Charakterizujte význam a využití diagnostiky v práci učitele (cíle a oblasti); popište diagnostický proces (fáze, metody), zásady a rizika diagnostikování.
-- **PES 29:** Charakterizujte žáky se speciálními vzdělávacími potřebami (SVP) a uveďte příklady podpůrných opatření (dle aktuální legislativy pro SŠ).
-- **PES 30 (AKTM):** Definujte aktivizační metody a jejich význam. Popište třífázový model E-U-R. Charakterizujte 3 metody a jejich aplikaci v praxi. *(Pozn.: Lze volit z okruhů AKTM, SOCPED, PRERICH, PEDVOL. Pro potřeby tohoto bloku a logickou návaznost rozebíráme AKTM).*
+- **[VOT]** **PES 26:** Charakterizujte výchovu zaměřenou na formování charakteru a metody výchovy k hodnotám.
+- **[DOB, VOT]** **PES 27:** Vysvětlete pojem školní a třídní sociální klima; popište znaky bezpečného školního prostředí a vhodné postupy, jak je možné jej budovat.
+- **[DYT, VOT]** **PES 28:** Charakterizujte význam a využití diagnostiky v práci učitele (cíle a oblasti); popište diagnostický proces (fáze, metody), zásady a rizika diagnostikování.
+- **[VOT]** **PES 29:** Charakterizujte žáky se speciálními vzdělávacími potřebami (SVP) a uveďte příklady podpůrných opatření (dle aktuální legislativy pro SŠ).
+- **[VOT]** **PES 30 (AKTM):** Definujte aktivizační metody a jejich význam. Popište třífázový model E-U-R. Charakterizujte 3 metody a jejich aplikaci v praxi. *(Pozn.: Lze volit z okruhů AKTM, SOCPED, PRERICH, PEDVOL. Pro potřeby tohoto bloku a logickou návaznost rozebíráme AKTM).*
 
 ---
 

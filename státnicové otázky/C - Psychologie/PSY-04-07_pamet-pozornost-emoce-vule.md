@@ -6,10 +6,10 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 4:** Popište význam a funkci paměti se zaměřením na důležitost jejích jednotlivých fází v procesu učení.
-- **PSY 5:** Vysvětlete pojem psychický stav, zařaďte jej do struktury psychických jevů, zaměřte se na objasnění stavu pozornosti, její druhy a možnosti navození a udržení pozornosti ve vyučování.
-- **PSY 6:** Vysvětlete význam citových procesů v životě člověka, uveďte klasifikaci citů a možnosti jejich rozvoje ve výchovně-vzdělávacím procesu, objasněte pojem emoční inteligence.
-- **PSY 7:** Zařaďte volní procesy do struktury psychických jevů, vysvětlete pojem vůle a její význam v životě člověka, popište možnosti rozvoje volních vlastností ve výchovně-vzdělávacím procesu.
+- **[DOB]** **PSY 4:** Popište význam a funkci paměti se zaměřením na důležitost jejích jednotlivých fází v procesu učení.
+- **[DOB]** **PSY 5:** Vysvětlete pojem psychický stav, zařaďte jej do struktury psychických jevů, zaměřte se na objasnění stavu pozornosti, její druhy a možnosti navození a udržení pozornosti ve vyučování.
+- **[DOB]** **PSY 6:** Vysvětlete význam citových procesů v životě člověka, uveďte klasifikaci citů a možnosti jejich rozvoje ve výchovně-vzdělávacím procesu, objasněte pojem emoční inteligence.
+- **[DOB]** **PSY 7:** Zařaďte volní procesy do struktury psychických jevů, vysvětlete pojem vůle a její význam v životě člověka, popište možnosti rozvoje volních vlastností ve výchovně-vzdělávacím procesu.
 
 ---
 

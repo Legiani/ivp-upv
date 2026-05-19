@@ -6,8 +6,8 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 13:** Vysvětlete pojem sociální skupina, její charakteristiky, třídění, charakterizujte školní třídu jako sociální skupinu, vysvětlete možnosti pedagoga při poznávání a formování třídní skupiny.
-- **PSY 14:** Uveďte hlavní zásady komunikace učitel-žák během výchovně-vzdělávacího procesu, popište význam jednotlivých složek komunikačního procesu, naznačte možné bariéry v komunikaci a možnosti jejich odstranění.
+- **[DOB]** **PSY 13:** Vysvětlete pojem sociální skupina, její charakteristiky, třídění, charakterizujte školní třídu jako sociální skupinu, vysvětlete možnosti pedagoga při poznávání a formování třídní skupiny.
+- **[DOB]** **PSY 14:** Uveďte hlavní zásady komunikace učitel-žák během výchovně-vzdělávacího procesu, popište význam jednotlivých složek komunikačního procesu, naznačte možné bariéry v komunikaci a možnosti jejich odstranění.
 
 ---
 

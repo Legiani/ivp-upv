@@ -6,10 +6,10 @@
 ---
 
 ## Znění státnicových otázek
-- **PSY 19:** Předmět pedagogické psychologie, pojmy: vývoj, výchova, učení, vyučování. Trendy: od osobnosti k týmu, od znalostí ke kompetencím.
-- **PSY 20:** Druhy učení se zaměřením na učení senzomotorické. Změny v jeho průběhu a co je jeho výsledkem.
-- **PSY 21:** Srovnejte učení se poznatkům s učením se řešení problému. Které psychické jevy se na nich podílejí, pojem učení ve spirále.
-- **PSY 22:** Proces výchovy, prostředky a metody. Obrácená socializace. Techniky modifikace chování.
+- **[DOB]** **PSY 19:** Předmět pedagogické psychologie, pojmy: vývoj, výchova, učení, vyučování. Trendy: od osobnosti k týmu, od znalostí ke kompetencím.
+- **[DOB]** **PSY 20:** Druhy učení se zaměřením na učení senzomotorické. Změny v jeho průběhu a co je jeho výsledkem.
+- **[DOB]** **PSY 21:** Srovnejte učení se poznatkům s učením se řešení problému. Které psychické jevy se na nich podílejí, pojem učení ve spirále.
+- **[DOB]** **PSY 22:** Proces výchovy, prostředky a metody. Obrácená socializace. Techniky modifikace chování.
 
 ---
 

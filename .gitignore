@@ -1,0 +1,11 @@
+# Ignore PowerPoint files
+*.pptx
+*.ppt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node build artifacts
+node_modules/
+dist/

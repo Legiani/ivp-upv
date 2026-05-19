@@ -81,6 +81,7 @@ function Layout({ manifest }) {
           <Route path="/okruh/:id" element={<Okruh manifest={manifest} />} />
           <Route path="/okruh/:id/doc/:docId" element={<MarkdownViewer />} />
           <Route path="/tisk" element={<Downloads manifest={manifest} />} />
+          <Route path="/tahak" element={<TahakViewer />} />
         </Routes>
       </main>
     </div>
@@ -327,6 +328,35 @@ function Downloads({ manifest }) {
           </a>
         ))}
         {tiskFiles.length === 0 && <p style={{ color: 'var(--text-muted)' }}>Žádné soubory k tisku.</p>}
+      </div>
+    </div>
+  );
+}
+
+function TahakViewer() {
+  const [content, setContent] = useState('');
+
+  useEffect(() => {
+    fetch('/data/BP_NAVIGACE_KOMISE.md')
+      .then(res => res.text())
+      .then(text => setContent(text))
+      .catch(err => setContent('# Chyba při načítání taháku'));
+  }, []);
+
+  return (
+    <div style={{ paddingBottom: '40px' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px' }} className="hide-on-print">
+        <Link to="/" style={{ color: 'var(--accent-primary)', textDecoration: 'none', fontWeight: '500' }}>
+          ← Zpět na hlavní stranu
+        </Link>
+        <div style={{ display: 'flex', gap: '12px' }}>
+          <button onClick={() => window.print()} className="glass-panel" style={{ padding: '8px 16px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--accent-primary)', background: 'var(--accent-primary)', color: 'white', fontSize: '0.875rem', cursor: 'pointer' }}>
+            Vytisknout / Uložit PDF
+          </button>
+        </div>
+      </div>
+      <div className="markdown-container glass-panel printable-content">
+        <ReactMarkdown>{content}</ReactMarkdown>
       </div>
     </div>
   );

@@ -6,10 +6,10 @@
 ---
 
 ## Znění státnicových otázek
-- **PES 22:** Charakterizujte specifika skupinové výuky a kooperativního učení; vysvětlete pojem kooperace v pedagogickém kontextu; popište význam kooperace a skupinové práce pro učení a přípravu žáka na život a profesi; uveďte možné úskalí zavedení skupinové práce do výuky; vysvětlete principy sestavování skupin.
-- **PES 23:** Popište pedagogické teorie vzdělávání zaměřené na činnost a zkušenost. Charakterizujte pojem zkušenost v procesu učení (např. D. Kolb, J. Dewey); popište strategie výuky zaměřené na řešení problémů, objevování, činnost a zkušenost.
-- **PES 24:** Vysvětlete principy zkušenostního učení a zážitkové pedagogiky na základě Kolbova cyklu; popište jednotlivé fáze a význam sebereflexe, uveďte možnosti aplikace v praktickém i teoretickém vyučování.
-- **PES 25:** Vysvětlete principy projektové výuky, popište fáze a druhy projektů; uveďte možnosti, rizika a přínosy jejího začlenění do výuky.
+- **[VOT]** **PES 22:** Charakterizujte specifika skupinové výuky a kooperativního učení; vysvětlete pojem kooperace v pedagogickém kontextu; popište význam kooperace a skupinové práce pro učení a přípravu žáka na život a profesi; uveďte možné úskalí zavedení skupinové práce do výuky; vysvětlete principy sestavování skupin.
+- **[VOT]** **PES 23:** Popište pedagogické teorie vzdělávání zaměřené na činnost a zkušenost. Charakterizujte pojem zkušenost v procesu učení (např. D. Kolb, J. Dewey); popište strategie výuky zaměřené na řešení problémů, objevování, činnost a zkušenost.
+- **[VOT]** **PES 24:** Vysvětlete principy zkušenostního učení a zážitkové pedagogiky na základě Kolbova cyklu; popište jednotlivé fáze a význam sebereflexe, uveďte možnosti aplikace v praktickém i teoretickém vyučování.
+- **[VOT]** **PES 25:** Vysvětlete principy projektové výuky, popište fáze a druhy projektů; uveďte možnosti, rizika a přínosy jejího začlenění do výuky.
 
 ---
 
