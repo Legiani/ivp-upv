@@ -173,7 +173,7 @@ function Okruh({ manifest }) {
           <h2 style={{ fontSize: '1.25rem', marginBottom: '16px', color: 'var(--text-primary)' }}>Podcasty (Epizody)</h2>
           <div className="file-list">
             {section.audio.map(file => {
-              const fileUrl = `/data/${id}/audio/${file}`;
+              const fileUrl = `./data/${id}/audio/${file}`;
               const prog = progressData[fileUrl];
               const isCompleted = prog?.completed;
               const progressPercent = prog && prog.duration ? (prog.currentTime / prog.duration) * 100 : 0;
@@ -210,7 +210,7 @@ function Okruh({ manifest }) {
                 </div>
                 <div className="file-action" style={{ display: 'flex', gap: '16px' }}>
                   <span style={{ color: 'var(--accent-primary)' }}>Číst</span>
-                  <a href={`/data/${id}/docs/${file}`} download onClick={(e) => e.stopPropagation()} style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}>Stáhnout (.md)</a>
+                  <a href={`./data/${id}/docs/${file}`} download onClick={(e) => e.stopPropagation()} style={{ color: 'var(--text-secondary)', textDecoration: 'none' }}>Stáhnout (.md)</a>
                 </div>
               </div>
             ))}
@@ -280,7 +280,7 @@ function MarkdownViewer() {
   const [content, setContent] = useState('');
 
   useEffect(() => {
-    fetch(`/data/${id}/docs/${docId}`)
+    fetch(`./data/${id}/docs/${docId}`)
       .then(res => res.text())
       .then(text => setContent(text))
       .catch(err => setContent('# Chyba při načítání souboru'));
@@ -293,7 +293,7 @@ function MarkdownViewer() {
           ← Zpět na {sections[id]}
         </Link>
         <div style={{ display: 'flex', gap: '12px' }}>
-          <a href={`/data/${id}/docs/${docId}`} download className="glass-panel" style={{ padding: '8px 16px', borderRadius: 'var(--radius-sm)', textDecoration: 'none', color: 'var(--text-secondary)', fontSize: '0.875rem' }}>
+          <a href={`./data/${id}/docs/${docId}`} download className="glass-panel" style={{ padding: '8px 16px', borderRadius: 'var(--radius-sm)', textDecoration: 'none', color: 'var(--text-secondary)', fontSize: '0.875rem' }}>
             Stáhnout (.md)
           </a>
           <button onClick={() => window.print()} className="glass-panel" style={{ padding: '8px 16px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--accent-primary)', background: 'var(--accent-primary)', color: 'white', fontSize: '0.875rem', cursor: 'pointer' }}>
@@ -320,7 +320,7 @@ function Downloads({ manifest }) {
       
       <div className="file-list" style={{ maxWidth: '600px' }}>
         {tiskFiles.map(file => (
-          <a key={file} href={`/data/TISK/${file}`} download className="file-item glass-panel">
+          <a key={file} href={`./data/TISK/${file}`} download className="file-item glass-panel">
             <div className="file-info">
               <Download className="file-icon" size={20} />
               <span className="file-name">{file}</span>
@@ -337,7 +337,7 @@ function TahakViewer() {
   const [content, setContent] = useState('');
 
   useEffect(() => {
-    fetch('/data/BP_NAVIGACE_KOMISE.md')
+    fetch('./data/BP_NAVIGACE_KOMISE.md')
       .then(res => res.text())
       .then(text => setContent(text))
       .catch(err => setContent('# Chyba při načítání taháku'));
@@ -366,7 +366,7 @@ export default function App() {
   const [manifest, setManifest] = useState(null);
 
   useEffect(() => {
-    fetch('/data/manifest.json')
+    fetch('./data/manifest.json')
       .then(r => r.json())
       .then(d => setManifest(d))
       .catch(e => console.error("Could not load manifest", e));
