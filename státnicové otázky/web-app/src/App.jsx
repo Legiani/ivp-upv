@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { HashRouter as Router, Routes, Route, Link, useLocation, useNavigate } from 'react-router-dom';
-import { BookOpen, Headphones, Download, Menu, X, FileText, CheckCircle } from 'lucide-react';
+import { BookOpen, Headphones, Download, Menu, X, FileText, CheckCircle, Sparkles, ListTodo, Search, ChevronDown, ChevronUp, Printer, ArrowRight } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import mermaid from 'mermaid';
@@ -31,7 +31,8 @@ const sections = {
   A: 'A - Pedagogika',
   B: 'B - Oborová didaktika',
   C: 'C - Psychologie',
-  TISK: 'Tiskové verze (PDF/MD)'
+  TISK: 'Tiskové verze (PDF/MD)',
+  SHRNUTI: 'Bleskové shrnutí'
 };
 
 function Layout({ manifest }) {
@@ -66,6 +67,19 @@ function Layout({ manifest }) {
             <Headphones size={20} />
             Psychologie
           </Link>
+          <Link 
+            to="/shrnuti" 
+            className={`nav-link summary-nav-link ${location.pathname === '/shrnuti' ? 'active' : ''}`} 
+            onClick={() => setMobileMenuOpen(false)}
+            style={{ 
+              border: '1px dashed rgba(99, 102, 241, 0.4)',
+              background: location.pathname === '/shrnuti' ? 'var(--accent-primary)' : 'rgba(99, 102, 241, 0.05)',
+              color: location.pathname === '/shrnuti' ? 'white' : 'var(--text-primary)'
+            }}
+          >
+            <Sparkles size={20} style={{ color: location.pathname === '/shrnuti' ? 'white' : 'var(--accent-primary)' }} />
+            Rychlé shrnutí
+          </Link>
         </nav>
 
         <nav className="nav-section" style={{ marginTop: 'auto' }}>
@@ -81,9 +95,10 @@ function Layout({ manifest }) {
         <Routes>
           <Route path="/" element={<Dashboard manifest={manifest} />} />
           <Route path="/okruh/:id" element={<Okruh manifest={manifest} />} />
-          <Route path="/okruh/:id/doc/:docId" element={<MarkdownViewer />} />
+          <Route path="/okruh/:id/doc/:docId" element={<MarkdownViewer manifest={manifest} />} />
           <Route path="/tisk" element={<Downloads manifest={manifest} />} />
           <Route path="/tahak" element={<TahakViewer />} />
+          <Route path="/shrnuti" element={<SummaryViewer />} />
         </Routes>
       </main>
     </div>
@@ -100,7 +115,7 @@ function Dashboard({ manifest }) {
         </p>
       </div>
       
-      <div className="grid grid-cols-3">
+      <div className="dashboard-grid">
         {['A', 'B', 'C'].map(id => (
           <Link key={id} to={`/okruh/${id}`} className="card glass-panel">
             <div className="card-icon">
@@ -114,6 +129,20 @@ function Dashboard({ manifest }) {
             </div>
           </Link>
         ))}
+        <Link to="/shrnuti" className="card glass-panel premium-card">
+          <div className="card-icon premium-icon" style={{ background: 'rgba(99, 102, 241, 0.15)', color: 'var(--accent-primary)' }}>
+            <Sparkles size={24} />
+          </div>
+          <div>
+            <div className="card-title" style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+              Rychlé shrnutí
+              <span className="badge-premium" style={{ fontSize: '0.75rem', padding: '2px 8px', borderRadius: 'var(--radius-full)', background: 'var(--accent-primary)', color: 'white', fontWeight: 'bold' }}>90 otázek</span>
+            </div>
+            <div className="card-desc">
+              Všechny státnicové otázky přehledně v 4–5 klíčových bodech. Ideální pro bleskové opakování a tisk.
+            </div>
+          </div>
+        </Link>
       </div>
     </div>
   );
@@ -364,6 +393,16 @@ function MermaidElement({ value }) {
   );
 }
 
+const getQuestionIdsFromText = (text) => {
+  const ids = [];
+  const regex = /(PES|ODIP|PSY)\s*(\d+)/gi;
+  let match;
+  while ((match = regex.exec(text)) !== null) {
+    ids.push(`${match[1].toLowerCase()}-${match[2]}`);
+  }
+  return ids;
+};
+
 const markdownComponents = {
   pre({ children, ...props }) {
     if (children && React.isValidElement(children)) {
@@ -374,11 +413,51 @@ const markdownComponents = {
       }
     }
     return <pre {...props}>{children}</pre>;
+  },
+  h3({ children, ...props }) {
+    const text = React.Children.toArray(children)
+      .map(c => {
+        if (typeof c === 'string' || typeof c === 'number') return c;
+        if (c && c.props && c.props.children) {
+          if (typeof c.props.children === 'string') return c.props.children;
+          if (Array.isArray(c.props.children)) return c.props.children.join('');
+        }
+        return '';
+      })
+      .join('');
+    
+    const questionIds = getQuestionIdsFromText(text);
+    const slug = text
+      .toLowerCase()
+      .replace(/[^a-z0-9\s-–]/g, '')
+      .trim()
+      .replace(/[\s–-]+/g, '-');
+      
+    return (
+      <h3 id={slug} {...props} style={{ position: 'relative' }}>
+        {questionIds.map(qId => (
+          <span 
+            key={qId} 
+            id={qId} 
+            className="question-anchor"
+            style={{ 
+              position: 'absolute', 
+              top: '-80px', 
+              left: 0,
+              width: 0,
+              height: 0,
+              visibility: 'hidden'
+            }} 
+          />
+        ))}
+        {children}
+      </h3>
+    );
   }
 };
 
-function MarkdownViewer() {
-  const { pathname } = useLocation();
+function MarkdownViewer({ manifest }) {
+  const { pathname, hash } = useLocation();
   const parts = pathname.split('/');
   const docId = parts.pop();
   const id = parts[parts.length - 2];
@@ -392,8 +471,63 @@ function MarkdownViewer() {
       .catch(err => setContent('# Chyba při načítání souboru'));
   }, [id, docId]);
 
+  useEffect(() => {
+    if (hash && content) {
+      const timer = setTimeout(() => {
+        const targetId = decodeURIComponent(hash.replace('#', '')).toLowerCase();
+        const element = document.getElementById(targetId);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          
+          let highlightTarget = element;
+          if (element.classList.contains('question-anchor')) {
+            highlightTarget = element.parentElement;
+          }
+          
+          highlightTarget.classList.add('glowing-target');
+          
+          setTimeout(() => {
+            highlightTarget.classList.remove('glowing-target');
+          }, 3000);
+        }
+      }, 300);
+      return () => clearTimeout(timer);
+    }
+  }, [hash, content]);
+
+  // Calculate Next Chapter / Okruh link
+  const docsList = manifest?.[id]?.docs || [];
+  const currentIndex = docsList.indexOf(docId);
+  let nextLink = null;
+  let nextLabel = '';
+  let nextSublabel = '';
+
+  if (currentIndex !== -1 && currentIndex < docsList.length - 1) {
+    const nextDocId = docsList[currentIndex + 1];
+    nextLink = `/okruh/${id}/doc/${nextDocId}`;
+    nextLabel = 'Další kapitola';
+    nextSublabel = nextDocId.replace('.md', '').replace(/_/g, ' ');
+  } else {
+    // End of the current okruh reached
+    let nextId = null;
+    if (id === 'A') nextId = 'B';
+    else if (id === 'B') nextId = 'C';
+
+    if (nextId && manifest?.[nextId]?.docs?.length > 0) {
+      const nextDocId = manifest[nextId].docs[0];
+      nextLink = `/okruh/${nextId}/doc/${nextDocId}`;
+      nextLabel = `Další okruh (${sections[nextId]?.split(' - ')?.[1] || sections[nextId]})`;
+      nextSublabel = nextDocId.replace('.md', '').replace(/_/g, ' ');
+    } else {
+      // End of everything
+      nextLink = '/';
+      nextLabel = 'Dokončeno!';
+      nextSublabel = 'Zpět na přehled všech okruhů';
+    }
+  }
+
   return (
-    <div style={{ paddingBottom: '40px' }}>
+    <div style={{ paddingBottom: '60px' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px' }} className="hide-on-print">
         <Link to={`/okruh/${id}`} style={{ color: 'var(--accent-primary)', textDecoration: 'none', fontWeight: '500' }}>
           ← Zpět na {sections[id]}
@@ -407,8 +541,303 @@ function MarkdownViewer() {
           </button>
         </div>
       </div>
+      
       <div className="markdown-container glass-panel printable-content">
         <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>{content}</ReactMarkdown>
+      </div>
+
+      {nextLink && (
+        <div className="next-chapter-container hide-on-print">
+          <Link to={nextLink} className="next-chapter-btn glass-panel">
+            <div className="next-chapter-content">
+              <span className="next-chapter-tag">{nextLabel}</span>
+              <span className="next-chapter-title">{nextSublabel}</span>
+            </div>
+            <div className="next-chapter-icon-wrapper">
+              <ArrowRight className="arrow-icon" size={20} />
+            </div>
+          </Link>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function SummaryViewer() {
+  const [data, setData] = useState([]);
+  const [filteredData, setFilteredData] = useState([]);
+  const [categoryFilter, setCategoryFilter] = useState('ALL');
+  const [searchQuery, setSearchQuery] = useState('');
+  const [expandedCards, setExpandedCards] = useState({});
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch('./data/summary.json')
+      .then(res => res.json())
+      .then(json => {
+        setData(json);
+        setFilteredData(json);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error("Error loading summary.json", err);
+        setLoading(false);
+      });
+  }, []);
+
+  useEffect(() => {
+    let result = data;
+
+    if (categoryFilter !== 'ALL') {
+      result = result.filter(item => item.category === categoryFilter);
+    }
+
+    if (searchQuery.trim() !== '') {
+      const q = searchQuery.toLowerCase().trim();
+      result = result.filter(item => {
+        const matchesId = item.id.toLowerCase().includes(q);
+        const matchesTitle = item.title.toLowerCase().includes(q);
+        const matchesBullets = item.bullets.some(b => b.toLowerCase().includes(q));
+        return matchesId || matchesTitle || matchesBullets;
+      });
+    }
+
+    setFilteredData(result);
+  }, [categoryFilter, searchQuery, data]);
+
+  const toggleCard = (id) => {
+    setExpandedCards(prev => ({
+      ...prev,
+      [id]: !prev[id]
+    }));
+  };
+
+  const expandAll = () => {
+    const nextExpanded = {};
+    filteredData.forEach(item => {
+      nextExpanded[item.id] = true;
+    });
+    setExpandedCards(nextExpanded);
+  };
+
+  const collapseAll = () => {
+    setExpandedCards({});
+  };
+
+  if (loading) {
+    return (
+      <div style={{ display: 'flex', height: '60vh', alignItems: 'center', justifyContent: 'center', color: 'white' }}>
+        <div style={{ textAlign: 'center' }}>
+          <Sparkles className="animate-spin" size={40} style={{ color: 'var(--accent-primary)', marginBottom: '16px' }} />
+          <div>Načítám blesková shrnutí...</div>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div style={{ paddingBottom: '60px' }}>
+      <div className="section-header hide-on-print">
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '16px' }}>
+          <div>
+            <h1 className="section-title">Bleskové shrnutí státnic</h1>
+            <p style={{ color: 'var(--text-secondary)' }}>
+              Všech 90 otázek přehledně v 4–5 klíčových bodech. Ideální pro rychlé zopakování nebo tisk studijního taháku.
+            </p>
+          </div>
+          <button 
+            onClick={() => window.print()} 
+            className="print-btn glass-panel"
+            style={{ 
+              display: 'flex', 
+              alignItems: 'center', 
+              gap: '8px', 
+              padding: '10px 20px', 
+              borderRadius: 'var(--radius-md)', 
+              border: '1px solid var(--accent-primary)', 
+              background: 'var(--accent-primary)', 
+              color: 'white', 
+              fontWeight: '600', 
+              cursor: 'pointer',
+              boxShadow: 'var(--shadow-glow)'
+            }}
+          >
+            <Printer size={18} />
+            Uložit PDF / Tisknout
+          </button>
+        </div>
+      </div>
+
+      {/* Printable Heading */}
+      <div className="print-header" style={{ display: 'none' }}>
+        <h1>Rychlý přehled státnicových otázek (Tahák)</h1>
+        <p>Skripta IVP - celkem {filteredData.length} otázek</p>
+      </div>
+
+      {/* Search & Filters */}
+      <div className="filters-container glass-panel hide-on-print" style={{ padding: '20px', marginBottom: '24px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
+        <div className="search-container" style={{ position: 'relative' }}>
+          <Search className="search-icon" size={20} style={{ position: 'absolute', left: '16px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-muted)' }} />
+          <input 
+            type="text" 
+            placeholder="Hledat v otázkách, tématech nebo bodech..." 
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="search-input"
+            style={{ 
+              width: '100%', 
+              padding: '14px 16px 14px 48px', 
+              borderRadius: 'var(--radius-md)', 
+              background: 'rgba(255,255,255,0.03)', 
+              border: '1px solid var(--border-color)', 
+              color: 'white', 
+              fontSize: '1rem',
+              outline: 'none'
+            }}
+          />
+        </div>
+
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '16px' }}>
+          <div className="tabs" style={{ display: 'flex', gap: '8px' }}>
+            {[
+              { id: 'ALL', label: 'Všechny' },
+              { id: 'A', label: 'A - Pedagogika' },
+              { id: 'B', label: 'B - Oborová didaktika' },
+              { id: 'C', label: 'C - Psychologie' }
+            ].map(tab => (
+              <button 
+                key={tab.id}
+                onClick={() => setCategoryFilter(tab.id)}
+                className={`tab-btn ${categoryFilter === tab.id ? 'active' : ''}`}
+                style={{ 
+                  padding: '8px 16px', 
+                  borderRadius: 'var(--radius-full)', 
+                  border: '1px solid var(--border-color)', 
+                  background: categoryFilter === tab.id ? 'var(--accent-primary)' : 'rgba(255,255,255,0.02)', 
+                  color: categoryFilter === tab.id ? 'white' : 'var(--text-secondary)',
+                  cursor: 'pointer',
+                  fontWeight: '500',
+                  boxShadow: categoryFilter === tab.id ? 'var(--shadow-glow)' : 'none'
+                }}
+              >
+                {tab.label}
+              </button>
+            ))}
+          </div>
+
+          <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
+            <span style={{ fontSize: '0.875rem', color: 'var(--text-muted)' }}>
+              Nalezeno {filteredData.length} z {data.length} otázek
+            </span>
+            <button 
+              onClick={expandAll} 
+              className="action-btn-text"
+              style={{ background: 'none', border: 'none', color: 'var(--accent-primary)', cursor: 'pointer', fontSize: '0.875rem', fontWeight: '600' }}
+            >
+              Rozbalit vše
+            </button>
+            <span style={{ color: 'var(--border-color)' }}>|</span>
+            <button 
+              onClick={collapseAll} 
+              className="action-btn-text"
+              style={{ background: 'none', border: 'none', color: 'var(--accent-primary)', cursor: 'pointer', fontSize: '0.875rem', fontWeight: '600' }}
+            >
+              Sbalit vše
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* Question Accordion List */}
+      <div className="summary-list" style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+        {filteredData.map(q => {
+          const isOpen = !!expandedCards[q.id];
+          const catName = q.category === 'A' ? 'Pedagogika' : q.category === 'B' ? 'Didaktika' : 'Psychologie';
+          const catClass = `cat-${q.category.toLowerCase()}`;
+          
+          return (
+            <div key={q.id} className="summary-card glass-panel">
+              {/* Card Header */}
+              <div 
+                className="summary-header" 
+                onClick={() => toggleCard(q.id)}
+                style={{ 
+                  padding: '20px', 
+                  display: 'flex', 
+                  alignItems: 'center', 
+                  justifyContent: 'space-between', 
+                  cursor: 'pointer', 
+                  gap: '16px',
+                  userSelect: 'none'
+                }}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: '16px', flex: 1 }}>
+                  <span className={`category-tag ${catClass}`} style={{ 
+                    padding: '4px 10px', 
+                    borderRadius: 'var(--radius-sm)', 
+                    fontSize: '0.85rem', 
+                    fontWeight: 'bold',
+                    whiteSpace: 'nowrap'
+                  }}>
+                    {q.id}
+                  </span>
+                  <span className="summary-title" style={{ fontWeight: '600', fontSize: '1.05rem', color: 'var(--text-primary)' }}>
+                    {q.title}
+                  </span>
+                </div>
+                <div className="chevron-icon hide-on-print" style={{ color: 'var(--text-muted)' }}>
+                  {isOpen ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
+                </div>
+              </div>
+
+              {/* Card Content */}
+              <div 
+                className={`summary-content ${isOpen ? 'open' : ''}`}
+                style={{ 
+                  maxHeight: isOpen ? '2000px' : '0', 
+                  overflow: 'hidden', 
+                  transition: 'max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), padding 0.3s ease',
+                  padding: isOpen ? '0 20px 20px 20px' : '0 20px',
+                  borderTop: isOpen ? '1px solid var(--border-color)' : 'none'
+                }}
+              >
+                <div style={{ paddingTop: '16px' }}>
+                  <ul className="summary-bullets" style={{ paddingLeft: '20px', marginBottom: '20px', color: 'var(--text-secondary)' }}>
+                    {q.bullets.map((bullet, idx) => (
+                      <li key={idx} style={{ marginBottom: '10px', fontSize: '0.975rem', lineHeight: '1.5' }}>
+                        <span dangerouslySetInnerHTML={{ __html: bullet.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') }} />
+                      </li>
+                    ))}
+                  </ul>
+
+                  <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '16px' }} className="hide-on-print">
+                    <Link 
+                      to={`/okruh/${q.category}/doc/${q.sourceFile}#${q.id.toLowerCase().replace(' ', '-')}`}
+                      className="detail-link"
+                      style={{ 
+                        display: 'flex', 
+                        alignItems: 'center', 
+                        gap: '6px', 
+                        color: 'var(--accent-primary)', 
+                        textDecoration: 'none', 
+                        fontSize: '0.875rem', 
+                        fontWeight: '600',
+                        transition: 'var(--transition)'
+                      }}
+                    >
+                      Přejít na detail v materiálech <ArrowRight size={16} />
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+        {filteredData.length === 0 && (
+          <div className="glass-panel" style={{ padding: '40px', textAlign: 'center', color: 'var(--text-muted)' }}>
+            Žádné otázky neodpovídají zadanému filtru nebo vyhledávání.
+          </div>
+        )}
       </div>
     </div>
   );
