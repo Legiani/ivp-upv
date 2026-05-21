@@ -7,11 +7,10 @@
     "title": "Charakteristika pedagogiky – popsat pedagogické disciplíny, uvést významné informační zdroje pro studium pedagogiky a učitelskou praxi, vysvětlit vztah mezi studiem pedagogických věd a výkonem profese učitele.",
     "sourceFile": "PES-01-03_pedagogika-vychova-vzdelavani.md",
     "bullets": [
-      "**1. Knihy a brožury**: *Knižní monografie* – ověřené informace zpracovávající úzce vymezené téma.",
-      "**2. Periodické publikace**: *Časopisy*, *Ročenky* (statistické, výroční zprávy) a *Noviny*.",
-      "**3. Speciální dokumenty**: *Normativní dokumenty* (zákony, vyhlášky).",
-      "**4. Významné instituce a databáze**: Jednotná informační brána (JIB), Národní knihovna, Národní pedagogická knihovna Komenského (NPKK), MŠMT, NÚV, ČŠI, portál RVP.cz.",
-      "**Předmět a postavení pedagogiky**: Pedagogika je společenská (sociální) věda, která se zabývá výchovou a vzděláváním člověka v celé jeho šíři. Název pochází z řeckého paidagógos (otrok doprovázející dítě do školy). Dnes je pedagogik..."
+      "**Předmět a postavení pedagogiky**: Věda zkoumající zákonitosti výchovy a vzdělávání jedince; název pochází z řeckého *paidagógos* (otrok doprovázející dítě do školy). Dnes je to samostatná věda úzce propojená s psychologií a sociologií.",
+      "**Pedagogické disciplíny**: Dělí se na základní (obecná ped., dějiny ped., srovnávací ped.), aplikované (speciální ped., profesní a oborová didaktika) a hraniční (pedagogická sociologie, pedagogická psychologie).",
+      "**Významné informační zdroje**: Monografie, odborná periodika (Pedagogika, Orbis Scholae) a klíčové online databáze a instituce (Národní pedagogické muzeum a knihovna J. A. Komenského, MŠMT, NPI, ČŠI, portál RVP.cz, JIB).",
+      "**Vztah teorie a učitelské praxe**: Teorie poskytuje nezbytné koncepční základy a reflexi; bez teorie je praxe slepá, intuitivní a nekonzistentní, bez praxe je teorie prázdná a neužitečná."
     ]
   },
   {
@@ -22,11 +21,11 @@
     "title": "Vysvětlete pojem výchova v širším a užším smyslu; zaměřte se na roli výchovy při formování osobnosti člověka, na její vztah k socializaci a ke kultuře; charakterizujte výchovu jako cestu k sebevýchově.",
     "sourceFile": "PES-01-03_pedagogika-vychova-vzdelavani.md",
     "bullets": [
-      "**Kognitivní**: rozvoj myšlení, vědomostí, poznávacích schopností",
-      "**Afektivní**: formování citů, postojů, hodnotové orientace",
-      "**Konativní (volní)**: rozvoj vůle, sebekázně, vytrvalosti",
-      "**Sociální**: budování sociálních dovedností a kompetencí",
-      "**Vůli a disciplínu**: k jejich dosahování"
+      "**Širší vs. užší smysl výchovy**: V širším smyslu jde o veškeré záměrné formativní působení na rozvoj osobnosti (vzdělávání + formování). V užším smyslu se soustředí na morální rozvoj, charakter, postoje a hodnotovou orientaci.",
+      "**Vztah k socializaci**: Socializace je přirozený, celoživotní proces začleňování jedince do společnosti (záměrný i nezáměrný). Výchova je její záměrnou, plánovitou a řízenou podmnožinou.",
+      "**Formování osobnosti člověka**: Výchova působí na všechny složky osobnosti — kognitivní (rozvoj myšlení), afektivní (city, postoje), konativní (vůle, disciplína) a sociální (budování sociálních dovedností).",
+      "**Vztah ke kultuře**: Výchova je kulturně podmíněna; předává kulturní dědictví (jazyk, normy, tradice, hodnoty) z generace na generaci a zároveň kulturu spoluvytváří a připravuje na její obohacování.",
+      "**Cesta k sebevýchově**: Sebevýchova je vrcholnou fází výchovy (autoregulace), kdy jedinec přebírá odpovědnost za vlastní rozvoj na základě sebereflexe a vůle; výchova vede od vnější regulace k vnitřní."
     ]
   },
   {
@@ -37,11 +36,11 @@
     "title": "Vysvětlete pojmy vzdělání a vzdělávání; popište roli školy ve vzdělávání; vysvětlete pojmy vzdělávací systém a školská soustava; charakterizujte českou školskou soustavu; objasněte pojem celoživotní učení. Popište mezinárodní klasifikaci stupňů ve vzdělávání ISCED.",
     "sourceFile": "PES-01-03_pedagogika-vychova-vzdelavani.md",
     "bullets": [
-      "**Zákon č. 561/2004 Sb.**: Školský zákon (předškolní, základní, střední, vyšší odborné a jiné vzdělávání)",
-      "**Zákon č. 563/2004 Sb.**: Zákon o pedagogických pracovnících",
-      "**Zákon č. 111/1998 Sb.**: Zákon o vysokých školách",
-      "**Krajský úřad**: → SŠ, gymnázia, konzervatoře",
-      "**MŠMT/stát**: → vybrané školy"
+      "**Vzdělání vs. vzdělávání**: Vzdělávání je aktivní celoživotní proces získávání vědomostí, dovedností a postojů. Vzdělání je dosažený, doložitelný a certifikovaný výsledek tohoto procesu (vysvědčení, diplom).",
+      "**Role školy**: Plní funkce socializační (začlenění), kvalifikační (příprava na povolání), personalizační (rozvoj individuality), selektivní (třídění žáků podle výkonu) a kuratelární (ochrana žáků).",
+      "**Vzdělávací systém a školská soustava**: Systém zahrnuje všechny instituce celoživotního učení. Školská soustava je organizovaná struktura škol a školských zařízení podle Školského zákona (č. 561/2004 Sb.).",
+      "**Česká školská soustava**: Skládá se z předškolního, základního, středního (SOU, SOŠ, gymnázia), vyššího odborného a vysokého školství. Zřizovateli jsou obce (MŠ, ZŠ), kraje (SŠ) či stát (MŠMT).",
+      "**Celoživotní učení & ISCED**: Rozlišuje formální (školy), neformální (kurzy) a informální (každodenní zkušenosti) učení. Klasifikace ISCED (0 až 8) umožňuje mezinárodní srovnání stupňů vzdělání."
     ]
   },
   {
@@ -52,11 +51,10 @@
     "title": "Charakterizujte profesi učitele, typologii učitele a vyučovacích stylů, vlastnosti a předpoklady pro výkon práce učitele, charakterizujte pedagogickou komunikaci, zaměřte se na možnosti kariérního vývoje a dalšího profesního vzdělávání pedagogických pracovníků.",
     "sourceFile": "PES-04-05_ucitel-komensky.md",
     "bullets": [
-      "**Jasně vymezený soubor odborných znalostí a dovedností**: založený na vědeckých poznatcích",
-      "**Kvalifikační požadavky**: pro vstup (pedagogické vzdělání, zákon 563/2004 Sb.)",
-      "**Etický kodex**: morální odpovědnost vůči žákům, rodičům, společnosti",
-      "**Autonomie v rozhodování**: učitel volí metody, přístupy, hodnotí",
-      "**Celoživotní profesní rozvoj**: povinnost dalšího vzdělávání"
+      "**Profese a kompetence učitele**: Systematický soubor oborových znalostí, didaktické a diagnostické zdatnosti, etické odpovědnosti a autonomie. Učitel musí disponovat kompetencemi oborovými, pedagogicko-psychologickými a komunikativními.",
+      "**Typologie učitele**: Různé klasifikace (např. podle Caselmanna na pedocentrický zaměřený na žáka vs. logocentrický zaměřený na vědu; z hlediska stylu vedení na autoritativní, liberální a demokratický).",
+      "**Pedagogická komunikace**: Specifická komunikace s jasným didaktickým a výchovným cílem. Dělí se na verbální, neverbální (gesta, mimika, oční kontakt) a komunikaci činem. Musí být respektující a podnětná.",
+      "**Kariérní vývoj & DVPP**: Další vzdělávání pedagogických pracovníků (DVPP) je povinné podle Zákona o pedagogických pracovnících (č. 563/2004 Sb.) a slouží k profesnímu růstu a atestacím."
     ]
   },
   {
@@ -67,11 +65,10 @@
     "title": "Vysvětlete význam J. A. Komenského pro dnešní pedagogiku a vzdělávání; představte důležitá díla a hlavní myšlenky jeho pedagogické koncepce; uveďte možné aplikace myšlenek J. A. Komenského pro současné vzdělávání.",
     "sourceFile": "PES-04-05_ucitel-komensky.md",
     "bullets": [
-      "**1592–1670**: , poslední biskup Jednoty bratrské",
-      "**Zásada názornosti**: „Nic není v rozumu, co nebylo dříve ve smyslech\"; učení skrze přímou zkušenost",
-      "**Zásada systematičnosti a posloupnosti**: od jednoduchého ke složitému, od známého k neznámému",
-      "**Zásada přiměřenosti**: obsah a metody přizpůsobené věku a schopnostem žáka",
-      "**Zásada aktivnosti**: žák se má učit vlastní činností, ne pouhým posloucháním"
+      "**Význam J. A. Komenského**: Zakladatel moderní didaktiky, který požadoval všestranné vzdělání pro všechny bez rozdílu pohlaví, původu či nadání (*pampaedia*).",
+      "**Klíčová díla a koncepce**: *Velká didaktika* (teorie a organizace výuky), *Brána jazyků otevřená* (jazykové vzdělání), *Orbis pictus* (názornost, první ilustrovaná učebnice) a *Informatorium školy mateřské*.",
+      "**Didaktické zásady**: Zásada názornosti (smyslové poznání), přiměřenosti věku, systematičnosti a posloupnosti (od známého k neznámému) a aktivnosti (učení vlastní prací a činností).",
+      "**Současná aplikace**: Moderní uplatnění nachází v zážitkové pedagogice, respektujícím přístupu, celoživotním učení a propojování teorie s praxí (škola hrou - *schola ludus*)."
     ]
   },
   {
@@ -82,11 +79,10 @@
     "title": "Popište možnosti začlenění tématu trvale udržitelného rozvoje do obsahu výuky; charakterizujte cíle, formy a metody environmentální výchovy; popište možné strategie rozvoje vnímavosti žáků k životnímu prostředí v rámci školy.",
     "sourceFile": "PES-06-07_environment-skola.md",
     "bullets": [
-      "**Badatelsky orientovaná výuka**: žáci sami zkoumají environmentální problémy",
-      "**Simulace a modelové situace**: rozhodování o využití přírodních zdrojů",
-      "**Diskuze a debaty**: kontroverzní environmentální témata (jaderná energetika, GMO)",
-      "**Práce s daty**: analýza spotřeby energie, vodní stopy, statistik znečištění",
-      "**Terénní cvičení**: monitoring kvality vody/ovzduší, mapování biodiverzity"
+      "**Trvale udržitelný rozvoj (TUR)**: Koncept rozvoje uspokojující potřeby současnosti bez ohrožení budoucích generací. Zahrnuje složku ekologickou (příroda), ekonomickou (udržitelnost hospodaření) a sociální.",
+      "**Environmentální výchova (EVVO)**: Cílevědomý proces vedoucí k porozumění vztahům člověka k životnímu prostředí. Cílem je formovat postoje, odpovědnost a aktivní zapojení žáků do ochrany přírody.",
+      "**Formy a metody EVVO**: Badatelsky orientovaná výuka, terénní cvičení, simulace, ekologické projekty, diskuse a debaty o kontroverzních tématech (globální oteplování, jaderná energetika).",
+      "**Strategie rozvoje vnímavosti**: Uplatňují se v chodu školy (ekologický provoz, třídění odpadu, úspory energií), školní zahradě jako učebně a zapojením do programů (např. Ekoškola)."
     ]
   },
   {
@@ -97,11 +93,10 @@
     "title": "Popište funkce školy, charakterizujte podpůrné sítě ve školství (úloha výchovných a kariérových poradců). Zaměřte se na odborné školství, možnosti odborného vzdělávání v kontextu se vzděláváním v EU.",
     "sourceFile": "PES-06-07_environment-skola.md",
     "bullets": [
-      "**PPP**: (pedagogicko-psychologická poradna) — diagnostika, doporučení podpůrných opatření",
-      "**SPC**: (speciálně pedagogické centrum) — pro žáky s konkrétním typem postižení",
-      "**OSPOD**: orgán sociálně-právní ochrany dětí",
-      "**SVP**: (středisko výchovné péče) — pro žáky s poruchami chování",
-      "**SOŠ**: zakončeno maturitní zkouškou (ISCED 3A)"
+      "**Funkce školy**: Zahrnuje socializační (začlenění do norem), kvalifikační (příprava na profesi), integrační, selektivní (třídění podle výkonu) a personalizační (rozvoj osobnosti žáka).",
+      "**Podpůrná síť ve školství**: Služby školního poradenského pracoviště (výchovný poradce, kariérový poradce, metodik prevence, psycholog) a externí PPP (pedagogicko-psychologická poradna) a SPC.",
+      "**Odborné vzdělávání**: SŠ vzdělávání zaměřené na praktickou i teoretickou profesní přípravu (obory H - výuční list, obory M a L - maturitní zkouška). Spolupracuje úzce s firmami.",
+      "**Evropský kontext (EU)**: Provázanost s evropskými standardy (např. rámec EQF pro srovnávání kvalifikací, program Erasmus+ pro stáže a mobilitu žáků i učitelů)."
     ]
   },
   {
@@ -112,11 +107,10 @@
     "title": "Popište model procesu výuky, stručně vysvětlete pojmy učitel, žák, obsah výuky, prostředí a vztahy mezi nimi; charakterizujte obvyklé fáze přípravy a realizace vyučování; objasněte význam vnějších a vnitřních podmínek na efektivitu vyučování.",
     "sourceFile": "PES-08-10_proces-vyuky.md",
     "bullets": [
-      "**Učitel**: řídí proces; volí cíle, obsah, metody, hodnotí",
-      "**Žák**: aktivní subjekt učení; přichází s vlastními zkušenostmi, motivací, stylem učení",
-      "**Obsah výuky (učivo)**: „co\" se učí; určeno kurikulem (RVP → ŠVP)",
-      "**Metody a formy**: „jak\" se učí; organizace a postupy",
-      "**Prostředí**: fyzické (třída, dílna) i psychosociální (klima)"
+      "**Vyučovací proces**: Záměrná, plánovitá a řízená interakce mezi učitelem a žáky, směřující k dosažení vytyčených vzdělávacích a výchovných cílů.",
+      "**Fáze procesu**: Motivace (vzbuzení zájmu), expozice (zprostředkování učiva), fixace (procvičování a upevnění), diagnóza (hodnocení) a aplikace (použití v praxi).",
+      "**Cíle výuky**: Ujasněný a měřitelný zamýšlený výsledek. Dělí se na kognitivní (vědomosti, taxonomie Blooma), afektivní (hodnoty, postoje) a psychomotorické (praktické dovednosti).",
+      "**Vlastnosti cílů (SMART)**: Cíl musí být specifický (S), měřitelný (M), akceptovatelný (A), realistický (R) a časově ohraničený (T)."
     ]
   },
   {
@@ -127,11 +121,11 @@
     "title": "Vysvětlete pojem didaktická analýza obsahu, popište její fáze; charakterizujte kritéria kvalitní výuky a efektivního učení, popište didaktické zásady.",
     "sourceFile": "PES-08-10_proces-vyuky.md",
     "bullets": [
-      "**Kvantitativní**: množství prostudovaných témat, rozsah vědomostí, čas, úsilí (vše, co lze měřit statisticky).",
-      "**Kvalitativní**: změny ve vědomí účastníků a schopnost praktického uplatnění.",
-      "**Vnitřní**: změny v kognitivním systému studujících, v motivaci a postojích.",
-      "**Vnější**: změny v reálném jednání jednotlivců i skupin.",
-      "**Kritéria pro hodnocení efektivity se dělí na**: **Kvantitativní** — množství prostudovaných témat, rozsah vědomostí, čas, úsilí (vše, co lze měřit statisticky)."
+      "**Obsah vzdělávání**: Didakticky transformovaná soustava poznatků, hodnot a dovedností, které si má žák osvojit. Zahrnuje vědomosti, dovednosti a postoje.",
+      "**Dvoustupňové kurikulum**: Model zavedený Školským zákonem — státní úroveň představují Rámcové vzdělávací programy (RVP), školní úroveň pak Školní vzdělávací programy (ŠVP).",
+      "**Rámcový vzdělávací program (RVP)**: Státní dokument vymezující závazné rámce vzdělávání, klíčové kompetence, vzdělávací oblasti a průřezová témata pro daný stupeň či obor.",
+      "**Školní vzdělávací program (ŠVP)**: Dokument vytvořený konkrétní školou, který adaptuje RVP na její specifické podmínky, profilaci a potřeby regionu.",
+      "**Klíčové kompetence**: Soubor vědomostí, dovedností, postojů a hodnot využitelných v reálném životě (k učení, k řešení problémů, komunikativní, sociální, pracovní)."
     ]
   },
   {
@@ -142,11 +136,11 @@
     "title": "Vysvětlete pojem třídní management; popište role a úkoly učitele během vyučování; uveďte možné scénáře vyučovací hodiny, vysvětlete smysl a návaznost jednotlivých fází.",
     "sourceFile": "PES-08-10_proces-vyuky.md",
     "bullets": [
-      "**Organizaci**: času, prostoru a zdrojů",
-      "**Prevenci**: a řešení kázeňských problémů",
-      "**Podpoře**: pozitivních vztahů a motivace",
-      "**Obrácená hodina (flipped classroom)**: žáci si nové učivo nastudují doma; ve škole aplikují a procvičují",
-      "**Projektová hodina**: celá hodina věnována práci na projektu"
+      "**Pedagogické zásady**: Obecné požadavky a pravidla, které optimalizují vyučovací proces a zvyšují jeho účinnost. Vycházejí z historického vývoje (např. Komenský).",
+      "**Zásada názornosti**: Výuka má vycházet ze smyslového vnímání a přímé zkušenosti žáků (reálné objekty, modely, schémata, simulace).",
+      "**Zásada přiměřenosti**: Obsah, rozsah i metody výuky musí odpovídat věkovým, intelektuálním a individuálním zvláštnostem a schopnostem žáků.",
+      "**Zásada systematičnosti & posloupnosti**: Učivo musí být logicky uspořádáno a předáváno od jednoduchého ke složitému, od známého k neznámému, od konkrétního k abstraktnímu.",
+      "**Zásada aktivnosti a trvalosti**: Žák si osvojuje poznatky vlastní aktivní činností a myšlenkovým úsilím; upevnění se děje pravidelným opakováním a aplikací v reálných úlohách."
     ]
   },
   {
@@ -157,11 +151,10 @@
     "title": "Popište fáze a důležitá témata ve vývoji pedagogického myšlení (antika, středověk, počátek novověku a reformace, osvícenství); vysvětlete vznik tradičního pojetí vzdělávání v 19. století (Herbart a herbartismus); uveďte souvislosti s dnešním vzděláváním.",
     "sourceFile": "PES-11-13_dejiny-reformy-kurikulum.md",
     "bullets": [
-      "**Sokrates (469–399 př. n. l.)**: maieutika (kladení otázek); „Vím, že nic nevím\"; učitel jako průvodce, ne přednášející",
-      "**Platón (427–347 př. n. l.)**: ideální stát vyžaduje ideální výchovu; škola Akadémie; vzdělání jako cesta k dobru a pravdě",
-      "**Aristoteles (384–322 př. n. l.)**: empirické poznání; výchova má rozvíjet rozum, mravnost i tělo; peripatetická škola (učení za chůze)",
-      "**Spartský**: kolektivní, vojenský, fyzická zdatnost a disciplína",
-      "**Athénský**: harmonický rozvoj těla i ducha; gymnastika + múzická výchova"
+      "**Vzdělávací politika**: Soubor cílů, strategií a opatření, kterými stát řídí a rozvíjí vzdělávací systém; odráží společenské a ekonomické potřeby.",
+      "**Bílá kniha (2001)**: Národní program rozvoje vzdělávání v ČR, který definoval dlouhodobé cíle (decentralizace, kurikulární reforma, otevřenost, rozvoj terciárního sektoru).",
+      "**Strategie 2030+**: Strategický dokument MŠMT s dvěma hlavními cíli: 1. Zaměřit vzdělávání více na kompetence a snížit přetížení učivem, 2. Snížit nerovnosti v přístupu ke vzdělávání a podpořit inkluzi.",
+      "**Klíčové trendy**: Digitalizace výuky, podpora celoživotního učení, profesní rozvoj učitelů, individualizace výuky a posilování formativního hodnocení."
     ]
   },
   {
@@ -172,11 +165,10 @@
     "title": "Charakterizujte příčiny vzniku reformního pedagogického hnutí; uveďte znaky alternativních škol, důležité představitele a směry; vysvětlete možnosti uplatnění alternativních a inovativních prvků v dnešním vzdělávání.",
     "sourceFile": "PES-11-13_dejiny-reformy-kurikulum.md",
     "bullets": [
-      "**Aktivita žáka**: „learning by doing\"",
-      "**Respekt k individuálním potřebám**: a vývojovým stádiím",
-      "**Kritika frontální výuky**: jako jediné formy",
-      "**Propojení školy se životem**: praktičnost, zkušenost",
-      "**Změna role učitele**: z autority na průvodce"
+      "**Tereziánské reformy (1774)**: Marie Terezie a Johann Ignaz von Felbiger zavedli Všeobecný školní řád — vznikla povinná šestiletá školní docházka a tři typy škol (triviální, hlavní, normální).",
+      "**Rakousko-uherský systém (1869)**: Hasnerův zákon prodloužil povinnou docházku na 8 let, sekularizoval školství a zavedl měšťanské školy a odborné školství.",
+      "**První republika (1918–1938)**: Pokusy o reformy (přírodovědná orientace, jednotná škola, vliv reformní pedagogiky — Příhoda, Václavík) a rozvoj českého vysokého školství.",
+      "**Období socialismu (1948–1989)**: Ideologizace školství, zavedení principu jednotné vnitřně diferencované školy (Zákon o jednotné škole 1948) a potlačení alternativních směrů."
     ]
   },
   {
@@ -187,11 +179,10 @@
     "title": "Vysvětlete pojem kurikulum; popište didaktickou transformaci obsahu, její fáze a jednotlivé aktéry; zaměřte se na způsob stanovení kurikula v odborném vzdělávání.",
     "sourceFile": "PES-11-13_dejiny-reformy-kurikulum.md",
     "bullets": [
-      "**Co**: se učí (obsah vzdělávání)",
-      "**Proč**: se to učí (cíle, kompetence)",
-      "**Jak**: se to učí (metody, formy)",
-      "**Kdy**: se to učí (pořadí, návaznost)",
-      "**S jakými výsledky**: (výstupy, standardy)"
+      "**Klíčové změny po roce 1989**: Odideologizování obsahu vzdělávání, humanizace a demokratizace školství, vznik nestátních (soukromých a církevních) škol a obnova akademických svobod na VŠ.",
+      "**Decentralizace řízení**: Přesun pravomocí z ministerstva na kraje a obce (které se staly zřizovateli) a zavedení právní subjektivity škol.",
+      "**Transformace obsahu (reforma)**: Přechod od transmisivního předávání encyklopedických faktů k rozvoji klíčových kompetencí (formulovaných v RVP v roce 2004).",
+      "**Inkluzivní reforma (2016)**: Novela Školského zákona zavedla nárok žáků se SVP na podpůrná opatření a posílila začleňování žáků do běžných tříd."
     ]
   },
   {
@@ -202,11 +193,10 @@
     "title": "Charakterizujte transmisivní koncepci vzdělávání, její výhody a nevýhody; uveďte příklady vhodných výukových strategií ve frontální výuce (slovní monologické metody, názorně demonstrační metody, učení se z textu).",
     "sourceFile": "PES-14-16_koncepce-vzdelavani.md",
     "bullets": [
-      "**Role učitele**: Dominantní expert, „majitel pravdy“, primární zdroj informací. Řídí celý proces.",
-      "**Role žáka**: Pasivní příjemce, posluchač. Očekává se od něj pozornost, memorování a přesná reprodukce.",
-      "**Obsah**: Kladen důraz na faktografii, objem učiva a logickou strukturu z pohledu vědy, ne z pohledu dítěte.",
-      "**Hlavní forma**: Frontální hromadná výuka.",
-      "**Výklad**: Logické, systematické vysvětlení složitějšího jevu. Musí mít jasnou strukturu, záchytné body a intonační dynamiku."
+      "**Behaviorismus**: Koncepce učení založená na schématu Stimul → Reakce (S-R); učení je změna chování vyvolaná zpevňováním (odměna/trest); představitelé Watson, Skinner.",
+      "**Kognitivismus**: Učení jako vnitřní mentální proces zpracování informací (paměť, myšlení, vnímání); žák aktivně zpracovává podněty; představitelé Piaget, Bruner.",
+      "**Konstruktivismus**: Poznání nelze mechanicky předat (transmise), žák si ho aktivně konstruuje sám na základě stávajících zkušeností; představitelé Vygotskij, Piaget.",
+      "**Didaktické důsledky**: Behaviorismus vede k programovanému učení a drilu; kognitivismus k objevujícímu učení; konstruktivismus k projektové a problémové výuce, kde učitel je facilitátorem."
     ]
   },
   {
@@ -217,11 +207,10 @@
     "title": "Charakterizujte teorie vzdělávání zaměřené na psychologické aspekty procesu učení. Vysvětlete pojem konstruktivismus, popište strategie podporující konstruktivismus ve výuce.",
     "sourceFile": "PES-14-16_koncepce-vzdelavani.md",
     "bullets": [
-      "**Učitel**: Průvodce (facilitátor), tvůrce podnětného prostředí. Neříká hotové pravdy, ale klade otázky a předkládá problémy.",
-      "**Žák**: Aktivní badatel, spolutvůrce vlastního poznání. Nese zodpovědnost za své učení.",
-      "**Zjišťování prekonceptů**: Brainstorming, myšlenkové mapy na začátku tématu (Co už víte o gravitaci?).",
-      "**EUR (Evokace – Uvědomění si významu – Reflexe)**: Model kritického myšlení, který kopíruje konstruktivistický proces.",
-      "**Badatelsky orientovaná výuka (Inquirybased learning)**: Žáci dostanou problém, formulují hypotézy, zkoumají a dělají závěry."
+      "**Alternativní školy**: Školy lišící se od běžných organizací výuky, metodami a pojetím vztahu učitel-žák. Vycházejí z reformní pedagogiky počátku 20. století.",
+      "**Montessori škola**: Zakladatelka Maria Montessori; hlavní princip „Pomoz mi, abych to dokázal sám“; připravené prostředí, specifické pomůcky, věkově smíšené třídy, svoboda volby práce.",
+      "**Waldorfská škola**: Zakladatel Rudolf Steiner (anthroposofie); důraz na celostní rozvoj (hlava, srdce, ruce); absence učebnic a známkování (slovní hodnocení), výuka v epochách.",
+      "**Daltonský plán**: Zakladatelka Helen Parkhurst; hlavní principy: svoboda (zodpovědnost), samostatnost a spolupráce; žáci plní úkoly na základě daltonských smluv."
     ]
   },
   {
@@ -232,11 +221,10 @@
     "title": "Charakterizujte pojem sebeřízené učení; vysvětlete význam zodpovědnosti žáka za vlastní učení; popište cyklus sebeřízeného učení; uveďte možné strategie pro podporu sebeřízení žáka ve výuce.",
     "sourceFile": "PES-14-16_koncepce-vzdelavani.md",
     "bullets": [
-      "**Otevřené cíle a volba**: Dát žákům na výběr z různých úkolů nebo forem zpracování (např. napiš esej NEBO natoč video).",
-      "**Trénink strategií učení**: Učit žáky, *jak* se učit (myšlenkové mapy, technika Pomodoro, Cornellův systém poznámek).",
-      "**Práce s portfoliem**: Žák si zakládá své práce a vidí vlastní progres.",
-      "**Sebehodnocení a vrstevnické hodnocení**: Vést žáky k tomu, aby sami posoudili svůj výkon pomocí předem daných kritérií (rubrik) dříve, než je oznámkuje učitel.",
-      "**Formativní zpětná vazba**: Zaměřovat se na proces a úsilí žáka, ne jen na výsledek („Líbí se mi, jak sis rozvrhl čas na tento velký projekt.“)."
+      "**Školní třída jako sociální skupina**: Malá, formální, sekundární sociální skupina charakterizovaná společným cílem, strukturou rolí, normami a dynamikou vztahů.",
+      "**Struktura a pozice žáků**: Neformální hierarchie (vůdci, oblíbení, řadoví, odmítaní, izolovaní žáci) ovlivněná výkonem, atraktivitou a sociálními dovednostmi.",
+      "**Dynamika školní třídy**: Celoživotní proces vývoje skupiny od formování (forming), přes bouření (storming), normování (norming) až k optimální kooperaci (performing).",
+      "**Metody zkoumání vztahů**: Pozorování, rozhovory a sociometrické metody (sociometricko-názorový dotazník, např. SO-RA-D, sociogramy mapující sítě sympatií a vlivu)."
     ]
   },
   {
@@ -247,11 +235,10 @@
     "title": "Vysvětlete pojem cíl; popište funkce cílů z hlediska plánování výuky a řízení učení žáka; charakterizujte Bloomovu taxonomii cílů a na příkladech ilustrujte její použití.",
     "sourceFile": "PES-17-18_hodnoceni-cile.md",
     "bullets": [
-      "**Pro učitele (plánování)**: Určují výběr učiva (obsah), volbu výukových metod a prostředků (jak to naučit) a způsob hodnocení (jak to změřit).",
-      "**Pro žáka (řízení učení)**: Dávají učení smysl, orientují pozornost žáka na to podstatné a zvyšují motivaci (vím, kam jdu).",
-      "**Cíl**: odpovídá na otázku: *„Co se žáci naučí?“* (Ne co bude dělat učitel!)",
-      "**Funkce cílů**: **Pro učitele (plánování):** Určují výběr učiva (obsah), volbu výukových metod a prostředků (jak to naučit) a způsob hodnocení (jak to změřit).",
-      "**Cíle se dělí do 3 oblastí**: 1. **Kognitivní (vzdělávací)** — znalosti a intelektuální dovednosti (rozum)."
+      "**Autorita učitele**: Vztah mezi učitelem a žáky založený na respektu a uznání. Dělí se na formální (daná pozicí a zákonem) a neformální (přirozená — založená na odbornosti a charakteru).",
+      "**Styly vedení třídy**: Autoritativní (přísná kontrola, jednostranná komunikace, napětí), demokratický (spolupráce, respekt, zapojení žáků, bezpečné klima) a liberální (pasivní učitel, chaos).",
+      "**Kázeň ve třídě**: Stav organizovanosti a dodržování dohodnutých pravidel; neklid žáků je často projevem nudy, neporozumění látce, únavy nebo nevhodného vyučovacího stylu.",
+      "**Strategie řešení neklidu**: Preventivní opatření (aktivizace žáků, střídání metod), formativní řešení (klidné napomenutí, oční kontakt) a jasně nastavené a dodržované konsekvence."
     ]
   },
   {
@@ -262,11 +249,10 @@
     "title": "Charakterizujte behaviorální teorie vzdělávání a zaměřte se na roli zpětné vazby v procesu učení; popište funkce školního hodnocení; vysvětlete pojem formativní hodnocení.",
     "sourceFile": "PES-17-18_hodnoceni-cile.md",
     "bullets": [
-      "**Kladné posílení**: (odměna, pochvala, dobrá známka) — zvyšuje pravděpodobnost, že žák správné chování zopakuje.",
-      "**Záporné posílení**: (odstranění nepříjemného podnětu po správné reakci).",
-      "**Trest**: (špatná známka, poznámka) — slouží k potlačení nežádoucího chování.",
-      "**Musí být včasná**: (hned po výkonu, ne za měsíc).",
-      "**Musí být konkrétní**: a zaměřená na úkol/proces, ne na osobnost žáka (chválit úsilí, ne inteligenci — *Growth mindset*)."
+      "**Zpětná vazba (didaktická)**: Informace poskytovaná žákovi o jeho aktuálním výkonu ve srovnání s cílem výuky; musí být konkrétní, včasná, popisná a konstruktivní.",
+      "**Sumativní hodnocení**: Hodnocení výsledku učení na konci určitého období (známka na vysvědčení, test); slouží k certifikaci, administrativním účelům a selekci.",
+      "**Formativní hodnocení**: Průběžné hodnocení procesu učení s cílem poskytnout žákovi zpětnou vazbu, kde dělá chyby a jak se posunout dál; neznámkuje se.",
+      "**Sebehodnocení a vrstevnické hodnocení**: Klíčové nástroje formativního hodnocení, které vedou žáka k autoregulaci, sebereflexi a převzetí odpovědnosti za vlastní pokrok."
     ]
   },
   {
@@ -277,11 +263,10 @@
     "title": "Popište historické počátky teorií vzdělávání zaměřených na osobnost žáka (například J. J. Rousseau, snahy reformního pedagogického hnutí, M. Montessori, A. S. Neill a antiautoritativní výchova, P. Grey a svobodné školy); uveďte možné výhody a nevýhody pedocentrického pojetí výuky.",
     "sourceFile": "PES-19-21_teorie-osobnost-spolecnost.md",
     "bullets": [
-      "**Klíčové postavy a proudy**: 1. Jean-Jacques Rousseau (18. stol.)",
-      "**Jean-Jacques Rousseau (18. stol.)** - Kniha *Émile čili o výchově*.",
-      "- Výchova má být **přirozená**, negativní (chránit dítě před škodlivými vlivy společnosti) a řídit se jeho přirozeným vývojem. 2. **Reformní hnutí a Maria Montessori (poč.",
-      ")** - Vycházela z lékařské praxe. Vytvořila koncept **připraveného prostředí**, kde dítě samo volí aktivitu.",
-      "**Alexander Sutherland Neill a Summerhill (1921)** - Extrémní antiautoritativní přístup. Škola jako demokratická komunita (děti a dospělí mají rovnocenný hlas). - Žádná povinná výuka, důraz na **emocionální zdraví a štěstí** dítěte."
+      "**Osobnost žáka**: Dynamický a integrovaný celek psychických vlastností, procesů a stavů, který určuje chování a učení žáka.",
+      "**Biologické faktory (Dědičnost)**: Genotyp určuje limity a dispozice (např. kapacita paměti, temperament, nervová soustava), které se rozvíjejí pod vlivem prostředí.",
+      "**Sociální faktory (Prostředí)**: Vliv rodiny (výchovný styl, socioekonomický status), vrstevníků, médií a kultury; určuje normy, hodnoty a motivaci žáka.",
+      "**Výchova jako formativní faktor**: Záměrné a systematické ovlivňování jedince, které transformuje biologické dispozice a sociální vlivy do integrované osobnosti (autoregulace)."
     ]
   },
   {
@@ -292,11 +277,10 @@
     "title": "Charakterizujte soudobé teorie vzdělávání zaměřené na osobnost žáka (C. Rogers, A. Maslow, J. Holt aj.); popište principy a strategie nedirektivního přístupu ve výuce a roli učitele jako poradce a partnera v učení; charakterizujte zdroje autority učitele a možnosti budování vztahu se žáky.",
     "sourceFile": "PES-19-21_teorie-osobnost-spolecnost.md",
     "bullets": [
-      "**Abraham Maslow**: Hierarchie potřeb (pyramida). Zjistil klíčovou věc pro pedagogiku: *Pokud dítě nemá uspokojené nižší potřeby (bezpečí, sounáležitost, najíst se), nemůže se učit a seberealizovat.*",
-      "**Carl Rogers**: Zakladatel nedirektivního přístupu (tzv. psychoterapie/výuka zaměřená na klienta/žáka).",
-      "**John Holt**: Odpůrce klasických škol, zakladatel unschoolingu. Tvrdil, že škola děti učí hlavně strachu ze selhání.",
-      "**Hlavní představitelé**: - Abraham Maslow: Hierarchie potřeb (pyramida). Zjistil klíčovou věc pro pedagogiku: Pokud dítě nemá uspokojené nižší potřeby (bezpečí, sounáležitost, najíst se), nemůže se učit a seberealizovat.",
-      "**Nedirektivní přístup Rogers a role učitele**: Podle Rogerse se člověk nedá nic přímo „naučit“ – lze mu jen usnadnit, aby to objevil sám. Role učitele se mění na facilitátora (usnadňovatele) učení."
+      "**Sociální role**: Očekávaný způsob chování jedince spojený s jeho sociální pozicí. Role učitele a žáka jsou komplementární (vzájemně se doplňují).",
+      "**Role učitele**: Odborník, facilitátor učení, diagnostik, organizátor, zástupce instituce, autorita a vychovatel. Role se mohou dostávat do konfliktů.",
+      "**Role žáka**: Učící se jedinec, člen vrstevnické skupiny, objekt i subjekt výchovy; očekává se od něj aktivní přístup, dodržování pravidel a respekt k autoritě.",
+      "**Konflikty rolí**: Střety mezi různými očekáváními (např. učitel jako spravedlivý hodnotitel vs. chápající přítel; žák v roli premianta třídy vs. vůdce rebelů)."
     ]
   },
   {
@@ -307,11 +291,11 @@
     "title": "Popište pedagogické teorie vzdělávání zaměřené na sociální prostředí, zaměřte se na význam školního sociálního prostředí pro učení a na využití vztahu školy a společnosti. Vysvětlete pojmy sociálně angažovaná a kritická pedagogika, popište její cíle a možnosti začlenění do výuky.",
     "sourceFile": "PES-19-21_teorie-osobnost-spolecnost.md",
     "bullets": [
-      "**Základní myšlenka**: Vzdělávání není nikdy neutrální. Vždy je to politický akt. Škola často funguje jako nástroj pro reprodukci stávající moci a nerovností (děti dělníků se ve škole učí poslouchat příkazy a stávají se ...",
-      "**Paulo Freire**: Brazilský pedagog (kniha *Pedagogika utlačovaných*). Tvrdil, že klasická výuka je **bankovní systém vzdělávání** (učitel „vkládá“ informace do prázdných žáků). Namísto toho navrhl **problémovou výu...",
-      "**Cíl kritické pedagogiky**: Emancipace žáka. Vychovat z něj aktivního, kriticky myslícího občana, který dokáže zpochybnit status quo a bojovat za sociální spravedlnost.",
-      "**Začlenění do výuky**: Rozbor mediálních manipulací a dezinformací.",
-      "**Odpověď**: Zde narážíme na limit čistého nedirektivního přístupu v oblastech, kde hrozí fyzické nebezpečí nebo trvalé škody (BOZP). Humanistická pedagogika nepopírá zodpovědnost učitele. V takové chvíli musí ..."
+      "**Socializace**: Celoživotní proces vrůstání jedince do lidské společnosti, osvojování si sociálních norem, hodnot, rolí a komunikačních vzorců.",
+      "**Sociální učení**: Hlavní mechanismus socializace. Uplatňuje se prostřednictvím přímé interakce a pozorování chování ostatních lidí.",
+      "**Nápodoba (Imitace)**: Mechanické nebo vědomé opakování chování, gest či slovní zásoby modelové osoby (např. učitele, rodiče, staršího žáka).",
+      "**Ztotožnění (Identifikace)**: Hlubší forma učení, kdy jedinec přejímá celé vzorce chování, postoje a hodnoty osoby, kterou obdivuje a chce jí být podobný.",
+      "**Sociální zpevňování**: Učení na základě sociálních odměn (pochvala, úsměv, uznání) a trestů (nesouhlas, izolace, kritika) od okolí."
     ]
   },
   {
@@ -322,11 +306,10 @@
     "title": "Popište pedagogické teorie vzdělávání zaměřené na činnost a zkušenost. Charakterizujte pojem zkušenost v procesu učení (např. D. Kolb, J. Dewey); popište strategie výuky zaměřené na řešení problémů, objevování, činnost a zkušenost.",
     "sourceFile": "PES-22-25_kooperace-projekty-zkusenost.md",
     "bullets": [
-      "**Praktické vyučování**: Učeň nerozebírá motor podle návodu na tabuli. Dostane nářadí a zkusí to rozebrat (Zkušenost). Narazí na problém (Reflexe). Mistr mu vysvětlí fyzikální princip pnutí a poradí techniku (Teorie). Učeň...",
-      "**Teoretické vyučování**: Simulační hry. Žáci hrají „burzu cenných papírů“ (Zkušenost). Pak reflektují, proč prodělali (Reflexe). Učitel na tom vysvětlí zákon nabídky a poptávky (Teorie).",
-      "**4 fáze Kolbova cyklu**: 1. **Konkrétní zkušenost (Zážitek):** Žák něco reálně prožije nebo zkusí udělat (např. v dílně zkusí svařit dva plechy k sobě, ale svár praskne). Nejde o čtení z knihy, ale o osobní zapojení.",
-      "**Aplikace v praxi**: **Praktické vyučování:** Učeň nerozebírá motor podle návodu na tabuli. Dostane nářadí a zkusí to rozebrat (Zkušenost). Narazí na problém (Reflexe). Mistr mu vysvětlí fyzikální princip pnutí a porad...",
-      "**David Kolb a cyklus zkušenostního učení**: Kolb (1984) popsal, že skutečné učení není jednorázový akt, ale cyklus čtyř na sebe navazujících kroků. Pokud jeden krok vynecháme, poznání je povrchní a neukotví se."
+      "**Zážitková pedagogika**: Směr využívající záměrně navozené prožitky jako prostředek k rozvoji osobnosti, sebereflexi a sociálnímu učení; představitel u nás J. Neuman.",
+      "**Učení prožitkem (Kolbův cyklus)**: 1. Konkrétní zkušenost (aktivita), 2. Reflexe (co se stalo), 3. Zobecnění (teoretické vyvození), 4. Aktivní experimentování (aplikace v životě).",
+      "**Outdoorové aktivity**: Využití přírodního prostředí pro hry, lanové aktivity, expedice a týmové výzvy; posilují sociální kooperaci a odolnost vůči stresu.",
+      "**Didaktický význam**: Přechod od pasivního přijímání informací k hlubokému emocionálnímu prožitku, který zaručuje trvalost a autentičnost získaných kompetencí."
     ]
   },
   {
@@ -337,11 +320,10 @@
     "title": "Vysvětlete principy zkušenostního učení a zážitkové pedagogiky na základě Kolbova cyklu; popište jednotlivé fáze a význam sebereflexe, uveďte možnosti aplikace v praktickém i teoretickém vyučování.",
     "sourceFile": "PES-22-25_kooperace-projekty-zkusenost.md",
     "bullets": [
-      "**Praktické vyučování**: Učeň nerozebírá motor podle návodu na tabuli. Dostane nářadí a zkusí to rozebrat (Zkušenost). Narazí na problém (Reflexe). Mistr mu vysvětlí fyzikální princip pnutí a poradí techniku (Teorie). Učeň...",
-      "**Teoretické vyučování**: Simulační hry. Žáci hrají „burzu cenných papírů“ (Zkušenost). Pak reflektují, proč prodělali (Reflexe). Učitel na tom vysvětlí zákon nabídky a poptávky (Teorie).",
-      "**4 fáze Kolbova cyklu**: 1. **Konkrétní zkušenost (Zážitek):** Žák něco reálně prožije nebo zkusí udělat (např. v dílně zkusí svařit dva plechy k sobě, ale svár praskne). Nejde o čtení z knihy, ale o osobní zapojení.",
-      "**Aplikace v praxi**: **Praktické vyučování:** Učeň nerozebírá motor podle návodu na tabuli. Dostane nářadí a zkusí to rozebrat (Zkušenost). Narazí na problém (Reflexe). Mistr mu vysvětlí fyzikální princip pnutí a porad...",
-      "**David Kolb a cyklus zkušenostního učení**: Kolb (1984) popsal, že skutečné učení není jednorázový akt, ale cyklus čtyř na sebe navazujících kroků. Pokud jeden krok vynecháme, poznání je povrchní a neukotví se."
+      "**Projektová výuka**: Komplexní vyučovací metoda, při níž žáci řeší reálný, smysluplný problém (projekt) vycházející z praktického života.",
+      "**Fáze projektu**: 1. Iniciace (výběr tématu, motivace), 2. Plánování (rozdělení rolí, harmonogram), 3. Realizace (vyhledávání informací, tvorba produktu), 4. Prezentace a reflexe.",
+      "**Role učitele a žáka**: Učitel ustupuje do pozice konzultanta a facilitátora; žák je aktivním subjektem, plánuje, organizuje a nese odpovědnost.",
+      "**Hodnocení projektů**: Hodnotí se nejen finální produkt (např. model, prezentace), ale především průběh práce, kreativita, samostatnost a úroveň kooperace ve skupině."
     ]
   },
   {
@@ -352,10 +334,10 @@
     "title": "Charakterizujte specifika skupinové výuky a kooperativního učení; vysvětlete pojem kooperace v pedagogickém kontextu; popište význam kooperace a skupinové práce pro učení a přípravu žáka na život a profesi; uveďte možné úskalí zavedení skupinové práce do výuky; vysvětlete principy sestavování skupin.",
     "sourceFile": "PES-22-25_kooperace-projekty-zkusenost.md",
     "bullets": [
-      "**Úskalí**: Ztráta kontroly (hluk ve třídě), pocit křivdy u nadaných žáků („musím to dělat za ty pomalejší“), dominance jednoho žáka.",
-      "**Principy sestavování**: *Velikost:* Ideální jsou 3–4 žáci. Ve dvojici chybí variabilita nápadů, nad 5 žáků se už obtížně organizuje práce.",
-      "**znaků skutečného kooperativního učení**: 1. Pozitivní vzájemná závislost: Cíl, zdroje nebo role jsou rozděleny tak, že bez pomoci ostatních nemůže jednotlivec uspět.",
-      "**Úskalí a pravidla sestavování skupin**: - Úskalí: Ztráta kontroly (hluk ve třídě), pocit křivdy u nadaných žáků („musím to dělat za ty pomalejší“), dominance jednoho žáka."
+      "**Kooperativní učení**: Výuková metoda založená na spolupráci žáků v malých skupinách při řešení komplexních úkolů; úspěch jednotlivce je závislý na úspěchu skupiny.",
+      "**Sociální dynamika**: Zahrnuje pozitivní vzájemnou závislost (musíme spolupracovat), individuální odpovědnost (každý plní svou roli) a rozvoj sociálních dovedností.",
+      "**Metody kooperativního učení**: Skládačka (Jigsaw — každý žák je expertem na část látky), skupinové vyšetřování, rotující přehled, diskuze v kruhu.",
+      "**Rizika a úskalí**: Sociální zahálení (jeden žák pracuje za všechny), dominance jednoho člena, konflikty; učitel musí sledovat proces a hodnotit jak výsledek, tak spolupráci."
     ]
   },
   {
@@ -366,11 +348,11 @@
     "title": "Vysvětlete principy projektové výuky, popište fáze a druhy projektů; uveďte možnosti, rizika a přínosy jejího začlenění do výuky.",
     "sourceFile": "PES-22-25_kooperace-projekty-zkusenost.md",
     "bullets": [
-      "**Reálnost a užitečnost**: Neřeší se abstraktní cvičení z učebnice, ale problém ze života. Výsledkem je **konkrétní produkt** (např. návrh úspornějšího osvětlení pro naši dílnu).",
-      "**Zodpovědnost a sebeřízení**: Učitel nevydává přesné povely. Třída / skupina si sama musí rozplánovat čas, rozdělit úkoly a najít zdroje (PES 16 - sebeřízení).",
-      "**Mezipředmětovost**: Přirozeně maže hranice mezi předměty.",
-      "**Odpověď**: Ano, Kolbův cyklus je nepřetržitý a **dá se do něj vstoupit v kterékoli fázi**. Tradiční frontální škola do něj nastupuje ve fázi *Abstraktní konceptualizace* (učitel vyloží teorii) → pak žáci počí...",
-      "**Odpověď**: Protože bez *pozitivní vzájemné závislosti* se vždy stane to, že nejchytřejší/nejaktivnější žák udělá celou práci, aby zajistil skupině jedničku, zatímco ostatní ho jen sledují. Kooperativní učení ..."
+      "**Pedagogická diagnostika**: Cílevědomá činnost učitele zaměřená na zjišťování a hodnocení úrovně vědomostí, dovedností, postojů a sociálních vztahů žáků.",
+      "**Metoda pozorování**: Systematické sledování chování žáka (orientační, zaměřené, zúčastněné) s přesným záznamem projevů v reálných vyučovacích situacích.",
+      "**Anamnéza a rozhovor**: Zjišťování rodinného zázemí, vývoje žáka a jeho postojů; rozhovor musí probíhat v atmosféře důvěry a respektu.",
+      "**Analýza produktů činnosti**: Hodnocení sešitů, výkresů, písemných prací, výrobků či kódu; odhaluje chybové vzorce a styl práce žáka.",
+      "**Sociometrie**: Diagnostická metoda (např. SO-RA-D) zjišťující strukturu neformálních vztahů, sympatií, vlivu a izolace uvnitř školní třídy."
     ]
   },
   {
@@ -381,10 +363,10 @@
     "title": "Charakterizujte výchovu zaměřenou na formování charakteru a metody výchovy k hodnotám.",
     "sourceFile": "PES-26-30_vychova-klima-diagnostika-svp.md",
     "bullets": [
-      "**Metody výchovy k hodnotám**: 1. **Osobní příklad učitele:** Nejmocnější nástroj. Učitel, který požaduje spravedlnost, ale sám je nespravedlivý, hodnoty deformuje.",
-      "Hodnoty se předávají **nápodobou a prožitkem**. Podle psychologa L. Kohlberga prochází člověk fázemi morálního vývoje (od poslušnosti ze strachu z trestu, přes konformitu se skupinou, až po autonomní vnitřní morálku). **Metody výchovy k hodnotám:** 1.",
-      "**Osobní příklad učitele:** Nejmocnější nástroj. Učitel, který požaduje spravedlnost, ale sám je nespravedlivý, hodnoty deformuje. 2. **Práce s morálním dilematem:** Žákům je předložen nedokončený příběh (např.",
-      "**Příběhy a vzory:** Analýza literárních nebo historických postav, diskuze nad filmem. 4. **Charitativní akce a dobrovolnictví (Service-learning):** Žáci jdou například pomáhat do domova seniorů."
+      "**Školní klima vs. kultura školy**: Kultura představuje hodnoty, tradice a zvyklosti školy. Školní klima je dlouhodobější sociálně-psychologický stav vnímaný aktéry.",
+      "**Klima třídy**: Specifický sociálně-psychologický jev prožívaný žáky a učitelem v konkrétní třídě; ovlivňuje motivaci, výkon a pohodu žáků.",
+      "**Diagnostické nástroje**: Standardizované dotazníky (např. CES - Classroom Environment Scale, MCI - My Class Inventory pro mladší žáky, B-3 a B-4 pro učitele).",
+      "**Faktory ovlivňující klima**: Styl vedení učitele, koheze (soudržnost) třídy, spravedlnost hodnocení, fyzické prostředí učebny a absence šikany."
     ]
   },
   {
@@ -395,11 +377,10 @@
     "title": "Vysvětlete pojem školní a třídní sociální klima; popište znaky bezpečného školního prostředí a vhodné postupy, jak je možné jej budovat.",
     "sourceFile": "PES-26-30_vychova-klima-diagnostika-svp.md",
     "bullets": [
-      "**Pravidla třídy**: Žáci by se měli podílet na jejich tvorbě (budou je pak lépe dodržovat).",
-      "**Rituály**: Třídnické hodiny, komunitní kruhy, ranní pozdravy.",
-      "**Kooperativní výuka (PES 22)**: Žáci se učí spolupracovat a vážit si odlišností.",
-      "**Včasná diagnostika**: Zjišťování vztahů ve třídě (sociometrie), aby se předešlo vyčlenění jednotlivců.",
-      "**Znaky bezpečného klimatu**: Důvěra a otevřená komunikace."
+      "**Žák se speciálními vzdělávacími potřebami (SVP)**: Žák, který k naplnění svých vzdělávacích možností potřebuje poskytnutí podpůrných opatření (zdravotní postižení, nadání, sociální znevýhodnění).",
+      "**Inkluzivní vzdělávání**: Přístup zaručující společné vzdělávání všech dětí v běžných školách bez ohledu na jejich rozdíly; škola se přizpůsobuje žákovi.",
+      "**Podpůrná opatření**: Dělí se do 5 stupňů; zahrnují úpravu metod, hodnocení, učebních plánů, materiální pomůcky, kompenzační pomůcky a personální podporu.",
+      "**Legislativní rámec**: Školský zákon (č. 561/2004 Sb.) a Vyhláška č. 27/2016 Sb., o vzdělávání žáků se speciálními vzdělávacími potřebami."
     ]
   },
   {
@@ -410,11 +391,10 @@
     "title": "Charakterizujte význam a využití diagnostiky v práci učitele (cíle a oblasti); popište diagnostický proces (fáze, metody), zásady a rizika diagnostikování.",
     "sourceFile": "PES-26-30_vychova-klima-diagnostika-svp.md",
     "bullets": [
-      "**Pozorování**: Nejčastější metoda. Musí být systematické (víme, na co se zaměřujeme).",
-      "**Rozhovor**: Nejpřirozenější cesta. S žákem, s rodiči, s výchovným poradcem.",
-      "**Analýza žákovských prací**: Rozbor chyb v sešitech, výkresech (nejen výsledek, ale *jak* to udělal).",
-      "**Dotazníky a ankety**: Rychlý sběr dat (např. dotazník na třídní klima B-4).",
-      "**Sociometrie**: Metoda měřící vztahy ve třídě (Kdo se s kým kamarádí? Kdo je izolován?)."
+      "**Plán pedagogické podpory (PLPP)**: Zpracovává škola pro žáka s potřebou podpory 1. stupně; popisuje úpravy metod výuky, hodnocení a organizaci práce.",
+      "**Individuální vzdělávací plán (IVP)**: Zpracovává škola na základě doporučení ŠPZ (od 2. stupně podpory); obsahuje úpravy obsahu, metod, hodnocení a učebních materiálů.",
+      "**Asistent pedagoga**: Personální podpůrné opatření; pomáhá učiteli při integraci žáka se SVP, podporuje žáka při sebeobsluze, organizaci práce a komunikaci.",
+      "**Speciálněpedagogické metody**: Využití reedukačních pomůcek, kompenzačních technologií, individualizovaného tempa a modifikace úkolů."
     ]
   },
   {
@@ -425,10 +405,10 @@
     "title": "Charakterizujte žáky se speciálními vzdělávacími potřebami (SVP) a uveďte příklady podpůrných opatření (dle aktuální legislativy pro SŠ).",
     "sourceFile": "PES-26-30_vychova-klima-diagnostika-svp.md",
     "bullets": [
-      "**1. stupeň**: Poskytuje škola/učitel sám (bez poradny). Mírné úpravy metod (posadím žáka blíž, dám mu více času, plán pedagogické podpory - PLPP).",
-      "**2. až 5. stupeň**: Poskytuje se výhradně na základě doporučení PPP nebo SPC (Speciálně pedagogického centra). Financuje stát.",
-      "**Kdo jsou žáci se SVP?**: Žáci se zdravotním postižením (zrakové, sluchové, tělesné, mentální).",
-      "**Stupně podpůrných opatření (1. – 5. stupeň)**: **1. stupeň:** Poskytuje škola/učitel sám (bez poradny). Mírné úpravy metod (posadím žáka blíž, dám mu více času, plán pedagogické podpory - PLPP)."
+      "**Výchovný problém**: Opakované chování žáka, které porušuje školní řád, narušuje výuku nebo ohrožuje sociální vztahy (např. agresivita, záškoláctví, lhaní).",
+      "**Šikana**: Záměrné, opakované a bezprávné ubližování slabšímu jedinci ze strany agresora nebo skupiny; dělí se na fyzickou, verbální a kyberšikanu.",
+      "**Stádia šikany (Kolář)**: 1. Zrod ostrakismu (mírné odmítání), 2. Fyzická agrese a přitvrzování, 3. Vytvoření jádra (agresoři), 4. Přijetí norem šikany většinou, 5. Totalita.",
+      "**Prevence a intervence**: Minimální preventivní program školy, včasná diagnostika (pozorování, sociometrie); při odhalení šikany okamžitá izolace agresora, ochrana oběti a přivolání odborníků."
     ]
   },
   {
@@ -439,11 +419,10 @@
     "title": "Definujte aktivizační metody a jejich význam. Popište třífázový model E-U-R. Charakterizujte 3 metody a jejich aplikaci v praxi. *(Pozn.: Lze volit z okruhů AKTM, SOCPED, PRERICH, PEDVOL. Pro potřeby tohoto bloku a logickou návaznost rozebíráme AKTM).*",
     "sourceFile": "PES-26-30_vychova-klima-diagnostika-svp.md",
     "bullets": [
-      "**Aktivizační metody**: Postupy, které zapojují žáky do aktivního učení (řešení problémů, diskuse, simulace), čímž zvyšují trvalost znalostí.",
-      "**Evokace (E)**: První fáze EUR — vyvolání dosavadních znalostí a zkušeností žáka k tématu, vzbuzení zájmu a vnitřní motivace.",
-      "**Uvědomění si významu (U)**: Druhá fáze EUR — získávání nových informací a konceptů (čtení, výklad, experiment) a jejich propojování s dosavadními vědomostmi.",
-      "**Reflexe (R)**: Třetí fáze EUR — upevnění nových poznatků, uvědomění si, co se žák naučil a jak se změnil jeho pohled na téma.",
-      "**Aplikace v praxi**: Příkladem metod jsou myšlenková mapa (evokace), podvojný deník (uvědomění) a pětilístek (reflexe)."
+      "**Aktivizační metody**: Výukové postupy, které vedou žáky k aktivnímu zapojení, samostatnému řešení problémů, kritickému myšlení a kooperaci.",
+      "**Třífázový model EUR**: 1. Evokace (vyvolání dosavadních znalostí a motivace), 2. Uvědomění si významu (přijímání nových informací), 3. Reflexe (upevnění, sebereflexe).",
+      "**Brainstorming**: Metoda rychlého shromažďování nápadů k danému tématu bez předběžného hodnocení; rozvíjí kreativitu a odstraňuje strach z chyby.",
+      "**Diskuse**: Organizovaná výměna názorů na kontroverzní téma; rozvíjí argumentační dovednosti, respekt k odlišným názorům a kritické myšlení."
     ]
   },
   {
@@ -454,11 +433,10 @@
     "title": "Didaktika odborných předmětů. Pojednejte o předmětu, úkolech, metodách zkoumání, vztahu k ostatním vědním disciplínám a její struktuře. Vysvětlete, jaké části obsahuje didaktický trojúhelník.",
     "sourceFile": "ODIP-01-05_kurikulum-rvp-svp.md",
     "bullets": [
-      "**Předmět a úkoly**: Oborová didaktika zkoumá proces výuky ve specifickém odborném předmětu. Řeší, **PROČ** se předmět vyučuje (cíle), **CO** se v něm učí (výběr učiva z obrovského balíku vědy) a **JAK** se to učí (met...",
-      "**Didaktický trojúhelník**: Jde o dynamický systém tří prvků, které se navzájem ovlivňují:",
-      "ODIP 1: Didaktika odborných předmětů a Didaktický trojúhelník **Předmět a úkoly:** Oborová didaktika zkoumá proces výuky ve specifickém odborném předmětu. Řeší, **PROČ** se předmět vyučuje (cíle), **CO** se v něm učí (výběr učiva z obrovského balíku vědy) a **JAK** se to učí (metody, pomůcky).",
-      "- *Vztah k jiným vědám:* Úzce spolupracuje s obecnou didaktikou, psychologií (jak žák vnímá), a samozřejmě s **mateřským vědním oborem** (např. strojírenství, ekonomika). **Didaktický trojúhelník:** Jde o dynamický systém tří prvků, které se navzájem ovlivňují: 1.",
-      "**Žák (Ten, kdo se učí):** S jeho prekoncepty, motivací a schopnostmi. 2. **Učitel (Ten, kdo učí):** S jeho odborností, pedagogickým taktem a stylem."
+      "**Oborová didaktika**: Vědecká disciplína zkoumající teorii a praxi vyučování konkrétnímu odbornému předmětu (např. didaktika IT oborů, didaktika elektrooborů).",
+      "**Didaktický systém předmětu**: Logicky uspořádaný obsah učiva transformovaný z mateřské vědy do školní podoby, doplněný o cíle, metody, formy a hodnocení.",
+      "**Vztah didaktiky a oboru**: Obor definuje vědeckou pravdu a obsah (co se učí); didaktika transformuje tento obsah tak, aby byl pochopitelný pro žáky střední školy (jak se učí).",
+      "**Mezioborové vazby**: Propojování teoretického učiva odborných předmětů (např. matematika, fyzika) s praktickým vyučováním (např. programování, elektro dílny)."
     ]
   },
   {
@@ -469,10 +447,10 @@
     "title": "Základní kurikulární dokumenty. Vyjmenujte základní učební dokumenty a vysvětlete jejich význam a závaznost. Posuďte obory vzdělání související s vaším zaměřením, jejich pojetí srovnejte s potřebami praxe.",
     "sourceFile": "ODIP-01-05_kurikulum-rvp-svp.md",
     "bullets": [
-      "**Návaznost**: Zajištění mezipředmětových vztahů (aby žáci nepočítali v odborném předmětu výkony, když ještě nebrali vzorce ve fyzice).",
-      "**Zásadu přiměřenosti**: Učivo musí odpovídat věku a chápání žáků.",
-      "**Zaměření na kompetence**: Osnova by neměla být jen \"seznam kapitol knihy\", ale měla by obsahovat výkonové standardy (např. místo tématu \"Soustruh\" napsat výkon žáka: \"Žák obsluhuje hrotový soustruh podle výkresu\").",
-      "**Zásady tvorby učebních osnov (ODIP 3)**: Učební osnova rozpracovává RVP do konkrétního předmětu a ročníku. Při její tvorbě učitelé musí respektovat:"
+      "**Didaktická transformace**: Proces převodu vědeckých poznatků do podoby školního učiva s ohledem na věkové zvláštnosti žáků, cíle výuky a profil absolventa.",
+      "**Didaktická analýza učiva**: Základní krok přípravy učitele; zahrnuje analýzu pojmovou (definice pojmů), analýzu historickou, operační (dovednosti) a formativní (výchovný potenciál).",
+      "**Kritéria výběru učiva**: Užitečnost pro praxi, vědecká správnost, přiměřenost věku žáků, provázanost s ostatními předměty a soulad s RVP.",
+      "**Logická struktura učiva**: Uspořádání témat od jednodušších k složitějším, od konkrétních praktických úkolů k teoretickému zobecnění."
     ]
   },
   {
@@ -483,10 +461,10 @@
     "title": "Učební osnovy a zásady jejich tvorby. Uveďte zásady tvorby učebních osnov s respektováním požadavků RVP (kompetence žáků). Vysvětlete na praktických příkladech u zvoleného předmětu.",
     "sourceFile": "ODIP-01-05_kurikulum-rvp-svp.md",
     "bullets": [
-      "**Návaznost**: Zajištění mezipředmětových vztahů (aby žáci nepočítali v odborném předmětu výkony, když ještě nebrali vzorce ve fyzice).",
-      "**Zásadu přiměřenosti**: Učivo musí odpovídat věku a chápání žáků.",
-      "**Zaměření na kompetence**: Osnova by neměla být jen \"seznam kapitol knihy\", ale měla by obsahovat výkonové standardy (např. místo tématu \"Soustruh\" napsat výkon žáka: \"Žák obsluhuje hrotový soustruh podle výkresu\").",
-      "**Zásady tvorby učebních osnov (ODIP 3)**: Učební osnova rozpracovává RVP do konkrétního předmětu a ročníku. Při její tvorbě učitelé musí respektovat:"
+      "**Cíle odborného vzdělávání**: Ujasněný, plánovaný a měřitelný výsledek vyučovacího procesu v odborných předmětech, který odpovídá profilu absolventa.",
+      "**Kvalifikační požadavky**: Požadavky kladené trhem práce a legislativou na kompetence a dovednosti absolventa v daném oboru (např. vyhlášky o bezpečnosti, certifikace).",
+      "**Profil absolventa**: Součást ŠVP; popisuje profesní kompetence, uplatnění absolventa v praxi a úroveň jeho klíčových i odborných dovedností.",
+      "**Taxonomie cílů v ODIP**: Kognitivní cíle (vědomosti - Bloom), afektivní cíle (postoje k oboru a etika) a psychomotorické cíle (praktické dovednosti - Niemierko)."
     ]
   },
   {
@@ -497,10 +475,10 @@
     "title": "Osobnost učitele odborných předmětů. Definujte požadavky na učitele SOŠ a SOU. Konkretizujte kompetence učitele na příkladech.",
     "sourceFile": "ODIP-01-05_kurikulum-rvp-svp.md",
     "bullets": [
-      "**Základní požadavky a kompetence**: 1. **Odborná a předmětová kompetence:** Musí mít hlubokou znalost svého oboru, ale navíc musí **sledovat aktuální vývoj praxe a technologií**. (Pokud učí IT podle osnov z roku 2010, je pro žáky k n...",
-      "Musí být **dvojitým expertem**: ve svém řemesle/oboru i v pedagogice. **Základní požadavky a kompetence:** 1.",
-      "**Odborná a předmětová kompetence:** Musí mít hlubokou znalost svého oboru, ale navíc musí **sledovat aktuální vývoj praxe a technologií**. (Pokud učí IT podle osnov z roku 2010, je pro žáky k ničemu). 2. **Pedagogicko-psychologická kompetence:** Umí učivo zjednodušit (didaktická transformace), umí řešit konflikty, motivovat a budovat bezpečné klima.",
-      "**Organizační kompetence:** Zvlášť v odborném výcviku (dílnách) řídí složité procesy, zajišťuje materiál a primárně **bezpečnost práce (BOZP)**. 4. **Komunikativní kompetence:** Reprezentuje školu u zaměstnavatelů (při zajišťování praxí firem), komunikuje s rodiči a odbornou veřejností."
+      "**Rámcový vzdělávací program (RVP)**: Státní kurikulární dokument vymezující závazný rámec odborného vzdělávání pro konkrétní obor (kód oboru, klíčové kompetence, učivo).",
+      "**Školní vzdělávací program (ŠVP)**: Školní dokument adaptující RVP na podmínky konkrétní školy, regionální trh práce a specifickou profilaci výuky.",
+      "**Profilace školy**: Zaměření a specializace školy v rámci daného oboru (např. IT obor se specializací na kyberbezpečnost nebo vývoj aplikací).",
+      "**Tvorba ŠVP**: Proces realizovaný pedagogickým týmem školy; zahrnuje analýzu potřeb, tvorbu učebního plánu, osnov předmětů a stanovení metod hodnocení."
     ]
   },
   {
@@ -511,11 +489,10 @@
     "title": "Aktuální model maturitní zkoušky. Vysvětlete konstrukci stávajícího modelu a zvláštnosti v odborném předmětu. Popište možnosti ukončení vzdělávání na SOU.",
     "sourceFile": "ODIP-01-05_kurikulum-rvp-svp.md",
     "bullets": [
-      "**Formy zkoušek**: Ústní zkouška (losování otázek), Písemná práce, nebo nejdůležitější pro SOŠ: **Praktická zkouška** (obhajoba maturitní práce / řešení souvislého praktického úkolu v laboratoři či softwaru). Zde žák...",
-      "**Odpověď**: RVP je poměrně rigidní dokument (trvá roky, než se inovuje). Učitel ale v rámci ŠVP **může nad rámec RVP inovovat**. Učitel učí to, co vyžaduje RVP v minimální míře (aby žák uspěl u jednotných zkou...",
-      "**Odpověď**: **Mezipředmětová roztříštěnost.** Každý učitel je expert na svůj předmět a má tendenci si \"urvat\" co nejvíce hodin pro sebe, často bez toho, aby komunikoval s kolegy. Stává se tak, že žáci v odborn...",
-      "**Odpověď**: Státní část slouží spíše k ověření gramotnosti a obecné připravenosti (často kvůli prostupnosti na VŠ). Z pohledu trhu práce a zaměstnavatele je ale naprosto irelevantní, kolik bodů má instalatér/I...",
-      "**Maturitní zkouška Zákon č / Sb  Školský zákon**: Skládá se ze dvou částí (aby byla zkouška platná, musí žák složit obě):"
+      "**Vzdělávací oblasti v odborném školství**: Tematické celky sdružující příbuzné odborné předměty v RVP (např. informační technologie, ekonomika, elektrotechnika).",
+      "**Klíčové kompetence v odborném vzdělávání**: Kompetence k učení, řešení problémů, komunikativní, personální a sociální, občanské a především pracovní kompetence.",
+      "**Odborné kompetence**: Specifické dovednosti a znalosti potřebné pro výkon konkrétní profese (např. návrh databází, zapojení elektrického obvodu).",
+      "**Průřezová témata**: Témata procházející napříč předměty (např. Občan v demokratické společnosti, Člověk a svět práce, ICT jako nástroj vzdělávání)."
     ]
   },
   {
@@ -526,11 +503,11 @@
     "title": "Koncepce výchovy a vzdělávání v odborných předmětech. Charakterizujte výchovně-vzdělávací cíle, rozeberte jejich koncepci, doložte příklady. Posuďte obsah vzdělávání a vymezte rozsah učiva s akcentem na základní učivo.",
     "sourceFile": "ODIP-06-10_metody-teoreticke-vyuky.md",
     "bullets": [
-      "**Koncepce vzdělávání**: Zaměření na rozvoj profesních kompetencí, které odpovídají moderním trendům v oboru a potřebám trhu práce.",
-      "**Cíle výuky**: Dělí se na kognitivní (vědomosti, porozumění), psychomotorické (praktické dovednosti) a afektivní (postoje k oboru a etika).",
-      "**Základní učivo**: Jádro učiva, které musí ovládnout každý žák; zahrnuje klíčové pojmy, principy a BOZP pravidla v daném oboru.",
-      "**Rozšiřující učivo**: Nadstavba pro talentované žáky a hlubší pochopení problematiky (např. moderní technologie nad rámec standardu).",
-      "**Výchovné působení**: Formování profesní cti, odpovědnosti za odvedenou práci, ekologického chování a týmové spolupráce."
+      "**Učební osnovy**: Závazný pedagogický dokument konkrétní školy (součást ŠVP) vymezující obsah, cíle, rozsah hodin a metody výuky konkrétního předmětu.",
+      "**Tematický plán**: Operativní plán učitele na školní rok; rozepisuje učivo z osnov do jednotlivých týdnů či vyučovacích hodin, včetně metod a hodnocení.",
+      "**Základní učivo**: Jádro učiva, které musí bezpodmínečně zvládnout každý žák; klíčové pojmy, principy a bezpečnostní pravidla BOZP v daném oboru.",
+      "**Rozšiřující učivo**: Nadstavbové učivo určené pro talentované žáky a hlubší pochopení problematiky (např. moderní technologie nad rámec standardu RVP).",
+      "**Výchovné působení**: Formování profesní hrdosti, odpovědnosti za odvedenou práci, ekologického chování, etiky oboru a týmové spolupráce."
     ]
   },
   {
@@ -541,11 +518,11 @@
     "title": "Formy výuky odborných předmětů. Popište formy výuky, analyzujte jejich účinnost. Analyzujte strukturu různých typů teoretických vyučovacích jednotek.",
     "sourceFile": "ODIP-06-10_metody-teoreticke-vyuky.md",
     "bullets": [
-      "**Hromadná výuka**: Tradiční forma, kde jeden učitel pracuje se celou třídou najednou; výhodou je ekonomičnost, nevýhodou slabá individualizace.",
-      "**Skupinová výuka**: Žáci pracují v malých týmech na společném úkolu; rozvíjí sociální kompetence, kooperaci a řešení konfliktů.",
-      "**Individualizovaná výuka**: Přizpůsobení tempa a metod schopnostem jednotlivých žáků; uplatňuje se v praktickém vyučování.",
-      "**Laboratorní práce**: Praktické ověřování teoretických poznatků v kontrolovaném prostředí s materiálním vybavením.",
-      "**Struktura hodiny**: Zahrnuje úvod (organizační a motivační), expoziční část (nové učivo), fixační část (procvičování), diagnostickou a závěr."
+      "**Vyučovací hodina**: Základní organizační forma teoretického vyučování (obvykle 45 minut) s jasným didaktickým cílem a strukturou.",
+      "**Hromadná výuka**: Tradiční forma, kde učitel pracuje se celou třídou najednou; výhodou je ekonomičnost, nevýhodou slabá individualizace.",
+      "**Skupinová výuka**: Žáci pracují v malých skupinách na společném úkolu; rozvíjí kooperaci, komunikační dovednosti a řešení konfliktů.",
+      "**Individualizovaná výuka**: Přizpůsobení tempa, obsahu a metod schopnostem jednotlivých žáků; nezbytná v praktickém vyučování.",
+      "**Struktura hodiny**: Zahrnuje úvod (organizační a motivační), expoziční část (nové učivo), fixační část (procvičování), diagnostickou (prověření) a závěr."
     ]
   },
   {
@@ -556,11 +533,11 @@
     "title": "Exkurze – příprava, organizace, vyhodnocení. Navrhněte témata. Uveďte zásady přípravy, organizace a vyhodnocení.",
     "sourceFile": "ODIP-06-10_metody-teoreticke-vyuky.md",
     "bullets": [
-      "**Fáze přípravy**: Stanovení cíle, výběr pracoviště, zajištění povolení, finanční kalkulace, poučení žáků o BOZP a vytvoření pracovních listů.",
-      "**Organizační fáze**: Vlastní průběh exkurze, dodržování časového plánu, doprovod žáků a plnění zadaných úkolů na pracovišti.",
-      "**Fáze vyhodnocení**: Reflexe ve třídě, zpracování zpráv ze strany žáků, prezentace výsledků a propojení získaných poznatků s teorií.",
-      "**Témata exkurzí**: Návštěvy specializovaných výrobních podniků, moderních farem, odborných veletrhů a výzkumných institucí v oboru.",
-      "**Didaktický přínos**: Propojení školní teorie s reálnou průmyslovou praxí a zvýšení motivace žáků k budoucí profesi."
+      "**Didaktická exkurze**: Organizační forma výuky realizovaná v reálném profesním prostředí mimo školu; propojuje školní teorii s průmyslovou praxí.",
+      "**Fáze přípravy exkurze**: Stanovení cíle, výběr pracoviště, zajištění povolení a dopravy, poučení žáků o BOZP, příprava pracovních listů a úkolů.",
+      "**Fáze realizace exkurze**: Vlastní průběh exkurze, dodržování časového plánu, doprovod žáků a plnění zadaných úkolů na pracovišti.",
+      "**Fáze vyhodnocení**: Zpětná reflexe ve třídě, zpracování zpráv ze strany žáků, prezentace výsledků a integrace poznatků do teoretické výuky.",
+      "**Didaktický přínos**: Zvýšení motivace žáků k oboru, seznámení se s moderními technologiemi v reálném provozu a budoucí profesní orientace."
     ]
   },
   {
@@ -571,11 +548,11 @@
     "title": "Vyučovací metody – expoziční. Posuďte účinnost monologických a dialogických metod. Navrhněte aktivizační metody, ukažte aplikaci. Metoda samostatné práce.",
     "sourceFile": "ODIP-06-10_metody-teoreticke-vyuky.md",
     "bullets": [
-      "**Expoziční metody**: Metody určené pro prvotní zprostředkování nového učiva žákům (výklad, vysvětlování, demonstrace).",
-      "**Monologické metody**: Přednáška, výklad, vysvětlování; jsou efektivní pro rychlé předání strukturovaných informací, ale žák je spíše pasivní.",
-      "**Dialogické metody**: Rozhovor, diskuse; aktivizují žáky, rozvíjejí kritické myšlení a umožňují okamžitou zpětnou vazbu.",
-      "**Metoda samostatné práce**: Žáci vyhledávají informace a řeší úlohy sami nebo s minimální dopomocí, což buduje autonomii.",
-      "**Názorně-demonstrační metody**: Ukázky reálných předmětů, modelů, procesů či videí; usnadňují pochopení abstraktních pojmů."
+      "**Monologické metody**: Metody slovního zprostředkování nového učiva učitelem (přednáška, výklad, vysvětlování); efektivní pro strukturované předání informací.",
+      "**Dialogické metody**: Metody založené na interakci učitel-žák (rozhovor, diskuse); aktivizují žáky, rozvíjejí kritické myšlení a poskytují okamžitou zpětnou vazbu.",
+      "**Metoda samostatné práce**: Žáci vyhledávají informace a řeší úlohy sami nebo s minimální dopomocí, což buduje autonomii a pracovní návyky.",
+      "**Názorně-demonstrační metody**: Ukázky reálných předmětů, modelů, procesů či videí; usnadňují pochopení abstraktních teoretických pojmů.",
+      "**Didaktické hry**: Metody integrující učení do herní formy (simulační hry, kvízy); zvyšují motivaci a zapamatování učiva."
     ]
   },
   {
@@ -586,11 +563,11 @@
     "title": "Vyučovací metody – fixační a diagnostické. Postupy pro fixaci poznatků. Diagnostika vědomostí, zásady klasifikace. Diferenciace testů a jejich hlavní vlastnosti.",
     "sourceFile": "ODIP-06-10_metody-teoreticke-vyuky.md",
     "bullets": [
-      "**Didaktické testy**: Nástroj k hromadnému a přesnému zjištění vědomostí.",
-      "**Validita (Platnost)**: Měří test to, co opravdu měřit má? (Pokud dám do testu z autoopravárenství složité souvětí, kterým žák neporozumí, měřím jeho čtenářskou gramotnost, ne znalost aut).",
-      "**Reliabilita (Spolehlivost)**: Pokud test zadám stejné skupině znovu, měly by vyjít podobné výsledky. (Test nesmí být postaven na náhodném tipování).",
-      "**Praktičnost**: Je snadné ho zadat i vyhodnotit (např. zaškrtávací a-b-c-d vs. volné eseje).",
-      "**Fixační postupy**: Ústní opakování (shrnutí toho nejdůležitějšího na konci hodiny)."
+      "**Problémová výuka**: Metoda, při níž žáci samostatně nebo ve skupinách řeší nestrukturovaný didaktický problém, čímž si osvojují nové vědomosti a postupy.",
+      "**Projektová výuka**: Komplexní metoda zaměřená na řešení praktického, smysluplného úkolu (projektu) s konkrétním výstupem; integruje více předmětů.",
+      "**Programované učení**: Učení rozdělené do malých, logicky navazujících kroků s okamžitou kontrolou správnosti (často realizované pomocí e-learningu).",
+      "**E-learning a blended learning**: Využití digitálních technologií a LMS systémů (Moodle, Google Classroom) pro distanční i kombinovanou výuku.",
+      "**Simulace a virtuální realita**: Moderní metody umožňující bezpečný nácvik rizikových operací v IT či průmyslu (např. konfigurace virtuálních sítí)."
     ]
   },
   {
@@ -601,11 +578,10 @@
     "title": "Didaktická analýza a její kroky. Popište jednotlivé kroky, konkretizujte u vybraného celku. Stanovte cíle, formu, metody a prostředky. Uveďte faktory ovlivňující učitele.",
     "sourceFile": "ODIP-11-15_priprava-hospitace-analyza.md",
     "bullets": [
-      "**Hlavička**: Třída, předmět, datum, téma hodiny.",
-      "**Cíl hodiny**: Co se žáci naučí.",
-      "**Fáze hodiny (Časový snímek)**: 5 min: zápis, opakování.",
-      "**Výchovné působení**: U odborných předmětů to je vždy *výchova k BOZP* a *přesnosti / zodpovědnosti za práci*.",
-      "**Didaktická analýza (Kroky)**: 1. **Pojmová analýza:** Učitel si vezme téma (např. *Elektrický obvod*) a vypíše si všechny odborné pojmy (zdroj, spotřebič, napětí, proud, odpor)."
+      "**Hospitace**: Cílevědomé sledování vyučovacího procesu s cílem analyzovat kvalitu výuky, metody učitele, aktivitu žáků a plnění cílů.",
+      "**Fáze hospitační činnosti**: 1. Příprava (studium dokumentace, stanovení cíle), 2. Vlastní pozorování (záznam průběhu), 3. Hospitační rozbor (zpětná vazba).",
+      "**Hospitační rozbor**: Konstruktivní rozhovor mezi hospitujícím a vyučujícím; začíná sebereflexí učitele, následuje analýza pozitiv, rezerv a doporučení.",
+      "**Typy hospitací**: Hospitace ředitelská (kontrolní), inspekční (ČŠI), kolegiální (vzájemná výměna zkušeností mezi učiteli) a hospitace uvádějícího učitele."
     ]
   },
   {
@@ -616,11 +592,10 @@
     "title": "Příprava na vyučovací jednotku. Analyzujte obsahové a formální náležitosti přípravy. Přizpůsobte volbu prostředků. Zdůrazněte možnosti výchovného působení.",
     "sourceFile": "ODIP-11-15_priprava-hospitace-analyza.md",
     "bullets": [
-      "**Hlavička**: Třída, předmět, datum, téma hodiny.",
-      "**Cíl hodiny**: Co se žáci naučí.",
-      "**Fáze hodiny (Časový snímek)**: 5 min: zápis, opakování.",
-      "**Výchovné působení**: U odborných předmětů to je vždy *výchova k BOZP* a *přesnosti / zodpovědnosti za práci*.",
-      "**Didaktická analýza (Kroky)**: 1. **Pojmová analýza:** Učitel si vezme téma (např. *Elektrický obvod*) a vypíše si všechny odborné pojmy (zdroj, spotřebič, napětí, proud, odpor)."
+      "**Materiální prostředky výuky**: Veškeré předměty a zařízení, které slouží k dosažení didaktických cílů v odborném vzdělávání.",
+      "**Učební pomůcky**: Předměty zprostředkovávající žákům informace (učebnice, schémata, modely, prezentace, programový kód, reálné vzorky).",
+      "**Didaktická technika**: Technické prostředky sloužící k prezentaci učebních pomůcek (projektory, interaktivní tabule, počítače, tablety, servery).",
+      "**Odborné učebny a dílny**: Speciálně vybavené prostory pro výuku (IT laboratoře, elektrodílny, cvičné kuchyně) splňující přísné normy BOZP."
     ]
   },
   {
@@ -631,11 +606,10 @@
     "title": "Materiální didaktické prostředky. Vysvětlete funkci a vliv na zvyšování účinnosti výuky. Zaměřte se na význam textových pomůcek (učebnic) po metodické stránce a jejich využití.",
     "sourceFile": "ODIP-11-15_priprava-hospitace-analyza.md",
     "bullets": [
-      "**Žákovské pomůcky**: Sešity, rýsovací potřeby, pracovní oděv.",
-      "**Učitelské pomůcky**: Modely (řez motorem), skutečné předměty (vadná součástka pro ukázku trhliny), audiovizuální technika.",
-      "**Zařízení školy**: Tabule, projektor, speciálně vybavená laboratoř, cvičná kuchyně.",
-      "**Vliv na účinnost výuky**: Zapojují více smyslů. Pokud žák pouze slyší definici (10 % zapamatování), ale pokud vidí reálný vadný píst, může si ho osahat a porovnat se zdravým kusem, zapamatování stoupá k 80 %. Jde o uplatněn...",
-      "**Textové učební pomůcky (Učebnice)**: Pro učitele je to zdroj pro přípravu (ale neměl by to být jediný zdroj!)."
+      "**Příprava učitele na vyučování**: Systematický proces plánování vyučovací hodiny; rozlišuje se příprava dlouhodobá (tematický plán) a bezprostřední (plán hodiny).",
+      "**Písemná příprava**: Obsahuje téma, cíle výuky (kognitivní, postojové), metody, pomůcky, časový harmonogram, konkrétní úkoly a plán hodnocení.",
+      "**Didaktická analýza tématu**: Rozbor učiva z hlediska cílů, vazeb na předchozí látku, klíčových pojmů a možných chybových vzorců žáků.",
+      "**Materiální zajištění**: Příprava prezentací, pracovních listů, softwaru, nářadí, materiálu a kontrola funkčnosti techniky před zahájením hodiny."
     ]
   },
   {
@@ -646,11 +620,10 @@
     "title": "Mezipředmětové vztahy a didaktické zásady. Objasněte podstatu a význam mezipředmětových vztahů (MPV) ve výuce. Aplikujte didaktické zásady.",
     "sourceFile": "ODIP-11-15_priprava-hospitace-analyza.md",
     "bullets": [
-      "**Mezipředmětové vztahy (MPV)**: Zabraňují \"atomizaci\" vědomostí (stavu, kdy žák umí matematiku v hodině matematiky, ale neumí ji aplikovat v dílně, aby spočítal spotřebu materiálu).",
-      "**Didaktické zásady**: Základní \"zákony\" učitelství, zformulované z velké části J. A. Komenským:",
-      "ODIP 13: Mezipředmětové vztahy a Didaktické zásady **Mezipředmětové vztahy (MPV):** Zabraňují \"atomizaci\" vědomostí (stavu, kdy žák umí matematiku v hodině matematiky, ale neumí ji aplikovat v dílně, aby spočítal spotřebu materiálu).",
-      "**Didaktické zásady:** Základní \"zákony\" učitelství, zformulované z velké části J. A. Komenským: 1. **Zásada názornosti:** Učit primárně přes smysly (ukázat, osahat).",
-      "**Zásada přiměřenosti:** Obsah a tempo musí odpovídat věku a úrovni žáků. 3. **Zásada posloupnosti a systematičnosti:** Postupovat od známého k neznámému, od jednoduchého ke složitému, od konkrétního k abstraktnímu."
+      "**Učitel odborných předmětů**: Specifická pedagogická profese vyžadující jak vysokou odbornou kvalifikaci v oboru, tak pedagogicko-psychologickou způsobilost.",
+      "**Osobnostní předpoklady**: Trpělivost, spravedlnost, empatie, organizační schopnosti, komunikační zdatnost a nadšení pro svůj obor.",
+      "**Odborné kompetence**: Hluboké znalosti oboru, schopnost sledovat moderní trendy v technologiích, propojení s praxí a spolupráce s firmami.",
+      "**Pedagogicko-psychologické kompetence**: Schopnost didaktické transformace učiva, diagnostika žáků, vedení třídy, zvládání stresu a psychohygiena."
     ]
   },
   {
@@ -661,11 +634,10 @@
     "title": "Hospitační činnost v odborných předmětech. Popište hospitaci jako evaluační nástroj, její cíle, způsoby realizace, subjekty, kritéria hodnocení a náležitosti hospitačního záznamu.",
     "sourceFile": "ODIP-11-15_priprava-hospitace-analyza.md",
     "bullets": [
-      "**Cíle a subjekty**: *Kontrolní (Ředitel/zástupce):* Splňuje učitel ŠVP? Dodržuje BOZP? Je objektivní při klasifikaci?",
-      "**Fáze hospitace**: 1. **Příprava:** Hospitující si zjistí, co se bude probírat (často proběhne krátký rozhovor s učitelem před hodinou). Hospitace nikdy nebývá \"tajná\".",
-      "**Hospitační záznam**: Je to oficiální (často digitalizovaný) dokument uložený u vedení školy. Obsahuje datum, jméno učitele, téma hodiny a hodnocení kritérií (přiměřenost výkladu, aktivizace žáků, kázeň, pomůcky). Končí...",
-      "**Odpověď**: Zásada posloupnosti \"od teorie k praxi\" není posvátná kráva. Někdy (zejména v oborovém výcviku) je efektivnější postupovat induktivně (viz Kolbův cyklus, PES 24): nechat žáka udělat konkrétní úkon ...",
-      "**Odpověď**: Ne, pokud chybu učitel sám odhalí a správně zareaguje! Zkušený hospitující nečeká divadlo bez chybičky, ale sleduje reakci učitele. Přiznat před žáky \"Aha, teď jsem to na tabuli napsal špatně, vidí..."
+      "**Vnitřní diferenciace výuky**: Přizpůsobení metod, tempa a úkolů individuálním schopnostem žáků přímo v heterogenní třídě (např. odstupňovaná obtížnost úkolů).",
+      "**Individualizace výuky**: Vytváření specifických podmínek pro rozvoj každého jedince (např. IVP pro nadané žáky či žáky se SVP).",
+      "**Práce s talentovanými žáky**: Zadávání komplexních výzev (např. vývoj složitější aplikace), zapojení do odborných soutěží (SOČ) a projektů.",
+      "**Podpora slabších žáků**: Využití doučování, konzultačních hodin, zjednodušených pracovních listů, názorných pomůcek a asistentů pedagoga."
     ]
   },
   {
@@ -676,11 +648,11 @@
     "title": "Základní pojmy didaktiky praktického vyučování: pracovní postup, pracovní operace, pracovní úkon. Konkretizace u vybraného tématu.",
     "sourceFile": "ODIP-16-20_ucitel-praxe-dovednosti.md",
     "bullets": [
-      "**Pracovní postup**: Souhrn všech kroků, činností a technologických operací vedoucích ke zhotovení konkrétního výrobku nebo splnění úkolu.",
-      "**Pracovní operace**: Relativně samostatná část pracovního postupu, která mění stav, tvar nebo vlastnosti zpracovávaného předmětu (např. řezání materiálu).",
-      "**Pracovní úkon**: Nejmenší, dále nedělitelná pohybová část pracovní operace, která má jasný cíl (např. uchopení nástroje, otočení kohoutku).",
-      "**Didaktická posloupnost**: Učitel při výuce rozkládá složitý pracovní postup na jednotlivé operace a úkony, které žákům názorně předvádí.",
-      "**Praktické procvičování**: Žáci si osvojují dovednosti v opačném pořadí — od jednoduchých úkonů k celým operacím a finálnímu postupu."
+      "**Pracovní postup**: Souhrn všech logických kroků, technologických operací a činností vedoucích ke zhotovení konkrétního výrobku nebo splnění zadaného úkolu.",
+      "**Pracovní operace**: Relativně samostatná část pracovního postupu, která mění stav, tvar nebo vlastnosti zpracovávaného předmětu (např. řezání materiálu, instalace balíčku).",
+      "**Pracovní úkon**: Nejmenší, dále nedělitelná pohybová část pracovní operace, která má jasně definovaný cíl (např. uchopení nástroje, napsání příkazu).",
+      "**Didaktický rozbor postupu**: Učitel při přípravě rozkládá složitý pracovní postup na jednotlivé operace a úkony, které žákům názorně a postupně předvádí.",
+      "**Didaktická posloupnost nácviku**: Žáci si osvojují dovednosti postupně — od nejjednodušších úkonů k celým operacím až po komplexní pracovní postup."
     ]
   },
   {
@@ -691,11 +663,10 @@
     "title": "Dovednostní cíle praktického vyučování. Stanovení cílů pro konkrétní jednotku. Výchovné cíle a jejich význam.",
     "sourceFile": "ODIP-16-20_ucitel-praxe-dovednosti.md",
     "bullets": [
-      "**Cíle praktického vyučování**: Zatímco teorie má cíle převážně kognitivní (znalosti), praxe se soustředí na:",
-      "**Rozdíl mezi dovedností a návykem**: *Dovednost* je vědomá (vím, co dělám a proč). Dělíme je na intelektové (čtení výkresu), senzomotorické (řezání materiálu) a komunikační (jednání se zákazníkem).",
-      "ODIP 18 a 19: Cíle a vytváření dovedností a návyků **Cíle praktického vyučování:** Zatímco teorie má cíle převážně kognitivní (znalosti), praxe se soustředí na: 1. **Dovednostní (Psychomotorické) cíle:** Týkají se těla a pohybu.",
-      "**Výchovné (Afektivní) cíle:** V praxi jsou kriticky důležité!",
-      "**Rozdíl mezi dovedností a návykem:** - *Dovednost* je vědomá (vím, co dělám a proč)."
+      "**Instruktáž**: Slovní i názorné předvedení správného pracovního postupu, operace nebo úkonu učitelem praktického vyučování.",
+      "**Metodický postup instruktáže**: 1. Úvodní vysvětlení cíle a významu úkolu, 2. Názorné předvedení v normálním tempu, 3. Předvedení ve zpomaleném tempu s komentářem.",
+      "**Zapojení žáků při instruktáži**: Kontrolní otázky učitele (\"Proč držím nástroj pod tímto úhlem?\"), zkušební provedení úkonu jedním ze žáků s korekcí.",
+      "**Zpětná vazba**: Učitel během nácviku sleduje práci všech žáků, okamžitě koriguje chyby v držení těla či nástroje a dbá na striktní dodržování BOZP."
     ]
   },
   {
@@ -706,11 +677,10 @@
     "title": "Postup při vytváření praktických dovedností a návyků. Vysvětlete pojmy dovednost a návyk, jejich rozdělení a postup osvojování.",
     "sourceFile": "ODIP-16-20_ucitel-praxe-dovednosti.md",
     "bullets": [
-      "**Cíle praktického vyučování**: Zatímco teorie má cíle převážně kognitivní (znalosti), praxe se soustředí na:",
-      "**Rozdíl mezi dovedností a návykem**: *Dovednost* je vědomá (vím, co dělám a proč). Dělíme je na intelektové (čtení výkresu), senzomotorické (řezání materiálu) a komunikační (jednání se zákazníkem).",
-      "ODIP 18 a 19: Cíle a vytváření dovedností a návyků **Cíle praktického vyučování:** Zatímco teorie má cíle převážně kognitivní (znalosti), praxe se soustředí na: 1. **Dovednostní (Psychomotorické) cíle:** Týkají se těla a pohybu.",
-      "**Výchovné (Afektivní) cíle:** V praxi jsou kriticky důležité!",
-      "**Rozdíl mezi dovedností a návykem:** - *Dovednost* je vědomá (vím, co dělám a proč)."
+      "**Pracovní instruktáž na pracovišti**: Specifická forma instruktáže probíhající v reálných podmínkách firem; provádí ji instruktor nebo mistr.",
+      "**Fáze pracovní instruktáže**: 1. Příprava žáka (motivace, BOZP), 2. Vysvětlení a předvedení práce, 3. Vyzkoušení práce žákem pod dohledem, 4. Samostatná práce s občasnou kontrolou.",
+      "**Instruktor v podniku**: Odborný pracovník firmy pověřený vedením žáků na praxi; spolupracuje s učitelem odborného výcviku a hodnotí žáka.",
+      "**Záznam o praxi**: Žáci si vedou deník praxe, kam zaznamenávají vykonávané činnosti, pracovní postupy a reflexi získaných zkušeností."
     ]
   },
   {
@@ -721,11 +691,10 @@
     "title": "Osobnost učitele praktického vyučování. Vliv na žáky, atributy. Činnost plánovací, řídicí, kontrolní. Mimoškolní činnost a zvyšování kvalifikace.",
     "sourceFile": "ODIP-16-20_ucitel-praxe-dovednosti.md",
     "bullets": [
-      "**Plánovací činnost**: Připravuje harmonogram prací, rozděluje žáky na pracoviště, zajišťuje materiál (objednávky u dodavatelů, protože jinak žáci nemají z čeho vyrábět).",
-      "**Řídicí činnost**: Přímo vede provoz na dílně. Má zodpovědnost za BOZP a dodržování technologické kázně. Je to manažer mikropodniku (dílny).",
-      "**Kontrolní a rozhodovací**: Hodnotí výrobky žáků (např. pomocí posuvného měřítka, kde se nedá subjektivně uhádat, že to je \"dobře\", když to nesedí). Rozhoduje o vyřazení zmetku.",
-      "**Mimoškolní činnost a kvalifikace**: Obory se vyvíjí brutální rychlostí (např. IT, elektro, auto). Pokud mistr nespolupracuje s firmami a nejezdí na školení dodavatelů, za 3 roky učí muzejní historii.",
-      "**Atributy a činnosti**: **Plánovací činnost:** Připravuje harmonogram prací, rozděluje žáky na pracoviště, zajišťuje materiál (objednávky u dodavatelů, protože jinak žáci nemají z čeho vyrábět)."
+      "**Učitel praktického vyučování (mistr)**: Pedagogický pracovník zajišťující profesní přípravu žáků v dílnách, laboratořích nebo na reálných pracovištích.",
+      "**Kompetence mistra**: Odborná zručnost v řemesle, didaktická schopnost předvádět pracovní postupy, organizační zdatnost a hluboká znalost BOZP předpisů.",
+      "**Specifika pedagogického působení**: Výuka probíhá v menších skupinách; silný osobní příklad mistra, rozvoj profesní identity, odpovědnosti a etiky.",
+      "**Spolupráce s firmami**: Komunikace s instruktory na smluvních pracovištích, koordinace odborné praxe a sledování aktuálních požadavků trhu práce."
     ]
   },
   {
@@ -736,11 +705,10 @@
     "title": "Formy spolupráce mezi učiteli praktického vyučování a ostatními. Mezipředmětové a vnitropředmětové vztahy v praxi. Vztah praxe a teorie. Předmětová (metodická) komise.",
     "sourceFile": "ODIP-16-20_ucitel-praxe-dovednosti.md",
     "bullets": [
-      "**Mezipředmětové vztahy (MPV)**: Vztah praxe a ostatních předmětů. (Např. žák u CNC stroje musí aplikovat znalosti z Matematiky a ze strojírenské Technologie).",
-      "**Vnitropředmětové vztahy (VPV)**: Návaznost učiva v rámci jednoho předmětu. (Než začnu řezat závit, musím umět navrtat díru = návaznost operací).",
-      "**Předmětová (Metodická) komise**: Klíčový orgán školy. Sdružuje učitele teorie a praxe daného oboru. Úkoly komise:",
-      "**Typy vztahů**: **Mezipředmětové vztahy (MPV):** Vztah praxe a ostatních předmětů. (Např. žák u CNC stroje musí aplikovat znalosti z Matematiky a ze strojírenské Technologie).",
-      "**Odpověď**: Zlozvyk je špatně provedená činnost, která se opakovaným drilem přesunula ze stádia \"dovednost\" do stádia \"návyk\". V ten okamžik ji už neřídí vědomá (pomalá) část mozku, ale automatická. Aby mistr ..."
+      "**Dovednost**: Učené a procvičováním zafixované předpoklady k úspěšnému vykonávání určité činnosti (např. psaní kódu, pájení, zapojení obvodu).",
+      "**Struktura dovedností**: Dělí se na teoretické (myšlenkové postupy), praktické (manuální operace), sociální (komunikace) a senzomotorické (koordinace oka a ruky).",
+      "**Proces formování dovedností**: 1. Motivační fáze, 2. Kognitivní fáze (pochopení postupu), 3. Nácviková fáze (první pokusy pod dohledem), 4. Fixační fáze (procvičování), 5. Automatizace.",
+      "**Didaktické zásady nácviku**: Postup od jednoduchého ke složitému, neustálá korektivní zpětná vazba, dodržování bezpečnostních návyků od prvního okamžiku."
     ]
   },
   {
@@ -751,10 +719,10 @@
     "title": "Organizační formy praxe. Uveďte formy praxe, vysvětlete typ dovedností v ročnících, rozsah na vaší škole.",
     "sourceFile": "ODIP-21-25_formy-praxe-ucebni-den.md",
     "bullets": [
-      "**Návaznost v ročnících**: *1. ročník:* Osvojování zcela základních *pracovních úkonů* a operací. (Řezání, pilování, pájení). Žáci jsou chráněni v simulovaném prostředí školních dílen.",
-      "**Dílenská (školní) praxe:** Probíhá ve speciálně vybavených školních dílnách (cvičných laboratořích, kuchyních). Prostředí je přizpůsobeno žákům (stroje s extra bezpečností). Skupinová forma výuky (mistr má na starosti např. 12 žáků). 2. **Skupinová praxe na reálném pracovišti:** Celá skupina žáků s jedním mistrem jede např.",
-      "**Individuální (provozní) praxe:** Žák z vyššího ročníku je přiřazen do reálné firmy jako \"pracovník\" pod dohledem podnikového instruktora. 4. **Exkurze:** Pozorovací praxe, nenasazují se montérky (viz ODIP 8).",
-      "**Návaznost v ročnících:** - *1."
+      "**Praktické vyučování**: Organizační forma výuky zaměřená na osvojení praktických dovedností, návyků a postojů potřebných pro výkon konkrétního povolání.",
+      "**Formy praktického vyučování**: Odborný výcvik (dílny, laboratoře), učební praxe (ve škole, fiktivní firmy) a odborná praxe (přímo na pracovištích firem).",
+      "**Organizace praktického vyučování**: Dělí se na dny teoretického vyučování a dny praktického vyučování; délka vyučovacího dne na praxi je obvykle 6 hodin (výjimečně 7).",
+      "**Spolupráce se sociálními partnery**: Škola spolupracuje s firmami, cechy a úřady práce při tvorbě ŠVP, zajištění praxí a uplatnění absolventů."
     ]
   },
   {
@@ -765,10 +733,10 @@
     "title": "Vyučovací metody v praktickém vyučování. Zhodnoťte metody a charakterizujte prvky metodického postupu při osvojování dovedností a návyků.",
     "sourceFile": "ODIP-21-25_formy-praxe-ucebni-den.md",
     "bullets": [
-      "Metody praxe se řídí pravidlem: **„Slyším – zapomenu, Vidím – zapamatuji si, Udělám – pochopím.“** 1.",
-      "**Instruktáž (Slovní metoda + Ukázka):** Nejpoužívanější metoda.",
-      "- *Metodický prvek:* Během instruktáže musí mít učitel všechny žáky v půlkruhu tak, aby mu **viděli na ruce** (nesmí k nim stát zády). 2. **Cvičení a dril (Pracovní metoda):** Žáci opakují danou operaci.",
-      "**Laboratorní a projektová metoda:** Aplikace pro vyšší ročníky."
+      "**Učební den**: Základní časová jednotka praktického vyučování (obvykle 6 hodin); má specifické fázování a přísná pedagogická i bezpečnostní pravidla.",
+      "**Zahájení a úvodní fáze**: Organizační část (nástup, kontrola docházky a pracovního oděvu), motivační úvod, instruktáž k novému úkolu a zopakování BOZP.",
+      "**Pracovně-nácviková fáze**: Těžiště učebního dne; samostatná práce žáků pod dozorem mistra, průběžné formativní hodnocení a korekce chyb.",
+      "**Závěrečná fáze učebního dne**: Úklid pracoviště a nářadí, vyhodnocení práce jednotlivých žáků, rozbor chyb, zápis do deníku a hodnocení (známka/body)."
     ]
   },
   {
@@ -779,11 +747,11 @@
     "title": "Typy učebních dnů. Jakých typů lze využít v praktickém vyučování a kdy byste je zařadili?",
     "sourceFile": "ODIP-21-25_formy-praxe-ucebni-den.md",
     "bullets": [
-      "**Nácvikový den**: Zaměřený na osvojení a procvičování nových praktických dovedností a úkonů pod přímým vedením učitele.",
-      "**Produktivní den**: Žáci vykonávají reálnou produktivní práci (např. zakázky pro zákazníky), což zvyšuje odpovědnost a simuluje praxi.",
-      "**Tematický den**: Celý den je věnován jednomu komplexnímu tématu nebo projektu, který propojuje více dovedností.",
-      "**Kontrolní (zkouškový) den**: Určený pro prověřování a klasifikaci praktických dovedností, samostatnosti a dodržování BOZP.",
-      "**Zařazení do výuky**: Nácvikové dny převažují v nižších ročnících, produktivní a komplexní dny se zařazují ve vyšších ročnících."
+      "**Nácvikový den**: Den věnovaný osvojování a procvičování nových dílčích praktických dovedností pod přímým a neustálým vedením mistra.",
+      "**Produktivní den**: Žáci vykonávají reálnou produktivní práci (např. opravy aut, zakázky v IT), což simuluje skutečné zaměstnání.",
+      "**Tematický den**: Celý učební den je věnován jednomu komplexnímu tématu nebo projektu, který propojuje více dovedností (např. tvorba e-shopu).",
+      "**Kontrolní (zkouškový) den**: Den určený výhradně pro prověřování a klasifikaci praktických dovedností, samostatnosti a dodržování BOZP.",
+      "**Zařazení ve výuce**: Nácvikové dny dominují v nižších ročnících (osvojení základů), produktivní a komplexní dny se zařazují ve vyšších ročnících."
     ]
   },
   {
@@ -794,11 +762,11 @@
     "title": "Varianty praktických vyučovacích jednotek. Možné varianty a pro které praktické jednotky jsou vhodné.",
     "sourceFile": "ODIP-21-25_formy-praxe-ucebni-den.md",
     "bullets": [
-      "**1. Úvodní část (Organizace a Instruktáž)**: *Ranní nástup:* Kontrola přítomnosti, vhodnosti pracovního oděvu a stavu žáků (únava, nemoc, příznaky zneužití látek – klíčové pro bezpečnost!).",
-      "**2. Pracovní část (Hlavní gro dne  Fixace a Nácvik)**: Žáci pracují.",
-      "**3. Závěrečná část (Diagnostika a Úklid)**: 30 minut před koncem se ukončuje výroba.",
-      "**Odpověď**: Pokud žák uvidí složitou pohybovou operaci (např. hod oštěpem nebo soustružení plynulého oblouku) pouze rozsekanou a zpomalenou, nepochopí vnitřní \"rytmus a dynamiku\" daného pohybu. Výsledkem bude ...",
-      "**Odpověď**: Riziko \"levné pracovní síly\". Firmy často vezmou žáky ve 3. ročníku na praxi, ale místo aby je rotovaly po provozech a nechaly podnikového instruktora věnovat se jim, strčí žáka na měsíc k pásu neb..."
+      "**Metody praktického vyučování**: Specifické postupy, kterými si žáci osvojují manuální i intelektuální praktické dovednosti v oboru.",
+      "**Instruování**: Slovní a názorné předvedení práce učitelem (klíčová metoda před zahájením samostatné práce žáků).",
+      "**Cvičení**: Opakované vykonávání pracovní činnosti s cílem upevnit a automatizovat dovednost; dělí se na cvičení elementární, komplexní a produktivní.",
+      "**Práce na zakázkách (produktivní práce)**: Výuka spojená s reálnou výrobou pro zákazníky; zvyšuje motivaci a odpovědnost žáků za kvalitu.",
+      "**Simulační metody**: Využití trenažérů, virtuálních prostředí či modelových situací (např. simulátor zapojení sítě, cvičná stěna pro zedníky)."
     ]
   },
   {
@@ -809,11 +777,10 @@
     "title": "Základní články struktury všeobecného učebního dne (kombinovaného). Vyjmenujte, vysvětlete. Požadavky na učební den.",
     "sourceFile": "ODIP-21-25_formy-praxe-ucebni-den.md",
     "bullets": [
-      "**1. Úvodní část (Organizace a Instruktáž)**: *Ranní nástup:* Kontrola přítomnosti, vhodnosti pracovního oděvu a stavu žáků (únava, nemoc, příznaky zneužití látek – klíčové pro bezpečnost!).",
-      "**2. Pracovní část (Hlavní gro dne  Fixace a Nácvik)**: Žáci pracují.",
-      "**3. Závěrečná část (Diagnostika a Úklid)**: 30 minut před koncem se ukončuje výroba.",
-      "**Odpověď**: Pokud žák uvidí složitou pohybovou operaci (např. hod oštěpem nebo soustružení plynulého oblouku) pouze rozsekanou a zpomalenou, nepochopí vnitřní \"rytmus a dynamiku\" daného pohybu. Výsledkem bude ...",
-      "**Odpověď**: Riziko \"levné pracovní síly\". Firmy často vezmou žáky ve 3. ročníku na praxi, ale místo aby je rotovaly po provozech a nechaly podnikového instruktora věnovat se jim, strčí žáka na měsíc k pásu neb..."
+      "**Příprava mistra na učební den**: Plánování celého 6hodinového dne; zahrnuje přípravu materiální (materiál, nářadí) a didaktickou (plán instruktáže).",
+      "**Písemný plán učebního dne**: Obsahuje téma, cíle dne (co mají žáci vyrobit/naprogramovat), časový rozvrh, plán BOZP, kritéria hodnocení a rezervní úkoly.",
+      "**Kontrola BOZP před zahájením**: Fyzická kontrola strojů, ochranných krytů, funkčnosti nářadí, lékárničky a příprava osobních ochranných pomůcek pro žáky.",
+      "**Rezervní a doplňkové práce**: Úkoly nachystané pro žáky, kteří splní zadanou práci dříve než ostatní (např. složitější úloha, údržba techniky)."
     ]
   },
   {
@@ -824,11 +791,10 @@
     "title": "Metody prověřování praktických dovedností. Způsoby prověřování, kritéria klasifikace, vymezení klasifikačních stupňů u konkrétního tématu.",
     "sourceFile": "ODIP-26-30_hodnoceni-priprava-bozp.md",
     "bullets": [
-      "**Odbornost a přesnost**: Výrobek má správné rozměry (změřeno posuvkou/mikrometrem). Toleranci neokecáte.",
-      "**Dodržení pracovního postupu**: Dělal to žák chronologicky správně, nebo to \"spytlíkoval\" nakonec?",
-      "**Rychlost (Kvantita) a Samostatnost**: Nepotřebuje žák na utažení šroubu 3 hodiny? Pracoval sám bez dotazů?",
-      "**BOZP a hygiena**: Použil rukavice a brýle?",
-      "**Hospodárnost a úklid pracoviště**: Zničil při tom nástroj za dva tisíce? Zametl piliny?"
+      "**Hodnocení v praktickém vyučování**: Zjišťování a posuzování úrovně rozvoje praktických dovedností, samostatnosti, kvality práce a BOZP návyků.",
+      "**Diagnostické metody**: Pozorování žáka při práci, měření přesnosti a kvality výrobku, ústní zkoušení (obhajoba postupu) a rozbor chyb.",
+      "**Kritéria hodnocení**: Dodržování technologického postupu, přesnost a kvalita výrobku/kódu, časový limit, samostatnost a striktní dodržování BOZP.",
+      "**Specifika klasifikace**: Klasifikace probíhá průběžně (za každý učební den/výrobek) i souhrnně; velký význam má formativní hodnocení a slovní reflexe mistra."
     ]
   },
   {
@@ -839,11 +805,10 @@
     "title": "Metody zkoušení a hodnocení v praktickém vyučování. Formy zkoušení. Ukazatele hodnocení praktického vyučování a jejich důležitost.",
     "sourceFile": "ODIP-26-30_hodnoceni-priprava-bozp.md",
     "bullets": [
-      "**Odbornost a přesnost**: Výrobek má správné rozměry (změřeno posuvkou/mikrometrem). Toleranci neokecáte.",
-      "**Dodržení pracovního postupu**: Dělal to žák chronologicky správně, nebo to \"spytlíkoval\" nakonec?",
-      "**Rychlost (Kvantita) a Samostatnost**: Nepotřebuje žák na utažení šroubu 3 hodiny? Pracoval sám bez dotazů?",
-      "**BOZP a hygiena**: Použil rukavice a brýle?",
-      "**Hospodárnost a úklid pracoviště**: Zničil při tom nástroj za dva tisíce? Zametl piliny?"
+      "**Bezpečnost a ochrana zdraví při práci (BOZP)**: Souhrn opatření zaměřených na předcházení rizikům, ochranu zdraví a prevenci úrazů při výuce.",
+      "**Právní odpovědnost**: Škola a učitelé mají plnou právní odpovědnost za bezpečnost žáků během výuky (Školský zákon, Zákoník práce).",
+      "**Povinné školení BOZP**: Provádí se na začátku školního roku, před zahájením práce v dílnách, při přechodu na nový stroj a před každým novým úkolem; provádí se písemný záznam.",
+      "**Osobní ochranné pracovní prostředky (OOPP)**: Povinné používání předepsaného oděvu, obuvi, ochranných brýlí, rukavic či sluchátek žáky i učitelem."
     ]
   },
   {
@@ -854,11 +819,10 @@
     "title": "Materiální příprava na praktickou vyučovací jednotku. Význam, materiální a organizační zabezpečení na vaší SŠ.",
     "sourceFile": "ODIP-26-30_hodnoceni-priprava-bozp.md",
     "bullets": [
-      "**1. Materiální příprava**: Probíhá předchozí odpoledne po odchodu směny.",
-      "**2. Pedagogická příprava (Dokumenty)**: *Tematický plán:* Rozpis učiva na celý rok. Z něj vychází.",
-      "**1. Materiální příprava:** - Probíhá předchozí odpoledne po odchodu směny.",
-      "**2. Pedagogická příprava (Dokumenty):** - *Tematický plán:* Rozpis učiva na celý rok.",
-      "Zapisuje se tam absence, téma dne a hlavně **Záznam o proškolení BOZP** na daný den (pokud se stane úraz a není v deníku podpis, jde mistr k soudu)."
+      "**Školní úraz**: Úraz, který se stal žákovi při vyučování, praktickém vyučování nebo při akcích organizovaných školou.",
+      "**Povinnosti učitele při úrazu**: 1. Poskytnout první pomoc (záchrana života), 2. Zamezit dalšímu nebezpečí, 3. Oznámit úraz vedení školy a rodičům.",
+      "**Kniha úrazů**: Povinná evidence všech školních úrazů; zaznamenává se jméno žáka, datum, čas, popis děje, svědci a opatření.",
+      "**Záznam o úrazu**: Vyhotovuje se u vážnějších úrazů (s absencí ve škole delší než 3 dny) a zasílá se na ČŠI, zdravotní pojišťovnu a inspektorát práce."
     ]
   },
   {
@@ -869,11 +833,10 @@
     "title": "Příprava učitele na praktickou vyučovací jednotku. Pedagogické dokumenty, vyjmenujte a popište náležitosti.",
     "sourceFile": "ODIP-26-30_hodnoceni-priprava-bozp.md",
     "bullets": [
-      "**1. Materiální příprava**: Probíhá předchozí odpoledne po odchodu směny.",
-      "**2. Pedagogická příprava (Dokumenty)**: *Tematický plán:* Rozpis učiva na celý rok. Z něj vychází.",
-      "**1. Materiální příprava:** - Probíhá předchozí odpoledne po odchodu směny.",
-      "**2. Pedagogická příprava (Dokumenty):** - *Tematický plán:* Rozpis učiva na celý rok.",
-      "Zapisuje se tam absence, téma dne a hlavně **Záznam o proškolení BOZP** na daný den (pokud se stane úraz a není v deníku podpis, jde mistr k soudu)."
+      "**Komplexní úkoly v praktickém vyučování**: Úkoly, které vyžadují propojení a aplikaci více dílčích dovedností a teoretických znalostí (např. sestavení funkčního PC).",
+      "**Tvorba zadání**: Učitel navrhuje zadání tak, aby odpovídalo reálné praxi; zadání obsahuje technický výkres, specifikace, kritéria hodnocení a BOZP pokyny.",
+      "**Dozor a pomoc mistra**: Mistr průběžně sleduje práci, nezasahuje do ní předčasně, ale pomáhá při kritických zásecích a zajišťuje bezpečnost.",
+      "**Hodnocení komplexních prací**: Zahrnuje hodnocení funkčnosti finálního produktu, estetického vzhledu, čistoty provedení a dodržení časového limitu."
     ]
   },
   {
@@ -884,10 +847,10 @@
     "title": "Hospitační činnost v praktickém vyučování. Popište činnost na pracovišti OV a zaměřte se na možné rizikové situace.",
     "sourceFile": "ODIP-26-30_hodnoceni-priprava-bozp.md",
     "bullets": [
-      "**Specifická rizika a co hospitující sleduje**: *Pracovní oděvy:* Mají všichni žáci monterky, obuv s pevnou špičkou, dlouhé vlasy v gumičce? Žádné prstýnky nebo řetízky, které může chytit fréza!",
-      "**Odpověď**: Zde se projevuje nutnost záložní varianty v pedagogické i materiální přípravě. Mistr nemůže žáky poslat domů. Měl by mít připravený tzv. \"suchý program\" (náhradní činnost, která odpovídá cílům ŠVP,...",
-      "**Odpověď**: V takovém případě padá chyba na mistra. Mistr má povinnost zajistit odpovídající *materiální přípravu*. Pokud žák dostal špatný, nebezpečný nebo tupý nástroj a sám nemá oprávnění nebo schopnost (v ...",
-      "**Odpověď**: Běžně platí tvrdé pravidlo, že hospitující (např. ředitel) sedí vzadu jako \"neviditelný duch\" a nesmí do hodiny zasáhnout. **V odborném výcviku existuje jedna absolutní výjimka!** Pokud hospitující..."
+      "**Projektové dny**: Celodenní výukové bloky věnované řešení jednoho komplexního projektu; integrují teorii s praxí a rozvíjejí týmovou spolupráci.",
+      "**Odborné soutěže**: Zapojení žáků do soutěží v oboru (např. programování, SOČ, řemeslné soutěže); motivují k vynikajícím výkonům a budují prestiž školy.",
+      "**Kreativní a inovativní projekty**: Vývoj reálných aplikací, tvorba chytrých zařízení (IoT), které žáci prezentují před veřejností či firmami.",
+      "**Didaktický přínos**: Hluboká vnitřní motivace, rozvoj soft skills (prezentace, obhajoba, argumentace) a propojení školy s reálným světem práce."
     ]
   },
   {
@@ -898,11 +861,10 @@
     "title": "Charakterizujte předmět psychologie, její vývoj, disciplíny a metody. Vysvětlete význam psychologie v pedagogické praxi.",
     "sourceFile": "PSY-01-03_zaklady-vnimani-mysleni.md",
     "bullets": [
-      "**Behaviorismus**: J. B. Watson. Zkoumá pouze vnější chování (reakce na stimul: S-R model). Odmítá „černou skříňku“ vědomí.",
-      "**Psychoanalýza**: S. Freud. Zaměřuje se na nevědomí (potlačené pudy, id/ego/superego).",
-      "**Kognitivní a humanistická psychologie**: Zkoumá poznávací procesy a seberealizaci člověka (viz A. Maslow, C. Rogers v pedagogice).",
-      "**Co psychologie zkoumá?**: Psychologie zkoumá chování (vnější, viditelné projevy – např. pláč, mrkání, útěk) a prožívání (vnitřní děje – emoce, myšlenky).",
-      "**Stručný vývoj**: 1. *Předvědecká fáze:* Spojena s filozofií. Aristoteles (dílo *O duši*). Věřilo se, že nositelem psychiky je nesmrtelná duše."
+      "**Předmět a postavení psychologie**: Vědecká disciplína zkoumající lidskou psychiku — prožívání (vnitřní svět) a chování (vnější projevy). Vychází z filozofie a přírodních věd.",
+      "**Struktura psychologie**: Základní obory (obecná, vývojová, sociální psychologie), aplikované obory (pedagogická, klinická, pracovní psychologie) a speciální (psychopatologie).",
+      "**Metody psychologického výzkumu**: Pozorování (introspekce vs. extrospekce), experiment (laboratorní vs. přirozený), rozhovor, dotazníky, analýza produktů a sociometrie.",
+      "**Význam pro práci učitele**: Umožňuje porozumět chování žáků, diagnostikovat jejich vzdělávací a výchovné potřeby, zvládat konflikty a efektivně řídit proces učení."
     ]
   },
   {
@@ -913,10 +875,10 @@
     "title": "Zařaďte procesy vnímání a představování do struktury psychických jevů, popište je a objasněte jejich funkci ve výchovně-vzdělávacím procesu.",
     "sourceFile": "PSY-01-03_zaklady-vnimani-mysleni.md",
     "bullets": [
-      "**Aplikace v praxi**: Pokud má učitel tichý hlas bez intonace a splývá s tabulí, stává se z něj \"pozadí\". Aby žáci vnímali (\"figura\"), musí měnit hlas, psát barevně, ukazovat předměty (Zásada názornosti).",
-      "**Aplikace v praxi**: Fantazie u dětí na ZŠ je obrovská, ale na SŠ vlivem drilu upadá. Učitel by ji měl stimulovat (např. projektovou výukou: \"Navrhni design nového vozu bez ohledu na současná technologická omezení\").",
-      "**Vnímání (Percepce)**: Je to odraz reality. Funguje tady a teď.",
-      "**Představivost a fantazie**: Je to obraz něčeho, co momentálně na smysly nepůsobí."
+      "**Čití a počitek**: Čití je základní smyslový proces zachycování podnětů z okolí receptorovými buňkami. Počitek je nejjednodušší psychický odraz jedné vlastnosti podnětu.",
+      "**Vnímání a vjem**: Vnímání (percepce) je komplexnější proces organizace a interpretace smyslových dat do celistvého obrazu reality. Vjem je výsledný subjektivní obraz podnětu.",
+      "**Zákony vnímání (Gestalt)**: Vnímání funguje na principu celistvosti; uplatňují se zákony figury a pozadí, blízkosti, podobnosti, uzavřenosti a dobrého tvaru.",
+      "**Aplikace ve výuce**: Zásada názornosti — učitel musí materiály prezentovat přehledně, strukturovaně, s jasným odlišením figury (hlavní myšlenka) od pozadí, a brát v úvahu smyslovou únavu."
     ]
   },
   {
@@ -927,11 +889,11 @@
     "title": "Zařaďte proces myšlení do struktury psychických jevů, popište jeho formy, druhy, poruchy a vysvětlete jeho význam v procesu učení.",
     "sourceFile": "PSY-01-03_zaklady-vnimani-mysleni.md",
     "bullets": [
-      "**Analýza**: Rozklad celku na části (motor -> píst, válec, svíčka).",
-      "**Syntéza**: Složení částí do celku (složení motoru dohromady).",
-      "**Indukce**: Od konkrétního k obecnému (Vidím měď, že vede proud, železo vede proud -> Všechny kovy vedou proud).",
-      "**Dedukce**: Od obecného pravidla ke konkrétnímu (Všechny kovy vedou proud -> hliník je kov -> hliník vede proud).",
-      "**Myšlenkové operace (Jak mozek přemýšlí)**: **Analýza:** Rozklad celku na části (motor -> píst, válec, svíčka)."
+      "**Představy a představivost**: Představa je názorný obraz předmětu nebo děje, který v daném okamžiku nepůsobí na naše smysly. Vychází z minulé zkušenosti. Představivost (fantazie) je proces tvorby nových představ.",
+      "**Asociační zákony**: Pravidla, podle kterých se představy vybavují v paměti; primární zákony (dotyku v prostoru a čase, podobnosti a kontrastu).",
+      "**Myšlení**: Nejvyšší kognitivní proces zaměřený na odhalování skrytých vztahů a souvislostí mezi předměty a jevy reality. Je úzce propojeno s řečí.",
+      "**Myšlenkové operace**: Základní mentální postupy: analýza (rozbor), syntéza (spojení), srovnávání, zobecnění (generalizace), abstrakce a konkretizace.",
+      "**Formy myšlení**: Pojem (odraz podstatných vlastností), soud (vztah mezi pojmy) a úsudek (vyvození nového závěru ze soudů)."
     ]
   },
   {
@@ -942,11 +904,11 @@
     "title": "Popište význam a funkci paměti se zaměřením na důležitost jejích jednotlivých fází v procesu učení.",
     "sourceFile": "PSY-04-07_pamet-pozornost-emoce-vule.md",
     "bullets": [
-      "**Paměť**: Psychický proces uchovávání, zpracování a vybavování informací a zkušeností; je základem veškerého učení.",
-      "**Fáze paměti**: Vštěpování (kódování informací), uchovávání (konsolidace v čase) a vybavení (vyvolání nebo znovupoznání).",
-      "**Senzorická paměť**: Ultrakrátká paměť (zlomky sekund), která registruje smyslové podněty z okolí.",
-      "**Krátkodobá paměť**: Pracovní paměť s omezenou kapacitou (cca 7 ± 2 položky) a trváním (cca 20–30 sekund), slouží k aktuálnímu zpracování podnětů.",
-      "**Dlouhodobá paměť**: Paměť s neomezenou kapacitou a trváním; dělí se na deklarativní (sémantická a epizodická) a nedeklarativní (procedurální)."
+      "**Paměť**: Psychický proces kódování, uchovávání a vybavování informací a minulých zkušeností; tvoří základ veškerého učení.",
+      "**Fáze paměti**: Vštěpování (kódování informací), uchovávání (konsolidace v čase, proces zapomínání) a vybavení (vyvolání nebo znovupoznání).",
+      "**Typy paměti podle délky uchování**: Senzorická paměť (zlomky sekund), krátkodobá/pracovní paměť (kapacita 7 ± 2 položky, cca 20 sekund) a dlouhodobá paměť.",
+      "**Dlouhodobá paměť**: Dělí se na deklarativní (sémantická — fakta, epizodická — osobní prožitky) a nedeklarativní/procedurální (motorické dovednosti, návyky).",
+      "**Aplikace ve výuce**: Pro efektivní zapamatování je nutné propojovat nové učivo s již známým, opakovat látku v rostoucích časových intervalech a využívat mnemotechnické pomůcky."
     ]
   },
   {
@@ -957,10 +919,10 @@
     "title": "Vysvětlete pojem psychický stav, zařaďte jej do struktury psychických jevů, zaměřte se na objasnění stavu pozornosti, její druhy a možnosti navození a udržení pozornosti ve vyučování.",
     "sourceFile": "PSY-04-07_pamet-pozornost-emoce-vule.md",
     "bullets": [
-      "**Druhy pozornosti**: 1. **Neúmyslná (pasivní) pozornost:** Vzniká bez úsilí vůle. Vyvolá ji silný, nový nebo nečekaný podnět (výbuch, změna barvy na tabuli, cizí člověk ve třídě). Rychle vzniká, rychle mizí.",
-      "**Pozornost** je propustka do vědomí. **Druhy pozornosti:** 1.",
-      "**Neúmyslná (pasivní) pozornost:** Vzniká bez úsilí vůle. Vyvolá ji silný, nový nebo nečekaný podnět (výbuch, změna barvy na tabuli, cizí člověk ve třídě). Rychle vzniká, rychle mizí. 2. **Úmyslná (aktivní) pozornost:** Vyžaduje zapojení vůle (žák se musí donutit poslouchat nudný, ale důležitý výklad o normách ISO).",
-      "**Poúmyslná pozornost:** Nejcennější stav."
+      "**Pozornost**: Psychický stav projevující se výběrovým zaměřením a soustředěním vědomí na určitý objekt nebo činnost; filtruje přebytečné podněty.",
+      "**Druhy pozornosti**: Bezděčná pozornost (vyvolaná náhlou změnou, intenzitou podnětu; rychlá, únavná) a záměrná pozornost (řízená vůlí a cílem; vyžaduje úsilí).",
+      "**Vlastnosti pozornosti**: Selektivita (výběrovost), kapacita (rozsah), koncentrace (intenzita), distribuce (rozdělení mezi více činností) a stabilita (doba soustředění).",
+      "**Aplikace ve výuce**: Učitel musí střídat vyučovací metody (každých 15 minut), eliminovat rušivé podněty, aktivizovat žáky otázkami a brát v úvahu přirozené výkyvy pozornosti."
     ]
   },
   {
@@ -971,11 +933,10 @@
     "title": "Vysvětlete význam citových procesů v životě člověka, uveďte klasifikaci citů a možnosti jejich rozvoje ve výchovně-vzdělávacím procesu, objasněte pojem emoční inteligence.",
     "sourceFile": "PSY-04-07_pamet-pozornost-emoce-vule.md",
     "bullets": [
-      "**Citové procesy (Emoce)**: Psychické jevy hodnotící vztah člověka k okolnímu světu, k sobě samému a k vlastním činnostem; ovlivňují chování a motivaci.",
-      "**Klasifikace citů**: Dělí se podle délky a intenzity na afekty (bouřlivé, krátké), nálady (dlouhodobé, méně intenzivní) a vášně (silné, dlouhodobé).",
-      "**Emoční inteligence (EQ)**: Schopnost rozpoznat, porozumět a efektivně řídit vlastní emoce i emoce ostatních lidí.",
-      "**Složky EQ podle Golemana**: Sebeuvědomění, sebeovládání, motivace, empatie a sociální dovednosti.",
-      "**Role ve výuce**: Pozitivní emoce podporují pozornost a zapamatování, zatímco strach, stres a úzkost blokují kognitivní funkce mozku."
+      "**Emoce (city)**: Psychické jevy, které vyjadřují subjektivní vztah člověka k okolnímu světu, k sobě samému a k jeho vlastní činnosti; ovlivňují chování a motivaci.",
+      "**Klasifikace emocí**: Dělí se podle intenzity a délky trvání na afekty (bouřlivé, krátkodobé), nálady (dlouhodobé, méně intenzivní) a vášeň (silné, dlouhodobé zaměření).",
+      "**Emoční inteligence (EQ)**: Schopnost rozpoznat, porozumět a efektivně řídit vlastní emoce i emoce ostatních lidí (sebeuvědomění, sebeovládání, empatie).",
+      "**Vliv emocí na vyučovací proces**: Pozitivní emoce (bezpečí, radost z úspěchu) stimulují kognitivní funkce mozku; negativní emoce (strach ze zkoušení, stres) blokují paměť a učení."
     ]
   },
   {
@@ -986,11 +947,10 @@
     "title": "Zařaďte volní procesy do struktury psychických jevů, vysvětlete pojem vůle a její význam v životě člověka, popište možnosti rozvoje volních vlastností ve výchovně-vzdělávacím procesu.",
     "sourceFile": "PSY-04-07_pamet-pozornost-emoce-vule.md",
     "bullets": [
-      "**Fáze volního jednání**: 1. *Přípravná fáze:* Objeví se konflikt motivů (Chci jít ven s kamarády vs. Musím se učit na písemku). Dochází k rozhodnutí.",
-      "**Rozvoj vůle ve škole**: Vůle se nedá \"naučit z knihy\", vůle se **trénuje jako sval**.",
-      "**Odpověď**: Ne. Kognitivní kapacita pro plnou úmyslnou pozornost (soustředění bez vyrušení) je u dospělého člověka cca 20 minut, u středoškoláka ještě méně (zhruba 10-15 minut). Učitel proto musí dělat didakti...",
-      "**Odpověď**: Jde o učení, které probíhá mimo naši úmyslnou pozornost a vůli (paměťové stopy se ukládají mimoděk). Ve škole se to děje neustále. Žák se neučí jen to, co učitel píše na tabuli, ale \"pod prahem\" se...",
-      "**Odpověď**: Učitel s extrémně vysokým IQ často bleskově chápe abstraktní pojmy a nedokáže pochopit, \"jak to ten žák může nechápat\". Pokud takovému učiteli chybí EQ (empatie a seberegulace), rychle ztrácí s žák..."
+      "**Vůle**: Psychický proces zaměřený na vědomé a záměrné řízení vlastního chování, dosahování stanovených cílů a překonávání vnitřních i vnějších překážek.",
+      "**Volní jednání**: Proces, který zahrnuje motivaci (vznik potřeby), rozhodování (boj motivů), stanovení cíle, plánování a samotné provedení aktivity.",
+      "**Volní vlastnosti**: Cílevědomost, zásadovost, rozhodnost, vytrvalost, sebekázeň a samostatnost.",
+      "**Aplikace ve výuce**: Rozvoj volních vlastností žáků prostřednictvím dlouhodobějších projektů, stanovování realistických cílů a trvání na dokončování započaté práce."
     ]
   },
   {
@@ -1001,11 +961,11 @@
     "title": "Popište faktory utvářející osobnost a jejich vztah. Charakterizujte proces interiorizace a objasněte jeho význam.",
     "sourceFile": "PSY-08-10_osobnost-temperament-charakter.md",
     "bullets": [
-      "**Faktory vývoje osobnosti**: Dlouho se vedl spor, zda je důležitější genetika (Co je vrozené), nebo výchova (Co je naučené). Dnes platí interakční model: **Genetika určuje hranice (strop), ke kterým se člověk může dostat, ale ...",
-      "**Výkonové vlastnosti (Schopnosti, dovednosti, vědomosti):** - Škola je ovlivňuje *nejvíce*.",
-      "**Dynamické vlastnosti (Temperament):** - Škola je neovlivní (změnit je nelze).",
-      "**Regulační vlastnosti (Vůle, sebekontrola):** - Ovlivnitelné skrze nastavování hranic a povinností (viz PSY 7). 4. **Motivační vlastnosti a zaměření (Potřeby, zájmy, postoje, charakter):** - Škola je ovlivňuje, ale vyžaduje to osobní příklad a zážitek (interiorizaci).",
-      "**Faktory vývoje osobnosti:** Dlouho se vedl spor, zda je důležitější genetika (Co je vrozené), nebo výchova (Co je naučené). Dnes platí interakční model: **Genetika určuje hranice (strop), ke kterým se člověk může dostat, ale pouze prostředí a výchova určí, zda se tam člověk skutečně dostane."
+      "**Osobnost a její struktura**: Dynamický, integrovaný celek psychických vlastností, procesů a stavů, který určuje individualitu člověka. Dělí se na vlastnosti temperamentové, charakterové, schopnostní a motivační.",
+      "**Temperament**: Vrozená dynamická složka osobnosti určující tempo, intenzitu a průběh prožívání a chování jedince (rychlost reakcí).",
+      "**Typologie temperamentu (Antická/Hippokratés)**: Sangvinik (stabilní extrovert; společenský), cholerik (labilní extrovert; vznětlivý), melancholik (labilní introvert; zranitelný), flegmatik (stabilní introvert; klidný).",
+      "**Typologie temperamentu (Jung/Eysenck)**: Dimenze extroverze (zaměření ven) vs. introverze (zaměření dovnitř) a stability vs. lability (neuroticismus).",
+      "**Aplikace ve výuce**: Učitel musí respektovat temperament žáků (např. nespěchat na melancholika s okamžitou odpovědí, usměrňovat energii cholerika)."
     ]
   },
   {
@@ -1016,11 +976,10 @@
     "title": "Pojednejte o složkách struktury osobnosti žáka SŠ a možnostech jejich ovlivňování ve výuce. Výhody a nevýhody typů temperamentu.",
     "sourceFile": "PSY-08-10_osobnost-temperament-charakter.md",
     "bullets": [
-      "**Faktory vývoje osobnosti**: Dlouho se vedl spor, zda je důležitější genetika (Co je vrozené), nebo výchova (Co je naučené). Dnes platí interakční model: **Genetika určuje hranice (strop), ke kterým se člověk může dostat, ale ...",
-      "**Výkonové vlastnosti (Schopnosti, dovednosti, vědomosti):** - Škola je ovlivňuje *nejvíce*.",
-      "**Dynamické vlastnosti (Temperament):** - Škola je neovlivní (změnit je nelze).",
-      "**Regulační vlastnosti (Vůle, sebekontrola):** - Ovlivnitelné skrze nastavování hranic a povinností (viz PSY 7). 4. **Motivační vlastnosti a zaměření (Potřeby, zájmy, postoje, charakter):** - Škola je ovlivňuje, ale vyžaduje to osobní příklad a zážitek (interiorizaci).",
-      "**Faktory vývoje osobnosti:** Dlouho se vedl spor, zda je důležitější genetika (Co je vrozené), nebo výchova (Co je naučené). Dnes platí interakční model: **Genetika určuje hranice (strop), ke kterým se člověk může dostat, ale pouze prostředí a výchova určí, zda se tam člověk skutečně dostane."
+      "**Charakter**: Získaná, morální složka osobnosti vyjadřující vztah jedince k sobě, k lidem, k práci a k hodnotám; formuje se pod vlivem výchovy.",
+      "**Struktura charakteru**: Vztah k lidem (altruismus vs. egoismus), vztah k práci (odpovědnost, lenost), vztah k sobě (sebekritičnost, nadřazenost) a vztah k hodnotám.",
+      "**Svědomí**: Vnitřní morální regulátor chování, který hodnotí vlastní jednání v souladu se zvnitřněnými normami a hodnotami.",
+      "**Formování charakteru ve škole**: Děje se prostřednictvím osobního příkladu učitele, třídních pravidel, spravedlivého hodnocení a diskusí o etických tématech."
     ]
   },
   {
@@ -1031,11 +990,11 @@
     "title": "Objasněte pojem charakter, zařaďte ho do systému psychických jevů. Uveďte charakterovou typologii. Rozvoj morálních vlastností žáků SŠ.",
     "sourceFile": "PSY-08-10_osobnost-temperament-charakter.md",
     "bullets": [
-      "**Produktivní typ**: Zralý charakter. Pracuje pro radost z tvoření a přispívá společnosti.",
-      "**Rozvoj morálních vlastností (Interiorizace)**: Morální vlastnosti (Charakter) nelze naučit přednáškou (žák neodchází z přednášky o poctivosti jako poctivý člověk).",
-      "**Odpověď**: Ne. Temperament je vázán na biologickou strukturu nervové soustavy (procesy vzruchu a útlumu v mozku). Z čistého melancholika nikdy neuděláte showmana sangvinika. Co se ale změnit dá, je chování (p...",
-      "**Odpověď**: Znamená to, že se s ním těžce pracuje z hlediska dynamiky, ale morálně je spolehlivý. Například to může být silný Cholerik: Rychle vybuchne, když se mu ztupí vrták, křičí a je nepříjemný (temperame...",
-      "**Odpověď**: Je to klasický průsečík (interakční model). U inteligence studie (např. na oddělených jednovaječných dvojčatech) ukazují, že dědičnost hraje zhruba 50–70% roli (určuje strop kapacity). Pokud ale ge..."
+      "**Schopnosti**: Osobnostní předpoklady pro úspěšné vykonávání určité činnosti, které se formují na biologickém základě.",
+      "**Vlohy (nadání)**: Vrozené anatomicko-fyziologické dispozice (např. struktura mozku, smyslových orgánů), které jsou předpokladem pro rozvoj schopností.",
+      "**Stupně rozvoje schopností**: Nadání (souhrn vloh pro určitou oblast), talent (nadprůměrně rozvinuté schopnosti s tvořivým výsledkem) a genialita (mimořádné, historicky významné výsledky).",
+      "**Klasifikace schopností**: Dělí se na obecné (např. inteligence) a speciální (hudební, matematické, manuální, prostorové).",
+      "**Aplikace ve výuce**: Učitel musí diagnostikovat vlohy žáků a rozvíjet je diferencovaným přístupem (např. zadáváním složitějších výzev talentovaným)."
     ]
   },
   {
@@ -1046,11 +1005,11 @@
     "title": "Vysvětlete psychologický základ motivace, vnitřní a vnější motivy, jejich vzájemné souvislosti a využití ve výchovně-vzdělávacím procesu.",
     "sourceFile": "PSY-11-12_motivace-socialni-psychologie.md",
     "bullets": [
-      "**Motivace**: Dynamický psychický proces, který aktivuje, směruje a udržuje lidské chování k dosažení určitého cíle.",
-      "**Vnitřní motivace**: Chování vycházející z vlastního zájmu, zvídavosti a radosti z činnosti samé (nejstabilnější forma učení).",
-      "**Vnější motivace**: Chování řízené vnějšími podněty — odměnami, tresty, pochvalami, známkami nebo tlakem okolí.",
-      "**Potřeby**: Základní zdroje motivace; dělí se na biologické (fyziologické) a sociální (poznávací, výkonové, sociálního kontaktu).",
-      "**Maslowova pyramida**: Hierarchie potřeb od fyziologických, bezpečí, sounáležitosti a uznání až po nejvyšší potřebu sebeaktualizace."
+      "**Motivace**: Dynamický psychický proces, který aktivuje, směruje a udržuje lidské chování k dosažení určitých cílů; dělí se na vnitřní a vnější.",
+      "**Vnitřní motivace**: Chování vycházející z vlastního zájmu, zvídavosti a radosti z činnosti samé; je nejstabilnějším zdrojem efektivního učení.",
+      "**Vnější motivace**: Chování řízené vnějšími podněty — známkami, odměnami, pochvalami, tresty nebo tlakem okolí.",
+      "**Potřeby**: Základní zdroje motivace; dělí se na biologické (fyziologické) a sociální (poznávací, sociálního kontaktu, uznání).",
+      "**Maslowova pyramida potřeb**: Hierarchie potřeb od nejnižších (fyziologické, bezpečí) přes sociální (sounáležitost, uznání) až k nejvyšší potřebě sebeaktualizace."
     ]
   },
   {
@@ -1061,11 +1020,10 @@
     "title": "Popište význam sociální psychologie v systému psychologických věd, vysvětlete pojmy interakce a vztahy, uveďte jejich vzájemné souvislosti.",
     "sourceFile": "PSY-11-12_motivace-socialni-psychologie.md",
     "bullets": [
-      "**Interakce (Akce a Reakce)**: Je to dynamický proces, který se odehrává teď a tady.",
-      "**Sociální vztahy**: Vznikají dlouhodobým opakováním interakcí. Pokud je každá interakce mezi mistrem a žákem konfliktní, vytvoří se napjatý, toxický vztah.",
-      "**Význam pro školu**: Učitel není jen odborník na \"obsah\" (řezání kovů), je manažer sociálních interakcí. Pokud nezvládne řídit interakce ve třídě (dovolí posměšky), rozbijí se vztahy (klima), a v důsledku toho klesne m...",
-      "**Odpověď**: Pětka funguje jako vnější *negativní* motivátor (hrozba trestu). Může mít krátkodobý účinek (žák se ze strachu na příští hodinu nabifluje vzoreček). Psychologicky ale napáchá více škody než užitku....",
-      "**Odpověď**: Z hlediska sociální psychologie je vztah učitel-žák z podstaty věci *asymetrický* (učitel dává známky a rozhoduje o budoucnosti žáka). Skutečné přátelství (symetrický vztah) vyžaduje rovnocennost o..."
+      "**Sociální psychologie**: Vědní obor zkoumající, jak se chování, prožívání a myšlení jedince mění a formuje pod vlivem přítomnosti jiných lidí.",
+      "**Sociální interakce**: Proces vzájemného působení, chování a komunikace mezi dvěma nebo více lidmi (např. interakce učitel ↔ žák).",
+      "**Sociální percepce**: Vnímání a interpretace chování a vlastností druhých lidí; je zatížena chybami (haló-efekt, stereotypy, projekce).",
+      "**Didaktický význam**: Pochopení chování žáků v sociálním kontextu, eliminace percepčních chyb při klasifikaci a budování zdravého klimatu."
     ]
   },
   {
@@ -1076,10 +1034,10 @@
     "title": "Vysvětlete pojem sociální skupina, její charakteristiky, třídění, charakterizujte školní třídu jako sociální skupinu, vysvětlete možnosti pedagoga při poznávání a formování třídní skupiny.",
     "sourceFile": "PSY-13-14_socialni-skupina-komunikace.md",
     "bullets": [
-      "**Charakteristiky sociální skupiny**: 1. Společný cíl (ve třídě to je dostudovat).",
-      "**Třídění skupin**: *Podle velikosti:* Malé (do cca 30 lidí - všichni se znají jménem, např. třída) / Velké (škola, národ).",
-      "**Školní třída jako sociální skupina**: Je to paradoxní skupina. Vznikne **formálně** (rozhodnutím ředitele), ale okamžitě se v ní začnou tvořit **neformální** vztahy a kliky.",
-      "**Možnosti pedagoga (Formování a Poznáváni)**: *Poznávání:* Učitel musí vědět, jaké je v třídě podhoubí. Používá pozorování a **Sociometrii** (Sociometrický dotazník: \"Napiš 3 lidi, se kterými bys chtěl jet na vodu\"). Výsledkem je *sociogram* –..."
+      "**Sociální skupina**: Seskupení dvou nebo více lidí, mezi nimiž existují vzájemné vztahy, společný cíl, normy a struktura rolí (např. rodina, školní třída).",
+      "**Struktura a pozice ve skupině**: Formální (učitel, předseda třídy) a neformální role (vůdce, oblíbený, řadový člen, outsider, izolovaný).",
+      "**Skupinová dynamika**: Proces vývoje vztahů, koheze (soudržnosti), napětí, konfliktů, norem a rituálů uvnitř sociální skupiny.",
+      "**Vliv skupiny na jedince**: Sociální usnadnění (facilitace — podpora výkonu) vs. sociální zahálení (flákání ve skupině) a konformita (přizpůsobení se většině)."
     ]
   },
   {
@@ -1090,11 +1048,10 @@
     "title": "Uveďte hlavní zásady komunikace učitel-žák během výchovně-vzdělávacího procesu, popište význam jednotlivých složek komunikačního procesu, naznačte možné bariéry v komunikaci a možnosti jejich odstranění.",
     "sourceFile": "PSY-13-14_socialni-skupina-komunikace.md",
     "bullets": [
-      "**Složky komunikačního procesu**: 1. **Verbální (Slova):** Obsah toho, co říkáme. Kupodivu tvoří jen cca 10 % dopadu na posluchače!",
-      "**Bariéry v komunikaci a jejich odstranění**: *Fyzické bariéry:* Hluk traktoru venku, velká vzdálenost v tělocvičně. (Odstranění: Změna polohy, zavření oken).",
-      "**Hlavní zásady komunikace pro učitele**: *Aktivní naslouchání:* Pokud žák mluví, učitel nepřerušuje, nedělá u toho jinou práci (např. nekouká do mobilu).",
-      "**Odpověď**: Sarkasmus je formou dvojné vazby. Učitel řekne \"Teda ty jsi génius\" žákovi, který právě řekl strašnou hloupost. Žák, který nemá dostatečně zralé abstraktní myšlení a EQ, zpracovává slova, ale cítí ...",
-      "**Odpověď**: Haló efekt je obrovská a velmi častá chyba ve vnímání. Znamená to, že se učitel nechá oslnit jedním výrazným rysem žáka a podle něj posuzuje i vše ostatní. Příklad: Žák má skvělé, čisté a nažehlené..."
+      "**Komunikace**: Proces přenosu a sdílení informací, myšlenek, postojů a emocí mezi lidmi prostřednictvím společného systému znaků.",
+      "**Verbální komunikace**: Komunikace slovem (mluveným či psaným); klíčová pro předávání didaktického obsahu.",
+      "**Neverbální komunikace**: Komunikace beze slov — mimika (výraz obličeje), gestika, oční kontakt, haptika (dotek), proxemika (vzdálenost v prostoru) a paralingvistika.",
+      "**Komunikační šumy**: Překážky v komunikaci (únava, nesoustředěnost, předsudky, nesrozumitelný jazyk), které učitel musí aktivně eliminovat."
     ]
   },
   {
@@ -1105,11 +1062,11 @@
     "title": "Charakterizujte druhy náročných situací, význam v životě člověka, popište metody zvládání. Objasněte stres a zaměřte se na možnosti minimalizace stresorů ve vyučování.",
     "sourceFile": "PSY-15-16_narocne-situace-role.md",
     "bullets": [
-      "**Náročné životní situace**: Situace kladoucí zvýšené nároky na psychiku jedince; dělí se na frustraci, deprivaci, konflikt a stres.",
-      "**Frustrace**: Stav vznikající při překročení překážky na cestě k cíli (např. neúspěch u zkoušky i přes přípravu).",
-      "**Deprivace**: Dlouhodobé neuspokojování základních biologických nebo psychických potřeb (např. nedostatek bezpečí, spánku či lásky).",
-      "**Konflikt**: Střet dvou nebo více protichůdných sil, motivů či cílů (intrapersonální vs. interpersonální).",
-      "**Stres a coping**: Stav organismu vystaveného nepříznivým vlivům (stresorům); zvládání stresu probíhá pomocí copingových strategií (aktivní řešení vs. únik)."
+      "**Náročné životní situace**: Situace kladoucí zvýšené nároky na psychickou odolnost jedince; dělí se na frustraci, deprivaci, konflikt a stres.",
+      "**Frustrace**: Stav vznikající při zablokování cesty k dosažení cíle překážkou (např. neúspěch u zkoušky i přes intenzivní přípravu).",
+      "**Deprivace**: Dlouhodobé neuspokojování základních biologických nebo psychických potřeb (nedostatek spánku, citová deprivace).",
+      "**Stres a stresory**: Stav organismu vystaveného nadměrné zátěži (stresorům); dělí se na eustres (aktivující) a distres (destruktivní).",
+      "**Copingové strategie**: Způsoby zvládání stresu: aktivní řešení problému, hledání sociální podpory, relaxace nebo neadaptivní únikové strategie."
     ]
   },
   {
@@ -1120,11 +1077,10 @@
     "title": "Vysvětlete pojmy sociální status, sociální pozice, sociální role, individuální systém rolí. Popište role učitele a žáka ve výchovně-vzdělávacím procesu.",
     "sourceFile": "PSY-15-16_narocne-situace-role.md",
     "bullets": [
-      "**Individuální systém rolí (Konflikt rolí)**: Každý člověk má spoustu rolí. Žák je zároveň: *Synem* doma, *studentem* ve škole, *členem fotbalového týmu* odpoledne, a *kolemjdoucím* na ulici.",
-      "**Role Učitele ve vzdělávacím procesu**: Učitel hraje mnoho dílčích rolí najednou a musí mezi nimi plynule přepínat:",
-      "**Role Žáka**: Očekává se od něj spolupráce, plnění zadaných úkolů a podřízení se autoritě. Na střední škole se ale žák snaží získat roli *dospělého*, což naráží na omezující požadavky školy (vzniká tzv. revolta ...",
-      "**Odpověď**: Nedá a nebylo by to dobře. Škola musí žáka připravit na reálný život (a ten je plný stresu). Pokud by škola odstranila všechny nároky a žili bychom v inkubátoru (stoprocentní absence stresu), mluví...",
-      "**Odpověď**: Jde o neformální sociální roli uvnitř skupiny. Často do ní spadnou žáci, kteří nemohou vyniknout ve výkonových rolích (mají např. dyslexii a zhoršený prospěch). Aby si ve třídě zajistili nějaký soc..."
+      "**Didaktický konflikt**: Střet protichůdných zájmů, názorů, hodnot nebo potřeb mezi účastníky vyučovacího procesu (učitel ↔ žák, žák ↔ žák).",
+      "**Příčiny konfliktů**: Nespravedlivé hodnocení, nerespektující komunikace, vyrušování, osobní antipatie, nejasně nastavená pravidla.",
+      "**Strategie řešení konfliktů (Thomas-Kilmann)**: Kompromis, integrace (spolupráce), přizpůsobení se, soupeření (autoritativní tlak) a vyhýbání se.",
+      "**Role učitele při řešení**: Učitel by měl jednat konstruktivně, aktivně naslouchat oběma stranám, nepoužívat ironii, oddělit problém od osoby a směřovat k win-win řešení."
     ]
   },
   {
@@ -1135,10 +1091,10 @@
     "title": "Popište rodinu jako primární sociální skupinu a její význam pro socializaci jedince, charakterizujte základní funkce rodiny.",
     "sourceFile": "PSY-17-18_rodina-dysfunkcni-rodina.md",
     "bullets": [
-      "**Základní funkce rodiny**: 1. **Biologicko-reprodukční:** Zachování lidského rodu a uspokojení základních fyziologických potřeb (jídlo, teplo, spánek).",
-      "**Základní funkce rodiny:** 1. **Biologicko-reprodukční:** Zachování lidského rodu a uspokojení základních fyziologických potřeb (jídlo, teplo, spánek).",
-      "**Ekonomická (materiální):** Rodina jako hospodářská jednotka. Zajištění peněz, bydlení, ošacení a financování vzdělání dětí. 3. **Emocionální:** Klíčová funkce pro psychologii!",
-      "**Výchovná a Socializační:** Předávání vzorců chování."
+      "**Rodina**: Základní primární společenská skupina, která plní klíčové funkce v socializaci a vývoji jedince.",
+      "**Funkce rodiny**: Biologicko-reprodukční, ekonomická, socializačně-výchovná a emocionální (poskytování bezpečí a lásky).",
+      "**Výchovné styly v rodině**: Autoritativní (přísné tresty, zákaz autonomie), demokratický/respektující (pravidla + vřelost, rozvoj samostatnosti), liberální (bez hranic) a zanedbávající.",
+      "**Dysfunkční rodina**: Rodina, která dlouhodobě neplní své základní funkce (např. z důvodu závislostí, rozvodu, násilí) a ohrožuje psychický vývoj dítěte."
     ]
   },
   {
@@ -1149,11 +1105,10 @@
     "title": "Charakterizujte dysfunkční rodinu, uveďte některé typy dysfunkčních rodin a popište, jak se dysfunkce projeví na rozvoji dítěte, charakterizujte přístupy učitele k žákům z dysfunkčních rodin.",
     "sourceFile": "PSY-17-18_rodina-dysfunkcni-rodina.md",
     "bullets": [
-      "**Nepedagogizovat sociální problém**: Pokud žák spí na lavici, protože rodiče doma do 3 ráno pili, učitel to nevyřeší tím, že žákovi dá pětku z aktivity nebo poznámku.",
-      "**Konzultace s odborníky**: Učitel musí okamžitě informovat školního metodika prevence nebo výchovného poradce (a případně kontaktovat OSPOD).",
-      "**Vytvoření bezpečného přístavu**: Škola musí pro žáka zůstat místem, kde platí jasná, spravedlivá a neměnná pravidla (to mu dává pocit jistoty, který doma nemá). Učitel dává žákovi najevo osobní zájem (\"Jsem tu, když budeš potřebov...",
-      "**Typy rodin podle funkčnosti**: *Funkční:* Plní vše, zvládá krize.",
-      "**Příklady dysfunkčního prostředí a dopad na žáka**: 1. **Zanedbávající rodina (Citová deprivace):** Rodiče (často workoholici nebo alkoholici) nemají na dítě čas."
+      "**Spolupráce školy a rodiny**: Klíčový předpoklad pro úspěšné vzdělávání a výchovu žáka; vyžaduje partnerský a respektující přístup.",
+      "**Tradiční formy spolupráce**: Třídní schůzky, konzultační hodiny, školská rada, společné akce školy a rodičů.",
+      "**Bariéry v komunikaci**: Rodičovské obavy, nedůvěra k učitelům, autoritativní přístup školy, nedostatek času, neochota řešit problémy žáka.",
+      "**Strategie zlepšení**: Transparentní a včasná komunikace (e-žákovská, email), diskrétní řešení problémů mezi čtyřma očima a podpora poradenských služeb."
     ]
   },
   {
@@ -1164,10 +1119,10 @@
     "title": "Předmět pedagogické psychologie, pojmy: vývoj, výchova, učení, vyučování. Trendy: od osobnosti k týmu, od znalostí ke kompetencím.",
     "sourceFile": "PSY-19-22_pedagogicka-psychologie-uceni.md",
     "bullets": [
-      "**Základní pojmy v souvislostech**: Aby proběhl zdravý *vývoj* žáka, musí probíhat *výchova* a zprostředkovaně přes školu *vyučování*. A aby mělo vyučování smysl, musí dojít k procesu *učení* (to dělá žák sám, nikdo se za něj nenaučí).",
-      "**Moderní trendy ve vzdělávání (Přesun paradigmatu)**: *Od znalostí ke KOMPETENCÍM:* V minulosti byla škola instituce na předávání informací (encyklopedismus). Dnes máte všechny znalosti světa v kapse na smartphonu. Proto se cení *kompetence* = schopno...",
-      "psychologie a Trendy **Základní pojmy v souvislostech:** Aby proběhl zdravý *vývoj* žáka, musí probíhat *výchova* a zprostředkovaně přes školu *vyučování*.",
-      "**Moderní trendy ve vzdělávání (Přesun paradigmatu):** - *Od znalostí ke KOMPETENCÍM:* V minulosti byla škola instituce na předávání informací (encyklopedismus)."
+      "**Pedagogická psychologie**: Aplikovaný psychologický obor zkoumající psychické zákonitosti v edukačních situacích, rozvoj žáka a efektivitu učení.",
+      "**Učení z psychologického hlediska**: Celoživotní proces získávání nových zkušeností, vědomostí, dovedností a změn chování na základě interakce s prostředím.",
+      "**Teorie učení v praxi**: Zahrnuje asociační teorii (upevňování spojů), behaviorální teorii (zpevňování odměnou) a kognitivní teorii (pochopení struktury problému).",
+      "**Faktory ovlivňující učení**: Vnitřní (inteligence, motivace, únava, aktuální stav) a vnější (metody učitele, klima třídy, rodinné zázemí)."
     ]
   },
   {
@@ -1178,10 +1133,10 @@
     "title": "Druhy učení se zaměřením na učení senzomotorické. Změny v jeho průběhu a co je jeho výsledkem.",
     "sourceFile": "PSY-19-22_pedagogicka-psychologie-uceni.md",
     "bullets": [
-      "**1. Senzomotorické učení (Práce rukama  Odborný výcvik)**: Propojení analyzátorů (zrak, sluch) se svaly. Učíme se psát na klávesnici, jezdit na kole, svařovat.",
-      "**2. Učení se poznatkům (Verbokognitivní)**: Biflování. Učení se vzorečků, slovíček, dějepisu.",
-      "**3. Učení se řešení problémů**: Nejvyšší forma učení. Učitel nedá žákovi hotovou odpověď (\"Tady je vzorec\"), ale zadá mu problém (\"Jak spočítáme tlak v této trubce?\"). Žák musí hledat cestu sám (heuristická metoda).",
-      "**Učení ve spirále (Bruner)**: Informace neprobíráme jen jednou \"a dost\" (linárně). K základnímu tématu se vracíme v dalších ročnících, ale na stále hlubší a složitější úrovni. (V 1. třídě učíme \"Sluníčko svítí\", ve fyzice na SŠ..."
+      "**Styly učení**: Individuální, stabilní způsoby, jakými jedinec přijímá, zpracovává, ukládá a vyvolává informace z paměti.",
+      "**Senzorické styly učení (VARK)**: Vizuální (zrakový — grafy, texty), auditivní (sluchový — výklad, diskuse), čtení/psaní a kinestetický (pohybový/praktický — prožitek, manipulace).",
+      "**Metakoherence (Metakognice)**: Schopnost žáka sledovat a řídit vlastní proces učení (vědět, jaký styl mi vyhovuje, jak si rozvrhnout čas).",
+      "**Aplikace ve výuce**: Učitel by měl vyučovací materiály prezentovat multimodálně (kombinovat mluvené slovo, vizuální prezentaci a praktické úkoly) k uspokojení všech stylů."
     ]
   },
   {
@@ -1192,10 +1147,10 @@
     "title": "Srovnejte učení se poznatkům s učením se řešení problému. Které psychické jevy se na nich podílejí, pojem učení ve spirále.",
     "sourceFile": "PSY-19-22_pedagogicka-psychologie-uceni.md",
     "bullets": [
-      "**1. Senzomotorické učení (Práce rukama  Odborný výcvik)**: Propojení analyzátorů (zrak, sluch) se svaly. Učíme se psát na klávesnici, jezdit na kole, svařovat.",
-      "**2. Učení se poznatkům (Verbokognitivní)**: Biflování. Učení se vzorečků, slovíček, dějepisu.",
-      "**3. Učení se řešení problémů**: Nejvyšší forma učení. Učitel nedá žákovi hotovou odpověď (\"Tady je vzorec\"), ale zadá mu problém (\"Jak spočítáme tlak v této trubce?\"). Žák musí hledat cestu sám (heuristická metoda).",
-      "**Učení ve spirále (Bruner)**: Informace neprobíráme jen jednou \"a dost\" (linárně). K základnímu tématu se vracíme v dalších ročnících, ale na stále hlubší a složitější úrovni. (V 1. třídě učíme \"Sluníčko svítí\", ve fyzice na SŠ..."
+      "**Psychohygiena**: Obor zkoumající pravidla a metody zaměřené na udržení, rozvoj a obnovu duševního zdraví a prevenci psychických onemocnění.",
+      "**Psychohygiena učitele**: Klíčová pro prevenci syndromu vyhoření (burnout); zahrnuje management času, relaxační techniky, sport a koníčky.",
+      "**Syndrom vyhoření (burnout)**: Stav psychického, emocionálního a fyzického vyčerpání způsobený chronickým stresem při práci s lidmi; projevuje se apatií a cynismem.",
+      "**Psychohygiena žáka**: Zajištění rovnováhy mezi učením a odpočinkem, dostatek spánku, eliminace strachu ze zkoušení a podpora bezpečného klima ve třídě."
     ]
   },
   {
@@ -1206,11 +1161,10 @@
     "title": "Proces výchovy, prostředky a metody. Obrácená socializace. Techniky modifikace chování.",
     "sourceFile": "PSY-19-22_pedagogicka-psychologie-uceni.md",
     "bullets": [
-      "**Výchovné prostředky a metody**: 1. *Metoda přesvědčování:* Racionální argumentace (Proč bys neměl brát drogy).",
-      "**Obrácená (Prefigurativní) socializace**: Klasicky starší generace učila mladší. Dnes, díky exponenciálnímu technologickému boomu, žijeme ve světě, kde **děti učí rodiče**. Žák SŠ musí učit svého padesátiletého mistra, jak pracovat s novým...",
-      "**Techniky modifikace chování**: Vychází z behaviorismu (Skinnerovo operantní podmiňování). Cílem je změnit problémové chování žáka pomocí vnějších stimulů (Nečekáme, až to žák pochopí, prostě to změníme).",
-      "**Odpověď**: Nedá. Video zajistí *učení se poznatkům* (vím teoreticky v jakém pořadí se věci dělají). Senzomotorické učení však vyžaduje vytvoření reálných nových synaptických spojení v mozku, která ovládají je...",
-      "**Odpověď**: Behavioristé zjistili, že Trest pouze říká žákovi: \"Tohle nedělej.\" (Neukazuje ale správnou cestu). Trest vyvolává strach a často vede k tomu, že se žák nežádoucímu chování nevyhne, pouze se ho nau..."
+      "**Duševní hygiena při studiu**: Pravidla pro efektivní studium bez nadměrného stresu a únavy (správné osvětlení, střídání aktivity a odpočinku).",
+      "**Pauzy při učení (Pomodoro)**: Metoda rozdělení času (např. 25 minut soustředěné práce, 5 minut pauza), která udržuje vysokou kapacitu pozornosti.",
+      "**Křivka zapomínání (Ebbinghaus)**: Zapomínání je nejrychlejší v prvních hodinách po učení; prevencí je první zopakování látky do 24 hodin.",
+      "**Prokrastinace**: Chorobné odkládání důležitých úkolů na později; překonává se rozdělením úkolu na malé kroky a odstraněním rozptylovadel."
     ]
   },
   {
@@ -1221,11 +1175,10 @@
     "title": "Učitel v roli poradce, základní kvality a přístup k žákovi, možné chyby, kterých by se měl vyvarovat.",
     "sourceFile": "PSY-23-25_ucitel-poradce-sikana.md",
     "bullets": [
-      "**Moralizování**: Žák se svěří s problémem (např. krádež v afektu) a učitel ho hned začne kázat: *\"Jak jsi to mohl udělat, vždyť ty jsi tak chytrý kluk!\"* Žák se okamžitě uzavře.",
-      "**Bagatelizace**: Žák je na dně, protože se rozešel s první láskou. Učitel to shodí: *\"Prosím tě, takových ještě bude, soustřeď se na písemku z matiky.\"* Pro žáka to je v danou chvíli konec světa.",
-      "**Dávání \"zaručených\" rad**: Učitel řekne: *\"Udělej to takhle a bude to dobré.\"* Pokud to nevyjde, žák svalí vinu na učitele. Poradce má žáka *navést*, aby si na řešení přišel sám.",
-      "**Základní kvality (Dle C. R. Rogerse)**: 1. *Empatie:* Schopnost vcítit se do pocitů žáka (vidět svět jeho očima).",
-      "**Časté chyby učitele – Čemu se vyvarovat**: **Moralizování:** Žák se svěří s problémem (např. krádež v afektu) a učitel ho hned začne kázat: *\"Jak jsi to mohl udělat, vždyť ty jsi tak chytrý kluk!\"* Žák se okamžitě uzavře."
+      "**Poradenské služby ve škole**: Bezplatné psychologické a speciálněpedagogické služby poskytované žákům, jejich rodičům a učitelům.",
+      "**Školní poradenské pracoviště (ŠPP)**: Výchovný poradce (řeší studijní neúspěchy, kariéru), kariérový poradce, metodik prevence (šikana, návykové látky) a školní psycholog.",
+      "**Externí poradenská zařízení**: Pedagogicko-psychologická poradna (PPP — diagnostika SVP, zralosti) a Speciálně pedagogické centrum (SPC — těžší postižení).",
+      "**Hlavní činnosti**: Diagnostika, intervence v krizových situacích, metodická podpora učitelů a kariérové poradenství pro žáky."
     ]
   },
   {
@@ -1236,10 +1189,10 @@
     "title": "Pojem metoda výuky, z jakých činností se skládá. Souvislost mezi poznávacími procesy a motivací. Aktivizující metoda a příklady jejího využití.",
     "sourceFile": "PSY-23-25_ucitel-poradce-sikana.md",
     "bullets": [
-      "**Základní metody vs. Aktivizující**: *Tradiční metody:* Monolog (přednáška), Vysvětlování. Žák je pasivní (poslouchá a píše). Vede k rychlé ztrátě *úmyslné pozornosti* a útlumu *poznávacích procesů*.",
-      "**Základní metody vs. Aktivizující:** - *Tradiční metody:* Monolog (přednáška), Vysvětlování.",
-      "**Heuristická metoda (Objevování):** Učitel nedá výsledek, ale zadá sérii nápověd, přes které žák k výsledku dojde sám. (Např. E-U-R model). 2. **Situační metoda (Případová studie):** Třída řeší reálný problém z praxe (Kazuistika).",
-      "**Didaktická hra:** Učení hrou (Simulace)."
+      "**Sociální patologie**: Souhrn společensky nežádoucích jevů, které porušují morální, právní a sociální normy (šikana, kriminalita, drogy, záškoláctví).",
+      "**Primární prevence**: Opatření zaměřená na předcházení vzniku patologických jevů u všech žáků (např. besedy, budování zdravých vztahů).",
+      "**Sekundární prevence**: Vyhledávání a včasná pomoc rizikovým skupinám žáků (např. práce s problémovou třídou, krizová intervence).",
+      "**Terciární prevence**: Opatření zaměřená na zamezení opakování patologického chování u jedinců (např. resocializace, léčba závislostí)."
     ]
   },
   {
@@ -1250,11 +1203,10 @@
     "title": "Poruchy socializace (lhaní, krádeže, záškoláctví), příčiny a náprava. Agresivní poruchy chování, šikana (průběh, stádia, druhy, prevence).",
     "sourceFile": "PSY-23-25_ucitel-poradce-sikana.md",
     "bullets": [
-      "**Nிகdy nekonfrontujte agresora a oběť tváří v tvář ve sborovně!**: Oběť ze strachu z pomsty řekne: \"Byla to jen legrace, nic se mi nestalo.\" Agresor se pak oběti po škole krutě pomstí za \"žalování\".",
-      "**Základní poruchy**: *Záškoláctví:* Často útěk před stresem (šikana, strach z testu) nebo vliv party. Náprava nespočívá v trestání (to strach zvýší), ale v odhalení příčiny.",
-      "**Šikana (Nejnebezpečnější nemoc školy)**: Není to běžná rvačka dvou rovnocenných kluků! Je to cílené, opakované ničení slabšího, ze kterého má agresor potěšení.",
-      "**Pět stádií šikany (Michal Kolář)**: 1. *Zrod ostrakismu:* Objeví se neoblíbený žák (odlišnost). Třída si z něj občas udělá lehkou legraci. Pokud učitel nezakročí, posouvá se to dál.",
-      "**Zlaté pravidlo řešení šikany (Pro učitele)**: **Nிகdy nekonfrontujte agresora a oběť tváří v tvář ve sborovně!** Oběť ze strachu z pomsty řekne: \"Byla to jen legrace, nic se mi nestalo.\" Agresor se pak oběti po škole krutě pomstí za \"žalování\"."
+      "**Šikana**: Záměrné, opakované a bezprávné ubližování slabšímu jedinci ze strany agresora nebo skupiny s cílem získat převahu.",
+      "**Kyberšikana**: Specifická forma šikany realizovaná prostřednictvím digitálních technologií (sociální sítě, chaty); je nebezpečná svou nepřetržitostí a publikem.",
+      "**Stádia šikany (Kolář)**: 1. Ostrakismus (vytěsňování), 2. Fyzická agrese a přitvrzování, 3. Vytvoření jádra agresorů, 4. Přijetí norem většinou, 5. Totalita.",
+      "**Intervence při šikaně**: Okamžité zajištění bezpečnosti oběti, oddělené rozhovory se svědky, usvědčení agresorů, informování rodičů a přizvání odborníků (PPP, Policie)."
     ]
   },
   {
@@ -1265,11 +1217,11 @@
     "title": "Prenatální, novorozenecké a kojenecké období (Piaget, Freud, Erikson). Klíčová témata psychického vývoje. Teorie citové vazby (attachment).",
     "sourceFile": "PSY-26-30_vyvojova-psychologie.md",
     "bullets": [
-      "**Prenatální období**: Vývoj plodu v děloze (početí až porod); klíčové je biologické zrání a vliv vnějšího prostředí (teratogeny, psychický stav matky).",
-      "**Novorozenec (do 1 měsíce)**: Období adaptace na mimoděložní život; přítomnost vrozených reflexů (sací, uchopovací) a základních smyslů.",
-      "**Kojenec (do 1 roku)**: Období bouřlivého tělesného a motorického vývoje (pasení koníčků, sed, lezení, první krůčky).",
-      "**Attachment (citová vazba)**: Klíčový koncept Bowlbyho a Ainsworthové; vytvoření bezpečné vazby k pečující osobě v 1. roce je základem budoucí psychické stability.",
-      "**Důvěra vs. nedůvěra**: První stadium podle Eriksona; úspěšné zvládnutí kojeneckého věku vede k vybudování základní důvěry ve svět."
+      "**Vývojová psychologie**: Vědní obor zkoumající psychické změny a zákonitosti vývoje lidské psychiky od početí (prenatální období) až po smrt.",
+      "**Faktory vývoje**: Zrání (biologický růst a nervová soustava; určuje připravenost) a učení (vlivy prostředí a vlastní aktivity jedince).",
+      "**Prenatální vývoj**: Období od početí po porod; klíčové pro biologické základy osobnosti; riziko teratogenů (alkohol, drogy, stres matky).",
+      "**Období novorozence (do 1 měsíce)**: Období adaptace na vnější svět; přítomnost vrozených nepodmíněných reflexů (sací, uchopovací, orientační).",
+      "**Attachment (Bowlby)**: Vytvoření bezpečné citové vazby k mateřské osobě v prvním roce života; je klíčovým předpokladem budoucí emoční a sociální stability."
     ]
   },
   {
@@ -1280,11 +1232,11 @@
     "title": "Batolecí a předškolní období. Klíčová témata tělesného a sociálního vývoje, vývoj řeči a dětské hry.",
     "sourceFile": "PSY-26-30_vyvojova-psychologie.md",
     "bullets": [
-      "**Batole (1–3 roky)**: Období rozvoje chůze, řeči, sebeuvědomění (\"Já sám\") a první fáze vzdoru. Erikson: Autonomie vs. stud.",
-      "**Předškolák (3–6 let)**: Vývoj dětské hry (od paralelní ke kooperativní), rozvoj fantazie a magického myšlení. Erikson: Iniciativa vs. vina.",
-      "**Vývoj řeči**: Rychlé zvětšování slovní zásoby, artikulace a schopnosti vyprávět příběhy; důležitá je komunikace v rodině.",
-      "**Dětská hra**: Hlavní činnost dítěte v tomto věku; rozvíjí sociální role, jemnou i hrubou motoriku a kognitivní funkce.",
-      "**Kognitivní vývoj**: Stadium předoperačního myšlení podle Piageta — egocentrismus (pohled pouze ze své perspektivy) a animismus (oživování věcí)."
+      "**Kojenec (do 1 roku)**: Bouřlivý tělesný a motorický vývoj (lezení, sed, první slova). Erikson: Fáze Důvěra vs. Nedůvěra.",
+      "**Batole (1–3 roky)**: Rozvoj chůze, řeči, sebeuvědomění (\"Já sám\") a první fáze vzdoru. Erikson: Autonomie vs. Stud.",
+      "**Předškolní věk (3–6 let)**: Vývoj dětské hry (od paralelní k sociální), rozvoj fantazie a magického myšlení. Erikson: Iniciativa vs. Vina.",
+      "**Dětská hra**: Hlavní činnost dítěte v předškolním věku; rozvíjí motoriku, kognici, emoce a sociální role.",
+      "**Kognitivní vývoj (Piaget)**: Stadium předoperačního myšlení — egocentrismus (vnímání světa jen ze své perspektivy) a animismus (oživování věcí)."
     ]
   },
   {
@@ -1295,10 +1247,10 @@
     "title": "Mladší a střední školní věk. Problematika školní zralosti a připravenosti.",
     "sourceFile": "PSY-26-30_vyvojova-psychologie.md",
     "bullets": [
-      "**Školní zralost (Kolem 6. roku)**: Dítě prochází tzv. *První strukturální proměnou* (prodlouží se nohy, ruka dosáhne přes hlavu na opačné ucho – tzv. Filipínská míra).",
-      "**Psychický vývoj**: *Erikson:* Snaživost vs. Méněcennost. Žák chce získat uznání učitele a rodičů. Pokud ho za špatné známky jen bijí, získá pocit absolutní méněcennosti.",
-      "- **Školní zralost (Kolem 6. roku):** - Dítě prochází tzv.",
-      "- **Psychický vývoj:** - *Erikson:* Snaživost vs."
+      "**Mladší školní věk (6–11 let)**: Vstup do školy, socializace, rozvoj logického myšlení a zájem o výkon. Erikson: Snaživost vs. Méněcennost.",
+      "**Kognitivní vývoj (Piaget)**: Stadium konkrétních logických operací — schopnost logicky uvažovat o konkrétních předmětech a dějích.",
+      "**Školní zralost a připravenost**: Biologická (tělesná), kognitivní (řeč, pozornost) a sociálně-emoční způsobilost dítěte úspěšně zahájit školní docházku.",
+      "**Odklad školní docházky**: Uděluje ředitel školy na základě doporučení PPP a odborného lékaře (nejčastěji z důvodu nezralosti pozornosti či řeči)."
     ]
   },
   {
@@ -1309,11 +1261,11 @@
     "title": "Dospívání (pubescence a adolescence) podle vývojových teorií. Sociální a tělesný vývoj.",
     "sourceFile": "PSY-26-30_vyvojova-psychologie.md",
     "bullets": [
-      "**Pubescence (cca 11–15 let)**: Období biologického a sexuálního dospívání, hormonálních změn, emoční lability a odpoutávání se od autority rodičů.",
-      "**Adolescence (cca 15–20 let)**: Sociální dospívání, hledání vlastní identity, ujasňování hodnot, profesní orientace a navazování partnerských vztahů.",
-      "**Eriksonova krize**: Stadium \"Identita vs. zmatení rolí\" — hlavní úkol dospívajícího je najít odpověď na otázku \"Kdo jsem?\".",
-      "**Kognitivní rozvoj**: Přechod do stadia formálních operací podle Piageta — schopnost abstraktního, hypotetického a vědeckého myšlení.",
-      "**Vrstevnická skupina**: Stává se hlavním zdrojem podpory a potvrzení vlastní hodnoty, často přebírá vliv nad rodinným prostředím."
+      "**Dospívání**: Období tranzice mezi dětstvím a dospělostí; dělí se na pubescenci (11–15 let) a adolescenci (15–20 let).",
+      "**Pubescence**: Biologické a sexuální dozrávání (sekundární pohlavní znaky), hormonální změny, emoční labilita a odpoutávání se od rodiny.",
+      "**Adolescence**: Sociální dospívání, hledání vlastní identity, formování hodnot, partnerské vztahy a profesní orientace.",
+      "**Kognitivní vývoj (Piaget)**: Stadium formálních logických operací — schopnost abstraktního, hypotetického, vědeckého a kritického myšlení.",
+      "**Eriksonova krize**: Stadium \"Identita vs. Zmatení rolí\" — hlavní vývojový úkol adolescenta je najít odpověď na otázku \"Kdo jsem?\"."
     ]
   },
   {
@@ -1324,11 +1276,10 @@
     "title": "Stádia dospělosti a stáří. Profesní role, krize středního věku, kvalita života (Erikson, postformální myšlení, stadia přijetí smrtelnosti dle Kübler-Rossové).",
     "sourceFile": "PSY-26-30_vyvojova-psychologie.md",
     "bullets": [
-      "**Mladá dospělost (20–30 let)**: *Erikson:* Intimita vs. Izolace. Hledání trvalého partnera.",
-      "**Střední dospělost (30–45 let)**: Budování kariéry, rodiny. Kolem 40. roku přichází **Krize středního věku** (Bilancování: Jsem tam, kde jsem chtěl být? Často doprovázeno rozvody nebo změnou profese). *Kohlberg:* Postkonvenční morá...",
-      "**Pozdní dospělost a Stáří (65+ let)**: Úbytek tělesných a mentálních sil.",
-      "**Fáze umírání (E. KüblerRossová)**: Když člověk zjistí blížící se smrt, projde 5 fázemi: 1. Popírání (\"To není pravda\"), 2. Hněv (\"Proč zrovna já?!\"), 3. Smlouvání (\"Bože, když se vyléčím, budu pomáhat.\"), 4. Deprese, 5. **Smíření** ...",
-      "**Odpověď**: Vzniká obrovský psychologický deficit. Dítě si vytvoří tzv. úzkostný nebo vyhýbavý attachment. Následky si nese do celého života: jako adolescent nebude věřit učitelům, bude mít problém navázat trv..."
+      "**Mladá dospělost (20–40 let)**: Období zakládání rodiny, budování kariéry, samostatnosti. Erikson: Intimita vs. Izolace.",
+      "**Střední dospělost (40–65 let)**: Vrchol kariéry, péče o dospívající děti a stárnoucí rodiče (sendvičová generace). Erikson: Generativita (předávání hodnot) vs. Stagnace.",
+      "**Starší dospělost a stáří (nad 65 let)**: Odchod do důchodu, adaptace na stárnutí, bilancování života. Erikson: Integrita já (smíření se s životem) vs. Zoufalství.",
+      "**Kognitivní změny ve stáří**: Pokles fluidní inteligence (rychlost zpracování), ale zachování nebo růst krystalické inteligence (slovní zásoba, životní moudrost)."
     ]
   }
 ]
