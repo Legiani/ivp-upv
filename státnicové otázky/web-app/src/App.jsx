@@ -82,13 +82,36 @@ function Layout({ manifest }) {
           </Link>
         </nav>
 
-        <nav className="nav-section" style={{ marginTop: 'auto' }}>
-          <div className="nav-label">Materiály</div>
-          <Link to="/tisk" className={`nav-link ${location.pathname === '/tisk' ? 'active' : ''}`} onClick={() => setMobileMenuOpen(false)}>
-            <Download size={20} />
-            Tiskové verze
-          </Link>
-        </nav>
+        <div style={{ marginTop: 'auto' }} className="hide-on-print">
+          <nav className="nav-section" style={{ borderBottom: '1px solid var(--border-color)', paddingBottom: '16px' }}>
+            <div className="nav-label">Materiály</div>
+            <Link to="/tisk" className={`nav-link ${location.pathname === '/tisk' ? 'active' : ''}`} onClick={() => setMobileMenuOpen(false)}>
+              <Download size={20} />
+              Tiskové verze
+            </Link>
+          </nav>
+          <div style={{ 
+            padding: '12px 20px', 
+            fontSize: '0.75rem', 
+            color: 'var(--text-muted)', 
+            display: 'flex', 
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            opacity: 0.7 
+          }}>
+            <span>© 2026 IVP</span>
+            <a 
+              href="https://github.com/Legiani/ivp-upv/raw/main/st%C3%A1tnicov%C3%A9%20ot%C3%A1zky/CZU_IVP_prezentace_sablona_vzor_final.pptx" 
+              download
+              style={{ color: 'var(--text-muted)', textDecoration: 'none', transition: 'color 0.2s' }}
+              onMouseEnter={(e) => e.target.style.color = 'var(--accent-primary)'}
+              onMouseLeave={(e) => e.target.style.color = 'var(--text-muted)'}
+              title="Stáhnout prezentaci k obhajobě (PPTX)"
+            >
+              Prezentace 🎓
+            </a>
+          </div>
+        </div>
       </aside>
 
       <main className="main-content">
